@@ -1,5 +1,5 @@
-# 3Amigos Python GitHub Template
-A GitHub Template Repository Generated via cookiecutter from https://github.com/3amigos-dev/cookiecutter-3amigos-py it can be used via the GitHub template but using the cookiecutter repository is more complicated but provides a better outcome, see that repository for more details.
+# Unanimous - A pyspelling extension for CI
+Extension to make running pyspelling in CI easy. Maintains a default configuration so it can be run out of the box. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..
 
 # Additional Documentation:
 * [News](NEWS.rst).
