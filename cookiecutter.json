@@ -1,0 +1,21 @@
+{
+    "project_name":  "module_goes_here",
+    "project_long_name":  "3Amigos Python GitHub Template",
+    "project_description": "{{ cookiecutter.project_long_name}}",
+    "project_long_description": "A GitHub Template Repository Generated via cookiecutter from https://github.com/3amigos-dev/cookiecutter-3amigos-py it can be used via the GitHub template but using the cookiecutter repository is more complicated but provides a better outcome, see that repository for more details.",
+    "project_slug":  "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+    "github_org": "github_organization_goes_here",
+    "github_repo": "github_repository_goes_here",
+    "project_url": "https://github.com/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
+    "py_modulename":  "{{ cookiecutter.project_slug }}",
+    "community_name":  "{{ cookiecutter.project_name }}",
+    "dictionary": "en_AU",
+    "docker_application_tagname": "app",
+    "docker_workspace_dirname": "workspace",
+    "docker_application_dirname": "{{ cookiecutter.docker_application_tagname }}",
+    "author_email": "email_goes_here",
+    "author_name": "name_goes_here",
+    "maintainer_name": "{{ cookiecutter.author_name }}",
+    "maintainer_email": "{{ cookiecutter.author_email }}",
+    "project_email": "{{ cookiecutter.maintainer_email }}"
+}
