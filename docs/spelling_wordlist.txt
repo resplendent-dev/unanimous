@@ -11,6 +11,7 @@ nosec
 parallelization
 py
 pylint
+PyPi
 pyspelling
 pytest
 README
