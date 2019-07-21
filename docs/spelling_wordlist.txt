@@ -11,6 +11,7 @@ nosec
 parallelization
 py
 pylint
+PyPi
 pyspelling
 pytest
 README
@@ -20,4 +21,4 @@ sexualized
 socio
 towncrier
 xdist
-module_goes_here
+unanimous
