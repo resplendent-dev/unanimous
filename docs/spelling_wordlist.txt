@@ -17,6 +17,7 @@ README
 reStructuredText
 setuptools
 sexualized
+shellcheck
 socio
 towncrier
 xdist
