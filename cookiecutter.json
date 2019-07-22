@@ -1,8 +1,8 @@
 {
     "project_name":  "unanimous",
-    "project_long_name":  "Unanimous - A pyspelling extension for CI",
-    "project_description": "Extension to make running pyspelling in CI easy.",
-    "project_long_description": "Extension to make running pyspelling in CI easy. Maintains a default configuration so it can be run out of the box. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..",
+    "project_long_name":  "Unanimous - A pyspelling plugin for common non-words",
+    "project_description": "Extension to make running pyspelling in CI easier. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..",
+    "project_long_description": "{{ cookiecutter.project_description }}",
     "project_slug":  "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
     "github_org": "resplendent-dev",
     "github_repo": "unanimous",
