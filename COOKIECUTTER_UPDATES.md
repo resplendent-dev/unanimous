@@ -22,3 +22,4 @@ consider application of new updates.
 * Use (pytest-xdist)[https://github.com/pytest-dev/pytest-xdist] for test parallelization.
 * Use (pytest-azurepipelines)[https://github.com/tonybaloney/pytest-azurepipelines] to publish tests results and coverage to Azure Pipelines Artifacts.
 * Use (resplendent)[https://github.com/resplendent-dev/resplendent] to spell check reStructuredText in pyspelling.
+* Use (shellcheck)[https://github.com/koalaman/shellcheck] for shell script static analysis.

@@ -9,6 +9,7 @@ cd "${BASEDIR}"
 apt-get update
 apt-get install -qq -y aspell aspell-en
 apt-get install -qq -y hunspell hunspell-en-au
+apt-get install -qq -y shellcheck
 apt-get install -qq -y git
 
 for PYVER in ${PYTHONVERS} ; do

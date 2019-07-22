@@ -11,7 +11,6 @@ nosec
 parallelization
 py
 pylint
-PyPi
 pyspelling
 pytest
 README
@@ -22,3 +21,4 @@ socio
 towncrier
 xdist
 unanimous
+PyPi
