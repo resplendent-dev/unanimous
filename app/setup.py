@@ -69,18 +69,18 @@ setup(
     ),
     long_description=load_readme('README.md'),
     long_description_content_type='text/markdown',
-    python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*',
+    python_requires='>=3.4',
     install_requires=[
         elem for elem in
-        ''.split('\n')
+        'pyspelling'.split('\n')
         if elem
     ],
     url='https://github.com/resplendent-dev/unanimous',
-    classifiers=[
+    classifiers=[elem for elem in [
         'Development Status :: 4 - Beta',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
+        '',
+        '',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
@@ -90,5 +90,5 @@ setup(
         'Programming Language :: Python :: Implementation :: PyPy',
         'Operating System :: OS Independent',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
-    ],
+    ] if elem],
 )
