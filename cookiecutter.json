@@ -19,6 +19,7 @@
     "pypi_name": "{{ cookiecutter.project_name }}",
     "readthedocs_name": "{{ cookiecutter.project_name }}",
     "app_requirements": "",
+    "cov_fail_under": "100",
     "author_email": "tim.gates@iress.com",
     "author_name": "Tim Gates",
     "maintainer_name": "{{ cookiecutter.author_name }}",

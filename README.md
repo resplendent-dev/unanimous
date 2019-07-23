@@ -8,6 +8,7 @@ Extension to make running pyspelling in CI easier. Maintains a common word excep
 [![Documentation Status](https://readthedocs.org/projects/unanimous/badge/?version=latest)](https://unanimous.readthedocs.io/en/latest/?badge=latest)
 
 # Additional Documentation:
+* [Online Documentation](https://unanimous.readthedocs.io/en/latest/)
 * [News](NEWS.rst).
 * [Template Updates](COOKIECUTTER_UPDATES.md).
 * [Code of Conduct](CODE_OF_CONDUCT.md).
