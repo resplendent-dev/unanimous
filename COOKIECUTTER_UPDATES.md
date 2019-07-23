@@ -25,3 +25,6 @@ consider application of new updates.
 * Use (sphinx)[https://github.com/sphinx-doc/sphinx] for documentation generation.
 * Use (twine)[https://github.com/pypa/twine] for publishing to PyPi.
 * Badges for (PyPi)[https://pypi.org/], (ReadTheDocs)[https://readthedocs.org/] and (Azure Pipelines)[https://azure.microsoft.com/en-au/services/devops/pipelines/].
+
+# Minor Updates
+* Configurable code coverage minimum.

@@ -11,7 +11,10 @@ def main():
     """
     Test
     """
-    print('Done.')
+    print("""\
+For more information view the online documentation at:
+https://unanimous.readthedocs.io/en/latest/
+""")
 
 
 if __name__ == '__main__':
