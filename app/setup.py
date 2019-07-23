@@ -70,7 +70,11 @@ setup(
     long_description=load_readme('README.md'),
     long_description_content_type='text/markdown',
     python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*',
-    install_requires=[],
+    install_requires=[
+        elem for elem in
+        ''.split('\n')
+        if elem
+    ],
     url='https://github.com/resplendent-dev/unanimous',
     classifiers=[
         'Development Status :: 4 - Beta',

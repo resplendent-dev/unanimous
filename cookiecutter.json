@@ -1,5 +1,6 @@
 {
     "project_name":  "unanimous",
+    "python_versions": "2.7 3.4 3.5 3.6 3.7",
     "project_long_name":  "Unanimous - A pyspelling plugin for common non-words",
     "project_description": "Extension to make running pyspelling in CI easier. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..",
     "project_long_description": "{{ cookiecutter.project_description }}",
@@ -17,6 +18,7 @@
     "build_url": "https://dev.azure.com/timgates/timgates/_build/latest?definitionId=16&branchName=master",
     "pypi_name": "{{ cookiecutter.project_name }}",
     "readthedocs_name": "{{ cookiecutter.project_name }}",
+    "app_requirements": "",
     "author_email": "tim.gates@iress.com",
     "author_name": "Tim Gates",
     "maintainer_name": "{{ cookiecutter.author_name }}",
