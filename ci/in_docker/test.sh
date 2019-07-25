@@ -23,7 +23,7 @@ for PYVER in ${PYTHONVERS} ; do
   find "${MODULES[@]}" -iname \*.py -print0 | xargs -0 -n 1 "${BASEDIR}/ci/in_docker/pylint.sh" "python${PYVER}"
   "python${PYVER}" -m pytest -n auto --cov-config=.coveragerc --cov-fail-under=100 "--cov=${MAIN_MODULE}" --cov-report=xml:test-cov.xml --cov-report=html
   if [ ! -z "${TRAVIS_JOB_ID:-}" ] ; then
-    python -m coveralls
+    "python${PYVER}" -m coveralls
   fi
 done
 # validate doco

@@ -29,3 +29,5 @@ consider application of new updates.
 * Badge for (Azure Pipelines)[https://azure.microsoft.com/en-au/services/devops/pipelines/]
 * Badge for (Coveralls)[https://coveralls.io/]
 
+# Minor Updates
+* Installation details on README.md
