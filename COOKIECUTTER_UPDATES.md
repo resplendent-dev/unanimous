@@ -24,7 +24,8 @@ consider application of new updates.
 * Use (shellcheck)[https://github.com/koalaman/shellcheck] for shell script static analysis.
 * Use (sphinx)[https://github.com/sphinx-doc/sphinx] for documentation generation.
 * Use (twine)[https://github.com/pypa/twine] for publishing to PyPi.
-* Badges for (PyPi)[https://pypi.org/], (ReadTheDocs)[https://readthedocs.org/] and (Azure Pipelines)[https://azure.microsoft.com/en-au/services/devops/pipelines/].
+* Badge for (PyPi)[https://pypi.org/]
+* Badge for (ReadTheDocs)[https://readthedocs.org/]
+* Badge for (Azure Pipelines)[https://azure.microsoft.com/en-au/services/devops/pipelines/]
+* Badge for (Coveralls)[https://coveralls.io/]
 
-# Minor Updates
-* Configurable code coverage minimum.
