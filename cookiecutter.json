@@ -9,6 +9,7 @@
     "project_url": "https://github.com/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
     "py_modulename":  "{{ cookiecutter.project_slug }}",
     "community_name":  "{{ cookiecutter.project_name }}",
+    "dictionary": "en_AU",
     "docker_application_tagname": "app",
     "docker_workspace_dirname": "workspace",
     "docker_application_dirname": "{{ cookiecutter.docker_application_tagname }}",
@@ -26,11 +27,18 @@
     "readthedocs_name": "{{ cookiecutter.project_name }}",
     "app_requirements": "pyspelling",
     "cov_fail_under": "100",
-    "dictionary": "en_AU",
-    "python_requires": ">=3.4",
-    "python_versions": "3.4 3.5 3.6 3.7",
-    "classifier_pytwo": "",
-    "classifier_pytwoseven": "",
     "travis_status_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}.svg?branch=master",
-    "travis_build_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}"
+    "travis_build_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
+    "appveyor_status_url": "https://ci.appveyor.com/api/projects/status/github/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}/branch/master?svg=true",
+    "appveyor_build_url": "https://ci.appveyor.com/project/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
+    "installation_notes": "Note: if using Python 3.4 the latest version of lxml only supports python 3.5 and above so install lxml 4.3.4",
+    "extended_readme": "",
+    "supports_pytwo": [
+        "no",
+        "yes"
+    ],
+    "license": [
+        "GPLv3+",
+        "MIT"
+    ]
 }
