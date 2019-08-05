@@ -27,8 +27,20 @@
     "app_requirements": "pyspelling",
     "cov_fail_under": "100",
     "dictionary": "en_AU",
-    "python_requires": ">=3.4",
-    "python_versions": "3.4 3.5 3.6 3.7",
-    "classifier_pytwo": "",
-    "classifier_pytwoseven": ""
+    "travis_status_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}.svg?branch=master",
+    "travis_build_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
+    "appveyor_org": "timgates42",
+    "appveyor_repo": "{{ cookiecutter.github_repo }}",
+    "appveyor_status_url": "https://ci.appveyor.com/api/projects/status/y5vhp2fmcirqatyg/branch/master?svg=true",
+    "appveyor_build_url": "https://ci.appveyor.com/project/{{ cookiecutter.appveyor_org }}/{{ cookiecutter.appveyor_repo }}",
+    "installation_notes": "Note: if using Python 3.4 the latest version of lxml only supports python 3.5 and above so install lxml 4.3.4",
+    "extended_readme": "",
+    "supports_pytwo": [
+        "no",
+        "yes"
+    ],
+    "license": [
+        "GPLv3+",
+        "MIT"
+    ]
 }
