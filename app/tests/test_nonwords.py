@@ -30,6 +30,8 @@ class TestNonWordFilter(util.PluginTestCase):
                 d: en_AU
               pipeline:
               - unanimous.filters.nonwords:
+                  too_short: 3
+              - unanimous.filters.nonwords:
                   too_short: 2
             """
         ).format(temp=self.tempdir)

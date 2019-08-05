@@ -50,7 +50,7 @@ class NonWordFilter(filters.Filter):
 
         return [filters.SourceText(
             self._filter(source.text), source.context, source.encoding,
-            'restructuredtext'
+            'text'
         )]
 
 
