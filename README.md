@@ -2,7 +2,7 @@
 
 [![Azure Status](https://dev.azure.com/timgates/timgates/_apis/build/status/resplendent-dev.unanimous?branchName=master)](https://dev.azure.com/timgates/timgates/_build/latest?definitionId=16&branchName=master)
 [![Travis Status](https://travis-ci.org/resplendent-dev/unanimous.svg?branch=master)](https://travis-ci.org/resplendent-dev/unanimous)
-[![Appveyor Status](https://ci.appveyor.com/api/projects/status/github/resplendent-dev/unanimous/branch/master?svg=true)](https://ci.appveyor.com/project/resplendent-dev/unanimous)
+[![Appveyor Status](https://ci.appveyor.com/api/projects/status/y5vhp2fmcirqatyg/branch/master?svg=true)](https://ci.appveyor.com/project/timgates42/unanimous)
 [![PyPI version](https://img.shields.io/pypi/v/unanimous.svg)](https://pypi.org/project/unanimous)
 [![Python Versions](https://img.shields.io/pypi/pyversions/unanimous.svg)](https://pypi.org/project/unanimous)
 [![PyPI downloads per month](https://img.shields.io/pypi/dm/unanimous.svg)](https://pypi.org/project/unanimous)
@@ -10,6 +10,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/resplendent-dev/unanimous/badge.svg)](https://coveralls.io/github/resplendent-dev/unanimous/)
 
 Extension to make running pyspelling in CI easier. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..
+
+More details can be found in the
+[Online Documentation.](https://unanimous.readthedocs.io/en/latest/)
 
 # Installation
 
@@ -47,6 +50,9 @@ contributions receive appropriate recognition.
 
 # License
 
+
+Distributed under the terms of the [GPLv3](https://opensource.org/licenses/GPL-3.0)
+license, "unanimous" is free and open source software
 
 
 # Issues

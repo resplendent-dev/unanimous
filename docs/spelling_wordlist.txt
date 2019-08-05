@@ -39,6 +39,7 @@ DOCTYPE
 docutils
 exename
 genindex
+GPLv
 hh
 hostname
 href
