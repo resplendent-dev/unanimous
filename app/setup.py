@@ -69,7 +69,7 @@ setup(
     ),
     long_description=load_readme('README.md'),
     long_description_content_type='text/markdown',
-    python_requires='>=3.4',
+    python_requires=">=3.4",
     install_requires=[
         elem for elem in
         'pyspelling'.split('\n')
@@ -79,8 +79,6 @@ setup(
     classifiers=[elem for elem in [
         'Development Status :: 4 - Beta',
         'Programming Language :: Python',
-        '',
-        '',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
