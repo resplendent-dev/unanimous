@@ -15,6 +15,7 @@ class NonWordFilter(filters.Filter):
     def get_default_config():
         """Get default configuration."""
         return {
+            'too_short': 3,
         }
 
     def filter(self, source_file, encoding):  # noqa A001
@@ -26,13 +27,20 @@ class NonWordFilter(filters.Filter):
             self._filter(text), source_file, encoding, 'text'
         )]
 
-    @staticmethod
-    def _filter(text):
+    def _is_nonword(self, word):
+        """
+        Check if a word matches the non-word filter of being either too short
+        or a known non-word.
+        """
+        too_short_config = self.config['too_short']
+        return len(word) <= too_short_config
+
+    def _filter(self, text):
         """Filter text"""
         words = re.findall("[\\w']+", text)
         result = []
         for word in words:
-            if len(word) < 3:
+            if self._is_nonword(word):
                 continue
             result.append(word)
         return '\n'.join(result)
