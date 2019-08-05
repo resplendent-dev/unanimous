@@ -27,7 +27,7 @@ class TestNonWordFilter(util.PluginTestCase):
               aspell:
                 lang: en
               hunspell:
-                d: en_US
+                d: en_AU
               pipeline:
               - unanimous.filters.nonwords:
                   too_short: 2
