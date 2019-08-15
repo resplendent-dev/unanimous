@@ -12,10 +12,10 @@ from pyspelling import spellcheck
 # Below is general helper stuff that Python uses in `unittests`.  As these
 # not meant for users, and could change without notice, include them
 # ourselves so we aren't surprised later.
-TESTFN = '@test'
-WIN = sys.platform.startswith('win')
-HUNSPELL = 'hunspell.exe' if WIN else 'hunspell'
-ASPELL = 'aspell.exe' if WIN else 'aspell'
+TESTFN = "@test"
+WIN = sys.platform.startswith("win")
+HUNSPELL = "hunspell.exe" if WIN else "hunspell"
+ASPELL = "aspell.exe" if WIN else "aspell"
 
 # Disambiguate `TESTFN` for parallel testing, while letting it remain a valid
 # module name.
@@ -30,13 +30,14 @@ def which(executable):
         if os.path.isfile(executable):
             location = executable
     else:
-        paths = [
-            x for x in os.environ["PATH"].split(os.pathsep) if not x.isspace()
-        ]
-        paths.extend([
-            x for x in os.environ.get("TOX_SPELL_PATH", "").split(os.pathsep)
-            if not x.isspace()
-        ])
+        paths = [x for x in os.environ["PATH"].split(os.pathsep) if not x.isspace()]
+        paths.extend(
+            [
+                x
+                for x in os.environ.get("TOX_SPELL_PATH", "").split(os.pathsep)
+                if not x.isspace()
+            ]
+        )
         for path in paths:
             exe = os.path.join(path, executable)
             if os.path.isfile(exe):
@@ -63,8 +64,11 @@ def change_cwd(path, quiet=False):
     except OSError:
         if not quiet:
             raise
-        warnings.warn('tests may fail, unable to change CWD to: ' + path,
-                      RuntimeWarning, stacklevel=3)
+        warnings.warn(
+            "tests may fail, unable to change CWD to: " + path,
+            RuntimeWarning,
+            stacklevel=3,
+        )
     try:
         yield os.getcwd()
     finally:
@@ -83,7 +87,7 @@ class PluginTestCase(unittest.TestCase):
         the start, so strip it as well.
         """
 
-        return dedent(content).replace('\n', '', 1)
+        return dedent(content).replace("\n", "", 1)
 
     def mktemp(self, filename, content, encoding):
         """Make temp directory."""
@@ -135,9 +139,9 @@ class PluginTestCase(unittest.TestCase):
         if running not in ("both", "aspell", "hunspell"):
             raise RuntimeError(
                 "Required tests are not being run"
-                " (currently running '{}'). ".format(running) +
-                "Make sure spell checker can be found and " +
-                "'TOX_SPELL_REQUIRE' is set appropriately"
+                " (currently running '{}'). ".format(running)
+                + "Make sure spell checker can be found and "
+                + "'TOX_SPELL_REQUIRE' is set appropriately"
                 " (currently '{}')".format(required)
             )
 
@@ -168,14 +172,15 @@ class PluginTestCase(unittest.TestCase):
         if hunspell_location:
             words = set()
             for results in spellcheck(
-                    os.path.join(self.tempdir, config_file),
-                    names=names,
-                    groups=groups,
-                    sources=sources,
-                    checker='hunspell',
-                    binary=hunspell_location,
-                    debug=True,
-                    verbose=verbose):
+                os.path.join(self.tempdir, config_file),
+                names=names,
+                groups=groups,
+                sources=sources,
+                checker="hunspell",
+                binary=hunspell_location,
+                debug=True,
+                verbose=verbose,
+            ):
                 if results.error:
                     print(results.error)
                 words |= set(results.words)
@@ -183,14 +188,15 @@ class PluginTestCase(unittest.TestCase):
         if aspell_location:
             words = set()
             for results in spellcheck(
-                    os.path.join(self.tempdir, config_file),
-                    names=names,
-                    groups=groups,
-                    sources=sources,
-                    checker='aspell',
-                    binary=aspell_location,
-                    debug=True,
-                    verbose=verbose):
+                os.path.join(self.tempdir, config_file),
+                names=names,
+                groups=groups,
+                sources=sources,
+                checker="aspell",
+                binary=aspell_location,
+                debug=True,
+                verbose=verbose,
+            ):
                 if results.error:
                     print(results.error)
                 words |= set(results.words)
