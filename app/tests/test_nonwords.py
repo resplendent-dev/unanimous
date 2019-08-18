@@ -8,13 +8,9 @@ class TestNonWordFilter(util.PluginTestCase):
     def setup_fs(self):
         """Setup files."""
 
-        good_words = ['yes', 'word', 'zx']
-        self.bad_words1 = ['zxq', 'helo', 'begn']
-        self.mktemp(
-            'test1.txt',
-            '\n'.join(self.bad_words1 + good_words),
-            'utf-8'
-        )
+        good_words = ["yes", "word", "zx"]
+        self.bad_words1 = ["zxq", "helo", "begn"]
+        self.mktemp("test1.txt", "\n".join(self.bad_words1 + good_words), "utf-8")
 
         config = self.dedent(
             """
@@ -35,9 +31,9 @@ class TestNonWordFilter(util.PluginTestCase):
                   too_short: 2
             """
         ).format(temp=self.tempdir)
-        self.mktemp('.source.yml', config, 'utf-8')
+        self.mktemp(".source.yml", config, "utf-8")
 
     def test_all(self):
         """Test all."""
 
-        self.assert_spellcheck('.source.yml', self.bad_words1)
+        self.assert_spellcheck(".source.yml", self.bad_words1)
