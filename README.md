@@ -8,6 +8,7 @@
 [![PyPI downloads per month](https://img.shields.io/pypi/dm/unanimous.svg)](https://pypi.org/project/unanimous)
 [![Documentation Status](https://readthedocs.org/projects/unanimous/badge/?version=latest)](https://unanimous.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/resplendent-dev/unanimous/badge.svg)](https://coveralls.io/github/resplendent-dev/unanimous/)
+[![Black](https://camo.githubusercontent.com/28a51fe3a2c05048d8ca8ecd039d6b1619037326/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667)](https://github.com/psf/black)
 
 Extension to make running pyspelling in CI easier. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..
 
