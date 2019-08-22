@@ -39,7 +39,6 @@ DOCTYPE
 docutils
 exename
 genindex
-GitPython
 GPLv
 hh
 hostname
