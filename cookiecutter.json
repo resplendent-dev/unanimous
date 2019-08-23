@@ -42,5 +42,6 @@
     "license": [
         "GPLv3+",
         "MIT"
-    ]
+    ],
+    "entry_points": ""
 }
