@@ -22,10 +22,6 @@
     "github_org": "resplendent-dev",
     "github_repo": "unanimous",
     "installation_notes": "Note: if using Python 3.4 the latest version of lxml only supports python 3.5 and above so install lxml 4.3.4",
-    "license": [
-        "GPLv3+",
-        "MIT"
-    ],
     "maintainer_email": "{{ cookiecutter.author_email }}",
     "maintainer_name": "{{ cookiecutter.author_name }}",
     "project_description": "Extension to make running pyspelling in CI easier. Maintains a common word exception list of technical terms so that every project does not need to exclude words like PyPi and GitHub etc..",
@@ -44,4 +40,9 @@
     ],
     "travis_build_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}",
     "travis_status_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}.svg?branch=master"
+    "license": [
+        "GPLv3+",
+        "MIT"
+    ],
+    "entry_points": ""
 }
