@@ -53,6 +53,7 @@ Json
 junit
 JUnit
 li
+logdecorator
 lt
 lxml
 maxdepth
@@ -123,6 +124,7 @@ unicode
 unmaintained
 urls
 utf
+wcmatch
 webgui
 xdist
 xml

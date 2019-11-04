@@ -11,3 +11,4 @@ pytest-xdist
 safety
 twine
 wheel
+spellingtest
