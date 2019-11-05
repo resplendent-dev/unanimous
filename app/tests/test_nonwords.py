@@ -1,8 +1,8 @@
 """Test text plugin."""
-from . import util
+from spellingtest.check import PluginTestCase
 
 
-class TestNonWordFilter(util.PluginTestCase):
+class TestNonWordFilter(PluginTestCase):
     """Check non-words are allowed."""
 
     def setup_fs(self):

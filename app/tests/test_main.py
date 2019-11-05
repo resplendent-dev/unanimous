@@ -1,6 +1,7 @@
 """
 Test modules for unanimous.__main__
 """
+from unanimous.__main__ import main
 
 
 def test_main():
@@ -10,8 +11,6 @@ def test_main():
     with a result of `None`
     """
     # Setup
-    from unanimous.__main__ import main
-
     # Exercise
     result = main()  # pylint: disable=assignment-from-no-return
     # Verify
