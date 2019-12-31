@@ -49,6 +49,7 @@ https
 iOS
 ip
 isort
+javascript
 Json
 junit
 JUnit
@@ -80,6 +81,8 @@ PRTGDevice
 PRTGSensor
 py
 PyEnchant
+PyGithub
+PyInquirer
 pylint
 PyPi
 PyPI
