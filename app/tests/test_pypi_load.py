@@ -12,7 +12,7 @@ from unanimous.pypi_load import get_config_dir
 def test_get_config_dir():
     """
     GIVEN an empty temporary directory base WHEN calling `get_config_dir` THEN the call
-    creates the missing subdirectory.
+    creates the missing directory.
     """
     # Setup
     tmpdir = tempfile.mkdtemp()
