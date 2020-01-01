@@ -20,5 +20,5 @@ def test_get_config_dir():
     # Exercise
     get_config_dir(tmppath)
     # Verify
-    assert '.unanimous' in set(tmppath.iterdir())  # nosec # noqa=S101
+    assert ".unanimous" in set(tmppath.iterdir())  # nosec # noqa=S101
     shutil.rmtree(tmpdir)
