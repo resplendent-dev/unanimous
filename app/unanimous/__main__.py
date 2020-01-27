@@ -6,9 +6,11 @@ python -m unanimous
 """
 from __future__ import absolute_import, division, print_function, unicode_literals
 
-import click
+import pathlib
+import sys
+import zipfile
 
-import unanimous.pypi_load
+import click
 
 CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
@@ -34,11 +36,26 @@ def invoke():
     run_invocation()
 
 
+def get_project_path():
+    """
+    Locate the directory of the root folder for the project
+    """
+    this_file = pathlib.Path(sys.modules[__name__].__file__).resolve()
+    test_dir = this_file.parent
+    app_dir = test_dir.parent
+    project_dir = app_dir.parent
+    return project_dir
+
+
 def run_invocation():
     """
     Execute the invocation
     """
-    unanimous.pypi_load.test()
+    basedir = get_project_path()
+    zippath = basedir / "master.zip"
+    nonwordpath = basedir / "nonwords.txt"
+    with zipfile.ZipFile(str(zippath), "w") as zobj:
+        zobj.write(nonwordpath, "nonwords.txt")
 
 
 if __name__ == "__main__":
