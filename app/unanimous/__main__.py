@@ -56,6 +56,7 @@ def run_invocation():
     nonwordpath = basedir / "nonwords.txt"
     with zipfile.ZipFile(str(zippath), "w") as zobj:
         zobj.write(nonwordpath, "nonwords.txt")
+        zobj.close()
 
 
 if __name__ == "__main__":
