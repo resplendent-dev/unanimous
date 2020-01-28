@@ -20,7 +20,7 @@ def test_get_config_dir():
     # Exercise
     get_config_dir(tmppath)
     # Verify
-    assert ".unanimous" in set(  # nosec # noqa=S101,B101
+    assert ".unanimous" in set(  # nosec # noqa=S101
         subpath.name for subpath in tmppath.iterdir()
     )
     shutil.rmtree(tmpdir)
@@ -45,4 +45,4 @@ def test_check_upstream_zip_hash():
     # Exercise
     result = check_upstream_zip_hash()
     # Verify
-    assert result != ""  # noqa=S101,B101
+    assert result != ""  # nosec # noqa=S101,B101
