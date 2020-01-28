@@ -45,4 +45,4 @@ def test_check_upstream_zip_hash():
     # Exercise
     result = check_upstream_zip_hash()
     # Verify
-    assert result != ""   # noqa=S101
+    assert result != ""  # noqa=S101
