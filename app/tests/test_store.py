@@ -28,7 +28,7 @@ def test_get_config_dir():
 
 def test_get_config_dir_default():
     """
-    GIVEN the default get_config_dir WHEN calling `get_config_dir` THEN the call
+    GIVEN no parameters WHEN calling `get_config_dir` THEN the call
     creates the default directory.
     """
     # Setup
