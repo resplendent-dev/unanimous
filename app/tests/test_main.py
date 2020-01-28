@@ -2,8 +2,12 @@
 Test modules for unanimous.__main__
 """
 
+import pathlib
+import shutil
+import tempfile
 import zipfile
 
+import mock
 import pytest
 from click.testing import CliRunner
 
@@ -31,10 +35,13 @@ def test_main(args, expected):
     # Setup
     original_words = load_master_zip()
     runner = CliRunner()
-    # Exercise
-    result = runner.invoke(main, args)
-    # Verify
-    new_words = load_master_zip()
+    tmppath = pathlib.Path(tempfile.mkdtemp())
+    shutil.copy(get_project_path() / "nonwords.txt", tmppath / "nonwords.txt")
+    with mock.patch("unanimous.__main__.get_project_path", return_value=tmppath):
+        # Exercise
+        result = runner.invoke(main, args)
+        # Verify
+        new_words = load_master_zip()
     assert result.exit_code == expected  # nosec # noqa=S101
     assert len(original_words - new_words) == 0  # nosec # noqa=S101
     # Allow for up to 5 new packages to appear

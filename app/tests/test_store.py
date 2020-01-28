@@ -6,7 +6,7 @@ import pathlib
 import shutil
 import tempfile
 
-from unanimous.store import get_config_dir
+from unanimous.store import check_upstream_zip_hash, get_config_dir
 
 
 def test_get_config_dir():
@@ -36,3 +36,13 @@ def test_get_config_dir_default():
     path = get_config_dir()
     # Verify
     assert path.is_dir()  # nosec # noqa=S101
+
+
+def test_check_upstream_zip_hash():
+    """
+    GIVEN ...
+    """
+    # Exercise
+    result = check_upstream_zip_hash()
+    # Verify
+    assert result == ""   # noqa=S101
