@@ -46,4 +46,6 @@ def test_check_upstream_zip_hash():
     # Exercise
     result = get_current_non_words()
     # Verify
+    cached_result = get_current_non_words()
+    assert result == cached_result
     assert "sexualized" in result  # nosec # noqa=S101

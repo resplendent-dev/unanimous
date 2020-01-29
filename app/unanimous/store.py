@@ -100,13 +100,13 @@ def update_cached_nonwords(basepath=None):
     sha256 = hashlib.sha256(content).hexdigest()
     with io.BytesIO(content) as fobj:
         with zipfile.ZipFile(fobj) as zobj:
-            data = zobj.read("nonwords.txt")
+            data = zobj.read("nonwords.txt").decode("utf-8")
     save_key_value("nonwords", data, basepath=basepath)
     save_key_value("sha", sha256, basepath=basepath)
     save_key_value(
         "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
     )
-    return set(data.decode("utf-8").splitlines())
+    return set(data.splitlines())
 
 
 def get_cached_words(basepath=None):
