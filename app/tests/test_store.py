@@ -6,7 +6,7 @@ import pathlib
 import shutil
 import tempfile
 
-from unanimous.store import get_current_non_words, get_config_dir
+from unanimous.store import get_config_dir, get_current_non_words
 
 
 def test_get_config_dir():
