@@ -6,7 +6,13 @@ import pathlib
 import shutil
 import tempfile
 
-from unanimous.store import get_config_dir, get_current_non_words, load_key
+from unanimous.store import (
+    check_upstream_zip_hash,
+    get_cached_words,
+    get_config_dir,
+    get_current_non_words,
+    load_key,
+)
 
 
 def test_get_config_dir():
@@ -38,7 +44,7 @@ def test_get_config_dir_default():
     assert path.is_dir()  # nosec # noqa=S101
 
 
-def test_check_upstream_zip_hash():
+def test_get_current_non_words():
     """
     GIVEN the upstream data contains a known value WHEN calling
     `get_current_non_words` THEN the known value is found.
@@ -46,8 +52,6 @@ def test_check_upstream_zip_hash():
     # Exercise
     result = get_current_non_words()
     # Verify
-    cached_result = get_current_non_words()
-    assert result == cached_result
     assert "sexualized" in result  # nosec # noqa=S101
 
 
@@ -60,4 +64,30 @@ def test_load_key():
     # Exercise
     val = load_key("missing", 42)
     # Verify
-    assert val == 42
+    assert val == 42  # nosec # noqa=S101
+
+
+def test_check_upstream_zip_hash():
+    """
+    GIVEN an updated cache WHEN calling `check_upstream_zip_hash` THEN the
+    upstream cache check returns True
+    """
+    # Setup
+    get_current_non_words()
+    # Exercise
+    cache_updated = check_upstream_zip_hash()
+    # Verify
+    assert cache_updated  # nosec # noqa=S101
+
+
+def test_get_cached_words():
+    """
+    GIVEN an updated cache WHEN calling `get_cached_words` THEN the
+    current words are the same
+    """
+    # Setup
+    current_result = get_current_non_words()
+    # Exercise
+    cached_result = get_cached_words()
+    # Verify
+    assert current_result == cached_result  # nosec # noqa=S101

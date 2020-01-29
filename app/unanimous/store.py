@@ -5,6 +5,7 @@ Cache the details of non-words.
 import datetime
 import hashlib
 import io
+import logging
 import pathlib
 import zipfile
 
@@ -71,9 +72,17 @@ def check_upstream_zip_hash(basepath=None):
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.sha256?raw=true"
     )
-    response = requests.get(url)
-    current_sha = response.text.strip().split(" ", 1)[0]
-    return cache_sha == current_sha
+    try:
+        response = requests.get(url, timeout=1)
+    except OSError:
+        logging.exception("Unable to check non-word cache at this time.")
+        # Can not be reached - assume not updated
+        return False
+    else:
+        current_sha = response.text.strip().split(" ", 1)[0]
+        print(f"current_sha {repr(current_sha)}")
+        print(f"cache_sha {repr(cache_sha)}")
+        return cache_sha == current_sha
 
 
 def get_current_non_words(basepath=None):
@@ -95,18 +104,25 @@ def update_cached_nonwords(basepath=None):
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.zip?raw=true"
     )
-    response = requests.get(url)
-    content = response.content
-    sha256 = hashlib.sha256(content).hexdigest()
-    with io.BytesIO(content) as fobj:
-        with zipfile.ZipFile(fobj) as zobj:
-            data = zobj.read("nonwords.txt").decode("utf-8")
-    save_key_value("nonwords", data, basepath=basepath)
-    save_key_value("sha", sha256, basepath=basepath)
-    save_key_value(
-        "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
-    )
-    return set(data.splitlines())
+    try:
+        response = requests.get(url, timeout=1)
+    except OSError:
+        logging.exception("Unable to update non-word cache at this time.")
+        return set({})
+    else:
+        content = response.content
+        sha256 = hashlib.sha256(content).hexdigest()
+        with io.BytesIO(content) as fobj:
+            with zipfile.ZipFile(fobj) as zobj:
+                data = zobj.read("nonwords.txt").decode("utf-8")
+        save_key_value("nonwords", data, basepath=basepath)
+        save_key_value("sha", sha256, basepath=basepath)
+        save_key_value(
+            "timestamp",
+            datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
+            basepath=basepath,
+        )
+        return set(data.splitlines())
 
 
 def get_cached_words(basepath=None):
@@ -119,14 +135,15 @@ def get_cached_words(basepath=None):
         return None
     cache_time = datetime.datetime.strptime(timestamp, "%Y%m%d%H%M%S")
     if cache_time + datetime.timedelta(days=1) < datetime.datetime.now():
-        return None
-    # Is cache hash still okay anyway?
-    if not check_upstream_zip_hash(basepath=basepath):
-        return None
-    # Refresh timestamp
-    save_key_value(
-        "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
-    )
+        # Is cache hash still okay anyway?
+        if not check_upstream_zip_hash(basepath=basepath):
+            return None
+        # Refresh timestamp
+        save_key_value(
+            "timestamp",
+            datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
+            basepath=basepath,
+        )
     nonwords = load_key("nonwords", basepath=basepath)
     if nonwords is None:
         return None
