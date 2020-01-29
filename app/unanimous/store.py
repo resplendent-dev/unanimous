@@ -123,7 +123,7 @@ def get_cached_words(basepath=None):
     # Is cache hash still okay anyway?
     if not check_upstream_zip_hash(basepath=basepath):
         return None
-    # Resave timestamp
+    # Refresh timestamp
     save_key_value(
         "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
     )
