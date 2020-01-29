@@ -8,9 +8,9 @@ import io
 import pathlib
 import zipfile
 
-import requests
-
 import dataset
+
+import requests
 
 
 def get_config_dir(basepath=None):
