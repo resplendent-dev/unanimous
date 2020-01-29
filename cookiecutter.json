@@ -45,6 +45,6 @@
     ],
     "entry_points": "",
     "package_data": "",
-    "test_requires": "spellingtest",
+    "test_requires": "spellingtest\nrequests-mock",
     "extra_manifest": ""
 }
