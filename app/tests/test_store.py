@@ -6,7 +6,7 @@ import pathlib
 import shutil
 import tempfile
 
-from unanimous.store import check_upstream_zip_hash, get_config_dir
+from unanimous.store import get_current_non_words, get_config_dir
 
 
 def test_get_config_dir():
@@ -40,9 +40,10 @@ def test_get_config_dir_default():
 
 def test_check_upstream_zip_hash():
     """
-    GIVEN ...
+    GIVEN the upstream data contains a known value WHEN calling
+    `get_current_non_words` THEN the known value is found.
     """
     # Exercise
-    result = check_upstream_zip_hash()
+    result = get_current_non_words()
     # Verify
-    assert result != ""  # noqa=S101
+    assert "sexualized" in result  # nosec # noqa=S101
