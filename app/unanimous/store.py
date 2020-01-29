@@ -120,6 +120,13 @@ def get_cached_words(basepath=None):
     cache_time = datetime.datetime.strptime(timestamp, "%Y%m%d%H%M%S")
     if cache_time + datetime.timedelta(days=1) < datetime.datetime.now():
         return None
+    # Is cache hash still okay anyway?
+    if not check_upstream_zip_hash(basepath=basepath):
+        return None
+    # Resave timestamp
+    save_key_value(
+        "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
+    )
     nonwords = load_key("nonwords", basepath=basepath)
     if nonwords is None:
         return None

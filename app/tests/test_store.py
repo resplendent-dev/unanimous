@@ -6,7 +6,7 @@ import pathlib
 import shutil
 import tempfile
 
-from unanimous.store import get_config_dir, get_current_non_words
+from unanimous.store import get_config_dir, get_current_non_words, load_key
 
 
 def test_get_config_dir():
@@ -49,3 +49,15 @@ def test_check_upstream_zip_hash():
     cached_result = get_current_non_words()
     assert result == cached_result
     assert "sexualized" in result  # nosec # noqa=S101
+
+
+def test_load_key():
+    """
+    GIVEN a missing key WHEN calling `load_key` THEN the provided default
+    should be returned.
+    """
+    # Setup
+    # Exercise
+    val = load_key("missing", 42)
+    # Verify
+    assert val == 42
