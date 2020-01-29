@@ -2,6 +2,7 @@
 Test modules for unanimous.store
 """
 
+import io
 import pathlib
 import shutil
 import tempfile
@@ -44,11 +45,31 @@ def test_get_config_dir_default():
     assert path.is_dir()  # nosec # noqa=S101
 
 
-def test_get_current_non_words():
+def setup_fake_requests(requests_mock):
+    """
+    Used to setup dummy responses
+    """
+    url = (
+        "https://github.com/resplendent-dev/unanimous"
+        "/blob/master/master.zip?raw=true"
+    )
+    with open(zippath, "rb") as fobj:
+        requests_mock.get(url, content=fobj.read())
+    url = (
+        "https://github.com/resplendent-dev/unanimous"
+        "/blob/master/master.sha256?raw=true"
+    )
+    with io.open(shapath, "r", encoding="utf-8") as fobj:
+        requests_mock.get(url, text=fobj.read())
+
+
+def test_get_current_non_words(requests_mock):
     """
     GIVEN the upstream data contains a known value WHEN calling
     `get_current_non_words` THEN the known value is found.
     """
+    # Setup
+    setup_fake_requests(requests_mock)
     # Exercise
     result = get_current_non_words()
     # Verify
