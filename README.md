@@ -31,6 +31,9 @@ Note: if using Python 3.4 the latest version of lxml only supports python 3.5 an
 
 ## Prerequisites:
 - pyspelling
+- dataset
+- requests
+- click
 
 
 ## Download from PyPI.org
