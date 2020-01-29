@@ -55,7 +55,7 @@ def save_key_value(key, value, basepath=None):
 
 def get_cached_sha(basepath=None):
     """
-    Lookup current sha value
+    Lookup current hash value
     """
     return load_key("sha", basepath=basepath)
 
@@ -89,7 +89,7 @@ def get_current_non_words(basepath=None):
 
 def update_cached_nonwords(basepath=None):
     """
-    Load the latest nonwords and update the db
+    Load the latest non-words and update the db
     """
     url = (
         "https://github.com/resplendent-dev/unanimous"
