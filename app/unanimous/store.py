@@ -143,6 +143,6 @@ def get_cached_words(basepath=None):
             basepath=basepath,
         )
     nonwords = load_key("nonwords", basepath=basepath)
-    if nonwords is None:
+    if not nonwords:
         return None
     return set(nonwords.splitlines())

@@ -15,6 +15,7 @@ from unanimous.store import (
     get_config_dir,
     get_current_non_words,
     load_key,
+    save_key_value,
 )
 
 
@@ -132,3 +133,50 @@ def test_get_cached_words(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert current_result == cached_result  # nosec # noqa=S101
+
+
+def test_get_cached_words_expired(requests_mock):
+    """
+    GIVEN an updated but old cache WHEN calling `get_cached_words` THEN the
+    current words are the same
+    """
+    # Setup
+    setup_fake_requests(requests_mock)
+    current_result = get_current_non_words()
+    save_key_value("timestamp", "20010101120000")
+    # Exercise
+    cached_result = get_cached_words()
+    # Verify
+    assert current_result == cached_result  # nosec # noqa=S101
+
+
+def test_get_cached_words_expunged(requests_mock):
+    """
+    GIVEN an old empty cache WHEN calling `get_cached_words` THEN
+    None is returned.
+    """
+    # Setup
+    setup_fake_requests(requests_mock)
+    get_current_non_words()
+    save_key_value("timestamp", "20010101120000")
+    save_key_value("nonwords", "")
+    # Exercise
+    cached_result = get_cached_words()
+    # Verify
+    assert cached_result is None  # nosec # noqa=S101
+
+
+def test_get_cached_words_bad_hash(requests_mock):
+    """
+    GIVEN an old cache with a bad hash WHEN calling `get_cached_words` THEN
+    None is returned.
+    """
+    # Setup
+    setup_fake_requests(requests_mock)
+    get_current_non_words()
+    save_key_value("timestamp", "20010101120000")
+    save_key_value("sha", "")
+    # Exercise
+    cached_result = get_cached_words()
+    # Verify
+    assert cached_result is None  # nosec # noqa=S101
