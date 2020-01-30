@@ -9,6 +9,8 @@ import shutil
 import sys
 import tempfile
 
+import requests
+
 from unanimous.store import (
     check_upstream_zip_hash,
     get_cached_words,
@@ -16,6 +18,7 @@ from unanimous.store import (
     get_current_non_words,
     load_key,
     save_key_value,
+    update_cached_nonwords,
 )
 
 
@@ -194,3 +197,21 @@ def test_get_cached_words_bad_timestamp(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+
+
+def test_update_cached_nonwords(requests_mock):
+    """
+    GIVEN an unavailable upstream zip WHEN calling `update_cached_nonwords`
+    THEN it will fallback to the cache.
+    """
+    # Setup
+    url = (
+        "https://github.com/resplendent-dev/unanimous"
+        "/blob/master/master.zip?raw=true"
+    )
+    requests_mock.get(url, exc=requests.exceptions.ConnectTimeout)
+    save_key_value("nonwords", "fakewordish")
+    # Exercise
+    cached_result = update_cached_nonwords()
+    # Verify
+    assert "fakewordish" in cached_result  # nosec # noqa=S101
