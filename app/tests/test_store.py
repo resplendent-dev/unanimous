@@ -9,6 +9,7 @@ import shutil
 import sys
 import tempfile
 
+import mock
 import requests
 
 from unanimous.store import (
@@ -215,3 +216,21 @@ def test_update_cached_nonwords(requests_mock):
     cached_result = update_cached_nonwords()
     # Verify
     assert "fakewordish" in cached_result  # nosec # noqa=S101
+
+
+def test_check_upstream_zip_hash_offline(requests_mock):
+    """
+    GIVEN an unavailable upstream sha WHEN calling `check_upstream_zip_hash`
+    THEN it will return False
+    """
+    # Setup
+    url = (
+        "https://github.com/resplendent-dev/unanimous"
+        "/blob/master/master.sha256?raw=true"
+    )
+    requests_mock.get(url, exc=requests.exceptions.ConnectTimeout)
+    with mock.patch("unanimous.store.get_cached_sha", return_value="fake"):
+        # Exercise
+        result = check_upstream_zip_hash()
+    # Verify
+    assert not result  # nosec # noqa=S101
