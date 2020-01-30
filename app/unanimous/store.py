@@ -106,7 +106,7 @@ def update_cached_nonwords(basepath=None):
         response = requests.get(url, timeout=1)
     except OSError:
         logging.exception("Unable to update non-word cache at this time.")
-        return set({})
+        return force_get_cached_words(basepath=basepath, deflt=set())
     else:
         content = response.content
         sha256 = hashlib.sha256(content).hexdigest()
@@ -142,7 +142,13 @@ def get_cached_words(basepath=None):
             datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
             basepath=basepath,
         )
+    return force_get_cached_words(basepath=basepath)
+
+def force_get_cached_words(basepath=None, deflt=None):
+    """
+    Grab whatever is in the cache
+    """
     nonwords = load_key("nonwords", basepath=basepath)
     if not nonwords:
-        return None
+        return deflt
     return set(nonwords.splitlines())

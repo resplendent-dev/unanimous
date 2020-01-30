@@ -180,3 +180,17 @@ def test_get_cached_words_bad_hash(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+
+
+def test_get_cached_words_bad_timestamp(requests_mock):
+    """
+    GIVEN a bad timestamp saved WHEN calling `get_cached_words` THEN
+    None is returned.
+    """
+    # Setup
+    setup_fake_requests(requests_mock)
+    save_key_value("timestamp", "")
+    # Exercise
+    cached_result = get_cached_words()
+    # Verify
+    assert cached_result is None  # nosec # noqa=S101
