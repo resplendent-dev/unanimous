@@ -9,4 +9,5 @@ cd "${TOP}"
 git checkout -- \
  app/pip/3.4/app/requirements.txt \
  app/unanimous \
- app/tests
+ app/tests \
+ master.sha256 master.zip nonwords.txt

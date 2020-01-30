@@ -1,1 +1,4 @@
 pyspelling
+dataset
+requests
+click

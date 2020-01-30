@@ -24,7 +24,7 @@
     "build_url": "https://dev.azure.com/{{ cookiecutter.azure_user }}/{{ cookiecutter.azure_project }}/_build/latest?definitionId={{ cookiecutter.azure_buildid }}&branchName=master",
     "pypi_name": "{{ cookiecutter.project_name }}",
     "readthedocs_name": "{{ cookiecutter.project_name }}",
-    "app_requirements": "pyspelling",
+    "app_requirements": "pyspelling\ndataset\nrequests\nclick",
     "cov_fail_under": "100",
     "dictionary": "en_AU",
     "travis_status_url": "https://travis-ci.org/{{ cookiecutter.github_org }}/{{ cookiecutter.github_repo }}.svg?branch=master",
@@ -45,6 +45,6 @@
     ],
     "entry_points": "",
     "package_data": "",
-    "test_requires": "spellingtest",
+    "test_requires": "spellingtest\nrequests-mock",
     "extra_manifest": ""
 }

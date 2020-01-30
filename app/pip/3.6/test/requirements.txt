@@ -12,3 +12,4 @@ safety
 twine
 wheel
 spellingtest
+requests-mock
