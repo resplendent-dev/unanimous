@@ -13,8 +13,8 @@ from unanimous.store import get_cached_words
 class NonWordFilter(filters.Filter):
     """Remove non-words from source"""
 
-    def __init__(self):
-        super().__init__()
+    def __init__(self, options, **kwargs):
+        super().__init__(options, **kwargs)
         self.non_words = get_cached_words()
 
     @staticmethod
@@ -35,10 +35,16 @@ class NonWordFilter(filters.Filter):
         or a known non-word.
         """
         too_short_config = self.config["too_short"]
-        if len(word) <= too_short_config:
-            return False
+        too_short_check = len(word) <= too_short_config
+        if too_short_check:
+            print(f"{word} is too short")
+            return True
         lword = word.lower()
-        return lword not in self.non_words
+        non_word_check = lword not in self.non_words
+        if non_word_check:
+            print(f"{word} is not a word")
+            return True
+        return False
 
     def _filter(self, text):
         """Filter text"""
