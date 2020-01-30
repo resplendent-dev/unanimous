@@ -6,6 +6,7 @@ import codecs
 import re
 
 from pyspelling import filters
+
 from unanimous.store import get_cached_words
 
 
