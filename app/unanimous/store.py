@@ -80,8 +80,6 @@ def check_upstream_zip_hash(basepath=None):
         return False
     else:
         current_sha = response.text.strip().split(" ", 1)[0]
-        print(f"current_sha {repr(current_sha)}")
-        print(f"cache_sha {repr(cache_sha)}")
         return cache_sha == current_sha
 
 

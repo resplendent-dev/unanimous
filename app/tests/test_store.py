@@ -3,8 +3,10 @@ Test modules for unanimous.store
 """
 
 import io
+import logging
 import pathlib
 import shutil
+import sys
 import tempfile
 
 from unanimous.store import (
@@ -14,6 +16,17 @@ from unanimous.store import (
     get_current_non_words,
     load_key,
 )
+
+
+def get_basedir():
+    """
+    Locate the directory of the project root
+    """
+    this_py_path = pathlib.Path(sys.modules[__name__].__file__)
+    tests_path = this_py_path.absolute().parent
+    app_path = tests_path.parent
+    workspace_path = app_path.parent
+    return workspace_path
 
 
 def test_get_config_dir():
@@ -53,12 +66,17 @@ def setup_fake_requests(requests_mock):
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.zip?raw=true"
     )
+    basepath = get_basedir()
+    zippath = basepath / "master.zip"
     with open(zippath, "rb") as fobj:
-        requests_mock.get(url, content=fobj.read())
+        content = fobj.read()
+        logging.warning("Read content as %r", content)
+        requests_mock.get(url, content=content)
     url = (
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.sha256?raw=true"
     )
+    shapath = basepath / "master.sha256"
     with io.open(shapath, "r", encoding="utf-8") as fobj:
         requests_mock.get(url, text=fobj.read())
 
@@ -88,12 +106,13 @@ def test_load_key():
     assert val == 42  # nosec # noqa=S101
 
 
-def test_check_upstream_zip_hash():
+def test_check_upstream_zip_hash(requests_mock):
     """
     GIVEN an updated cache WHEN calling `check_upstream_zip_hash` THEN the
     upstream cache check returns True
     """
     # Setup
+    setup_fake_requests(requests_mock)
     get_current_non_words()
     # Exercise
     cache_updated = check_upstream_zip_hash()
@@ -101,12 +120,13 @@ def test_check_upstream_zip_hash():
     assert cache_updated  # nosec # noqa=S101
 
 
-def test_get_cached_words():
+def test_get_cached_words(requests_mock):
     """
     GIVEN an updated cache WHEN calling `get_cached_words` THEN the
     current words are the same
     """
     # Setup
+    setup_fake_requests(requests_mock)
     current_result = get_current_non_words()
     # Exercise
     cached_result = get_cached_words()
