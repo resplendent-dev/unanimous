@@ -6,10 +6,15 @@ import codecs
 import re
 
 from pyspelling import filters
+from unanimous.store import get_cached_words
 
 
 class NonWordFilter(filters.Filter):
     """Remove non-words from source"""
+
+    def __init__(self):
+        super().__init__()
+        self.non_words = get_cached_words()
 
     @staticmethod
     def get_default_config():
@@ -29,7 +34,10 @@ class NonWordFilter(filters.Filter):
         or a known non-word.
         """
         too_short_config = self.config["too_short"]
-        return len(word) <= too_short_config
+        if len(word) <= too_short_config:
+            return False
+        lword = word.lower()
+        return lword not in self.non_words
 
     def _filter(self, text):
         """Filter text"""
