@@ -144,6 +144,7 @@ def get_cached_words(basepath=None):
         )
     return force_get_cached_words(basepath=basepath)
 
+
 def force_get_cached_words(basepath=None, deflt=None):
     """
     Grab whatever is in the cache
