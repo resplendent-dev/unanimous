@@ -220,7 +220,7 @@ def test_update_cached_nonwords(requests_mock):
 
 def test_check_upstream_zip_hash_offline(requests_mock):
     """
-    GIVEN an unavailable upstream sha WHEN calling `check_upstream_zip_hash`
+    GIVEN an unavailable upstream hash WHEN calling `check_upstream_zip_hash`
     THEN it will return False
     """
     # Setup
