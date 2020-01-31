@@ -6,11 +6,16 @@ python -m unanimous
 """
 from __future__ import absolute_import, division, print_function, unicode_literals
 
+import io
 import pathlib
+import shutil
 import sys
+import tempfile
 import zipfile
 
 import click
+
+from unanimous.pypi_load import get_package_list
 
 CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
@@ -54,8 +59,19 @@ def run_invocation():
     basedir = get_project_path()
     zippath = basedir / "master.zip"
     nonwordpath = basedir / "nonwords.txt"
+    tmpdir = tempfile.mkdtemp()
+    tmppath = pathlib.Path(tmpdir)
+    tmpnonwordpath = tmppath / "nonwords.txt"
+    shutil.copy(nonwordpath, tmpnonwordpath)
+    packages = get_package_list()
+    with io.open(tmpnonwordpath, "w", encoding="utf-8") as fobjout:
+        with io.open(nonwordpath, "r", encoding="utf-8") as fobjin:
+            for line in fobjin:
+                print(line.strip().lower(), file=fobjout)
+        for package in packages:
+            print(package.strip().lower(), file=fobjout)
     with zipfile.ZipFile(str(zippath), "w") as zobj:
-        zobj.write(nonwordpath, "nonwords.txt")
+        zobj.write(tmpnonwordpath, "nonwords.txt")
         zobj.close()
 
 
