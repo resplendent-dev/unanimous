@@ -7,7 +7,7 @@ import re
 
 from pyspelling import filters
 
-from unanimous.store import get_cached_words
+from unanimous.store import get_current_non_words
 
 
 class NonWordFilter(filters.Filter):
@@ -15,7 +15,8 @@ class NonWordFilter(filters.Filter):
 
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
-        self.non_words = get_cached_words()
+        self.non_words = get_current_non_words()
+        assert self.non_words is not None
 
     @staticmethod
     def get_default_config():
@@ -37,12 +38,10 @@ class NonWordFilter(filters.Filter):
         too_short_config = self.config["too_short"]
         too_short_check = len(word) <= too_short_config
         if too_short_check:
-            print(f"{word} is too short")
             return True
         lword = word.lower()
-        non_word_check = lword not in self.non_words
+        non_word_check = lword in self.non_words
         if non_word_check:
-            print(f"{word} is not a word")
             return True
         return False
 
