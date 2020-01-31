@@ -3,7 +3,6 @@ Test modules for unanimous.store
 """
 
 import io
-import logging
 import pathlib
 import shutil
 import sys
@@ -75,7 +74,6 @@ def setup_fake_requests(requests_mock):
     zippath = basepath / "master.zip"
     with open(zippath, "rb") as fobj:
         content = fobj.read()
-        logging.warning("Read content as %r", content)
         requests_mock.get(url, content=content)
     url = (
         "https://github.com/resplendent-dev/unanimous"
