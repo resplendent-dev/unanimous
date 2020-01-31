@@ -16,7 +16,6 @@ class NonWordFilter(filters.Filter):
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
         self.non_words = get_current_non_words()
-        assert self.non_words is not None
 
     @staticmethod
     def get_default_config():
