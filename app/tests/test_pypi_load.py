@@ -7,8 +7,8 @@ from unanimous.pypi_load import get_package_list
 
 def test_get_package_list():
     """
-    GIVEN the pypi package list WHEN calling `get_package_list` THEN this
-    package unanimous should be found.
+    GIVEN the `pypi` package list WHEN calling `get_package_list` THEN the
+    package `unanimous` should be found.
     """
     # Exercise
     result = get_package_list()
