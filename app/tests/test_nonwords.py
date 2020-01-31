@@ -8,7 +8,7 @@ class TestNonWordFilter(PluginTestCase):
     def setup_fs(self):
         """Setup files."""
 
-        good_words = ["yes", "word", "zx"]
+        good_words = ["yes", "word", "zx", "sexualized"]
         self.bad_words1 = ["zxq", "helo", "begn"]
         self.mktemp("test1.txt", "\n".join(self.bad_words1 + good_words), "utf-8")
 

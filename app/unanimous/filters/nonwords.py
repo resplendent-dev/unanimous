@@ -7,9 +7,15 @@ import re
 
 from pyspelling import filters
 
+from unanimous.store import get_current_non_words
+
 
 class NonWordFilter(filters.Filter):
     """Remove non-words from source"""
+
+    def __init__(self, options, **kwargs):
+        super().__init__(options, **kwargs)
+        self.non_words = get_current_non_words()
 
     @staticmethod
     def get_default_config():
@@ -29,7 +35,14 @@ class NonWordFilter(filters.Filter):
         or a known non-word.
         """
         too_short_config = self.config["too_short"]
-        return len(word) <= too_short_config
+        too_short_check = len(word) <= too_short_config
+        if too_short_check:
+            return True
+        lword = word.lower()
+        non_word_check = lword in self.non_words
+        if non_word_check:
+            return True
+        return False
 
     def _filter(self, text):
         """Filter text"""
