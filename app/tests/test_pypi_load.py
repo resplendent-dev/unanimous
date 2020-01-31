@@ -13,4 +13,4 @@ def test_get_package_list():
     # Exercise
     result = get_package_list()
     # Verify
-    assert "unanimous" in result
+    assert "unanimous" in result  # nosec # noqa=S101
