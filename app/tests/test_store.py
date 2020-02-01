@@ -98,7 +98,7 @@ def test_get_current_non_words(requests_mock):
     `get_current_non_words` THEN the known value is found.
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     # Exercise
     result = get_current_non_words()
     # Verify
@@ -195,7 +195,7 @@ def test_get_cached_words_bad_timestamp(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     save_key_value("timestamp", "")
     # Exercise
     cached_result = get_cached_words()
@@ -209,7 +209,7 @@ def test_get_current_non_words_bad_timestamp(requests_mock):
     the words are still returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     save_key_value("timestamp", "")
     # Exercise
     result = get_current_non_words()
