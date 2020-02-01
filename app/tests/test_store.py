@@ -203,6 +203,20 @@ def test_get_cached_words_bad_timestamp(requests_mock):
     assert cached_result is None  # nosec # noqa=S101
 
 
+def test_get_current_non_words_bad_timestamp(requests_mock):
+    """
+    GIVEN a bad timestamp saved WHEN calling `get_current_non_words` THEN
+    the words are still returned.
+    """
+    # Setup
+    setup_fake_requests(requests_mock)
+    save_key_value("timestamp", "")
+    # Exercise
+    result = get_current_non_words()
+    # Verify
+    assert "sexualized" in result  # nosec # noqa=S101
+
+
 def test_update_cached_nonwords(requests_mock):
     """
     GIVEN an unavailable upstream zip WHEN calling `update_cached_nonwords`
