@@ -2,6 +2,7 @@
 Test modules for unanimous.__main__
 """
 
+import io
 import pathlib
 import shutil
 import tempfile
@@ -36,7 +37,10 @@ def test_main(args, expected):
     original_words = load_master_zip()
     runner = CliRunner()
     tmppath = pathlib.Path(tempfile.mkdtemp())
-    shutil.copy(get_project_path() / "nonwords.txt", tmppath / "nonwords.txt")
+    nonwordstmppath = tmppath / "nonwords.txt"
+    shutil.copy(get_project_path() / "nonwords.txt", nonwordstmppath)
+    with io.open(nonwordstmppath, "a", encoding="utf-8") as fobj:
+        print("unanimous", file=fobj)
     with mock.patch("unanimous.__main__.get_project_path", return_value=tmppath):
         # Exercise
         result = runner.invoke(main, args)
