@@ -13,13 +13,13 @@ import requests
 
 from unanimous.store import (
     check_upstream_zip_hash,
+    force_get_cached_words,
     get_cached_words,
     get_config_dir,
     get_current_non_words,
     load_key,
     save_key_value,
     update_cached_nonwords,
-    force_get_cached_words,
 )
 
 
