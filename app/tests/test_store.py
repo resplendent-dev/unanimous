@@ -123,8 +123,7 @@ def test_check_upstream_zip_hash(requests_mock):
     upstream cache check returns True
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     # Exercise
     cache_updated = check_upstream_zip_hash()
     # Verify
