@@ -243,12 +243,14 @@ def test_update_cached_nonwords(requests_mock):
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.zip?raw=true"
     )
+    setup_cache(requests_mock)
     requests_mock.get(url, exc=requests.exceptions.ConnectTimeout)
-    save_key_value("nonwords", "fakewordish")
     # Exercise
     cached_result = update_cached_nonwords()
     # Verify
-    assert "fakewordish" in cached_result  # nosec # noqa=S101
+    assert "sexualized" in cached_result  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_check_upstream_zip_hash_offline(requests_mock):
