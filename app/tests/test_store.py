@@ -3,7 +3,6 @@ Test modules for unanimous.store
 """
 
 import io
-import logging
 import pathlib
 import shutil
 import sys
@@ -14,6 +13,7 @@ import requests
 
 from unanimous.store import (
     check_upstream_zip_hash,
+    force_get_cached_words,
     get_cached_words,
     get_config_dir,
     get_current_non_words,
@@ -75,7 +75,6 @@ def setup_fake_requests(requests_mock):
     zippath = basepath / "master.zip"
     with open(zippath, "rb") as fobj:
         content = fobj.read()
-        logging.warning("Read content as %r", content)
         requests_mock.get(url, content=content)
     url = (
         "https://github.com/resplendent-dev/unanimous"
@@ -86,17 +85,27 @@ def setup_fake_requests(requests_mock):
         requests_mock.get(url, text=fobj.read())
 
 
+def setup_cache(requests_mock):
+    """
+    Push values into the cache
+    """
+    setup_fake_requests(requests_mock)
+    update_cached_nonwords()
+
+
 def test_get_current_non_words(requests_mock):
     """
     GIVEN the upstream data contains a known value WHEN calling
     `get_current_non_words` THEN the known value is found.
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     # Exercise
     result = get_current_non_words()
     # Verify
     assert "sexualized" in result  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_load_key():
@@ -117,12 +126,13 @@ def test_check_upstream_zip_hash(requests_mock):
     upstream cache check returns True
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     # Exercise
     cache_updated = check_upstream_zip_hash()
     # Verify
     assert cache_updated  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words(requests_mock):
@@ -131,12 +141,14 @@ def test_get_cached_words(requests_mock):
     current words are the same
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     current_result = get_current_non_words()
     # Exercise
     cached_result = get_cached_words()
     # Verify
     assert current_result == cached_result  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_expired(requests_mock):
@@ -145,13 +157,15 @@ def test_get_cached_words_expired(requests_mock):
     current words are the same
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     current_result = get_current_non_words()
     save_key_value("timestamp", "20010101120000")
     # Exercise
     cached_result = get_cached_words()
     # Verify
     assert current_result == cached_result  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_expunged(requests_mock):
@@ -160,14 +174,15 @@ def test_get_cached_words_expunged(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     save_key_value("nonwords", "")
     # Exercise
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_bad_hash(requests_mock):
@@ -176,14 +191,15 @@ def test_get_cached_words_bad_hash(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     save_key_value("sha", "")
     # Exercise
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_bad_timestamp(requests_mock):
@@ -192,12 +208,30 @@ def test_get_cached_words_bad_timestamp(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     save_key_value("timestamp", "")
     # Exercise
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
+
+
+def test_get_current_non_words_bad_timestamp(requests_mock):
+    """
+    GIVEN a bad timestamp saved WHEN calling `get_current_non_words` THEN
+    the words are still returned.
+    """
+    # Setup
+    setup_cache(requests_mock)
+    save_key_value("timestamp", "")
+    # Exercise
+    result = get_current_non_words()
+    # Verify
+    assert "sexualized" in result  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_update_cached_nonwords(requests_mock):
@@ -210,12 +244,14 @@ def test_update_cached_nonwords(requests_mock):
         "https://github.com/resplendent-dev/unanimous"
         "/blob/master/master.zip?raw=true"
     )
+    setup_cache(requests_mock)
     requests_mock.get(url, exc=requests.exceptions.ConnectTimeout)
-    save_key_value("nonwords", "fakewordish")
     # Exercise
     cached_result = update_cached_nonwords()
     # Verify
-    assert "fakewordish" in cached_result  # nosec # noqa=S101
+    assert "sexualized" in cached_result  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
 
 
 def test_check_upstream_zip_hash_offline(requests_mock):
@@ -234,3 +270,17 @@ def test_check_upstream_zip_hash_offline(requests_mock):
         result = check_upstream_zip_hash()
     # Verify
     assert not result  # nosec # noqa=S101
+
+
+def test_force_get_cached_words(requests_mock):
+    """
+    GIVEN an empty cache WHEN calling `force_get_cached_words` THEN the
+    default should be returned.
+    """
+    setup_cache(requests_mock)
+    save_key_value("nonwords", "")
+    # Exercise
+    result = force_get_cached_words(deflt=42)
+    assert result == 42  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)

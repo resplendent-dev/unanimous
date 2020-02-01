@@ -6,11 +6,17 @@ python -m unanimous
 """
 from __future__ import absolute_import, division, print_function, unicode_literals
 
+import hashlib
+import io
 import pathlib
+import shutil
 import sys
+import tempfile
 import zipfile
 
 import click
+
+from unanimous.pypi_load import get_package_list
 
 CONTEXT_SETTINGS = dict(help_option_names=["-h", "--help"])
 
@@ -53,10 +59,57 @@ def run_invocation():
     """
     basedir = get_project_path()
     zippath = basedir / "master.zip"
-    nonwordpath = basedir / "nonwords.txt"
+    tmpdir = tempfile.mkdtemp()
+    tmppath = pathlib.Path(tmpdir)
+    tmpnonwordpath = build_nonwords_file(tmppath)
     with zipfile.ZipFile(str(zippath), "w") as zobj:
-        zobj.write(nonwordpath, "nonwords.txt")
+        zobj.write(tmpnonwordpath, "nonwords.txt")
         zobj.close()
+    checksum = sha256(zippath)
+    shapath = basedir / "master.sha256"
+    with io.open(str(shapath), "w", encoding="utf-8") as fobj:
+        print(checksum, file=fobj)
+
+
+def build_nonwords_file(tmppath):
+    """
+    Prepare the zip output.
+    """
+    packages = get_package_list()
+    nonwords = set()
+    duplicates = set()
+    basedir = get_project_path()
+    nonwordpath = basedir / "nonwords.txt"
+    tmpnonwordpath = tmppath / "nonwords.txt"
+    shutil.copy(str(nonwordpath), str(tmpnonwordpath))
+    with io.open(str(tmpnonwordpath), "w", encoding="utf-8") as fobjout:
+        with io.open(str(nonwordpath), "r", encoding="utf-8") as fobjin:
+            for line in fobjin:
+                nonword = line.strip().lower()
+                print(nonword, file=fobjout)
+                nonwords.add(nonword)
+        for package in packages:
+            packagename = package.strip().lower()
+            if packagename in nonwords:
+                duplicates.add(packagename)
+            print(packagename, file=fobjout)
+    if duplicates:
+        print(f"Warning Duplicates Found: {', '.join(duplicates)}", file=sys.stderr)
+    return tmpnonwordpath
+
+
+def sha256(filepath):
+    """
+    Get quick hash of file
+    """
+    sha = hashlib.sha256()
+    with open(str(filepath), "rb") as fobj:
+        while True:
+            block = fobj.read(4096)
+            if not block:
+                break
+            sha.update(block)
+    return sha.hexdigest()
 
 
 if __name__ == "__main__":
