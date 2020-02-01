@@ -103,6 +103,8 @@ def test_get_current_non_words(requests_mock):
     result = get_current_non_words()
     # Verify
     assert "sexualized" in result  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_load_key():
@@ -128,6 +130,8 @@ def test_check_upstream_zip_hash(requests_mock):
     cache_updated = check_upstream_zip_hash()
     # Verify
     assert cache_updated  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words(requests_mock):
@@ -142,6 +146,8 @@ def test_get_cached_words(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert current_result == cached_result  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_expired(requests_mock):
@@ -157,6 +163,8 @@ def test_get_cached_words_expired(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert current_result == cached_result  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_expunged(requests_mock):
@@ -172,6 +180,8 @@ def test_get_cached_words_expunged(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_bad_hash(requests_mock):
@@ -187,6 +197,8 @@ def test_get_cached_words_bad_hash(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_cached_words_bad_timestamp(requests_mock):
@@ -201,6 +213,8 @@ def test_get_cached_words_bad_timestamp(requests_mock):
     cached_result = get_cached_words()
     # Verify
     assert cached_result is None  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_get_current_non_words_bad_timestamp(requests_mock):
@@ -215,6 +229,8 @@ def test_get_current_non_words_bad_timestamp(requests_mock):
     result = get_current_non_words()
     # Verify
     assert "sexualized" in result  # nosec # noqa=S101
+    # Teardown
+    setup_cache(requests_mock)
 
 
 def test_update_cached_nonwords(requests_mock):

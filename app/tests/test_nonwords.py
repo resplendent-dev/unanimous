@@ -8,8 +8,19 @@ class TestNonWordFilter(PluginTestCase):
     def setup_fs(self):
         """Setup files."""
 
-        good_words = ["yes", "word", "zx", "sexualized"]
-        self.bad_words1 = ["zxq", "helo", "begn"]
+        good_words = [
+            "yes",
+            "word",
+            "wyx",
+            "hl",
+            "wa",
+            "ai",
+            "x",
+            "y",
+            "zx",
+            "sexualized",
+        ]
+        self.bad_words1 = ["helo", "begn"]
         self.mktemp("test1.txt", "\n".join(self.bad_words1 + good_words), "utf-8")
 
         config = self.dedent(
@@ -28,7 +39,7 @@ class TestNonWordFilter(PluginTestCase):
               - unanimous.filters.nonwords:
                   too_short: 1
               - unanimous.filters.nonwords:
-                  too_short: 2
+                  too_short: 3
             """
         ).format(temp=self.tempdir)
         self.mktemp(".source.yml", config, "utf-8")
