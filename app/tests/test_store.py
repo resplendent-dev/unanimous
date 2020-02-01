@@ -19,6 +19,7 @@ from unanimous.store import (
     load_key,
     save_key_value,
     update_cached_nonwords,
+    force_get_cached_words,
 )
 
 
@@ -269,3 +270,17 @@ def test_check_upstream_zip_hash_offline(requests_mock):
         result = check_upstream_zip_hash()
     # Verify
     assert not result  # nosec # noqa=S101
+
+
+def test_force_get_cached_words(requests_mock):
+    """
+    GIVEN an empty cache WHEN calling `force_get_cached_words` THEN the
+    default should be returned.
+    """
+    setup_cache(requests_mock)
+    save_key_value("nonwords", "")
+    # Exercise
+    result = force_get_cached_words(deflt=42)
+    assert result == 42  # nosec # noqa=S101
+    # Tear down
+    setup_cache(requests_mock)
