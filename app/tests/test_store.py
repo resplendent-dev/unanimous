@@ -250,7 +250,7 @@ def test_update_cached_nonwords(requests_mock):
     cached_result = update_cached_nonwords()
     # Verify
     assert "sexualized" in cached_result  # nosec # noqa=S101
-    # Teardown
+    # Tear down
     setup_cache(requests_mock)
 
 
