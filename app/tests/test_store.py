@@ -84,6 +84,14 @@ def setup_fake_requests(requests_mock):
         requests_mock.get(url, text=fobj.read())
 
 
+def setup_cache(requests_mock):
+    """
+    Push values into the cache
+    """
+    setup_fake_requests(requests_mock)
+    update_cached_nonwords()
+
+
 def test_get_current_non_words(requests_mock):
     """
     GIVEN the upstream data contains a known value WHEN calling
@@ -129,7 +137,7 @@ def test_get_cached_words(requests_mock):
     current words are the same
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     current_result = get_current_non_words()
     # Exercise
     cached_result = get_cached_words()
@@ -143,7 +151,7 @@ def test_get_cached_words_expired(requests_mock):
     current words are the same
     """
     # Setup
-    setup_fake_requests(requests_mock)
+    setup_cache(requests_mock)
     current_result = get_current_non_words()
     save_key_value("timestamp", "20010101120000")
     # Exercise
@@ -158,8 +166,7 @@ def test_get_cached_words_expunged(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     save_key_value("nonwords", "")
     # Exercise
@@ -174,8 +181,7 @@ def test_get_cached_words_bad_hash(requests_mock):
     None is returned.
     """
     # Setup
-    setup_fake_requests(requests_mock)
-    get_current_non_words()
+    setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     save_key_value("sha", "")
     # Exercise
