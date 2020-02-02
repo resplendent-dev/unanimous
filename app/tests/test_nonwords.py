@@ -5,6 +5,8 @@ from spellingtest.check import PluginTestCase
 class TestNonWordFilter(PluginTestCase):
     """Check non-words are allowed."""
 
+    bad_words1 = ["helo", "begn"]
+
     def setup_fs(self):
         """Setup files."""
 
@@ -20,8 +22,14 @@ class TestNonWordFilter(PluginTestCase):
             "zx",
             "sexualized",
         ]
+        exclude_words = ["hujibuki", ""]
         self.bad_words1 = ["helo", "begn"]
-        self.mktemp("test1.txt", "\n".join(self.bad_words1 + good_words), "utf-8")
+        self.mktemp(
+            "test1.txt",
+            "\n".join(self.bad_words1 + good_words + exclude_words),
+            "utf-8",
+        )
+        self.mktemp("spelling_wordlist.txt", "\n".join(exclude_words), "utf-8")
 
         config = self.dedent(
             """
@@ -46,5 +54,4 @@ class TestNonWordFilter(PluginTestCase):
 
     def test_all(self):
         """Test all."""
-
         self.assert_spellcheck(".source.yml", self.bad_words1)
