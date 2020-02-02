@@ -83,14 +83,15 @@ def setup_fake_requests(requests_mock):
     shapath = basepath / "master.sha256"
     with io.open(shapath, "r", encoding="utf-8") as fobj:
         requests_mock.get(url, text=fobj.read())
+    return content
 
 
 def setup_cache(requests_mock):
     """
     Push values into the cache
     """
-    setup_fake_requests(requests_mock)
-    update_cached_nonwords()
+    bytedata = setup_fake_requests(requests_mock)
+    update_cache_with_data(bytedata)
 
 
 def test_get_current_non_words(requests_mock):
