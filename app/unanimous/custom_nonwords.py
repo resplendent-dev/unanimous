@@ -1,6 +1,6 @@
 """
 Support automatically locating a custom non-word list
-assumed to be spelling_wordlist.txt or doc(s)/spelling_wordlist.txt
+assumed to be `spelling_wordlist.txt` or `doc(s)/spelling_wordlist.txt`
 in any ancestor directory
 """
 
@@ -10,7 +10,7 @@ import pathlib
 
 def get_custom_wordlist():
     """
-    If found load the custom wordlist
+    If found load the custom word list
     """
     result = set()
     path = locate_custom_wordlist()
@@ -24,7 +24,7 @@ def get_custom_wordlist():
 
 def locate_custom_wordlist():
     """
-    From the current working directory locate the custom wordlist.
+    From the current working directory locate the custom word list.
     """
     start = pathlib.Path(".").resolve()
     return locate_custom_wordlist_from(start)
@@ -32,7 +32,7 @@ def locate_custom_wordlist():
 
 def locate_custom_wordlist_from(path):
     """
-    From the provided directory locate the custom wordlist.
+    From the provided directory locate the custom word list.
     """
     check = [
         path / "spelling_wordlist.txt",
