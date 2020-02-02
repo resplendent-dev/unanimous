@@ -9,8 +9,6 @@ import sys
 import tempfile
 
 import mock
-import requests
-
 from unanimous.store import (
     check_upstream_zip_hash,
     force_get_cached_words,
@@ -19,8 +17,11 @@ from unanimous.store import (
     get_current_non_words,
     load_key,
     save_key_value,
+    update_cache_with_data,
     update_cached_nonwords,
 )
+
+import requests
 
 
 def get_basedir():
