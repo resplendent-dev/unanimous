@@ -184,6 +184,21 @@ def test_get_cached_words_expunged(requests_mock):
     setup_cache(requests_mock)
 
 
+def test_get_cached_words_bad_hash(requests_mock):
+    """
+    GIVEN an old cache with a bad hash WHEN calling `get_cached_words` THEN
+    no error is raised.
+    """
+    # Setup
+    setup_cache(requests_mock)
+    save_key_value("timestamp", "20010101120000")
+    save_key_value("sha", "")
+    # Exercise
+    get_cached_words()
+    # Tear down
+    setup_cache(requests_mock)
+
+
 def test_get_cached_words_bad_timestamp(requests_mock):
     """
     GIVEN a bad timestamp saved WHEN calling `get_cached_words` THEN
