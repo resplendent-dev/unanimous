@@ -159,6 +159,7 @@ def test_get_cached_words_expired(requests_mock):
     # Setup
     setup_cache(requests_mock)
     current_result = get_current_non_words()
+    setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     # Exercise
     cached_result = get_cached_words()
@@ -177,23 +178,6 @@ def test_get_cached_words_expunged(requests_mock):
     setup_cache(requests_mock)
     save_key_value("timestamp", "20010101120000")
     save_key_value("nonwords", "")
-    # Exercise
-    cached_result = get_cached_words()
-    # Verify
-    assert cached_result is None  # nosec # noqa=S101
-    # Tear down
-    setup_cache(requests_mock)
-
-
-def test_get_cached_words_bad_hash(requests_mock):
-    """
-    GIVEN an old cache with a bad hash WHEN calling `get_cached_words` THEN
-    None is returned.
-    """
-    # Setup
-    setup_cache(requests_mock)
-    save_key_value("timestamp", "20010101120000")
-    save_key_value("sha", "")
     # Exercise
     cached_result = get_cached_words()
     # Verify
