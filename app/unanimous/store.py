@@ -109,18 +109,23 @@ def update_cached_nonwords(basepath=None):
         return force_get_cached_words(basepath=basepath, deflt=set())
     else:
         content = response.content
-        sha256 = hashlib.sha256(content).hexdigest()
-        with io.BytesIO(content) as fobj:
-            with zipfile.ZipFile(fobj) as zobj:
-                data = zobj.read("nonwords.txt").decode("utf-8")
-        save_key_value("nonwords", data, basepath=basepath)
-        save_key_value("sha", sha256, basepath=basepath)
-        save_key_value(
-            "timestamp",
-            datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
-            basepath=basepath,
-        )
-        return set(data.splitlines())
+        return update_cache_with_data(content, basepath=basepath)
+
+
+def update_cache_with_data(bytedata, basepath=None):
+    """
+    Update the cache with the provided zip data
+    """
+    sha256 = hashlib.sha256(bytedata).hexdigest()
+    with io.BytesIO(bytedata) as fobj:
+        with zipfile.ZipFile(fobj) as zobj:
+            data = zobj.read("nonwords.txt").decode("utf-8")
+    save_key_value("nonwords", data, basepath=basepath)
+    save_key_value("sha", sha256, basepath=basepath)
+    save_key_value(
+        "timestamp", datetime.datetime.now().strftime("%Y%m%d%H%M%S"), basepath=basepath
+    )
+    return set(data.splitlines())
 
 
 def get_cached_words(basepath=None):

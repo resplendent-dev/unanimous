@@ -7,6 +7,7 @@ import re
 
 from pyspelling import filters
 
+from unanimous.custom_nonwords import get_custom_wordlist
 from unanimous.store import get_current_non_words
 
 
@@ -16,6 +17,7 @@ class NonWordFilter(filters.Filter):
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
         self.non_words = get_current_non_words()
+        self.non_words.update(get_custom_wordlist())
 
     @staticmethod
     def get_default_config():
