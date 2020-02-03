@@ -48,6 +48,8 @@ class TestNonWordFilter(PluginTestCase):
                   too_short: 1
               - unanimous.filters.nonwords:
                   too_short: 3
+                  wordlist:
+                  - '{temp}/spelling_wordlist.txt'
             """
         ).format(temp=self.tempdir)
         self.mktemp(".source.yml", config, "utf-8")

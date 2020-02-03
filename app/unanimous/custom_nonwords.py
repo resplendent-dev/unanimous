@@ -8,12 +8,11 @@ import io
 import pathlib
 
 
-def get_custom_wordlist():
+def get_custom_wordlist(path):
     """
     If found load the custom word list
     """
     result = set()
-    path = locate_custom_wordlist()
     if not path:
         return result
     with io.open(path, "r", encoding="utf-8") as fobj:
@@ -41,7 +40,9 @@ def locate_custom_wordlist_from(path):
     ]
     for checkpath in check:
         if checkpath.is_file():
+            print(f"Found {checkpath}")
             return checkpath
     if path.parent == path:
+        print(f"No custom wordlist found")
         return None
     return locate_custom_wordlist_from(path.parent)

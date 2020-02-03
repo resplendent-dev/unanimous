@@ -6,6 +6,7 @@ import codecs
 import re
 
 from pyspelling import filters
+from wcmatch import glob
 
 from unanimous.custom_nonwords import get_custom_wordlist
 from unanimous.store import get_current_non_words
@@ -17,12 +18,16 @@ class NonWordFilter(filters.Filter):
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
         self.non_words = get_current_non_words()
-        self.non_words.update(get_custom_wordlist())
+        for target in self.config.get("wordlist", []):
+            for match in glob.iglob(
+                target, flags=glob.N | glob.B | glob.G | glob.S | glob.O
+            ):
+                self.non_words.update(get_custom_wordlist(match))
 
     @staticmethod
     def get_default_config():
         """Get default configuration."""
-        return {"too_short": 3}
+        return {"too_short": 3, "wordlist": []}
 
     def filter(self, source_file, encoding):  # noqa A001
         """Parse text file."""
