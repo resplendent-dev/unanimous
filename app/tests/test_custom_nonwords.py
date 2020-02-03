@@ -7,7 +7,7 @@ import pathlib
 import sys
 import tempfile
 
-from unanimous.custom_nonwords import get_custom_wordlist
+from unanimous.custom_nonwords import get_custom_wordlist, locate_custom_wordlist
 
 
 def get_basedir():
@@ -30,7 +30,7 @@ def test_get_custom_wordlist_emptydir():
     tmpdir = tempfile.mkdtemp()
     os.chdir(tmpdir)
     # Exercise
-    result = get_custom_wordlist()
+    result = get_custom_wordlist(locate_custom_wordlist())
     # Verify
     assert len(result) == 0  # nosec # noqa=S101
     # Tear down
