@@ -40,9 +40,7 @@ def locate_custom_wordlist_from(path):
     ]
     for checkpath in check:
         if checkpath.is_file():
-            print(f"Found {checkpath}")
             return checkpath
     if path.parent == path:
-        print(f"No custom wordlist found")
         return None
     return locate_custom_wordlist_from(path.parent)
