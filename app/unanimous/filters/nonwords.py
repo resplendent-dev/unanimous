@@ -53,7 +53,7 @@ class NonWordFilter(filters.Filter):
 
     def _filter(self, text):
         """Filter text"""
-        words = re.findall("[\\w']+", text)
+        words = re.findall("[A-Za-z']+", text)
         result = []
         for word in words:
             if self._is_nonword(word):

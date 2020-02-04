@@ -20,9 +20,10 @@ class TestNonWordFilter(PluginTestCase):
             "x",
             "y",
             "zx",
+            "GPLv3",
             "sexualized",
         ]
-        exclude_words = ["hujibuki", ""]
+        exclude_words = ["hujibuki", "gplv", ""]
         self.bad_words1 = ["helo", "begn"]
         self.mktemp(
             "test1.txt",
