@@ -70,7 +70,6 @@ passwd
 plainstr
 ponyorm
 postcallfunc
-postgres
 postorder
 postprocessing
 precallfunc
