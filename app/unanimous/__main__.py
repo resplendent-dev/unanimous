@@ -94,7 +94,8 @@ def build_nonwords_file(tmppath):
                 duplicates.add(packagename)
             print(packagename, file=fobjout)
     if duplicates:
-        print(f"Warning Duplicates Found: {', '.join(duplicates)}", file=sys.stderr)
+        duplines = "\n".join(duplicates)
+        print(f"Warning Duplicates Found:\n\n{duplines}", file=sys.stderr)
     return tmpnonwordpath
 
 
