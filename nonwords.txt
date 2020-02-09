@@ -237,3 +237,10 @@ yyyy
 zhangyafeikimi
 zipfile
 zscores
+regrtest
+rtype
+seealso
+superclasses
+uXXXX
+unpickleable
+urlencoded
