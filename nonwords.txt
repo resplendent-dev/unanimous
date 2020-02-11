@@ -329,6 +329,7 @@ wgetrc
 whereclause
 whitelisted
 whitelists
+wigtobigwig
 wildcarded
 wininst
 wmv
@@ -338,12 +339,20 @@ xbm
 xdeadbeef
 xdist
 xhtml
+xlarge
 xml
 xmlrpc
+xzvpf
 xzycn
 yasoob
+ymax
+ymin
 yourapplication
+yourfile
+yourresourcename
+yourumisequence
 yyyy
+zerocoverage
 zeromq
 zerorpcs
 zeroservice
@@ -351,6 +360,7 @@ zeroservices
 zeroworkers
 zhangyafeikimi
 zipfile
+zlib
 zomgdev
 zscores
 zyxwvu
