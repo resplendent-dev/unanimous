@@ -240,6 +240,8 @@ submodule
 submodules
 subpackage
 subprocess
+subprotocol
+subprotocols
 subquery
 subsequences
 subtype
@@ -257,6 +259,7 @@ tcyrus
 teardown
 tensorflow's
 testcases
+testenv
 testlist
 testsuite
 texinfo
@@ -290,7 +293,9 @@ unhashable
 unindent
 unindented
 unitless
+unittests
 unmaintained
+unparsed
 unpickleable
 unsatisfiable
 unterminated
@@ -301,6 +306,7 @@ urlparse
 urlsafe
 userid
 userids
+utcnow
 utf
 uxxxx
 valueerror
@@ -326,6 +332,7 @@ wildcarded
 wininst
 wmv
 wsgi
+wss
 xbm
 xdeadbeef
 xdist
@@ -334,7 +341,10 @@ xml
 xmlrpc
 xzycn
 yasoob
+yourapplication
 yyyy
 zhangyafeikimi
 zipfile
+zomgdev
 zscores
+zyxwvu
