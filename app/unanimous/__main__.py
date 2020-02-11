@@ -77,7 +77,7 @@ def build_nonwords_file(tmppath):
     """
     packages = get_package_list()
     nonwords = set()
-    duplicates = set()
+    existing = set(package.strip().lower() for package in packages)
     basedir = get_project_path()
     nonwordpath = basedir / "nonwords.txt"
     tmpnonwordpath = tmppath / "nonwords.txt"
@@ -86,16 +86,11 @@ def build_nonwords_file(tmppath):
         with io.open(str(nonwordpath), "r", encoding="utf-8") as fobjin:
             for line in fobjin:
                 nonword = line.strip().lower()
-                print(nonword, file=fobjout)
-                nonwords.add(nonword)
-        for package in packages:
-            packagename = package.strip().lower()
-            if packagename in nonwords:
-                duplicates.add(packagename)
-            print(packagename, file=fobjout)
-    if duplicates:
-        duplines = "\n".join(duplicates)
-        print(f"Warning Duplicates Found:\n\n{duplines}", file=sys.stderr)
+                if nonword not in existing:
+                    nonwords.add(nonword)
+        for nonword in sorted(list(nonwords)):
+            print(nonword, file=fobjout)
+    shutil.copy(tmpnonwordpath, nonwordpath)
     return tmpnonwordpath
 
 
