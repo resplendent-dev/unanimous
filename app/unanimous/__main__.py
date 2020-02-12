@@ -88,9 +88,13 @@ def build_nonwords_file(tmppath):
                 nonword = line.strip().lower()
                 if nonword not in existing:
                     nonwords.add(nonword)
+                    existing.add(nonword)
         for nonword in sorted(list(nonwords)):
             print(nonword, file=fobjout)
     shutil.copy(tmpnonwordpath, nonwordpath)
+    with io.open(str(tmpnonwordpath), "w", encoding="utf-8") as fobjout:
+        for nonword in sorted(list(existing)):
+            print(nonword, file=fobjout)
     return tmpnonwordpath
 
 
