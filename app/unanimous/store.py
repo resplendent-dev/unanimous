@@ -17,6 +17,7 @@ class MemoryCache:  # pylint: disable=too-few-public-methods
     """
     Class used to keep lazy memory cache of non-words.
     """
+
     cache = None
 
 

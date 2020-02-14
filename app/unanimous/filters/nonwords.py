@@ -14,6 +14,7 @@ from unanimous.store import get_current_non_words
 
 q("load nonword filter")
 
+
 class NonWordFilter(filters.Filter):
     """Remove non-words from source"""
 

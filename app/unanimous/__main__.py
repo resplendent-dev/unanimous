@@ -80,7 +80,7 @@ def build_nonwords_file(tmppath):
     nonwords = set()
     packagewords = set()
     for package in packages:
-        for wordpart in re.findall('[a-z]+', package.lower()):
+        for wordpart in re.findall("[a-z]+", package.lower()):
             if len(wordpart) <= 3:
                 continue
             packagewords.add(wordpart)
