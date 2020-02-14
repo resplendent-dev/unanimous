@@ -9,6 +9,7 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 import hashlib
 import io
 import pathlib
+import re
 import shutil
 import sys
 import tempfile
@@ -77,7 +78,12 @@ def build_nonwords_file(tmppath):
     """
     packages = get_package_list()
     nonwords = set()
-    existing = set(package.strip().lower() for package in packages)
+    packagewords = set()
+    for package in packages:
+        for wordpart in re.findall("[a-z]+", package.lower()):
+            if len(wordpart) <= 3:
+                continue
+            packagewords.add(wordpart)
     basedir = get_project_path()
     nonwordpath = basedir / "nonwords.txt"
     tmpnonwordpath = tmppath / "nonwords.txt"
@@ -86,14 +92,14 @@ def build_nonwords_file(tmppath):
         with io.open(str(nonwordpath), "r", encoding="utf-8") as fobjin:
             for line in fobjin:
                 nonword = line.strip().lower()
-                if nonword not in existing:
+                if nonword not in packagewords:
                     nonwords.add(nonword)
-                    existing.add(nonword)
+                    packagewords.add(nonword)
         for nonword in sorted(list(nonwords)):
             print(nonword, file=fobjout)
     shutil.copy(tmpnonwordpath, nonwordpath)
     with io.open(str(tmpnonwordpath), "w", encoding="utf-8") as fobjout:
-        for nonword in sorted(list(existing)):
+        for nonword in sorted(list(packagewords)):
             print(nonword, file=fobjout)
     return tmpnonwordpath
 
