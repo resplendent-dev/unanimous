@@ -7,12 +7,9 @@ import re
 
 from pyspelling import filters
 from wcmatch import glob
-import q
 
 from unanimous.custom_nonwords import get_custom_wordlist
 from unanimous.store import get_current_non_words
-
-q("load nonword filter")
 
 
 class NonWordFilter(filters.Filter):
@@ -20,9 +17,7 @@ class NonWordFilter(filters.Filter):
 
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
-        q("load nonwords")
         self.non_words = set(get_current_non_words())
-        q("loaded {len(self.non_words)} nonwords")
         for target in self.config.get("wordlist", []):
             for match in glob.iglob(
                 target, flags=glob.N | glob.B | glob.G | glob.S | glob.O
@@ -46,7 +41,6 @@ class NonWordFilter(filters.Filter):
         Check if a word matches the non-word filter of being either too short
         or a known non-word.
         """
-        q("nonword check")
         too_short_config = self.config["too_short"]
         too_short_check = len(word) <= too_short_config
         if too_short_check:
