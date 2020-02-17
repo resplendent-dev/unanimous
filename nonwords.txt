@@ -7,6 +7,7 @@ allsensors
 apierrors
 arn
 arns
+assertsetequal
 assignees
 asynchronicity
 autocompletion
@@ -21,10 +22,12 @@ callables
 cannotdeduceregionerror
 ceil
 codez
+commitwithin
 conftest
 cov
 customizations
 decrypted
+defragmentation
 dependables
 desynchronization
 dev
@@ -40,10 +43,12 @@ euri
 exename
 fbed
 formdata
+fragsize
 frontend's
 genindex
 gplv
 hasn
+hl
 href
 impactful
 incrementing
@@ -51,10 +56,12 @@ indeterministic
 interoperable
 ints
 iress
+iterables
 jeffknupp
 jfkirk
 jknupp
 katayoku
+kwarg
 letterpaper
 linearities
 linters
@@ -64,9 +71,11 @@ loggroup
 maxdepth
 microframeworks
 minibatches
+mlt
 modindex
 moduleauthor
 mtitg
+multidocument
 mydir
 myscript
 mywhitelist
@@ -80,6 +89,7 @@ nonword
 nonwords
 nosec
 nullable
+numfound
 onwards
 operationid
 overfitting
@@ -120,7 +130,9 @@ prtgsensor
 pseudoterminals
 pushd
 pyassem
+pysolrs
 pythonhosted
+qtime
 readd
 realname
 recommenders
@@ -159,6 +171,7 @@ sloria
 sobolevn
 socio
 soloman
+solrconfig
 somefunnyname
 sortation
 sourcelink
@@ -306,6 +319,7 @@ xenial
 xepb
 xeval
 xext
+xfffd
 xfree
 xhat
 xhatparams
