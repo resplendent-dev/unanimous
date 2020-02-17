@@ -13,6 +13,14 @@ import dataset
 import requests
 
 
+class MemoryCache:  # pylint: disable=too-few-public-methods
+    """
+    Class used to keep lazy memory cache of non-words.
+    """
+
+    cache = None
+
+
 def get_config_dir(basepath=None):
     """
     Return the directory to store the cache of PyPi packages
@@ -133,6 +141,8 @@ def get_cached_words(basepath=None):
     If the cache is current then return the list of words otherwise return
     None
     """
+    if MemoryCache.cache:
+        return MemoryCache.cache
     timestamp = load_key("timestamp", basepath=basepath)
     if not timestamp:
         return None
@@ -147,7 +157,8 @@ def get_cached_words(basepath=None):
             datetime.datetime.now().strftime("%Y%m%d%H%M%S"),
             basepath=basepath,
         )
-    return force_get_cached_words(basepath=basepath)
+    MemoryCache.cache = force_get_cached_words(basepath=basepath)
+    return MemoryCache.cache
 
 
 def force_get_cached_words(basepath=None, deflt=None):

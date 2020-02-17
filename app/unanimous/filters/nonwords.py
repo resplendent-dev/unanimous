@@ -17,7 +17,7 @@ class NonWordFilter(filters.Filter):
 
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
-        self.non_words = get_current_non_words()
+        self.non_words = set(get_current_non_words())
         for target in self.config.get("wordlist", []):
             for match in glob.iglob(
                 target, flags=glob.N | glob.B | glob.G | glob.S | glob.O
