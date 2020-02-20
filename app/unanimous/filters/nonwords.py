@@ -18,7 +18,7 @@ class NonWordFilter(filters.Filter):
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
         self.non_words = get_current_non_words()
-        for target in self.config.get("wordlist", []):
+        for target in self.config.get("wordlists", []):
             for match in glob.iglob(
                 target, flags=glob.N | glob.B | glob.G | glob.S | glob.O
             ):
@@ -27,7 +27,7 @@ class NonWordFilter(filters.Filter):
     @staticmethod
     def get_default_config():
         """Get default configuration."""
-        return {"too_short": 3, "wordlist": []}
+        return {"too_short": 3, "wordlists": [], "lowercase_only": True}
 
     def filter(self, source_file, encoding):  # noqa A001
         """Parse text file."""
@@ -41,6 +41,8 @@ class NonWordFilter(filters.Filter):
         Check if a word matches the non-word filter of being either too short
         or a known non-word.
         """
+        if self.config["lowercase_only"] and not word.islower():
+            return True
         too_short_config = self.config["too_short"]
         too_short_check = len(word) <= too_short_config
         if too_short_check:

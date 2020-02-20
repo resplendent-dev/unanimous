@@ -22,6 +22,7 @@ class TestNonWordFilter(PluginTestCase):
             "zx",
             "GPLv3",
             "sexualized",
+            "WordsWithCapitals",
         ]
         exclude_words = ["hujibuki", "gplv", ""]
         self.bad_words1 = ["helo", "begn"]
@@ -49,7 +50,7 @@ class TestNonWordFilter(PluginTestCase):
                   too_short: 1
               - unanimous.filters.nonwords:
                   too_short: 3
-                  wordlist:
+                  wordlists:
                   - '{temp}/spelling_wordlist.txt'
             """
         ).format(temp=self.tempdir)

@@ -67,6 +67,7 @@ getter
 gplv
 gzip
 hasn
+heapu
 hostname
 href
 impactful
@@ -201,6 +202,7 @@ sensorobject
 sensortree
 serversig
 sessionstorage
+setrelheap
 sexualized
 sgi
 shellcheck
@@ -214,6 +216,7 @@ socio
 softmax
 soloman
 somefunnyname
+someutfcharacters
 sortation
 sourcelink
 sqlite
