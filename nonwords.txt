@@ -55,6 +55,7 @@ genindex
 getattr
 gplv
 hasn
+heapu
 heterophobia
 hl
 hostnames
@@ -177,6 +178,7 @@ sensorobject
 sensortree
 serversig
 sessionstorage
+setrelheap
 sexualized
 sgi
 shorthands
@@ -188,6 +190,7 @@ socio
 soloman
 solrconfig
 somefunnyname
+someutfcharacters
 sortation
 sourcelink
 sqrt
