@@ -10,10 +10,13 @@ arns
 assertsetequal
 assignees
 asynchronicity
+attribs
+authkey
 autocompletion
 automodule
 awesomez
 binarized
+bindable
 booleans
 browsable
 byid
@@ -196,7 +199,6 @@ sourcelink
 sqrt
 startswith
 stderr
-stmt
 stopworded
 strcut
 streamreader
