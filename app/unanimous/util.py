@@ -2,7 +2,17 @@
 Exposed utility calls
 """
 
-def is_nonword(word, lowercase_only=True, too_short_check=3):
+from unanimous.store import get_current_non_words
+
+
+class NonWords:  # pylint: disable=too-few-public-methods
+    """
+    Cache of non-words
+    """
+    non_words = set()
+
+
+def is_nonword(word, lowercase_only=True, too_short_check=3, extra_non_words=None):
     """
     Utility call to check a word is a non-word
     """
@@ -12,9 +22,13 @@ def is_nonword(word, lowercase_only=True, too_short_check=3):
     if too_short_result:
         return True
     lword = word.lower()
-    non_word_check = lword in self.non_words
+    if not NonWords.non_words:
+        NonWords.non_words = set(get_current_non_words())
+    non_word_check = lword in NonWords.non_words
     if non_word_check:
         return True
+    if extra_non_words is not None:
+        non_word_check = lword in extra_non_words
+        if non_word_check:
+            return True
     return False
-
-
