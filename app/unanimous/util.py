@@ -2,6 +2,7 @@
 Exposed utility calls
 """
 
+
 def is_nonword(word, lowercase_only=True, too_short_check=3):
     """
     Utility call to check a word is a non-word
@@ -16,5 +17,3 @@ def is_nonword(word, lowercase_only=True, too_short_check=3):
     if non_word_check:
         return True
     return False
-
-
