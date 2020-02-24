@@ -19,6 +19,7 @@ class MemoryCache:  # pylint: disable=too-few-public-methods
     """
 
     cache = None
+    prepared = None
 
 
 def get_config_dir(basepath=None):
@@ -40,7 +41,19 @@ def get_storage_table(basepath=None):
     path = get_config_dir(basepath=basepath)
     con = dataset.connect("sqlite:///%s" % (path / "cache.db"))
     table = con["storage"]
+    if not MemoryCache.prepared:
+        prepare_table(con, table)
+        MemoryCache.prepared = True
     return table
+
+
+def prepare_table(con, table):
+    """
+    Ensure the table and index are setup
+    """
+    table.create_column("key", con.types.string(25))
+    table.create_column("value", con.types.text)
+    table.create_index(["key"])
 
 
 def load_key(key, deflt=None, basepath=None):
@@ -59,7 +72,7 @@ def save_key_value(key, value, basepath=None):
     Save key, value to storage.
     """
     table = get_storage_table(basepath=basepath)
-    table.upsert({"key": key, "value": value}, keys=["key"])
+    table.upsert({"key": key, "value": value}, keys=["key"], ensure=False)
 
 
 def get_cached_sha(basepath=None):
