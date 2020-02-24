@@ -9,6 +9,7 @@ class NonWords:  # pylint: disable=too-few-public-methods
     """
     Cache of non-words
     """
+
     non_words = set()
 
 
