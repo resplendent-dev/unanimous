@@ -51,7 +51,7 @@ def prepare_table(con, table):
     """
     Ensure the table and index are setup
     """
-    table.create_column("key", con.types.string("25"))
+    table.create_column("key", con.types.string(25))
     table.create_column("value", con.types.text)
     table.create_index(["key"])
 
