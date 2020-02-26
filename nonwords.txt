@@ -35,6 +35,7 @@ ause
 authkey
 autocompletion
 autoformatting
+autoincrement
 automodule
 awesomez
 bairro
@@ -42,6 +43,8 @@ barangay
 barangays
 baseclass
 basename
+basestring
+bashrc
 bban
 bday
 binarized
@@ -64,6 +67,7 @@ cdba
 ceil
 charwidth
 cjnewman
+cobrateam
 codesc
 codez
 commitwithin
@@ -72,6 +76,7 @@ conftest
 cov
 ctor
 customizations
+datetimes
 decrypted
 defragmentation
 denilsonsa
@@ -107,6 +112,7 @@ fragsize
 garyd
 genindex
 getattr
+gmtime
 gplv
 hasn
 heapu
@@ -146,6 +152,7 @@ linearities
 linters
 listwidgets
 localhost
+localtime
 loggroup
 lowerstrip
 maxdepth
@@ -167,6 +174,7 @@ nearterm
 newname
 newplaceid
 nocover
+noinspection
 nonlinearity
 nonsensuous
 nonword
