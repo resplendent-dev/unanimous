@@ -27,7 +27,12 @@ class NonWordFilter(filters.Filter):
     @staticmethod
     def get_default_config():
         """Get default configuration."""
-        return {"too_short": 3, "wordlists": [], "lowercase_only": True}
+        return {
+            "too_short": 3,
+            "wordlists": [],
+            "lowercase_only": True,
+            "exclude_apostrophe": True,
+        }
 
     def filter(self, source_file, encoding):  # noqa A001
         """Parse text file."""
@@ -45,6 +50,7 @@ class NonWordFilter(filters.Filter):
             word=word,
             lowercase_only=self.config["lowercase_only"],
             too_short_check=self.config["too_short"],
+            exclude_apostrophe=self.config["exclude_apostrophe"],
             extra_non_words=self.non_words,
         )
 
