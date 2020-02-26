@@ -13,11 +13,19 @@ class NonWords:  # pylint: disable=too-few-public-methods
     non_words = set()
 
 
-def is_nonword(word, lowercase_only=True, too_short_check=3, extra_non_words=None):
+def is_nonword(
+    word,
+    lowercase_only=True,
+    too_short_check=3,
+    exclude_apostrophe=True,
+    extra_non_words=None,
+):
     """
     Utility call to check a word is a non-word
     """
     if lowercase_only and not word.islower():
+        return True
+    if exclude_apostrophe and "'" in word:
         return True
     too_short_result = len(word) <= too_short_check
     if too_short_result:
