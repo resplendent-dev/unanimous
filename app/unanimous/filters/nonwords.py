@@ -9,7 +9,7 @@ from pyspelling import filters
 from wcmatch import glob
 
 from unanimous.custom_nonwords import get_custom_wordlist
-from unanimous.store import get_current_non_words
+from unanimous.util import is_nonword
 
 
 class NonWordFilter(filters.Filter):
@@ -17,7 +17,7 @@ class NonWordFilter(filters.Filter):
 
     def __init__(self, options, **kwargs):
         super().__init__(options, **kwargs)
-        self.non_words = set(get_current_non_words())
+        self.non_words = set()
         for target in self.config.get("wordlists", []):
             for match in glob.iglob(
                 target, flags=glob.N | glob.B | glob.G | glob.S | glob.O
@@ -41,17 +41,12 @@ class NonWordFilter(filters.Filter):
         Check if a word matches the non-word filter of being either too short
         or a known non-word.
         """
-        if self.config["lowercase_only"] and not word.islower():
-            return True
-        too_short_config = self.config["too_short"]
-        too_short_check = len(word) <= too_short_config
-        if too_short_check:
-            return True
-        lword = word.lower()
-        non_word_check = lword in self.non_words
-        if non_word_check:
-            return True
-        return False
+        return is_nonword(
+            word=word,
+            lowercase_only=self.config["lowercase_only"],
+            too_short_check=self.config["too_short"],
+            extra_non_words=self.non_words,
+        )
 
     def _filter(self, text):
         """Filter text"""
