@@ -22,9 +22,12 @@ attribs
 ause
 authkey
 autocompletion
+autoincrement
 automodule
 awesomez
 basename
+basestring
+bashrc
 binarized
 bindable
 booleans
@@ -38,6 +41,7 @@ catenate
 ceil
 charwidth
 cjnewman
+cobrateam
 codesc
 codez
 commitwithin
@@ -46,6 +50,7 @@ conftest
 cov
 ctor
 customizations
+datetimes
 decrypted
 defragmentation
 denilsonsa
@@ -77,6 +82,7 @@ fragsize
 frontend's
 genindex
 getattr
+gmtime
 gplv
 hasn
 heapu
@@ -105,6 +111,7 @@ linearities
 linters
 listwidgets
 localhost
+localtime
 loggroup
 lowerstrip
 maxdepth
@@ -123,6 +130,7 @@ nearterm
 newname
 newplaceid
 nocover
+noinspection
 nonlinearity
 nonword
 nonwords
