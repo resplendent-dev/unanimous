@@ -141,6 +141,9 @@ fname
 formdata
 fragsize
 freqprober
+fuzzyrusty
+fuzzysharp
+fuzzywuzz
 garyd
 geholfen
 genindex
@@ -225,6 +228,7 @@ mimicus
 mindflayer
 minibatches
 misencoded
+misordered
 mixups
 mlt
 modindex
@@ -232,6 +236,7 @@ moduleauthor
 mtavruli
 mtitg
 multidocument
+multiplatform
 mydir
 myscript
 mywhitelist
