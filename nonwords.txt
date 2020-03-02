@@ -925,3 +925,11 @@ zscores
 zstar
 ztol
 zyxwvu
+toolfunc
+automagically
+mkvirtualenv
+prepopulated
+qmarlats
+moorman
+ectoplasm
+rico
