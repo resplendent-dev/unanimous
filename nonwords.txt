@@ -57,6 +57,7 @@ autocompletion
 autoformatting
 autogenerations
 autoincrement
+automagically
 automapped
 automodule
 awesomez
@@ -185,6 +186,7 @@ easytmdb
 ebertti
 ecstask
 ecstaskdefinition
+ectoplasm
 efghij
 eidx
 einmal
@@ -368,12 +370,14 @@ minifies
 misencoded
 misordered
 mixups
+mkvirtualenv
 mlt
 modellist
 modindex
 moduleauthor
 mollit
 montana
+moorman
 motiky
 mtavruli
 mthread
@@ -462,6 +466,7 @@ preloaded
 preorder
 prepended
 prepends
+prepopulated
 preprocessors
 probabilistically
 probeobject
@@ -483,6 +488,7 @@ pyassem
 pysolrs
 pythonhosted
 pywkm
+qmarlats
 qtime
 quis
 readd
@@ -518,6 +524,7 @@ reusability
 revalidate
 revalidates
 ribeye
+rico
 rmse
 romanization
 romanized
@@ -652,6 +659,7 @@ tokenizes
 tokenizing
 tokentype
 toks
+toolfunc
 tornadoparser
 tostr
 tounicode
