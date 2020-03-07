@@ -997,3 +997,14 @@ zscores
 zstar
 ztol
 zyxwvu
+oraclegis
+mysqlgis
+dbname
+incr
+percona
+soname
+runshell
+resizable
+portis
+performant
+kouio
