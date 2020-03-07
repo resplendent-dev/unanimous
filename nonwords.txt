@@ -968,3 +968,14 @@ zscores
 zstar
 ztol
 zyxwvu
+mouseover
+walsh
+scrollspy
+endcomment
+sociallogin
+allauthdemo
+unstacked
+chartapp
+unstacks
+unstacking
+yvalue
