@@ -152,6 +152,7 @@ dasd
 dass
 dataframing
 datetimes
+dbname
 dcramer
 decodings
 decrypted
@@ -301,6 +302,7 @@ imitatio
 impactful
 includable
 incompressible
+incr
 incrementing
 indeterministic
 instanceof
@@ -345,6 +347,7 @@ kevgathuku
 klmn
 kompiuter
 komplexen
+kouio
 kwarg
 labore
 laboris
@@ -426,6 +429,7 @@ mydir
 mymodelname
 myscript
 mysidebar
+mysqlgis
 mywhitelist
 natively
 nbsp
@@ -460,6 +464,7 @@ onload
 onreadystatechange
 onwards
 operationid
+oraclegis
 orderedmultimdict
 oretha
 outbufs
@@ -482,7 +487,9 @@ parsesuite
 passhash
 pathname
 pdate
+percona
 performable
+performant
 permissionif
 personalmodule
 petrbela
@@ -493,6 +500,7 @@ plainstr
 pointsize
 popitem
 popvalue
+portis
 postcallfunc
 postgresserver
 postorder
@@ -562,6 +570,7 @@ requestline
 reraised
 resending
 resends
+resizable
 resourceattributenotfounderror
 resps
 restructured
@@ -579,6 +588,7 @@ rootid
 rstrip
 rtype
 rundelay
+runshell
 ryanmcgrath
 ryanvarley
 ryoryomaru
@@ -625,6 +635,7 @@ somefunnyname
 someotherfile
 somerequest
 someutfcharacters
+soname
 sortation
 sourcelink
 spaceless
@@ -1008,14 +1019,3 @@ zscores
 zstar
 ztol
 zyxwvu
-oraclegis
-mysqlgis
-dbname
-incr
-percona
-soname
-runshell
-resizable
-portis
-performant
-kouio
