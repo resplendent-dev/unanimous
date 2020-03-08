@@ -1051,3 +1051,9 @@ zscores
 zstar
 ztol
 zyxwvu
+plusequals
+rollbacked
+migraph
+signedness
+informations
+fylker
