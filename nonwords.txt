@@ -1057,3 +1057,9 @@ zscores
 zstar
 ztol
 zyxwvu
+firma
+enskild
+voivodeship
+rght
+philippeluickx
+proration
