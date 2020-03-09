@@ -64,6 +64,7 @@ automagically
 automapped
 automodule
 awesomez
+baar
 backref
 backreference
 backslashed
@@ -269,6 +270,7 @@ flaskblog
 flaticons
 floppyform
 fname
+fooo
 foos
 formconfig
 formdata
@@ -739,6 +741,7 @@ subaccount
 subclassed
 subclasses
 subclassing
+subcollection
 subdependencies
 subdirectories
 subdirectory
@@ -864,6 +867,7 @@ unhandled
 unhashable
 unindent
 unindented
+unindexed
 uninstantiated
 unintuitive
 uniquifies
@@ -884,6 +888,7 @@ unpickling
 unqueued
 unrefunded
 unregistering
+unregistration
 unsanitized
 unsatisfiable
 unsecure
@@ -957,6 +962,7 @@ waitpid
 waivable
 walkthrough
 walsh
+watsons
 weakrefs
 webobparser
 webservers
@@ -1141,9 +1147,3 @@ zscores
 zstar
 ztol
 zyxwvu
-subcollection
-fooo
-baar
-watsons
-unregistration
-unindexed
