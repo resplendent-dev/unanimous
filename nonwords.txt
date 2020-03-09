@@ -146,6 +146,7 @@ consequat
 cov
 coveragerc
 createjs
+crosshairs
 cryptographically
 cryptosign
 cssrewrite
@@ -744,8 +745,10 @@ subitems
 sublicensable
 sublicense
 submodels
+subnode
 subpackages
 subpage
+subpixel
 subprocesses
 subprotocol
 subprotocols
@@ -878,12 +881,14 @@ unrefunded
 unregistering
 unsatisfiable
 unsecure
+unselect
 unselected
 unserializing
 unshift
 unstacked
 unstacking
 unstacks
+unstar
 unsubbing
 unsubscribers
 unterminated
@@ -1068,6 +1073,7 @@ yaxis
 ycontbound
 ydata
 ydirection
+yekibud
 yfitted
 yforecast
 ying
@@ -1129,9 +1135,3 @@ zscores
 zstar
 ztol
 zyxwvu
-unselect
-subpixel
-subnode
-crosshairs
-yekibud
-unstar
