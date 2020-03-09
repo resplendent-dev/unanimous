@@ -1129,3 +1129,9 @@ zscores
 zstar
 ztol
 zyxwvu
+unselect
+subpixel
+subnode
+crosshairs
+yekibud
+unstar
