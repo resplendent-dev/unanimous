@@ -327,6 +327,7 @@ httprettized
 iancal
 ibnida
 icio
+icontains
 ideographic
 imagegenerators
 imho
@@ -382,6 +383,7 @@ katayoku
 kavdev
 keine
 kevgathuku
+keydown
 klmn
 kompiuter
 komplexen
@@ -422,6 +424,7 @@ lynis
 macr
 macroman
 magna
+malfunctional
 manglings
 matthiask
 maxdepth
@@ -509,6 +512,7 @@ officia
 olddisplay
 omdict
 onabort
+onblur
 onload
 onposition
 onreadystatechange
@@ -528,6 +532,7 @@ oxfe
 padds
 pagerefs
 parallelization
+paren
 parens
 pariatur
 parseexpr
@@ -535,6 +540,7 @@ parsefile
 parsererror
 parsestr
 parsesuite
+parsetab
 passhash
 pathname
 pdate
@@ -1147,9 +1153,3 @@ zscores
 zstar
 ztol
 zyxwvu
-paren
-malfunctional
-parsetab
-onblur
-keydown
-icontains
