@@ -1147,3 +1147,9 @@ zscores
 zstar
 ztol
 zyxwvu
+paren
+malfunctional
+parsetab
+onblur
+keydown
+icontains
