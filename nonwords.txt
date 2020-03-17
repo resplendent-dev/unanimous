@@ -144,6 +144,7 @@ commutativity
 conftest
 consectetur
 consequat
+consolemail
 cov
 coveragerc
 createjs
@@ -260,6 +261,7 @@ fbed
 fbone
 fccff
 fieldset
+filemail
 filemodels
 fileprogress
 filteredimage
@@ -385,6 +387,7 @@ jwilges
 katayoku
 kavdev
 keine
+kennethreitz
 kevgathuku
 keydown
 klmn
@@ -417,6 +420,7 @@ localhost
 localstore
 localtime
 locmem
+locmemcache
 loggroup
 logics
 lossy
@@ -444,6 +448,7 @@ metaclasses
 metasearch
 microframeworks
 mignon
+migonzalvar
 migraph
 mihpayid
 mikehelmick
@@ -618,6 +623,7 @@ qtime
 quis
 ratiofieldname
 ratiofields
+rconradharris
 readd
 realname
 reconcatenate
@@ -1156,9 +1162,3 @@ zscores
 zstar
 ztol
 zyxwvu
-rconradharris
-migonzalvar
-locmemcache
-kennethreitz
-filemail
-consolemail
