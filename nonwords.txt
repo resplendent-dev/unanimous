@@ -211,6 +211,7 @@ doesnt
 dolore
 dotless
 dragend
+dummymail
 eacute
 easytmdb
 ebertti
@@ -299,6 +300,7 @@ getattr
 getpath
 getters
 gfxmonk
+ghickman
 globbed
 glogging
 gmtime
@@ -378,6 +380,7 @@ jpcntx
 jpcntxprober
 jsoneditoronline
 jsurloppe
+julianwachholz
 jwilges
 katayoku
 kavdev
@@ -401,7 +404,6 @@ leberkas
 lechotet
 letterpaper
 libev
-libjpeg
 libphonenumber
 libpng
 libxslt
@@ -437,6 +439,7 @@ mcflask
 mcflyin
 meisthai
 mememeoo
+memorymail
 metaclasses
 metasearch
 microframeworks
@@ -486,6 +489,7 @@ newmexico
 newname
 newplaceid
 nicht
+nickstenning
 nightlies
 nisi
 nnen
@@ -864,7 +868,6 @@ underspecifies
 undoc
 unencrypted
 unescaped
-unfollow
 unfound
 unglobbed
 ungrouped
@@ -911,6 +914,7 @@ unsubscribers
 unterminated
 unthrottled
 untracked
+unversioned
 unvote
 upperbound
 uppercased
@@ -919,7 +923,6 @@ uralbash
 urandom
 uravy
 uris
-urlconf
 urlencoded
 urlpatterns
 urlresolvers
@@ -1153,9 +1156,3 @@ zscores
 zstar
 ztol
 zyxwvu
-unversioned
-nickstenning
-memorymail
-julianwachholz
-ghickman
-dummymail
