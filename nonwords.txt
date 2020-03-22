@@ -25,6 +25,7 @@ allkeys
 allprobes
 allsensors
 alphanumerics
+amazonaws
 ance
 ancock
 andouille
@@ -71,7 +72,6 @@ backslashed
 bairro
 barangay
 barangays
-baseclass
 basename
 basestring
 bashrc
@@ -435,6 +435,7 @@ manglings
 matthiask
 maxdepth
 maxmemory
+maxsize
 maxwidth
 mbcssm
 mbcssmprober
@@ -446,6 +447,7 @@ mememeoo
 memorymail
 metaclasses
 metasearch
+mfcovington
 microframeworks
 mignon
 migonzalvar
@@ -533,6 +535,7 @@ oretha
 outbufs
 outtextf
 outtextlist
+overcounting
 overfitting
 overholt
 overparameterization
@@ -573,6 +576,7 @@ popvalue
 portis
 postback
 postcallfunc
+postcsrf
 postgresserver
 postorder
 postprocessed
@@ -707,6 +711,7 @@ signedness
 signups
 sint
 siphones
+sitewide
 sizedimage
 skipunless
 skool
