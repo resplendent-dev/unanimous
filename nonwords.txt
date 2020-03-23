@@ -1179,3 +1179,9 @@ zscores
 zstar
 ztol
 zyxwvu
+stopasgroup
+pids
+parzen
+optionals
+multithreading
+getppid
