@@ -306,6 +306,7 @@ genindex
 getattr
 getpath
 getters
+getvalue
 gfxmonk
 ghickman
 globbed
@@ -627,7 +628,10 @@ pyminify
 pysolrs
 pythonhosted
 pywkm
+qcluster
+qinfo
 qmarlats
+qsize
 qtime
 quis
 ratiofieldname
@@ -880,6 +884,7 @@ uncollectible
 uncomment
 uncompress
 uncompressable
+undaemonize
 undelegate
 underspecifies
 undoc
@@ -909,6 +914,7 @@ unmute
 unparsed
 unpatch
 unpaused
+unpickle
 unpickleable
 unpickling
 unqueued
@@ -1173,9 +1179,3 @@ zscores
 zstar
 ztol
 zyxwvu
-qsize
-qinfo
-qcluster
-getvalue
-unpickle
-undaemonize
