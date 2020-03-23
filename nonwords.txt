@@ -1173,3 +1173,9 @@ zscores
 zstar
 ztol
 zyxwvu
+qsize
+qinfo
+qcluster
+getvalue
+unpickle
+undaemonize
