@@ -305,6 +305,7 @@ generateimages
 genindex
 getattr
 getpath
+getppid
 getters
 getvalue
 gfxmonk
@@ -486,6 +487,7 @@ multicurl
 multidocument
 multiplatform
 multiserver
+multithreading
 multivalue
 multiwidgets
 mydir
@@ -535,6 +537,7 @@ onposition
 onreadystatechange
 onwards
 operationid
+optionals
 oraclegis
 orderedmultimdict
 oretha
@@ -559,6 +562,7 @@ parsererror
 parsestr
 parsesuite
 parsetab
+parzen
 passhash
 pathname
 pdate
@@ -573,6 +577,7 @@ pgproto
 pgroto
 philippeluickx
 phonenumberutil
+pids
 plainstr
 playability
 plusequals
@@ -754,6 +759,7 @@ sqrt
 starrhorne
 startswith
 stderr
+stopasgroup
 stoptimer
 stopworded
 strcut
