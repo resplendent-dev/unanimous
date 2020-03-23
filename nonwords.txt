@@ -50,6 +50,7 @@ assertsetequal
 assignees
 asynchronicity
 asyoutypeformatter
+atomicity
 atronah
 attribs
 attrname
@@ -235,6 +236,9 @@ endcomment
 endcompress
 endif
 enim
+enqueued
+enqueues
+enqueuing
 enskild
 enterable
 entityref
@@ -260,6 +264,7 @@ falconparser
 fbed
 fbone
 fccff
+february
 fieldset
 filemail
 filemodels
@@ -301,6 +306,7 @@ genindex
 getattr
 getpath
 getters
+getvalue
 gfxmonk
 ghickman
 globbed
@@ -622,7 +628,10 @@ pyminify
 pysolrs
 pythonhosted
 pywkm
+qcluster
+qinfo
 qmarlats
+qsize
 qtime
 quis
 ratiofieldname
@@ -870,10 +879,12 @@ unapplied
 uncached
 uncaptured
 unchecking
+unclosed
 uncollectible
 uncomment
 uncompress
 uncompressable
+undaemonize
 undelegate
 underspecifies
 undoc
@@ -903,6 +914,7 @@ unmute
 unparsed
 unpatch
 unpaused
+unpickle
 unpickleable
 unpickling
 unqueued
