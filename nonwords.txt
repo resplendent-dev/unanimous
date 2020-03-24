@@ -59,6 +59,7 @@ ause
 aute
 authextra
 authkey
+authorurl
 autocompletion
 autoformatting
 autogenerations
@@ -465,6 +466,7 @@ lstrip
 lynis
 macr
 macroman
+macromedia
 magna
 malfunctional
 manglings
@@ -485,6 +487,7 @@ metaclasses
 metasearch
 mfcovington
 microframeworks
+middot
 mignon
 migonzalvar
 migraph
@@ -545,6 +548,7 @@ nocontent
 nocover
 noinspection
 nonbillable
+noneditable
 nonlinearity
 nonlocal
 nonsensuous
@@ -577,6 +581,7 @@ optionals
 oraclegis
 orderedmultimdict
 oretha
+ourself
 outbufs
 outdent
 outtextf
@@ -646,6 +651,7 @@ prepended
 prepends
 prepopulated
 preprocessors
+previewlinks
 probabilistically
 probeobject
 productinfo
@@ -1244,9 +1250,3 @@ zscores
 zstar
 ztol
 zyxwvu
-previewlinks
-ourself
-noneditable
-middot
-macromedia
-authorurl
