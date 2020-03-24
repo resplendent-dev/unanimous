@@ -236,6 +236,7 @@ elkan
 embeddable
 emptystring
 encodable
+endangularjs
 endassets
 endcomment
 endcompress
@@ -311,6 +312,7 @@ garyd
 geholfen
 gendoc
 generateimages
+genericinlineformset
 genindex
 getattr
 getpath
@@ -666,6 +668,7 @@ recurses
 recursionlimit
 redispapa
 rediss
+reenable
 regens
 regexes
 regexs
@@ -805,6 +808,7 @@ sublicensable
 sublicense
 submodels
 subnode
+subns
 subpackages
 subpage
 subpixel
@@ -833,6 +837,7 @@ syllabary
 symlinked
 syncdb
 synched
+syntaxes
 syntaxic
 sys
 taavi
@@ -939,6 +944,7 @@ unmark
 unmarshalling
 unmoderated
 unmute
+unopinionated
 unparsed
 unpatch
 unpaused
@@ -1208,9 +1214,3 @@ zscores
 zstar
 ztol
 zyxwvu
-genericinlineformset
-endangularjs
-reenable
-unopinionated
-subns
-syntaxes
