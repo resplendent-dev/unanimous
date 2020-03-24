@@ -235,6 +235,7 @@ ecmascript
 ecstask
 ecstaskdefinition
 ectoplasm
+editsection
 eerste
 efghij
 eidx
@@ -305,6 +306,7 @@ formconfig
 formdata
 formrows
 fragsize
+freenode
 freqprober
 fromkeys
 frontend's
@@ -544,6 +546,7 @@ nocover
 noinspection
 nonbillable
 nonlinearity
+nonlocal
 nonsensuous
 nonword
 nonwords
@@ -711,6 +714,7 @@ resending
 resends
 resizable
 resourceattributenotfounderror
+responsivetable
 resps
 restructured
 resultdb
@@ -791,6 +795,7 @@ sourcelink
 spaceless
 splitlines
 splitted
+spookylukey
 spooledtempfile
 spritecss
 spritemapped
@@ -964,6 +969,7 @@ unmaintained
 unmappedstatus
 unmark
 unmarshalling
+unmatching
 unmoderated
 unmute
 unopinionated
@@ -1238,9 +1244,3 @@ zscores
 zstar
 ztol
 zyxwvu
-unmatching
-nonlocal
-freenode
-editsection
-spookylukey
-responsivetable
