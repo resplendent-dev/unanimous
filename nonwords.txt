@@ -37,6 +37,7 @@ apierrors
 appgroups
 appspot
 aprasanna
+architected
 argname
 argspec
 argumentconverter
@@ -137,6 +138,7 @@ cleansweep
 clickjacking
 cobrateam
 codesc
+codeview
 codez
 codingstatemachine
 collectassets
@@ -512,6 +514,7 @@ mysidebar
 mysqlgis
 myvar
 mywhitelist
+namespacing
 natively
 nbsp
 nearterm
@@ -558,6 +561,7 @@ oraclegis
 orderedmultimdict
 oretha
 outbufs
+outdent
 outtextf
 outtextlist
 overcounting
@@ -945,6 +949,7 @@ unmarshalling
 unmoderated
 unmute
 unopinionated
+unorderedlist
 unparsed
 unpatch
 unpaused
@@ -1166,6 +1171,7 @@ yourclass
 yourfile
 yourresourcename
 yourumisequence
+youtu
 yrvs
 yscale
 ysize
@@ -1214,9 +1220,3 @@ zscores
 zstar
 ztol
 zyxwvu
-architected
-namespacing
-youtu
-unorderedlist
-outdent
-codeview
