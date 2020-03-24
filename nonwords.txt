@@ -62,6 +62,7 @@ autocompletion
 autoformatting
 autogenerations
 autoincrement
+autoincremented
 automagically
 automapped
 automodule
@@ -80,6 +81,7 @@ bauen
 bban
 bday
 beeing
+behaverc
 benchmarked
 bergen
 bhtml
@@ -129,6 +131,7 @@ citable
 cjnewman
 classbased
 classmethod
+classname
 clckru
 cleansweep
 clickjacking
@@ -203,6 +206,7 @@ dista
 distributable
 distributivity
 divs
+dize
 djamin
 djangoparser
 djmoney
@@ -234,6 +238,7 @@ encodable
 endassets
 endcomment
 endcompress
+endfor
 endif
 enim
 enqueued
@@ -260,6 +265,7 @@ expando
 expt
 extendibility
 extensibility
+fakestr
 falconparser
 fbed
 fbone
@@ -393,6 +399,7 @@ julianwachholz
 jwilges
 katayoku
 kavdev
+keepdb
 keine
 kennethreitz
 kevgathuku
@@ -491,11 +498,13 @@ multithreading
 multivalue
 multiwidgets
 mydir
+myint
 mymodel
 mymodelname
 myscript
 mysidebar
 mysqlgis
+myvar
 mywhitelist
 natively
 nbsp
@@ -583,6 +592,7 @@ playability
 plusequals
 pointsize
 popitem
+populators
 popvalue
 portis
 postback
@@ -705,6 +715,7 @@ searchableselect
 sectionauthor
 seealso
 selectedcontacts
+seltests
 sensorid
 sensorobject
 sensortree
@@ -731,6 +742,7 @@ skipunless
 skool
 slenska
 sloria
+slowreportpath
 slugified
 smgid
 snils
@@ -965,7 +977,6 @@ usermedia
 usermodulename
 usershome
 utf
-uuids
 uxxxx
 valueerror
 valuegetter
