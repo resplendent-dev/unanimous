@@ -249,6 +249,7 @@ enterable
 entityref
 eprint
 errbacks
+errorlist
 eucjpprober
 euckrfreq
 euckrfreqprober
@@ -356,6 +357,7 @@ incr
 incrementing
 indeterministic
 informations
+initkwargs
 inlined
 instanceof
 instantiation
@@ -849,6 +851,7 @@ thatguy
 thenewsmeme
 thepast
 threadid
+thumbnailed
 tiangolo
 tidx
 timberlandonline
@@ -860,6 +863,7 @@ timlyo
 timothycrosley
 tmpfs
 tocdup
+tocscope
 toctree
 tokenizes
 tokenizing
@@ -894,6 +898,7 @@ ul
 ullamco
 unallowed
 unapplied
+unassign
 uncached
 uncaptured
 unchecking
@@ -932,6 +937,7 @@ unmute
 unparsed
 unpatch
 unpaused
+unpersisted
 unpickle
 unpickleable
 unpickling
