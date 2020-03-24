@@ -1190,3 +1190,9 @@ zscores
 zstar
 ztol
 zyxwvu
+myvar
+endfor
+classname
+seltests
+slowreportpath
+dize
