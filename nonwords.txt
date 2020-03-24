@@ -1196,3 +1196,9 @@ zscores
 zstar
 ztol
 zyxwvu
+initkwargs
+tocscope
+errorlist
+unpersisted
+unassign
+thumbnailed
