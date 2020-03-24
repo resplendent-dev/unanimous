@@ -127,6 +127,9 @@ checkmark
 checksums
 chere
 chilpit
+chunkdone
+chunkfail
+chunksend
 cillum
 citable
 cjnewman
@@ -154,6 +157,7 @@ consolemail
 cov
 coveragerc
 createjs
+cript
 crosshairs
 cryptographically
 cryptosign
@@ -268,6 +272,7 @@ exercitation
 expandedmind
 expando
 expt
+extarea
 extendibility
 extensibility
 fakestr
@@ -332,6 +337,7 @@ gplv
 greenlets
 greenthreads
 groupin
+gsound
 gzipped
 halibote
 hasn
@@ -1226,9 +1232,3 @@ zscores
 zstar
 ztol
 zyxwvu
-gsound
-extarea
-cript
-chunksend
-chunkfail
-chunkdone
