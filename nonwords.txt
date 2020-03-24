@@ -131,6 +131,7 @@ citable
 cjnewman
 classbased
 classmethod
+classname
 clckru
 cleansweep
 clickjacking
@@ -205,6 +206,7 @@ dista
 distributable
 distributivity
 divs
+dize
 djamin
 djangoparser
 djmoney
@@ -236,6 +238,7 @@ encodable
 endassets
 endcomment
 endcompress
+endfor
 endif
 enim
 enqueued
@@ -501,6 +504,7 @@ mymodelname
 myscript
 mysidebar
 mysqlgis
+myvar
 mywhitelist
 natively
 nbsp
@@ -711,6 +715,7 @@ searchableselect
 sectionauthor
 seealso
 selectedcontacts
+seltests
 sensorid
 sensorobject
 sensortree
@@ -737,6 +742,7 @@ skipunless
 skool
 slenska
 sloria
+slowreportpath
 slugified
 smgid
 snils
@@ -1190,9 +1196,3 @@ zscores
 zstar
 ztol
 zyxwvu
-myvar
-endfor
-classname
-seltests
-slowreportpath
-dize
