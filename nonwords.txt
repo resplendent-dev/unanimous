@@ -1262,3 +1262,9 @@ zscores
 zstar
 ztol
 zyxwvu
+makemigrations
+rerendering
+urlquoted
+endactiveurl
+submenus
+rerender
