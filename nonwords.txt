@@ -188,6 +188,7 @@ decodings
 decrypted
 decrypting
 deepcopied
+defaultfilters
 defragmentation
 deja
 delitem
@@ -257,6 +258,7 @@ encodable
 endactiveurl
 endangularjs
 endassets
+endblock
 endcomment
 endcompress
 endfor
@@ -313,7 +315,6 @@ fname
 fooo
 foos
 formconfig
-formdata
 formrows
 fragsize
 freenode
@@ -516,6 +517,7 @@ mindflayer
 minibatches
 minifies
 miniframework
+misconfiguration
 misconfigured
 misencoded
 misordered
@@ -562,7 +564,9 @@ newname
 newplaceid
 nicht
 nickstenning
+nicode
 nightlies
+nique
 nisi
 nnen
 nocontent
@@ -628,6 +632,7 @@ parsesuite
 parsetab
 parzen
 passhash
+pastable
 pathname
 pdate
 percona
@@ -843,6 +848,7 @@ sqrt
 starrhorne
 startswith
 stderr
+sticked
 stopasgroup
 stoptimer
 stopworded
@@ -1298,10 +1304,3 @@ zscores
 zstar
 ztol
 zyxwvu
-endblock
-pastable
-misconfiguration
-defaultfilters
-nique
-nicode
-sticked
