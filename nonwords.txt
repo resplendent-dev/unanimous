@@ -1313,3 +1313,9 @@ zscores
 zstar
 ztol
 zyxwvu
+maikhoepfel
+iffeature
+endiffeature
+yourappsfolder
+uppercases
+unsubscription
