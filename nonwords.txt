@@ -573,6 +573,7 @@ mywhitelist
 namespacing
 natively
 nbsp
+ndez
 nearterm
 newmexico
 newname
@@ -903,6 +904,7 @@ subfolder
 subitems
 sublicensable
 sublicense
+sublicenses
 submenus
 submodels
 subnode
@@ -965,6 +967,7 @@ thepast
 threadid
 thumbnailed
 thumbnailing
+thursday
 tiangolo
 tidx
 timberlandonline
@@ -1118,10 +1121,12 @@ userids
 usermedia
 usermodulename
 usershome
+userstory
 utf
 uxxxx
 valueerror
 valuegetter
+vangogh
 varargslist
 varnames
 vchar
@@ -1293,6 +1298,7 @@ ymin
 ymod
 yourapplication
 yourappsfolder
+yourbootstrap
 yourclass
 yourfile
 yourlanguage
@@ -1347,9 +1353,3 @@ zscores
 zstar
 ztol
 zyxwvu
-yourbootstrap
-thursday
-sublicenses
-ndez
-userstory
-vangogh
