@@ -449,6 +449,7 @@ kennethreitz
 kevgathuku
 keydown
 keyevent
+keypresses
 klmn
 kompiuter
 komplexen
@@ -470,6 +471,7 @@ libev
 libphonenumber
 libpng
 libxslt
+licensors
 lighttpd
 linearities
 linebreaks
@@ -546,6 +548,7 @@ motiky
 mousecatcher
 mouseover
 moviegeek
+msie
 mtavruli
 mthread
 mthreading
@@ -611,6 +614,7 @@ olddisplay
 omdict
 onabort
 onblur
+onhold
 onload
 onposition
 onreadystatechange
@@ -739,6 +743,7 @@ reconnections
 recrawl
 recurses
 recursionlimit
+redditclone
 redispapa
 redisplay
 rediss
@@ -843,6 +848,7 @@ socio
 socketmodule
 soloman
 solrconfig
+someenv
 somefile
 somefunnyname
 somelib
@@ -1123,6 +1129,7 @@ velit
 vendored
 veniam
 verifiably
+verifications
 versionadded
 versionchanged
 versioners
@@ -1340,9 +1347,3 @@ zscores
 zstar
 ztol
 zyxwvu
-onhold
-verifications
-someenv
-redditclone
-msie
-licensors
