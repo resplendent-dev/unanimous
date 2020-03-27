@@ -1340,3 +1340,9 @@ zscores
 zstar
 ztol
 zyxwvu
+onhold
+verifications
+someenv
+redditclone
+msie
+licensors
