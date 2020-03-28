@@ -1475,3 +1475,9 @@ zscores
 zstar
 ztol
 zyxwvu
+mousenter
+mouseenter
+jsdom
+functionish
+focusout
+dirruns
