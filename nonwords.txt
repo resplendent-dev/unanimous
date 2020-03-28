@@ -320,6 +320,7 @@ findall
 firma
 flashblock
 flaskblog
+flaskext
 flaticons
 floppyform
 fname
@@ -492,6 +493,7 @@ linters
 listwidgets
 ljust
 lluchs
+localeselector
 localhost
 localstore
 localtime
@@ -592,6 +594,7 @@ nearterm
 newmexico
 newname
 newplaceid
+ngettext
 nicht
 nickstenning
 nicode
@@ -755,7 +758,10 @@ ratiofields
 rconradharris
 readd
 realname
+reapprove
+reasking
 reauthenticate
+rebasing
 reconcatenate
 reconnection
 reconnections
@@ -788,6 +794,7 @@ requeues
 reraised
 rerender
 rerendering
+rerequest
 resending
 resends
 resizable
@@ -846,6 +853,7 @@ shch
 sherika
 sherrell
 shorthands
+sigmavirus
 sigmoid
 signedness
 signups
@@ -995,6 +1003,7 @@ timedeltas
 timeframe
 timestep
 timesteps
+timezoneselector
 timlyo
 timothycrosley
 tmpfs
@@ -1378,9 +1387,3 @@ zscores
 zstar
 ztol
 zyxwvu
-rerequest
-sigmavirus
-reasking
-reapprove
-rebasing
-timezoneselector
