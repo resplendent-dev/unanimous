@@ -169,6 +169,7 @@ commodo
 commonjs
 commonprefix
 commutativity
+comparators
 compressibility
 conftest
 consectetur
@@ -200,6 +201,7 @@ dbmail
 dbname
 dcramer
 decodings
+decoratormethod
 decrypted
 decrypting
 deepcopied
@@ -283,6 +285,7 @@ endcompress
 endfor
 endif
 endiffeature
+endswith
 enim
 enqueued
 enqueues
@@ -412,6 +415,7 @@ ibnida
 icio
 icontains
 ideographic
+iendswith
 iffeature
 ilayer
 imagegenerators
@@ -445,6 +449,7 @@ irure
 isinstance
 isspace
 issubset
+istartswith
 iterables
 iterationlabs
 iteritems
@@ -633,6 +638,7 @@ nonlocal
 nonsensuous
 nonword
 nonwords
+noone
 noqaj
 normalizations
 noscript
@@ -694,6 +700,7 @@ parsetab
 parzen
 passhash
 pastable
+patchable
 pathname
 pdate
 percona
@@ -1425,9 +1432,3 @@ zscores
 zstar
 ztol
 zyxwvu
-patchable
-noone
-iendswith
-decoratormethod
-istartswith
-endswith
