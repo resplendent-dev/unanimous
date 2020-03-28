@@ -121,6 +121,7 @@ cakeipsum
 callables
 calmerthanyouare
 camelized
+camelizing
 cannotdeduceregionerror
 capicola
 carljm
@@ -139,6 +140,7 @@ charsetprober
 chartapp
 chartbeat
 charwidth
+checkboxes
 checkboxselectmultiple
 checkconfig
 checkmark
@@ -175,6 +177,7 @@ commonprefix
 commutativity
 comparators
 compressibility
+confoundingly
 conftest
 consectetur
 consequat
@@ -232,11 +235,13 @@ dev
 deviceid
 deviceobj
 deviceobject
+deviceready
 dfae
 didn
 dimensionality
 directionality
 dirname
+dirruns
 disjunction
 dista
 distributable
@@ -347,6 +352,7 @@ flaticons
 floppyform
 fname
 focusin
+focusout
 fooo
 foos
 formconfig
@@ -363,6 +369,7 @@ fsync
 fugiat
 functionbase
 functionbased
+functionish
 fuzzyrusty
 fuzzysharp
 fuzzywuzz
@@ -480,6 +487,7 @@ joinedload
 joinpath
 jpcntx
 jpcntxprober
+jsdom
 jsoneditoronline
 jsurloppe
 julianwachholz
@@ -600,6 +608,8 @@ montana
 moorman
 motiky
 mousecatcher
+mouseenter
+mousenter
 mouseover
 moviegeek
 msie
@@ -1475,9 +1485,3 @@ zscores
 zstar
 ztol
 zyxwvu
-mousenter
-mouseenter
-jsdom
-functionish
-focusout
-dirruns
