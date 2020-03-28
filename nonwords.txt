@@ -72,9 +72,11 @@ autoformatting
 autogenerations
 autoincrement
 autoincremented
+autoloaded
 automagically
 automapped
 automodule
+avals
 awesomez
 baar
 backref
@@ -806,6 +808,7 @@ redisplay
 rediss
 reenable
 refnames
+regconfig
 regens
 regexes
 regexs
@@ -1005,6 +1008,7 @@ sys
 taavi
 tabfile
 tabfiles
+tablename
 tableref
 tableservice
 tablespace
@@ -1025,6 +1029,7 @@ testee
 tetete
 textarea
 textareas
+textitem
 tga
 thatguy
 themoviedb
@@ -1069,6 +1074,7 @@ trivy
 truely
 tryexcept
 tsadi
+tsquery
 tty
 ttype
 tweener
@@ -1207,6 +1213,8 @@ vangogh
 varargslist
 varnames
 vchar
+vectorization
+vectorizers
 velit
 vendored
 veniam
@@ -1432,9 +1440,3 @@ zscores
 zstar
 ztol
 zyxwvu
-avals
-vectorizers
-autoloaded
-vectorization
-regconfig
-tsquery
