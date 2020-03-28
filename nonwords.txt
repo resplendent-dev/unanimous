@@ -482,6 +482,7 @@ ipaddrs
 iress
 irure
 isinstance
+isrss
 isspace
 issubset
 istartswith
@@ -492,6 +493,7 @@ iterkeys
 itervalues
 itleref
 ivar
+ixrss
 jackhenry
 javascripts
 jeffknupp
@@ -562,6 +564,7 @@ locmem
 locmemcache
 loggroup
 logics
+loopfunc
 lossy
 lowercased
 lowerstrip
@@ -580,6 +583,7 @@ manglings
 manytomany
 markupset
 matthiask
+matzhu
 maxdepth
 maxmemory
 maxsize
@@ -657,6 +661,7 @@ mysidebar
 mysqlgis
 myvar
 mywhitelist
+mywidget
 namespacing
 natively
 nbsp
@@ -870,6 +875,7 @@ regexes
 regexs
 regis
 regrtest
+reified
 reindexed
 reinitializing
 relu
@@ -1522,9 +1528,3 @@ zscores
 zstar
 ztol
 zyxwvu
-reified
-mywidget
-matzhu
-loopfunc
-ixrss
-isrss
