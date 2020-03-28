@@ -68,6 +68,7 @@ aute
 authextra
 authkey
 authorurl
+authrequest
 autocompleted
 autocompletion
 autoformatting
@@ -244,6 +245,7 @@ dimensionality
 directionality
 dirname
 dirruns
+discontiguous
 disjunction
 dista
 distributable
@@ -413,6 +415,7 @@ gsound
 gzipped
 hakibenita
 halibote
+hande
 hasn
 heapu
 hellip
@@ -455,6 +458,7 @@ indexable
 informations
 initkwargs
 inlined
+installable
 instanceof
 instantiation
 instantiations
@@ -466,6 +470,7 @@ intersphinx
 ints
 invalidations
 invoiceitems
+ipaddrs
 iress
 irure
 isinstance
@@ -1180,6 +1185,7 @@ unindented
 unindexed
 uninstantiated
 unintuitive
+unioned
 uniquifies
 unitless
 unittests
@@ -1499,9 +1505,3 @@ zscores
 zstar
 ztol
 zyxwvu
-authrequest
-installable
-unioned
-ipaddrs
-discontiguous
-hande
