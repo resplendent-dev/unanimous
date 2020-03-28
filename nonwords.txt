@@ -359,6 +359,8 @@ getters
 getvalue
 gfxmonk
 ghickman
+githubs
+gittip
 globbed
 glogging
 gmtime
@@ -638,6 +640,7 @@ onload
 onposition
 onreadystatechange
 onwards
+openredis
 operationid
 optionals
 oraclegis
@@ -773,6 +776,7 @@ redispapa
 redisplay
 rediss
 reenable
+refnames
 regens
 regexes
 regexs
@@ -1094,6 +1098,7 @@ unmute
 unopinionated
 unorderedlist
 unpaginated
+unparseable
 unparsed
 unpatch
 unpaused
@@ -1125,6 +1130,7 @@ unstar
 unsubbing
 unsubscribers
 unsubscription
+untagged
 unterminated
 unthrottled
 untracked
@@ -1172,6 +1178,7 @@ verifications
 versionadded
 versionchanged
 versioners
+versionfile
 versionwarning
 vetoable
 videoblog
@@ -1387,9 +1394,3 @@ zscores
 zstar
 ztol
 zyxwvu
-openredis
-gittip
-versionfile
-untagged
-unparseable
-refnames
