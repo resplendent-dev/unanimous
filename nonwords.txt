@@ -14,6 +14,7 @@ adminaction
 aebeaaf
 aeiou
 aiohttpparser
+aiotutorial
 aleja
 aleskarovadi
 aliqua
@@ -106,6 +107,7 @@ blockblobservice
 bodycopy
 bolds
 booleans
+bools
 bootstrapform
 boudin
 brigen
@@ -624,6 +626,7 @@ multiplatform
 multiplesite
 multiserver
 multithreading
+multitree
 multivalue
 multiwidgets
 myaction
@@ -757,6 +760,7 @@ popitem
 populators
 popvalue
 portis
+positionally
 positionals
 postback
 postcallfunc
@@ -914,6 +918,7 @@ sensorobject
 sensortree
 serversig
 sess
+sessionmaker
 sessionstorage
 setattr
 setdefault
@@ -1292,6 +1297,7 @@ walsh
 wasn
 watsons
 weakrefs
+webasset
 webobparser
 webservers
 weve
@@ -1485,9 +1491,3 @@ zscores
 zstar
 ztol
 zyxwvu
-sessionmaker
-multitree
-webasset
-positionally
-bools
-aiotutorial
