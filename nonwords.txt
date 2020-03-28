@@ -1387,3 +1387,9 @@ zscores
 zstar
 ztol
 zyxwvu
+openredis
+gittip
+versionfile
+untagged
+unparseable
+refnames
