@@ -1452,3 +1452,9 @@ zscores
 zstar
 ztol
 zyxwvu
+voterid
+myaction
+onclick
+fatypes
+lamosity
+fenc
