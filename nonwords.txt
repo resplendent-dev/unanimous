@@ -1504,3 +1504,9 @@ zscores
 zstar
 ztol
 zyxwvu
+sessioning
+unpickled
+hexlify
+hexlifies
+expirations
+erasmas
