@@ -1400,3 +1400,9 @@ nczeczulin
 cmdclass
 yourpath
 tableservice
+pageblobservice
+appendblobservice
+queueservice
+newstyle
+fileservice
+cloudstorageaccount
