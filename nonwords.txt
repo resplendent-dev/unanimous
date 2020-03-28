@@ -1425,3 +1425,9 @@ zscores
 zstar
 ztol
 zyxwvu
+patchable
+noone
+iendswith
+decoratormethod
+istartswith
+endswith
