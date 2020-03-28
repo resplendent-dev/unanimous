@@ -1416,3 +1416,9 @@ zscores
 zstar
 ztol
 zyxwvu
+enctype
+metanav
+basedir
+fafafa
+executescript
+atype
