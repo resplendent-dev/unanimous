@@ -214,6 +214,7 @@ decodings
 decoratormethod
 decrypted
 decrypting
+decrypts
 deepcopied
 defaultfilters
 deferreds
@@ -308,6 +309,7 @@ enskild
 enterable
 entityref
 eprint
+erasmas
 errbacks
 errorlist
 eucjpprober
@@ -326,6 +328,7 @@ exercitation
 expandedmind
 expando
 expanduser
+expirations
 expt
 extarea
 extendibility
@@ -420,6 +423,8 @@ heapu
 hellip
 helour
 heterophobia
+hexlifies
+hexlify
 hexload
 hitcounts
 hl
@@ -448,6 +453,7 @@ imitatio
 impactful
 imparsible
 includable
+includeme
 incompressible
 incr
 incrementing
@@ -643,6 +649,7 @@ myint
 mymodel
 mymodelname
 myscript
+mysecret
 mysidebar
 mysqlgis
 myvar
@@ -834,6 +841,7 @@ queueservice
 quis
 ratiofieldname
 ratiofields
+raydeo
 rconradharris
 readd
 realname
@@ -926,6 +934,7 @@ sensorobject
 sensortree
 serversig
 sess
+sessioning
 sessionmaker
 sessionstorage
 setattr
@@ -1207,6 +1216,7 @@ unpaused
 unpersisted
 unpickle
 unpickleable
+unpickled
 unpickling
 unprefixed
 unqueued
@@ -1504,9 +1514,3 @@ zscores
 zstar
 ztol
 zyxwvu
-sessioning
-unpickled
-hexlify
-hexlifies
-expirations
-erasmas
