@@ -35,6 +35,7 @@ anim
 anphisa
 antiword
 apierrors
+apimanager
 appgroups
 appspot
 aprasanna
@@ -48,6 +49,7 @@ argumentspec
 argumentvalidator
 arn
 arns
+articletags
 assertsetequal
 assignees
 asynchronicity
@@ -108,6 +110,8 @@ bytestream
 bytestrings
 cakeipsum
 callables
+calmerthanyouare
+camelized
 cannotdeduceregionerror
 capicola
 carljm
@@ -218,6 +222,7 @@ didn
 dimensionality
 directionality
 dirname
+disjunction
 dista
 distributable
 distributivity
@@ -872,6 +877,7 @@ somerequest
 someutfcharacters
 soname
 sortation
+sourcecode
 sourcelink
 spaceless
 spacerun
@@ -1043,6 +1049,7 @@ uncomment
 uncompress
 uncompressable
 uncomputed
+uncustomized
 undaemonize
 undelegate
 underspecifies
@@ -1090,6 +1097,7 @@ unqueued
 unrefunded
 unregister
 unregistering
+unregisters
 unregistration
 unrendered
 unsanitized
@@ -1113,6 +1121,7 @@ unthrottled
 untracked
 unversioned
 unvote
+updatingrelationship
 upperbound
 uppercased
 uppercases
@@ -1369,9 +1378,3 @@ zscores
 zstar
 ztol
 zyxwvu
-camelized
-calmerthanyouare
-sourcecode
-uncustomized
-disjunction
-articletags
