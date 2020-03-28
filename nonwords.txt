@@ -354,6 +354,9 @@ globbed
 glogging
 gmtime
 gnarvaja
+googleclassicanalytics
+googleuniversalanalytics
+gosquared
 gotoh
 gplv
 greenlets
@@ -398,6 +401,7 @@ incr
 incrementing
 indentby
 indeterministic
+indexable
 informations
 initkwargs
 inlined
@@ -511,6 +515,7 @@ mbcssmprober
 mcdjango
 mcflask
 mcflyin
+mediatypes
 meisthai
 mememeoo
 memorymail
@@ -589,6 +594,7 @@ nocontent
 nocover
 noinput
 noinspection
+noirbizarre
 nonbillable
 noneditable
 nonlinearity
@@ -1055,6 +1061,7 @@ unlink
 unmaintained
 unmappedstatus
 unmark
+unmarshal
 unmarshalling
 unmatching
 unmoderated
@@ -1353,9 +1360,3 @@ zscores
 zstar
 ztol
 zyxwvu
-unmarshal
-noirbizarre
-mediatypes
-indexable
-googleuniversalanalytics
-gosquared
