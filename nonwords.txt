@@ -36,6 +36,8 @@ anphisa
 antiword
 apierrors
 apimanager
+appcontext
+appendblobservice
 appgroups
 appspot
 aprasanna
@@ -95,6 +97,7 @@ binarized
 bindable
 bjoerns
 blewskiego
+blockblobservice
 bodycopy
 bolds
 booleans
@@ -149,6 +152,8 @@ classname
 clckru
 cleansweep
 clickjacking
+cloudstorageaccount
+cmdclass
 cobrateam
 codesc
 codeview
@@ -314,6 +319,7 @@ fieldset
 filemail
 filemodels
 fileprogress
+fileservice
 filteredimage
 finalsub
 findall
@@ -359,6 +365,7 @@ getters
 getvalue
 gfxmonk
 ghickman
+gitattributes
 githubs
 gittip
 globbed
@@ -591,11 +598,13 @@ mywhitelist
 namespacing
 natively
 nbsp
+nczeczulin
 ndez
 nearterm
 newmexico
 newname
 newplaceid
+newstyle
 ngettext
 nicht
 nickstenning
@@ -659,10 +668,12 @@ overridability
 overridable
 oxfe
 padds
+pageblobservice
 pagerefs
 parallelization
 paren
 parens
+parentdir
 pariatur
 parseexpr
 parsefile
@@ -755,6 +766,7 @@ qinfo
 qmarlats
 qsize
 qtime
+queueservice
 quis
 ratiofieldname
 ratiofields
@@ -974,6 +986,7 @@ syntaxic
 sys
 taavi
 tableref
+tableservice
 tablespace
 tanh
 tastypies
@@ -1343,6 +1356,7 @@ yourbootstrap
 yourclass
 yourfile
 yourlanguage
+yourpath
 yourresourcename
 yourumisequence
 youtu
@@ -1394,15 +1408,3 @@ zscores
 zstar
 ztol
 zyxwvu
-gitattributes
-parentdir
-nczeczulin
-cmdclass
-yourpath
-tableservice
-pageblobservice
-appendblobservice
-queueservice
-newstyle
-fileservice
-cloudstorageaccount
