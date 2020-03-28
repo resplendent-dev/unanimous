@@ -323,6 +323,7 @@ exename
 exercitation
 expandedmind
 expando
+expanduser
 expt
 extarea
 extendibility
@@ -406,6 +407,7 @@ gotoh
 gplv
 greenlets
 greenthreads
+groupfinder
 groupin
 gsound
 gzipped
@@ -428,6 +430,7 @@ htaccess
 htbp
 htmlregion
 httprettized
+hybi
 iancal
 ibnida
 icio
@@ -527,6 +530,7 @@ libev
 libffi
 libphonenumber
 libpng
+libsasl
 libxslt
 licensors
 lighttpd
@@ -1010,6 +1014,7 @@ subfolder
 subitems
 sublicensable
 sublicense
+sublicensees
 sublicenses
 submenus
 submodels
@@ -1107,6 +1112,7 @@ tostr
 tounicode
 tracebacks
 tradeoff
+transitionend
 trenda
 trevorscheitrum
 trialamt
@@ -1139,6 +1145,7 @@ ullamco
 unallowed
 unapplied
 unassign
+unbundled
 uncached
 uncaptured
 unchecking
@@ -1246,6 +1253,7 @@ urlsafe
 urlunquoted
 usecase
 usercancelled
+userdn
 userid
 userids
 usermedia
@@ -1491,9 +1499,3 @@ zscores
 zstar
 ztol
 zyxwvu
-hybi
-sublicensees
-unbundled
-transitionend
-libsasl
-userdn
