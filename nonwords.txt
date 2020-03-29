@@ -211,6 +211,7 @@ datetimes
 dbmail
 dbname
 dcramer
+declaratively
 decodings
 decoratormethod
 decrypted
@@ -992,6 +993,7 @@ somefunnyname
 somelib
 someotherfile
 somerequest
+someschema
 someutfcharacters
 soname
 sortation
@@ -1040,6 +1042,8 @@ subcollection
 subdependencies
 subdirectories
 subdirectory
+subexception
+subexceptions
 subfields
 subfolder
 subitems
@@ -1067,8 +1071,11 @@ subselects
 subsequences
 subsetting
 subthread
+subtransaction
 subtree
 subtype
+subvalidators
+subvalue
 subvalues
 summarizers
 sunt
@@ -1197,6 +1204,8 @@ undoc
 unencrypted
 unescaped
 unescaping
+unflattened
+unflattening
 unfound
 unglobbed
 ungrouped
@@ -1265,6 +1274,7 @@ untagged
 unterminated
 unthrottled
 untracked
+unvalidatable
 unversioned
 unvote
 updatingrelationship
