@@ -971,6 +971,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+singularized
 sint
 siphones
 sitekey
@@ -982,6 +983,7 @@ slenska
 sloria
 slowreportpath
 slugified
+smallinteger
 smgid
 smth
 snils
@@ -1069,6 +1071,7 @@ subprotocol
 subprotocols
 subqueries
 subqueryload
+subroute
 subsampling
 subscribername
 subselects
@@ -1177,6 +1180,7 @@ tweens
 txnid
 txt
 tyle
+typename
 typeof
 typoes
 tzinfo
@@ -1204,6 +1208,7 @@ uncustomized
 undaemonize
 undef
 undelegate
+underspecified
 underspecifies
 undisplayed
 undoc
@@ -1222,6 +1227,7 @@ unhashed
 unhashing
 unhighlighted
 unicast
+unicodetext
 unindent
 unindented
 unindexed
@@ -1550,9 +1556,3 @@ zscores
 zstar
 ztol
 zyxwvu
-subroute
-singularized
-unicodetext
-smallinteger
-underspecified
-typename
