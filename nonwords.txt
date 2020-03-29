@@ -1550,3 +1550,9 @@ zscores
 zstar
 ztol
 zyxwvu
+subroute
+singularized
+unicodetext
+smallinteger
+underspecified
+typename
