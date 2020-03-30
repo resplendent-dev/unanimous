@@ -225,6 +225,7 @@ deja
 delitem
 denilsonsa
 dependables
+deployable
 dequeue
 dequeued
 desaturates
@@ -670,6 +671,7 @@ mywidget
 namespacing
 narr
 natively
+nbest
 nbsp
 nczeczulin
 ndez
@@ -862,6 +864,7 @@ raydeo
 rconradharris
 readd
 realname
+realworld
 reapprove
 reasking
 reauthenticate
@@ -938,6 +941,7 @@ ryoryomaru
 sadielbartholomew
 safestring
 sangelone
+sanitization
 scaffolded
 scalability
 scottjehl
@@ -1144,6 +1148,7 @@ timesteps
 timezoneselector
 timlyo
 timothycrosley
+timsort
 tmpfs
 tocdup
 tocscope
@@ -1157,6 +1162,7 @@ tonos
 toolfunc
 tornadoparser
 tostr
+totaldoclen
 tounicode
 tracebacks
 tradeoff
@@ -1268,6 +1274,7 @@ unregistration
 unrendered
 unsanitized
 unsatisfiable
+unscaled
 unsecure
 unselect
 unselectable
@@ -1556,9 +1563,3 @@ zscores
 zstar
 ztol
 zyxwvu
-realworld
-deployable
-sanitization
-nbest
-timsort
-unscaled
