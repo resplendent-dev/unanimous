@@ -975,7 +975,6 @@ setrelheap
 setupmobans
 sexualized
 sgi
-shat
 shch
 sherika
 sherrell
