@@ -95,6 +95,7 @@ basedir
 basename
 basestring
 bashrc
+batchrange
 bauen
 bban
 bday
@@ -203,6 +204,7 @@ ctor
 ctypeid
 culpa
 cupidatat
+curpage
 cursored
 customdashboard
 customizations
@@ -278,6 +280,7 @@ dropdowns
 dropmenu
 droppable
 dummymail
+dummypage
 dumpscript
 duplications
 eacute
@@ -601,6 +604,7 @@ manytomany
 markupset
 matthiask
 matzhu
+maxcomplexity
 maxdepth
 maxmemory
 maxsize
@@ -634,6 +638,7 @@ miniframework
 misconfiguration
 misconfigured
 misencoded
+misnamings
 misordered
 mixups
 mkvirtualenv
@@ -972,6 +977,7 @@ scrollspy
 searchableselect
 sectionauthor
 seealso
+seekable
 selectedcontacts
 seltests
 sensorid
@@ -1064,6 +1070,7 @@ stringified
 stringio
 stringios
 strlens
+stroh
 strs
 stunnel
 stylesheet
@@ -1595,9 +1602,3 @@ zscores
 zstar
 ztol
 zyxwvu
-curpage
-stroh
-seekable
-batchrange
-dummypage
-maxcomplexity
