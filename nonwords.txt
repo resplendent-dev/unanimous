@@ -1570,3 +1570,9 @@ zscores
 zstar
 ztol
 zyxwvu
+ulimit
+getsitepackages
+getcwd
+setupmobans
+makoemail
+shat
