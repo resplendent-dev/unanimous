@@ -399,8 +399,10 @@ generateimages
 genericinlineformset
 genindex
 getattr
+getcwd
 getpath
 getppid
+getsitepackages
 getters
 getvalue
 gfxmonk
@@ -588,6 +590,7 @@ magnifyby
 magnifyduration
 maikhoepfel
 makemigrations
+makoemail
 malfunctional
 manglings
 manytomany
@@ -969,8 +972,10 @@ setattr
 setdefault
 setitem
 setrelheap
+setupmobans
 sexualized
 sgi
+shat
 shch
 sherika
 sherrell
@@ -1201,6 +1206,7 @@ uglify
 uids
 ukey
 ul
+ulimit
 ullamco
 unallowed
 unapplied
@@ -1570,9 +1576,3 @@ zscores
 zstar
 ztol
 zyxwvu
-ulimit
-getsitepackages
-getcwd
-setupmobans
-makoemail
-shat
