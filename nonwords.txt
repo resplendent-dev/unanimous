@@ -1575,3 +1575,9 @@ zscores
 zstar
 ztol
 zyxwvu
+lnotab
+msgids
+mmerickel
+msgid
+newlang
+mofile
