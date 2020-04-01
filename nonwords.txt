@@ -399,8 +399,10 @@ generateimages
 genericinlineformset
 genindex
 getattr
+getcwd
 getpath
 getppid
+getsitepackages
 getters
 getvalue
 gfxmonk
@@ -565,6 +567,7 @@ linters
 listwidgets
 ljust
 lluchs
+lnotab
 localenegotiator
 localeselector
 localhost
@@ -588,6 +591,7 @@ magnifyby
 magnifyduration
 maikhoepfel
 makemigrations
+makoemail
 malfunctional
 manglings
 manytomany
@@ -631,10 +635,12 @@ misordered
 mixups
 mkvirtualenv
 mlt
+mmerickel
 modellist
 modelview
 modindex
 moduleauthor
+mofile
 mollit
 monkeypatched
 montana
@@ -645,6 +651,8 @@ mouseenter
 mousenter
 mouseover
 moviegeek
+msgid
+msgids
 msie
 mtavruli
 mthread
@@ -680,6 +688,7 @@ nbsp
 nczeczulin
 ndez
 nearterm
+newlang
 newmexico
 newname
 newplaceid
@@ -969,6 +978,7 @@ setattr
 setdefault
 setitem
 setrelheap
+setupmobans
 sexualized
 sgi
 shch
@@ -1201,6 +1211,7 @@ uglify
 uids
 ukey
 ul
+ulimit
 ullamco
 unallowed
 unapplied
