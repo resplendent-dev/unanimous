@@ -73,6 +73,7 @@ authorurl
 authrequest
 autocompleted
 autocompletion
+autoexpose
 autoformatting
 autogenerations
 autoincrement
@@ -213,6 +214,7 @@ datetimes
 dbmail
 dbname
 dcramer
+debugapp
 declaratively
 decodings
 decoratormethod
@@ -758,6 +760,7 @@ outtextlist
 overcounting
 overfitting
 overholt
+overidability
 overparameterization
 overridability
 overridable
@@ -799,6 +802,7 @@ phonenumberutil
 pids
 plainstr
 playability
+pluggability
 plusequals
 pointsize
 popitem
@@ -943,6 +947,7 @@ romanization
 romanized
 rootid
 routable
+routelist
 rsquo
 rstrip
 rtype
@@ -985,6 +990,7 @@ shch
 sherika
 sherrell
 shorthands
+showbrowser
 sigmavirus
 sigmoid
 signedness
@@ -1309,6 +1315,7 @@ untagged
 unterminated
 unthrottled
 untracked
+untransformed
 unvalidatable
 unversioned
 unvote
@@ -1581,9 +1588,4 @@ zscores
 zstar
 ztol
 zyxwvu
-debugapp
-showbrowser
-autoexpose
-untransformed
-routelist
-pluggability
+containments
