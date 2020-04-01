@@ -189,6 +189,7 @@ conftest
 consectetur
 consequat
 consolemail
+containments
 cov
 coveragerc
 createjs
@@ -800,6 +801,8 @@ pgroto
 philippeluickx
 phonenumberutil
 pids
+placeful
+placeless
 plainstr
 playability
 pluggability
@@ -1087,6 +1090,7 @@ subnode
 subns
 subpackages
 subpage
+subpath
 subpixel
 subpreparer
 subpreparers
@@ -1095,6 +1099,8 @@ subprotocol
 subprotocols
 subqueries
 subqueryload
+subrequests
+subresponse
 subroute
 subsampling
 subscribername
@@ -1372,6 +1378,7 @@ versionwarning
 vetoable
 videoblog
 viewable
+viewcode
 viewitems
 viewkeys
 viewport
@@ -1588,10 +1595,3 @@ zscores
 zstar
 ztol
 zyxwvu
-containments
-subresponse
-subrequests
-viewcode
-subpath
-placeless
-placeful
