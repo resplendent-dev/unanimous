@@ -1595,3 +1595,9 @@ zscores
 zstar
 ztol
 zyxwvu
+curpage
+stroh
+seekable
+batchrange
+dummypage
+maxcomplexity
