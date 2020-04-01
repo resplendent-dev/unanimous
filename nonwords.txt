@@ -567,6 +567,7 @@ linters
 listwidgets
 ljust
 lluchs
+lnotab
 localenegotiator
 localeselector
 localhost
@@ -634,10 +635,12 @@ misordered
 mixups
 mkvirtualenv
 mlt
+mmerickel
 modellist
 modelview
 modindex
 moduleauthor
+mofile
 mollit
 monkeypatched
 montana
@@ -648,6 +651,8 @@ mouseenter
 mousenter
 mouseover
 moviegeek
+msgid
+msgids
 msie
 mtavruli
 mthread
@@ -683,6 +688,7 @@ nbsp
 nczeczulin
 ndez
 nearterm
+newlang
 newmexico
 newname
 newplaceid
@@ -1575,9 +1581,3 @@ zscores
 zstar
 ztol
 zyxwvu
-lnotab
-msgids
-mmerickel
-msgid
-newlang
-mofile
