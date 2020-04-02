@@ -326,6 +326,7 @@ eprint
 erasmas
 errbacks
 errorlist
+ervenec
 eucjpprober
 euckrfreq
 euckrfreqprober
@@ -348,6 +349,7 @@ expt
 extarea
 extendibility
 extensibility
+externs
 fafafa
 fakestr
 falconparser
@@ -517,6 +519,7 @@ ivar
 ixrss
 jackhenry
 javascripts
+jeesh
 jeffknupp
 jfkirk
 jisfreq
@@ -546,6 +549,7 @@ klmn
 kompiuter
 komplexen
 kouio
+kovi
 kowal
 kwarg
 labore
@@ -567,6 +571,7 @@ libffi
 libphonenumber
 libpng
 libsasl
+libsqlite
 libxslt
 licensors
 lighttpd
@@ -965,6 +970,7 @@ rstrip
 rtype
 rundelay
 runshell
+rvagg
 ryanmcgrath
 ryanvarley
 ryoryomaru
@@ -1610,9 +1616,3 @@ zscores
 zstar
 ztol
 zyxwvu
-libsqlite
-kovi
-ervenec
-rvagg
-jeesh
-externs
