@@ -1610,3 +1610,9 @@ zscores
 zstar
 ztol
 zyxwvu
+libsqlite
+kovi
+ervenec
+rvagg
+jeesh
+externs
