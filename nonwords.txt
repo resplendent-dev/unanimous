@@ -250,6 +250,7 @@ destag
 desynchronization
 detailmenu
 dev
+devexpress
 deviceid
 deviceobj
 deviceobject
@@ -326,6 +327,7 @@ enterable
 entityref
 eprint
 erasmas
+ericyd
 errbacks
 errorlist
 ervenec
@@ -488,6 +490,7 @@ incrementing
 indentby
 indeterministic
 indexable
+infctr
 informations
 inikulin
 initkwargs
@@ -908,6 +911,8 @@ qsize
 qtime
 queueservice
 quis
+radarhere
+raspo
 ratiofieldname
 ratiofields
 raydeo
@@ -942,6 +947,7 @@ reindexed
 reinitializing
 relu
 reminderslist
+renancouto
 replicability
 reprehenderit
 representable
@@ -1153,6 +1159,7 @@ summarizers
 sunt
 superclasses
 superfast
+superroma
 supersets
 svenstaro
 syllabary
@@ -1194,6 +1201,7 @@ textareas
 textitem
 tga
 thatguy
+theghostbel
 themoviedb
 thenable
 thenewsmeme
@@ -1213,10 +1221,12 @@ timestep
 timesteps
 timezoneselector
 timlyo
+timnederhoff
 timothycrosley
 timsort
 titlebar
 tmpfs
+tobiasbueschel
 tocdup
 tocscope
 toctree
@@ -1650,9 +1660,3 @@ zscores
 zstar
 ztol
 zyxwvu
-infctr
-ericyd
-devexpress
-tobiasbueschel
-timnederhoff
-theghostbel
