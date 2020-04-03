@@ -1691,3 +1691,9 @@ zscores
 zstar
 ztol
 zyxwvu
+nightwatchjs
+elementinternal
+jsonwire
+elementinteraction
+waitforelements
+userprompts
