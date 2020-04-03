@@ -122,6 +122,7 @@ brigen
 broj
 browsable
 browserback
+bugzil
 burgerservicenummer
 byid
 bytestream
@@ -520,6 +521,7 @@ ipaddrs
 iress
 irure
 isinstance
+isogram
 isrss
 isspace
 issubset
@@ -663,6 +665,7 @@ migonzalvar
 migraph
 mihpayid
 mikehelmick
+miketaylr
 mimicus
 mindflayer
 minibatches
@@ -828,6 +831,7 @@ passhash
 pastable
 patchable
 pathname
+pcnoordhuis
 pdate
 percona
 performable
@@ -1611,6 +1615,7 @@ ydata
 ydirection
 yearshtml
 yekibud
+yepnopejs
 yfitted
 yforecast
 ying
@@ -1647,6 +1652,7 @@ yyyy
 zachleat
 zassenhaus
 zastat
+zcorpan
 zdirection
 zdotb
 zerocopy
@@ -1678,9 +1684,3 @@ zscores
 zstar
 ztol
 zyxwvu
-bugzil
-pcnoordhuis
-miketaylr
-isogram
-zcorpan
-yepnopejs
