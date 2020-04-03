@@ -219,6 +219,7 @@ dbmail
 dbname
 dcramer
 ddmanager
+debouncer
 debugapp
 declaratively
 decodings
@@ -520,6 +521,7 @@ itleref
 ivar
 ixrss
 jackhenry
+jasminewd
 javascripts
 jeesh
 jeffknupp
@@ -534,6 +536,7 @@ joinpath
 jpcntx
 jpcntxprober
 jscript
+jsdoc
 jsdom
 jsoneditoronline
 jsurloppe
@@ -1040,7 +1043,6 @@ sobolevn
 sociallogin
 socio
 socketmodule
-soloman
 solrconfig
 someenv
 somefile
@@ -1147,6 +1149,7 @@ supersets
 svenstaro
 syllabary
 symlinked
+symlinkfile
 syncdb
 synched
 syntaxes
@@ -1184,6 +1187,7 @@ textitem
 tga
 thatguy
 themoviedb
+thenable
 thenewsmeme
 thepast
 theres
@@ -1221,8 +1225,10 @@ totaldoclen
 tounicode
 tracebacks
 tradeoff
+tradeoffs
 transitionend
 translationdir
+transpile
 trenda
 trevorscheitrum
 trialamt
@@ -1634,9 +1640,3 @@ zscores
 zstar
 ztol
 zyxwvu
-jsdoc
-jasminewd
-debouncer
-transpile
-tradeoffs
-thenable
