@@ -211,6 +211,7 @@ customdashboard
 customizations
 customizingformtemplates
 dakuten
+dalek
 dasd
 dass
 dataframing
@@ -325,6 +326,7 @@ entityref
 eprint
 erasmas
 errbacks
+errored
 errorlist
 eucjpprober
 euckrfreq
@@ -358,6 +360,7 @@ fbone
 fccff
 february
 fenc
+fieldclass
 fieldname
 fieldset
 filemail
@@ -506,6 +509,7 @@ isinstance
 isrss
 isspace
 issubset
+istanbul
 istartswith
 iterables
 iterationlabs
@@ -781,6 +785,7 @@ pageflag
 pagerefs
 pagetime
 parallelization
+parallelizes
 paren
 parens
 parentdir
@@ -851,6 +856,7 @@ prepends
 prepopulated
 preprocessors
 previewlinks
+pristinemethod
 probabilistically
 probeobject
 productinfo
@@ -887,6 +893,7 @@ qsize
 qtime
 queueservice
 quis
+randocall
 ratiofieldname
 ratiofields
 raydeo
@@ -1023,12 +1030,12 @@ slugified
 smallinteger
 smgid
 smth
+snapshotting
 snils
 sobolevn
 sociallogin
 socio
 socketmodule
-soloman
 solrconfig
 someenv
 somefile
@@ -1117,6 +1124,7 @@ subroute
 subsampling
 subscribername
 subselects
+subsequence
 subsequences
 subsetting
 subsubsection
@@ -1169,6 +1177,7 @@ textareas
 textitem
 tga
 thatguy
+thats
 themoviedb
 thenewsmeme
 thepast
@@ -1207,6 +1216,8 @@ tracebacks
 tradeoff
 transitionend
 translationdir
+transpilation
+transpile
 trenda
 trevorscheitrum
 trialamt
@@ -1244,6 +1255,7 @@ unassign
 unbundled
 uncached
 uncaptured
+uncategorised
 unchecking
 unclosed
 uncollectible
@@ -1292,6 +1304,7 @@ unmark
 unmarshal
 unmarshalling
 unmatching
+unmocked
 unmoderated
 unmute
 unopinionated
@@ -1336,6 +1349,7 @@ unterminated
 unthrottled
 untracked
 untransformed
+untranspiled
 unvalidatable
 unversioned
 unvote
@@ -1610,15 +1624,3 @@ zscores
 zstar
 ztol
 zyxwvu
-fieldclass
-errored
-thats
-uncategorised
-pristinemethod
-dalek
-subsequence
-transpile
-unmocked
-randocall
-istanbul
-transpilation
