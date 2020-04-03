@@ -65,6 +65,7 @@ atronah
 attribs
 attrname
 atype
+augmentable
 ause
 aute
 authenticationpolicy
@@ -132,6 +133,7 @@ callsites
 calmerthanyouare
 camelized
 camelizing
+cancelable
 cannotdeduceregionerror
 capicola
 carljm
@@ -326,6 +328,7 @@ enskild
 enterable
 entityref
 eprint
+equalities
 erasmas
 ericyd
 errbacks
@@ -358,6 +361,7 @@ fafafa
 fakestr
 falconparser
 fallbacks
+falsey
 fatypes
 fbed
 fbone
@@ -519,6 +523,7 @@ issubset
 istanbul
 istartswith
 iterables
+iteratee
 iterationlabs
 iteritems
 iterkeys
@@ -668,6 +673,7 @@ mixups
 mkvirtualenv
 mlt
 mmerickel
+mname
 modellist
 modelview
 modindex
@@ -1107,6 +1113,7 @@ strs
 stunnel
 stylesheet
 subaccount
+subattribute
 subclassed
 subclasses
 subclassing
@@ -1208,6 +1215,7 @@ thenewsmeme
 thepast
 theres
 threadid
+throbber
 thumbnailed
 thumbnailing
 thunkor
@@ -1482,6 +1490,7 @@ wildcarded
 windowsconsoleio
 windoze
 wininst
+winjs
 winlen
 winsock
 wlen
@@ -1660,9 +1669,3 @@ zscores
 zstar
 ztol
 zyxwvu
-equalities
-augmentable
-throbber
-iteratee
-falsey
-cancelable
