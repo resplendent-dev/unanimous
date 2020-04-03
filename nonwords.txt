@@ -1678,3 +1678,9 @@ zscores
 zstar
 ztol
 zyxwvu
+bugzil
+pcnoordhuis
+miketaylr
+isogram
+zcorpan
+yepnopejs
