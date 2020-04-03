@@ -1105,3 +1105,15 @@ zscores
 zstar
 ztol
 zyxwvu
+fieldclass
+errored
+thats
+uncategorised
+pristinemethod
+dalek
+subsequence
+transpile
+unmocked
+randocall
+istanbul
+transpilation
