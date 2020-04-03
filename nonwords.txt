@@ -1660,3 +1660,9 @@ zscores
 zstar
 ztol
 zyxwvu
+equalities
+augmentable
+throbber
+iteratee
+falsey
+cancelable
