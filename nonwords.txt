@@ -80,6 +80,7 @@ authrequest
 autocompleted
 autocompletion
 autoexpose
+autofill
 autoformatting
 autogenerations
 autoincrement
@@ -199,6 +200,7 @@ commonprefix
 commutativity
 comparators
 compressibility
+computeds
 confoundingly
 conftest
 consectetur
@@ -812,6 +814,7 @@ numfound
 oberstet
 objectlanguage
 obscurified
+observables
 occaecat
 odff
 officia
@@ -941,6 +944,7 @@ programmatically
 progressall
 proident
 promisifying
+propertychange
 proration
 prostomarkeloff
 proxied
@@ -1207,6 +1211,7 @@ subpixel
 subpreparer
 subpreparers
 subprocesses
+subproperty
 subprotocol
 subprotocols
 subqueries
@@ -1427,6 +1432,8 @@ unmark
 unmarshal
 unmarshalling
 unmatching
+unmemoization
+unmemoize
 unmocked
 unmoderated
 unmount
@@ -1767,9 +1774,3 @@ zscores
 zstar
 ztol
 zyxwvu
-observables
-subproperty
-computeds
-unmemoization
-unmemoize
-propertychange
