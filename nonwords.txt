@@ -345,6 +345,7 @@ enskild
 enterable
 entityref
 eprint
+eqeqeq
 equalities
 erasmas
 ericyd
@@ -369,6 +370,7 @@ exename
 exercitation
 expandedmind
 expando
+expandos
 expanduser
 expirations
 expt
@@ -632,6 +634,7 @@ linebreaks
 linex
 linkified
 linters
+listenee
 listwidgets
 ljust
 lluchs
@@ -754,6 +757,7 @@ mysqlgis
 myvar
 mywhitelist
 mywidget
+myyj
 namespacing
 narr
 natively
@@ -1323,7 +1327,9 @@ transitionend
 translationdir
 transpilation
 transpile
+transpiler
 transpiles
+transpiling
 trenda
 tres
 trevorscheitrum
@@ -1664,6 +1670,8 @@ xupp
 xvals
 xvar
 xworkflow
+xxxabc
+xxxdef
 xxxfit
 xxxxgithub
 xxxxxxxx
@@ -1751,9 +1759,3 @@ zscores
 zstar
 ztol
 zyxwvu
-myyj
-listenee
-expandos
-eqeqeq
-xxxdef
-xxxabc
