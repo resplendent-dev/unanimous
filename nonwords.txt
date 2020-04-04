@@ -910,6 +910,7 @@ prefetched
 prefilter
 prefilters
 preformatted
+preinitialize
 preinstalled
 preloaded
 preloads
@@ -922,6 +923,7 @@ prepopulated
 preprocessors
 prereleases
 presentational
+preval
 previewlinks
 pristinemethod
 probabilistically
@@ -1030,6 +1032,7 @@ retransmission
 reusability
 revalidate
 revalidates
+reviver
 rght
 ribeye
 rico
@@ -1157,7 +1160,9 @@ streamreaders
 streamwriter
 strftime
 stringifiable
+stringification
 stringified
+stringifying
 stringio
 stringios
 strlens
@@ -1613,6 +1618,7 @@ xfffd
 xfree
 xhat
 xhatparams
+xhrs
 xifloat
 xind
 xint
@@ -1745,9 +1751,3 @@ zscores
 zstar
 ztol
 zyxwvu
-preval
-preinitialize
-xhrs
-reviver
-stringifying
-stringification
