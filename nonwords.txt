@@ -45,6 +45,7 @@ appendblobservice
 appgroups
 appspot
 aprasanna
+aralejs
 architected
 aren
 argname
@@ -54,6 +55,7 @@ argumentmapper
 argumentresolver
 argumentspec
 argumentvalidator
+arity
 arn
 arns
 arraylike
@@ -421,6 +423,7 @@ fugiat
 functionbase
 functionbased
 functionish
+functor
 fuzzyrusty
 fuzzysharp
 fuzzywuzz
@@ -602,6 +605,7 @@ langbulgarianmodel
 langgreekmodel
 langhebrewmodel
 langthaimodel
+latedef
 latinized
 lazybird
 leadfoot
@@ -952,6 +956,7 @@ qsval
 qtime
 queueservice
 quis
+quotmark
 radarhere
 randocall
 raspo
@@ -1308,6 +1313,7 @@ transpilation
 transpile
 transpiles
 trenda
+tres
 trevorscheitrum
 trialamt
 trialbillingfrequency
@@ -1433,6 +1439,7 @@ unselected
 unserializes
 unserializing
 unshift
+unstack
 unstacked
 unstacking
 unstacks
@@ -1731,9 +1738,3 @@ zscores
 zstar
 ztol
 zyxwvu
-aralejs
-tres
-arity
-latedef
-quotmark
-unstack
