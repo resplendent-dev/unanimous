@@ -1759,3 +1759,9 @@ zscores
 zstar
 ztol
 zyxwvu
+thead
+tfoot
+ractive
+twoway
+keypaths
+yielder
