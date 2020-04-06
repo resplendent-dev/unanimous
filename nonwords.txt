@@ -160,6 +160,7 @@ cdba
 ceil
 ceiled
 centric
+chaplin
 chardata
 chardetect
 charmap
@@ -175,6 +176,7 @@ checkmark
 checksums
 chere
 childprop
+childview
 chilpit
 chunkalways
 chunkdone
@@ -268,8 +270,10 @@ denilsonsa
 deparam
 dependables
 deployable
+depthed
 dequeue
 dequeued
+derbyjs
 desaturates
 deserialization
 deserialized
@@ -366,6 +370,7 @@ enqueuing
 enskild
 enterable
 entityref
+enumerables
 eprint
 eqeqeq
 equalities
@@ -402,6 +407,7 @@ extendibility
 extensibility
 externs
 fafafa
+failback
 fakestr
 falconparser
 fallbacks
@@ -599,6 +605,7 @@ joinedload
 joinpath
 jpcntx
 jpcntxprober
+jscoverage
 jscript
 jsdoc
 jsdom
@@ -657,6 +664,7 @@ lifesinger
 lighttpd
 linearities
 linebreaks
+linenos
 linex
 linkified
 linters
@@ -676,6 +684,7 @@ locmemcache
 loggroup
 logics
 looby
+lookbehind
 loopfunc
 lossy
 lowercased
@@ -702,6 +711,7 @@ matzhu
 maxcomplexity
 maxdepth
 maxmemory
+maxparams
 maxsize
 maxwidth
 mbcssm
@@ -743,6 +753,7 @@ mkvirtualenv
 mlt
 mmerickel
 mname
+mnobject
 modellist
 modelview
 modindex
@@ -786,6 +797,7 @@ mysecret
 mysidebar
 mysqlgis
 myvar
+myview
 mywhitelist
 mywidget
 myyj
@@ -970,6 +982,7 @@ prepends
 prepopulated
 preprocessors
 prereleases
+prerendered
 presentational
 preval
 previewlinks
@@ -1044,6 +1057,7 @@ redispapa
 redisplay
 rediss
 reenable
+refilter
 refnames
 regconfig
 regens
@@ -1069,6 +1083,7 @@ requeued
 requeues
 reraised
 rerender
+rerendered
 rerendering
 rerenders
 rerequest
@@ -1091,6 +1106,7 @@ reviver
 rght
 ribeye
 rico
+ripplejs
 rmse
 rollbacked
 romanization
@@ -1145,6 +1161,7 @@ shch
 sherika
 sherrell
 shived
+shortcutted
 shorthands
 shouldn
 showbrowser
@@ -1221,6 +1238,7 @@ strftime
 stringifiable
 stringification
 stringified
+stringifies
 stringifying
 stringio
 stringios
@@ -1276,6 +1294,7 @@ subsequence
 subsequences
 subsetting
 subsubsection
+subsuites
 subtest
 subthread
 subtransaction
@@ -1285,6 +1304,7 @@ subtype
 subvalidators
 subvalue
 subvalues
+subviews
 sucrase
 summarizers
 sunt
@@ -1442,6 +1462,7 @@ uncached
 uncaptured
 uncategorised
 unchecking
+unchecks
 unclosed
 uncollectible
 uncomment
