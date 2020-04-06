@@ -270,8 +270,10 @@ denilsonsa
 deparam
 dependables
 deployable
+depthed
 dequeue
 dequeued
+derbyjs
 desaturates
 deserialization
 deserialized
@@ -405,6 +407,7 @@ extendibility
 extensibility
 externs
 fafafa
+failback
 fakestr
 falconparser
 fallbacks
@@ -1080,6 +1083,7 @@ requeued
 requeues
 reraised
 rerender
+rerendered
 rerendering
 rerenders
 rerequest
@@ -1157,6 +1161,7 @@ shch
 sherika
 sherrell
 shived
+shortcutted
 shorthands
 shouldn
 showbrowser
@@ -1457,6 +1462,7 @@ uncached
 uncaptured
 uncategorised
 unchecking
+unchecks
 unclosed
 uncollectible
 uncomment
@@ -1871,9 +1877,3 @@ zscores
 zstar
 ztol
 zyxwvu
-unchecks
-derbyjs
-rerendered
-shortcutted
-failback
-depthed
