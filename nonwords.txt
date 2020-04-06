@@ -160,6 +160,7 @@ cdba
 ceil
 ceiled
 centric
+chaplin
 chardata
 chardetect
 charmap
@@ -175,6 +176,7 @@ checkmark
 checksums
 chere
 childprop
+childview
 chilpit
 chunkalways
 chunkdone
@@ -743,6 +745,7 @@ mkvirtualenv
 mlt
 mmerickel
 mname
+mnobject
 modellist
 modelview
 modindex
@@ -786,6 +789,7 @@ mysecret
 mysidebar
 mysqlgis
 myvar
+myview
 mywhitelist
 mywidget
 myyj
@@ -970,6 +974,7 @@ prepends
 prepopulated
 preprocessors
 prereleases
+prerendered
 presentational
 preval
 previewlinks
@@ -1044,6 +1049,7 @@ redispapa
 redisplay
 rediss
 reenable
+refilter
 refnames
 regconfig
 regens
@@ -1285,6 +1291,7 @@ subtype
 subvalidators
 subvalue
 subvalues
+subviews
 sucrase
 summarizers
 sunt
@@ -1856,9 +1863,3 @@ zscores
 zstar
 ztol
 zyxwvu
-chaplin
-myview
-subviews
-refilter
-mnobject
-childview
