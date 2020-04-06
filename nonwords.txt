@@ -1259,6 +1259,7 @@ subtype
 subvalidators
 subvalue
 subvalues
+sucrase
 summarizers
 sunt
 superclasses
@@ -1365,6 +1366,7 @@ translationdir
 transpilation
 transpile
 transpiler
+transpilers
 transpiles
 transpiling
 trenda
@@ -1385,6 +1387,7 @@ tty
 ttype
 tweened
 tweener
+tweening
 tweens
 twoway
 txnid
@@ -1808,4 +1811,3 @@ zscores
 zstar
 ztol
 zyxwvu
-tweening
