@@ -215,6 +215,7 @@ consolemail
 containerless
 containments
 contentready
+copyable
 couldn
 cov
 coveragerc
@@ -245,6 +246,7 @@ dbmail
 dbname
 dcramer
 ddmanager
+deallocated
 debouncer
 debugapp
 declaratively
@@ -353,6 +355,7 @@ endcompress
 endfor
 endif
 endiffeature
+endprivate
 endswith
 enim
 enqueued
@@ -787,6 +790,7 @@ myyj
 namespacing
 narr
 natively
+nativescript
 navigations
 nbest
 nbsp
@@ -813,6 +817,7 @@ nocover
 noinput
 noinspection
 noirbizarre
+nolint
 nonbillable
 noneditable
 nonexisting
@@ -841,6 +846,7 @@ observables
 occaecat
 odff
 officia
+offscreen
 olddisplay
 omdict
 onabort
@@ -1016,6 +1022,7 @@ ratiofieldname
 ratiofields
 raydeo
 rconradharris
+reactnative
 readd
 realname
 realworld
@@ -1029,6 +1036,7 @@ reconnections
 recrawl
 recurses
 recursionlimit
+redbox
 redditclone
 redispapa
 redisplay
@@ -1544,6 +1552,7 @@ unthrottled
 untracked
 untransformed
 untranspiled
+untyped
 unvalidatable
 unversioned
 unvote
@@ -1841,9 +1850,3 @@ zscores
 zstar
 ztol
 zyxwvu
-nativescript
-endprivate
-offscreen
-copyable
-nolint
-redbox
