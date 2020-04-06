@@ -214,6 +214,7 @@ contentready
 cov
 coveragerc
 createjs
+creativecommons
 cript
 crosshairs
 cryptographically
@@ -251,6 +252,7 @@ deepcopied
 defaultfilters
 deferreds
 defragmentation
+degit
 deja
 delitem
 denilsonsa
@@ -325,6 +327,7 @@ eiusmod
 elementinteraction
 elementinternal
 elementlocation
+elementresize
 elif
 elkan
 elusion
@@ -603,6 +606,7 @@ keypaths
 keypresses
 kirovboris
 klmn
+kobzol
 kompiuter
 komplexen
 kouio
@@ -698,6 +702,7 @@ metanav
 metasearch
 mfcovington
 microframeworks
+microtask
 middot
 mignon
 migonzalvar
@@ -829,7 +834,9 @@ onabort
 onbeforeactivate
 onblur
 onclick
+oncreate
 onhold
+onlinestatuschanged
 onload
 onposition
 onreadystatechange
@@ -1083,6 +1090,7 @@ searchableselect
 sectionauthor
 seealso
 seekable
+seeked
 selectedcontacts
 seltests
 sensorid
@@ -1249,6 +1257,7 @@ superclasses
 superfast
 superroma
 supersets
+sveltejs
 svenstaro
 syllabary
 symlinked
@@ -1314,6 +1323,7 @@ timedeltas
 timeframe
 timestep
 timesteps
+timeupdate
 timezoneselector
 timlyo
 timnederhoff
@@ -1365,6 +1375,7 @@ tsadi
 tsquery
 tty
 ttype
+tweened
 tweener
 tweens
 twoway
@@ -1788,9 +1799,3 @@ zscores
 zstar
 ztol
 zyxwvu
-sveltejs
-onlinestatuschanged
-oncreate
-microtask
-elementresize
-tweened
