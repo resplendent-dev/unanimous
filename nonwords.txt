@@ -1850,3 +1850,9 @@ zscores
 zstar
 ztol
 zyxwvu
+vanillajni
+debuggable
+unmounts
+uncommit
+buildable
+tagname
