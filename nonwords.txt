@@ -1788,3 +1788,9 @@ zscores
 zstar
 ztol
 zyxwvu
+sveltejs
+onlinestatuschanged
+oncreate
+microtask
+elementresize
+tweened
