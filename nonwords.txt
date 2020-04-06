@@ -122,6 +122,7 @@ blewskiego
 blkin
 blockblobservice
 bodycopy
+boilerplatey
 bolds
 booleans
 bools
@@ -310,6 +311,7 @@ dummymail
 dummypage
 dumpscript
 duplications
+durationchange
 dwatow
 eacute
 easytmdb
@@ -370,6 +372,7 @@ euctwfreqprober
 euctwprober
 euri
 evaled
+eventname
 excview
 execjosh
 executables
@@ -649,6 +652,7 @@ listwidgets
 ljust
 lluchs
 lnotab
+loadedmetadata
 localenegotiator
 localeselector
 localhost
@@ -840,8 +844,10 @@ onlinestatuschanged
 onload
 onposition
 onreadystatechange
+onstate
 onunload
 onwards
+onwindowscroll
 openredis
 operationid
 optionals
@@ -851,6 +857,7 @@ oretha
 ourself
 outbufs
 outdent
+outro
 outros
 outtextf
 outtextlist
@@ -868,6 +875,7 @@ pageblobservice
 pageflag
 pagerefs
 pagetime
+pannable
 parallelization
 parallelizes
 paren
@@ -1581,6 +1589,7 @@ voivodeship
 volo
 volofile
 volofiles
+volumechange
 voluptate
 voterid
 waddlelikeaduck
@@ -1799,9 +1808,4 @@ zscores
 zstar
 ztol
 zyxwvu
-pannable
-outro
-onwindowscroll
-onstate
-loadedmetadata
-eventname
+tweening
