@@ -214,6 +214,7 @@ consolemail
 containerless
 containments
 contentready
+couldn
 cov
 coveragerc
 createjs
@@ -259,6 +260,7 @@ degit
 deja
 delitem
 denilsonsa
+deparam
 dependables
 deployable
 dequeue
@@ -305,9 +307,11 @@ dolore
 domprefixes
 dotless
 dragend
+dragup
 dragupload
 dropdowns
 dropmenu
+dropmove
 droppable
 dummymail
 dummypage
@@ -1363,6 +1367,7 @@ tounicode
 tracebacks
 tradeoff
 tradeoffs
+tranditional
 transclude
 transclusion
 transformx
@@ -1421,6 +1426,7 @@ unchecking
 unclosed
 uncollectible
 uncomment
+uncommenting
 uncompress
 uncompressable
 uncomputed
@@ -1819,9 +1825,3 @@ zscores
 zstar
 ztol
 zyxwvu
-dropmove
-dragup
-deparam
-couldn
-uncommenting
-tranditional
