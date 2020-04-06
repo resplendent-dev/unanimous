@@ -1799,3 +1799,9 @@ zscores
 zstar
 ztol
 zyxwvu
+pannable
+outro
+onwindowscroll
+onstate
+loadedmetadata
+eventname
