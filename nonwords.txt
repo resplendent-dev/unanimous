@@ -92,6 +92,7 @@ automagically
 automapped
 automodule
 avals
+avoriaz
 awesomez
 baar
 backref
@@ -543,6 +544,7 @@ informations
 inikulin
 initkwargs
 inlined
+inlining
 inprogress
 installable
 instanceof
@@ -713,6 +715,7 @@ metasearch
 mfcovington
 microframeworks
 microtask
+microtasks
 middot
 mignon
 migonzalvar
@@ -856,6 +859,7 @@ onwards
 onwindowscroll
 openredis
 operationid
+optimizable
 optionals
 oraclegis
 orderedmultimdict
@@ -881,6 +885,7 @@ pageblobservice
 pageflag
 pagerefs
 pagetime
+paldepind
 pannable
 parallelization
 parallelizes
@@ -973,6 +978,7 @@ promisifying
 propertychange
 proration
 prostomarkeloff
+prototypal
 proxied
 proxying
 prtgadmin
@@ -1376,6 +1382,7 @@ transitionend
 translationdir
 transpilation
 transpile
+transpiled
 transpiler
 transpilers
 transpiles
@@ -1607,6 +1614,7 @@ visitaugslice
 visitcontinue
 visitnodetype
 visitxxx
+vnode
 voivodeship
 volo
 volofile
@@ -1628,6 +1636,7 @@ weakrefs
 webasset
 webobparser
 webservers
+weex
 weirdnesses
 weren
 weve
@@ -1832,9 +1841,3 @@ zscores
 zstar
 ztol
 zyxwvu
-vnode
-weex
-optimizable
-microtasks
-transpiled
-inlining
