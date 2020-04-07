@@ -73,6 +73,7 @@ atype
 augmentable
 ause
 aute
+authed
 authenticationpolicy
 authextra
 authkey
@@ -186,6 +187,7 @@ chunksend
 cillum
 citable
 cjnewman
+cjwsyh
 classbased
 classmethod
 classname
@@ -858,6 +860,7 @@ notedit
 notmodified
 ntilde
 nuget
+nullability
 nullable
 nullpointer
 numfound
@@ -892,6 +895,7 @@ optimizable
 optionals
 oraclegis
 orderedmultimdict
+orderer
 oretha
 ourself
 outbufs
@@ -1150,6 +1154,7 @@ seealso
 seekable
 seeked
 selectedcontacts
+sellable
 seltests
 sensorid
 sensorobject
@@ -1518,6 +1523,7 @@ uninstantiated
 unintuitive
 uninvoked
 unioned
+uniquified
 uniquifies
 unitless
 unittests
@@ -1893,9 +1899,3 @@ zscores
 zstar
 ztol
 zyxwvu
-uniquified
-cjwsyh
-authed
-nullability
-sellable
-orderer
