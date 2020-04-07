@@ -77,6 +77,7 @@ authenticationpolicy
 authextra
 authkey
 authorurl
+authorwebsite
 authrequest
 autocompleted
 autocompletion
@@ -195,6 +196,7 @@ cloudstorageaccount
 cmdclass
 cobrateam
 codefragment
+codeinjection
 codesc
 codeview
 codez
@@ -248,6 +250,7 @@ datetimes
 dbmail
 dbname
 dcramer
+ddcb
 ddmanager
 deallocated
 debouncer
@@ -744,6 +747,7 @@ mindflayer
 minibatches
 minifies
 miniframework
+minimalistic
 misconfiguration
 misconfigured
 misencoded
@@ -789,6 +793,7 @@ multitree
 multivalue
 multiwidgets
 myaction
+myblogsite
 mydir
 myint
 mymodel
@@ -830,6 +835,7 @@ nisi
 nnen
 nocontent
 nocover
+noimagehere
 noinput
 noinspection
 noirbizarre
@@ -1201,6 +1207,7 @@ somefile
 somefunnyname
 somelib
 someotherfile
+someredirectedurl
 somerequest
 someschema
 someutfcharacters
@@ -1464,6 +1471,7 @@ unapplied
 unassign
 unbundled
 uncached
+uncapitalise
 uncaptured
 uncategorised
 unchecking
@@ -1885,9 +1893,3 @@ zscores
 zstar
 ztol
 zyxwvu
-minimalistic
-noimagehere
-myblogsite
-someredirectedurl
-authorwebsite
-ddcb
