@@ -1911,3 +1911,16 @@ zscores
 zstar
 ztol
 zyxwvu
+denter
+canonicalise
+parametrizes
+deterministically
+reimplementation
+dereference
+representers
+keyid
+dodgily
+irreplacable
+basicsep
+isable
+notset
