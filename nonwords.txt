@@ -1885,3 +1885,9 @@ zscores
 zstar
 ztol
 zyxwvu
+minimalistic
+noimagehere
+myblogsite
+someredirectedurl
+authorwebsite
+ddcb
