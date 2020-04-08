@@ -1945,3 +1945,9 @@ zscores
 zstar
 ztol
 zyxwvu
+dbusername
+dbport
+dbpassword
+dbhost
+davidrekow
+scriptlet
