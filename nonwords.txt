@@ -162,6 +162,7 @@ cannotdeduceregionerror
 canonicalise
 capicola
 carljm
+carre
 caseless
 cass
 casted
@@ -244,6 +245,7 @@ cssrewrite
 csstidy
 ctor
 ctypeid
+cubehelix
 culpa
 cupidatat
 curpage
@@ -403,6 +405,7 @@ enumerables
 eprint
 eqeqeq
 equalities
+equirectangular
 erasmas
 ericyd
 errbacks
@@ -1012,6 +1015,7 @@ positionally
 positionals
 postback
 postcallfunc
+postclip
 postcsrf
 postfixed
 postfixes
@@ -1085,6 +1089,7 @@ qmarlats
 qsize
 qsval
 qtime
+quantiles
 quantizing
 queueservice
 quis
@@ -1198,6 +1203,7 @@ sanitization
 saturday
 scaffolded
 scalability
+scatterplot
 scottjehl
 scriptlet
 scrollbar
@@ -1240,6 +1246,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+sinebow
 singularized
 sint
 siphones
@@ -1291,11 +1298,13 @@ spritemaps
 sqlcreate
 sqldsn
 sqrt
+squarified
 squoosh
 starrhorne
 startswith
 stderr
 stefanschenk
+stereographic
 stevenlevithan
 sticked
 stickypanel
@@ -1318,6 +1327,7 @@ stringio
 stringios
 strlens
 stroh
+strptime
 strs
 stunnel
 stylesheet
@@ -1623,6 +1633,7 @@ unpickle
 unpickleable
 unpickled
 unpickling
+unpkg
 unprefixed
 unproject
 unpublish
@@ -1635,6 +1646,7 @@ unregistration
 unrender
 unrendered
 unresolvable
+unrotate
 unsanitized
 unsatisfiable
 unscaled
@@ -1971,15 +1983,3 @@ zscores
 zstar
 ztol
 zyxwvu
-stereographic
-equirectangular
-carre
-unrotate
-unpkg
-strptime
-squarified
-sinebow
-scatterplot
-quantiles
-postclip
-cubehelix
