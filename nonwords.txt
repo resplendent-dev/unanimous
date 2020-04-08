@@ -99,6 +99,7 @@ avals
 avoriaz
 awesomez
 axios
+azimuthal
 baar
 backref
 backreference
@@ -523,6 +524,7 @@ gosquared
 gothic
 gotoh
 gplv
+graticule
 greenlets
 greenthreads
 groupfinder
@@ -661,6 +663,7 @@ keyid
 keypaths
 keypresses
 kirovboris
+kissy
 klmn
 kobzol
 kompiuter
@@ -797,6 +800,7 @@ moduleauthor
 mofile
 mollit
 monkeypatched
+monotonicity
 montana
 moorman
 motiky
@@ -1079,6 +1083,7 @@ qtime
 queueservice
 quis
 quotmark
+quux
 ractive
 radarhere
 radiochange
@@ -1292,6 +1297,7 @@ stoptimer
 stopworded
 strapi
 strcut
+streamgraph
 streamreader
 streamreaders
 streamwriter
@@ -1522,6 +1528,7 @@ ulimit
 ullamco
 unallowed
 unapplied
+unapply
 unassign
 unbundled
 uncached
@@ -1816,6 +1823,7 @@ xhatparams
 xhrs
 xifloat
 xind
+xindex
 xint
 xinterval
 xlabel
@@ -1935,6 +1943,7 @@ zfade
 zfinal
 zfrac
 zhangyafeikimi
+zier
 zigenpoisson
 zinb
 zinegbin
@@ -1952,9 +1961,3 @@ zscores
 zstar
 ztol
 zyxwvu
-quux
-kissy
-xindex
-graticule
-azimuthal
-zier
