@@ -38,6 +38,7 @@ anentropic
 anim
 anims
 anphisa
+antimeridian
 antiword
 apierrors
 apimanager
@@ -141,6 +142,7 @@ brigen
 broj
 browsable
 browserback
+brushable
 buddyjs
 bugzil
 buildable
@@ -518,6 +520,7 @@ globbed
 glogging
 gmtime
 gnarvaja
+gnomonic
 googleclassicanalytics
 googleuniversalanalytics
 gosquared
@@ -766,6 +769,7 @@ metanav
 metasearch
 mfcovington
 microframeworks
+microlibraries
 microtask
 microtasks
 middot
@@ -1016,6 +1020,7 @@ postorder
 postprocessed
 postprocessors
 precallfunc
+preclip
 precompile
 precompiled
 precompiling
@@ -1080,6 +1085,7 @@ qmarlats
 qsize
 qsval
 qtime
+quantizing
 queueservice
 quis
 quotmark
@@ -1189,6 +1195,7 @@ sadielbartholomew
 safestring
 sangelone
 sanitization
+saturday
 scaffolded
 scalability
 scottjehl
@@ -1469,6 +1476,7 @@ tokentype
 toks
 tonos
 toolfunc
+topline
 tornadoparser
 tostr
 totaldoclen
@@ -1616,6 +1624,7 @@ unpickleable
 unpickled
 unpickling
 unprefixed
+unproject
 unpublish
 unqueued
 unrefunded
@@ -1952,6 +1961,7 @@ zipcity
 zmap
 zmusic
 zomgdev
+zoomable
 zorder
 zouts
 zpk
@@ -1961,9 +1971,3 @@ zscores
 zstar
 ztol
 zyxwvu
-gnomonic
-zoomable
-saturday
-preclip
-microlibraries
-brushable
