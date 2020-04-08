@@ -98,6 +98,7 @@ autosave
 avals
 avoriaz
 awesomez
+axios
 baar
 backref
 backreference
@@ -570,6 +571,7 @@ indeterministic
 indexable
 infctr
 informations
+infos
 inikulin
 initkwargs
 inlined
@@ -956,6 +958,7 @@ passhash
 pastable
 patchable
 pathname
+paulbocuse
 pcnoordhuis
 pdate
 pencilblue
@@ -1127,6 +1130,7 @@ rerequest
 resending
 resends
 resizable
+resolvers
 resourceattributenotfounderror
 respace
 respondjs
@@ -1271,6 +1275,7 @@ stickypanel
 stopasgroup
 stoptimer
 stopworded
+strapi
 strcut
 streamreader
 streamreaders
@@ -1450,6 +1455,7 @@ tounicode
 tracebacks
 tradeoff
 tradeoffs
+trads
 tranditional
 transclude
 transclusion
@@ -1931,4 +1937,3 @@ zscores
 zstar
 ztol
 zyxwvu
-strapi
