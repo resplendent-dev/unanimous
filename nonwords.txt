@@ -254,10 +254,15 @@ dasd
 dass
 dataframing
 datetimes
+davidrekow
 dbforce
+dbhost
 dbmail
 dbname
+dbpassword
+dbport
 dbssl
+dbusername
 dcramer
 ddcb
 ddfb
@@ -857,6 +862,7 @@ nightlies
 nightwatchjs
 nique
 nisi
+nname
 nnen
 nocontent
 nocover
@@ -1181,6 +1187,7 @@ sanitization
 scaffolded
 scalability
 scottjehl
+scriptlet
 scrollbar
 scrollbars
 scrollspy
@@ -1945,9 +1952,3 @@ zscores
 zstar
 ztol
 zyxwvu
-dbusername
-dbport
-dbpassword
-dbhost
-davidrekow
-scriptlet
