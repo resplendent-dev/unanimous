@@ -1977,3 +1977,9 @@ carre
 unrotate
 unpkg
 strptime
+squarified
+sinebow
+scatterplot
+quantiles
+postclip
+cubehelix
