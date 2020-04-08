@@ -1961,3 +1961,9 @@ zscores
 zstar
 ztol
 zyxwvu
+gnomonic
+zoomable
+saturday
+preclip
+microlibraries
+brushable
