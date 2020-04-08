@@ -1971,3 +1971,9 @@ zscores
 zstar
 ztol
 zyxwvu
+stereographic
+equirectangular
+carre
+unrotate
+unpkg
+strptime
