@@ -255,6 +255,7 @@ customizations
 customizingformtemplates
 dakuten
 dalek
+dandehavilland
 dasd
 dass
 dataframing
@@ -703,6 +704,7 @@ libsqlite
 libxslt
 licensors
 lifesinger
+lightpink
 lighttpd
 linearities
 linebreaks
@@ -779,6 +781,7 @@ middot
 mignon
 migonzalvar
 migraph
+migrators
 mihpayid
 mikehelmick
 miketaylr
@@ -788,6 +791,7 @@ minibatches
 minifies
 miniframework
 minimalistic
+minprops
 misconfiguration
 misconfigured
 misencoded
@@ -1134,12 +1138,14 @@ regexs
 regis
 regrtest
 reified
+reimplement
 reimplementation
 reindexed
 reinitializing
 relu
 reminderslist
 renancouto
+reorderer
 replicability
 reprehenderit
 representable
@@ -1416,6 +1422,7 @@ tableref
 tableservice
 tablesorting
 tablespace
+taglib
 tagname
 tanh
 targetable
@@ -1548,6 +1555,7 @@ unallowed
 unapplied
 unapply
 unassign
+unbatched
 unbundled
 uncached
 uncapitalise
@@ -1912,6 +1920,7 @@ yekibud
 yepnopejs
 yfitted
 yforecast
+ygroupf
 yielder
 ying
 ylabel
@@ -1983,9 +1992,3 @@ zscores
 zstar
 ztol
 zyxwvu
-taglib
-reorderer
-minprops
-migrators
-unbatched
-reimplement
