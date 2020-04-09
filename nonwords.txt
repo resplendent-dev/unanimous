@@ -255,6 +255,7 @@ customizations
 customizingformtemplates
 dakuten
 dalek
+dandehavilland
 dasd
 dass
 dataframing
@@ -387,6 +388,7 @@ endactiveurl
 endangularjs
 endassets
 endblock
+endchartjs
 endcomment
 endcompress
 endfor
@@ -703,6 +705,7 @@ libsqlite
 libxslt
 licensors
 lifesinger
+lightpink
 lighttpd
 linearities
 linebreaks
@@ -732,6 +735,7 @@ loopfunc
 lossy
 lowercased
 lowerstrip
+lowess
 lstrip
 lvdalens
 lynis
@@ -779,6 +783,7 @@ middot
 mignon
 migonzalvar
 migraph
+migrators
 mihpayid
 mikehelmick
 miketaylr
@@ -788,6 +793,7 @@ minibatches
 minifies
 miniframework
 minimalistic
+minprops
 misconfiguration
 misconfigured
 misencoded
@@ -1116,6 +1122,7 @@ reconcatenate
 reconnection
 reconnections
 recrawl
+rects
 recurses
 recursionlimit
 redbox
@@ -1134,12 +1141,14 @@ regexs
 regis
 regrtest
 reified
+reimplement
 reimplementation
 reindexed
 reinitializing
 relu
 reminderslist
 renancouto
+reorderer
 replicability
 reprehenderit
 representable
@@ -1311,6 +1320,7 @@ stickypanel
 stopasgroup
 stoptimer
 stopworded
+straightlines
 strapi
 strcut
 streamgraph
@@ -1416,6 +1426,7 @@ tableref
 tableservice
 tablesorting
 tablespace
+taglib
 tagname
 tanh
 targetable
@@ -1548,6 +1559,7 @@ unallowed
 unapplied
 unapply
 unassign
+unbatched
 unbundled
 uncached
 uncapitalise
@@ -1566,6 +1578,7 @@ uncomputed
 uncustomized
 undaemonize
 undef
+undefine
 undelegate
 underspecified
 underspecifies
@@ -1604,6 +1617,7 @@ unittests
 unkeyed
 unlink
 unlinked
+unlisten
 unmaintained
 unmappedstatus
 unmark
@@ -1620,6 +1634,7 @@ unmount
 unmounting
 unmounts
 unmute
+unnested
 unnormalized
 unopinionated
 unorderedlist
@@ -1912,6 +1927,7 @@ yekibud
 yepnopejs
 yfitted
 yforecast
+ygroupf
 yielder
 ying
 ylabel
