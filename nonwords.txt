@@ -198,6 +198,7 @@ citable
 cjnewman
 cjwsyh
 classbased
+classexample
 classmethod
 classname
 clckru
@@ -214,6 +215,7 @@ codez
 codingstatemachine
 coffeedoc
 collectassets
+collinear
 combinator
 commitwithin
 commodo
@@ -537,6 +539,7 @@ greenlets
 greenthreads
 groupfinder
 groupin
+grouptitle
 gsound
 guilabel
 guybedford
@@ -610,6 +613,7 @@ intersphinx
 introspectables
 ints
 invalidations
+invertible
 invoiceitems
 ipaddrs
 iress
@@ -621,6 +625,7 @@ isogram
 isrss
 isspace
 issubset
+issuecomment
 istanbul
 istartswith
 iterables
@@ -818,6 +823,7 @@ montana
 moorman
 motiky
 mousecatcher
+mousedrag
 mouseenter
 mousenter
 mouseover
