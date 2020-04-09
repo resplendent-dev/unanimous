@@ -1999,3 +1999,9 @@ zscores
 zstar
 ztol
 zyxwvu
+grouptitle
+mousedrag
+collinear
+issuecomment
+classexample
+invertible
