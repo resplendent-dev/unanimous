@@ -388,6 +388,7 @@ endactiveurl
 endangularjs
 endassets
 endblock
+endchartjs
 endcomment
 endcompress
 endfor
@@ -734,6 +735,7 @@ loopfunc
 lossy
 lowercased
 lowerstrip
+lowess
 lstrip
 lvdalens
 lynis
@@ -1120,6 +1122,7 @@ reconcatenate
 reconnection
 reconnections
 recrawl
+rects
 recurses
 recursionlimit
 redbox
@@ -1317,6 +1320,7 @@ stickypanel
 stopasgroup
 stoptimer
 stopworded
+straightlines
 strapi
 strcut
 streamgraph
@@ -1574,6 +1578,7 @@ uncomputed
 uncustomized
 undaemonize
 undef
+undefine
 undelegate
 underspecified
 underspecifies
@@ -1612,6 +1617,7 @@ unittests
 unkeyed
 unlink
 unlinked
+unlisten
 unmaintained
 unmappedstatus
 unmark
@@ -1628,6 +1634,7 @@ unmount
 unmounting
 unmounts
 unmute
+unnested
 unnormalized
 unopinionated
 unorderedlist
@@ -1992,9 +1999,3 @@ zscores
 zstar
 ztol
 zyxwvu
-lowess
-unnested
-rects
-endchartjs
-unlisten
-undefine
