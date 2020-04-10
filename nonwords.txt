@@ -168,6 +168,8 @@ camelizing
 cancelable
 cannotdeduceregionerror
 canonicalise
+canvascontext
+canvaswrapper
 capicola
 carljm
 carre
@@ -340,6 +342,7 @@ dimensionality
 directionality
 dirname
 dirruns
+disableddisabled
 discontiguous
 disjunction
 dista
@@ -427,6 +430,7 @@ equirectangular
 erasmas
 ericyd
 errbacks
+errorbars
 errored
 errorlist
 ervenec
@@ -659,6 +663,7 @@ itleref
 ivar
 ixrss
 jackhenry
+jaring
 jasminewd
 javascripts
 jeesh
@@ -1066,6 +1071,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+precalculating
 precallfunc
 preclip
 precompile
@@ -1143,6 +1149,7 @@ ractive
 radarhere
 radiochange
 randocall
+rangez
 raspo
 ratiofieldname
 ratiofields
@@ -1836,6 +1843,7 @@ webasset
 webgl
 webobparser
 webservers
+weekperiod
 weex
 weirdnesses
 wejs
@@ -1975,6 +1983,7 @@ yearshtml
 yehuda
 yekibud
 yepnopejs
+yerr
 yfitted
 yforecast
 ygroupf
@@ -2049,10 +2058,3 @@ zscores
 zstar
 ztol
 zyxwvu
-canvaswrapper
-canvascontext
-errorbars
-yerr
-disableddisabled
-rangez
-precalculating
