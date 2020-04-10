@@ -2005,3 +2005,9 @@ zscores
 zstar
 ztol
 zyxwvu
+imprecisions
+lineto
+webgl
+eventjs
+dataless
+itext
