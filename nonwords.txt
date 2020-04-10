@@ -2040,3 +2040,9 @@ zscores
 zstar
 ztol
 zyxwvu
+quartile
+stackability
+rescaled
+aculo
+datapoints
+plotclick
