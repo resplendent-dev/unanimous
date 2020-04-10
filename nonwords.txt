@@ -261,6 +261,7 @@ dandehavilland
 dasd
 dass
 dataframing
+dataless
 datetimes
 davidrekow
 dbforce
@@ -426,6 +427,7 @@ euctwfreqprober
 euctwprober
 euri
 evaled
+eventjs
 eventname
 excview
 execjosh
@@ -583,6 +585,7 @@ imho
 imitatio
 impactful
 imparsible
+imprecisions
 incase
 includable
 includeme
@@ -634,6 +637,7 @@ iterationlabs
 iteritems
 iterkeys
 itervalues
+itext
 itleref
 ivar
 ixrss
@@ -715,6 +719,7 @@ lighttpd
 linearities
 linebreaks
 linenos
+lineto
 linex
 linkified
 linksgo
@@ -734,6 +739,7 @@ locmem
 locmemcache
 loggroup
 logics
+longpress
 looby
 lookbehind
 loopfunc
@@ -1395,6 +1401,7 @@ subsequences
 subsetting
 subsubsection
 subsuites
+subtargets
 subtemplates
 subtest
 subthread
@@ -1670,6 +1677,7 @@ unresolvable
 unrotate
 unsanitized
 unsatisfiable
+unscale
 unscaled
 unsecure
 unselect
@@ -1790,6 +1798,7 @@ wasn
 watsons
 weakrefs
 webasset
+webgl
 webobparser
 webservers
 weex
@@ -2005,9 +2014,3 @@ zscores
 zstar
 ztol
 zyxwvu
-imprecisions
-lineto
-webgl
-eventjs
-dataless
-itext
