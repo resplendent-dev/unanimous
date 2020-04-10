@@ -624,6 +624,7 @@ interoperability
 interoperable
 interoperate
 interoperating
+interpolant
 intersphinx
 introspectables
 ints
@@ -820,6 +821,7 @@ minifies
 miniframework
 minimalistic
 minprops
+mipmap
 misconfiguration
 misconfigured
 misencoded
@@ -989,6 +991,7 @@ overfitting
 overholt
 overidability
 overparameterization
+overplotting
 overridability
 overridable
 overwritable
@@ -1161,7 +1164,9 @@ redisplay
 rediss
 reenable
 referentially
+refetch
 refilter
+reflectivity
 refnames
 regconfig
 regens
@@ -1227,6 +1232,7 @@ routelist
 rrggbb
 rsquo
 rstrip
+rsts
 rtype
 rundelay
 runshell
@@ -1512,6 +1518,7 @@ timezoneselector
 timlyo
 timnederhoff
 timothycrosley
+timothypratley
 timsort
 tisba
 titlebar
@@ -1761,6 +1768,7 @@ usershome
 userstory
 utf
 uxxxx
+vadd
 validatejs
 validthis
 valueerror
@@ -2032,9 +2040,3 @@ zscores
 zstar
 ztol
 zyxwvu
-reflectivity
-mipmap
-interpolant
-timothypratley
-vadd
-rsts
