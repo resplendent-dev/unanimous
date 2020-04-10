@@ -8,6 +8,7 @@ acceptor
 accessors
 accusamus
 aclauthorizationpolicy
+aculo
 addedon
 addinfourl
 adipiscing
@@ -272,6 +273,7 @@ dasd
 dass
 dataframing
 dataless
+datapoints
 datetimes
 davidrekow
 dbforce
@@ -564,6 +566,7 @@ hasn
 headful
 heapu
 hellip
+hellohook
 helour
 heterophobia
 hexlifies
@@ -575,6 +578,7 @@ hollaback
 hookings
 hostmask
 hostnames
+hoverable
 href
 hroncok
 htaccess
@@ -1042,6 +1046,7 @@ placeful
 placeless
 plainstr
 playability
+plotclick
 pluggability
 plusequals
 pointsize
@@ -1129,6 +1134,7 @@ qsval
 qtime
 quantiles
 quantizing
+quartile
 queueservice
 quis
 quotmark
@@ -1200,6 +1206,7 @@ rerendered
 rerendering
 rerenders
 rerequest
+rescaled
 resending
 resends
 resizable
@@ -1344,6 +1351,7 @@ sqldsn
 sqrt
 squarified
 squoosh
+stackability
 starrhorne
 startswith
 stderr
@@ -1638,6 +1646,7 @@ unhandled
 unhashable
 unhashed
 unhashing
+unhighlight
 unhighlighted
 unicast
 unicodetext
@@ -2040,9 +2049,4 @@ zscores
 zstar
 ztol
 zyxwvu
-quartile
-stackability
-rescaled
-aculo
-datapoints
-plotclick
+canvaswrapper
