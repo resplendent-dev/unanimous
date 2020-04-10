@@ -2050,3 +2050,9 @@ zstar
 ztol
 zyxwvu
 canvaswrapper
+canvascontext
+errorbars
+yerr
+disableddisabled
+rangez
+precalculating
