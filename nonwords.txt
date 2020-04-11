@@ -8,6 +8,7 @@ acceptor
 accessors
 accusamus
 aclauthorizationpolicy
+aculo
 addedon
 addinfourl
 adipiscing
@@ -51,6 +52,7 @@ appgroups
 appspot
 aprasanna
 aralejs
+archimedean
 architected
 aren
 argname
@@ -167,6 +169,8 @@ camelizing
 cancelable
 cannotdeduceregionerror
 canonicalise
+canvascontext
+canvaswrapper
 capicola
 carljm
 carre
@@ -188,6 +192,7 @@ charsetgroupprober
 charsetprober
 chartapp
 chartbeat
+chartist
 charwidth
 checkboxes
 checkboxselectmultiple
@@ -272,6 +277,7 @@ dasd
 dass
 dataframing
 dataless
+datapoints
 datetimes
 davidrekow
 dbforce
@@ -338,6 +344,7 @@ dimensionality
 directionality
 dirname
 dirruns
+disableddisabled
 discontiguous
 disjunction
 dista
@@ -425,6 +432,7 @@ equirectangular
 erasmas
 ericyd
 errbacks
+errorbars
 errored
 errorlist
 ervenec
@@ -506,6 +514,7 @@ frontend's
 frozenset
 fsync
 fugiat
+funct
 functionbase
 functionbased
 functionish
@@ -556,6 +565,7 @@ groupin
 grouptitle
 gsound
 guilabel
+gutil
 guybedford
 gzipped
 hakibenita
@@ -564,6 +574,7 @@ hasn
 headful
 heapu
 hellip
+hellohook
 helour
 heterophobia
 hexlifies
@@ -575,6 +586,7 @@ hollaback
 hookings
 hostmask
 hostnames
+hoverable
 href
 hroncok
 htaccess
@@ -655,6 +667,7 @@ itleref
 ivar
 ixrss
 jackhenry
+jaring
 jasminewd
 javascripts
 jeesh
@@ -986,6 +999,7 @@ outro
 outros
 outtextf
 outtextlist
+overcomplicated
 overcounting
 overfitting
 overholt
@@ -996,6 +1010,7 @@ overridability
 overridable
 overwritable
 oxfe
+packagist
 padds
 pageblobservice
 pageflag
@@ -1042,6 +1057,7 @@ placeful
 placeless
 plainstr
 playability
+plotclick
 pluggability
 plusequals
 pointsize
@@ -1061,6 +1077,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+precalculating
 precallfunc
 preclip
 precompile
@@ -1129,6 +1146,7 @@ qsval
 qtime
 quantiles
 quantizing
+quartile
 queueservice
 quis
 quotmark
@@ -1137,6 +1155,7 @@ ractive
 radarhere
 radiochange
 randocall
+rangez
 raspo
 ratiofieldname
 ratiofields
@@ -1200,6 +1219,7 @@ rerendered
 rerendering
 rerenders
 rerequest
+rescaled
 resending
 resends
 resizable
@@ -1247,6 +1267,7 @@ sanitization
 saturday
 scaffolded
 scalability
+scannability
 scatterplot
 scottjehl
 scriptlet
@@ -1344,6 +1365,7 @@ sqldsn
 sqrt
 squarified
 squoosh
+stackability
 starrhorne
 startswith
 stderr
@@ -1638,6 +1660,7 @@ unhandled
 unhashable
 unhashed
 unhashing
+unhighlight
 unhighlighted
 unicast
 unicodetext
@@ -1827,6 +1850,7 @@ webasset
 webgl
 webobparser
 webservers
+weekperiod
 weex
 weirdnesses
 wejs
@@ -1966,6 +1990,7 @@ yearshtml
 yehuda
 yekibud
 yepnopejs
+yerr
 yfitted
 yforecast
 ygroupf
