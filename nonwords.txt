@@ -52,6 +52,7 @@ appgroups
 appspot
 aprasanna
 aralejs
+archimedean
 architected
 aren
 argname
@@ -191,6 +192,7 @@ charsetgroupprober
 charsetprober
 chartapp
 chartbeat
+chartist
 charwidth
 checkboxes
 checkboxselectmultiple
@@ -512,6 +514,7 @@ frontend's
 frozenset
 fsync
 fugiat
+funct
 functionbase
 functionbased
 functionish
@@ -562,6 +565,7 @@ groupin
 grouptitle
 gsound
 guilabel
+gutil
 guybedford
 gzipped
 hakibenita
@@ -995,6 +999,7 @@ outro
 outros
 outtextf
 outtextlist
+overcomplicated
 overcounting
 overfitting
 overholt
@@ -1005,6 +1010,7 @@ overridability
 overridable
 overwritable
 oxfe
+packagist
 padds
 pageblobservice
 pageflag
@@ -1261,6 +1267,7 @@ sanitization
 saturday
 scaffolded
 scalability
+scannability
 scatterplot
 scottjehl
 scriptlet
@@ -2058,9 +2065,3 @@ zscores
 zstar
 ztol
 zyxwvu
-archimedean
-funct
-chartist
-scannability
-overcomplicated
-packagist
