@@ -2058,3 +2058,9 @@ zscores
 zstar
 ztol
 zyxwvu
+archimedean
+funct
+chartist
+scannability
+overcomplicated
+packagist
