@@ -110,6 +110,7 @@ backref
 backreference
 backslashed
 backstore
+backtick
 bairro
 barangay
 barangays
@@ -362,6 +363,7 @@ documentclass
 dodgily
 doesn
 doesnt
+dollarstring
 dolore
 domprefixes
 dotless
@@ -398,6 +400,7 @@ elementlocation
 elementresize
 elif
 elkan
+elts
 elusion
 embeddable
 emissive
@@ -459,6 +462,7 @@ expando
 expandos
 expanduser
 expirations
+explist
 expt
 extarea
 extendibility
@@ -498,6 +502,7 @@ fname
 focusable
 focusin
 focusout
+foobarhello
 fooo
 foos
 formconfig
@@ -546,6 +551,7 @@ ghickman
 gitattributes
 githubs
 gittip
+gjtorikian
 globbed
 glogging
 gmtime
@@ -589,6 +595,7 @@ hostnames
 hoverable
 href
 hroncok
+hsivonen
 htaccess
 htbp
 htmlregion
@@ -686,6 +693,7 @@ jscoverage
 jscript
 jsdoc
 jsdom
+jshintrc
 jsinspect
 jsinspectrc
 jsoneditoronline
@@ -746,6 +754,7 @@ linearities
 linebreaks
 linenos
 lineto
+linewise
 linex
 linkified
 linksgo
@@ -753,6 +762,7 @@ linters
 listenee
 listwidgets
 ljust
+ller
 lluchs
 lnotab
 loadedmetadata
@@ -805,6 +815,7 @@ mbcssmprober
 mcdjango
 mcflask
 mcflyin
+mdash
 mediatypes
 meisthai
 mememeoo
@@ -1088,6 +1099,7 @@ preconfigured
 prefetched
 prefilter
 prefilters
+prefixexp
 preformatted
 preinitialize
 preinstalled
@@ -1265,11 +1277,13 @@ safestring
 sangelone
 sanitization
 saturday
+sbstjn
 scaffolded
 scalability
 scannability
 scatterplot
 scottjehl
+screenreaders
 scriptlet
 scrollbar
 scrollbars
@@ -1293,6 +1307,7 @@ sessionmaker
 sessionstorage
 setattr
 setdefault
+setext
 setitem
 setrelheap
 setuid
@@ -1311,6 +1326,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+simplemocha
 sinebow
 singularized
 sint
@@ -1394,6 +1410,7 @@ stringio
 stringios
 strlens
 stroh
+strokewidth
 strptime
 strs
 stunnel
@@ -1401,6 +1418,7 @@ stylesheet
 subaccount
 subattribute
 subclassed
+subclassers
 subclasses
 subclassing
 subcollection
@@ -1479,6 +1497,7 @@ sys
 taavi
 tabfile
 tabfiles
+tableconstructor
 tablename
 tableref
 tableservice
@@ -1919,6 +1938,7 @@ xeval
 xext
 xfffd
 xfree
+xgrid
 xhat
 xhatparams
 xhrs
@@ -1947,6 +1967,7 @@ xp
 xpartial
 xpaths
 xpxi
+xqlint
 xrange
 xred
 xreduced
@@ -2033,6 +2054,7 @@ zastat
 zcorpan
 zdirection
 zdotb
+zerobased
 zerocopy
 zerocoverage
 zeroinflation
