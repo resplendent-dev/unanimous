@@ -686,6 +686,7 @@ jscoverage
 jscript
 jsdoc
 jsdom
+jshintrc
 jsinspect
 jsinspectrc
 jsoneditoronline
@@ -753,6 +754,7 @@ linters
 listenee
 listwidgets
 ljust
+ller
 lluchs
 lnotab
 loadedmetadata
@@ -1265,6 +1267,7 @@ safestring
 sangelone
 sanitization
 saturday
+sbstjn
 scaffolded
 scalability
 scannability
@@ -1311,6 +1314,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+simplemocha
 sinebow
 singularized
 sint
@@ -1394,6 +1398,7 @@ stringio
 stringios
 strlens
 stroh
+strokewidth
 strptime
 strs
 stunnel
@@ -1401,6 +1406,7 @@ stylesheet
 subaccount
 subattribute
 subclassed
+subclassers
 subclasses
 subclassing
 subcollection
@@ -1919,6 +1925,7 @@ xeval
 xext
 xfffd
 xfree
+xgrid
 xhat
 xhatparams
 xhrs
@@ -2033,6 +2040,7 @@ zastat
 zcorpan
 zdirection
 zdotb
+zerobased
 zerocopy
 zerocoverage
 zeroinflation
@@ -2065,9 +2073,3 @@ zscores
 zstar
 ztol
 zyxwvu
-xgrid
-zerobased
-subclassers
-strokewidth
-simplemocha
-sbstjn
