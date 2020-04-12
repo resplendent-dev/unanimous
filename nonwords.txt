@@ -363,6 +363,7 @@ documentclass
 dodgily
 doesn
 doesnt
+dollarstring
 dolore
 domprefixes
 dotless
@@ -461,6 +462,7 @@ expando
 expandos
 expanduser
 expirations
+explist
 expt
 extarea
 extendibility
@@ -549,6 +551,7 @@ ghickman
 gitattributes
 githubs
 gittip
+gjtorikian
 globbed
 glogging
 gmtime
@@ -592,6 +595,7 @@ hostnames
 hoverable
 href
 hroncok
+hsivonen
 htaccess
 htbp
 htmlregion
@@ -1095,6 +1099,7 @@ preconfigured
 prefetched
 prefilter
 prefilters
+prefixexp
 preformatted
 preinitialize
 preinstalled
@@ -1492,6 +1497,7 @@ sys
 taavi
 tabfile
 tabfiles
+tableconstructor
 tablename
 tableref
 tableservice
@@ -1961,6 +1967,7 @@ xp
 xpartial
 xpaths
 xpxi
+xqlint
 xrange
 xred
 xreduced
@@ -2080,9 +2087,3 @@ zscores
 zstar
 ztol
 zyxwvu
-hsivonen
-xqlint
-dollarstring
-tableconstructor
-gjtorikian
-explist
