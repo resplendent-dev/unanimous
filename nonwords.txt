@@ -2080,3 +2080,9 @@ zscores
 zstar
 ztol
 zyxwvu
+hsivonen
+xqlint
+dollarstring
+tableconstructor
+gjtorikian
+explist
