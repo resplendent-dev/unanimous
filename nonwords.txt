@@ -1042,6 +1042,7 @@ overwritable
 oxfe
 packagist
 padds
+pagebeforechange
 pageblobservice
 pageflag
 pagerefs
@@ -1068,6 +1069,7 @@ pastable
 patchable
 pathname
 paulbocuse
+pchar
 pcnoordhuis
 pdate
 pencilblue
@@ -1153,6 +1155,7 @@ propertychange
 proration
 prostomarkeloff
 prototypal
+prototypically
 proxied
 proxying
 prtgadmin
@@ -1165,6 +1168,7 @@ ptweens
 punctuations
 punycode
 pushd
+pushstate
 pweight
 pyassem
 pyminify
@@ -1360,10 +1364,12 @@ siphones
 sitekey
 sitewide
 sizedimage
+skinnable
 skiptags
 skipunless
 skool
 slenska
+slideup
 sloria
 slowreportpath
 slugified
@@ -1448,6 +1454,7 @@ subclassers
 subclasses
 subclassing
 subcollection
+subcontent
 subdependencies
 subdirectories
 subdirectory
@@ -1509,6 +1516,7 @@ superclasses
 superfast
 superroma
 supersets
+supertype
 sveltejs
 svenstaro
 syllabary
@@ -1568,6 +1576,7 @@ thenable
 thenewsmeme
 thepast
 theres
+thlorenz
 threadid
 throbber
 thumbnailed
@@ -2121,9 +2130,3 @@ zscores
 zstar
 ztol
 zyxwvu
-thlorenz
-supertype
-subcontent
-slideup
-skinnable
-pushstate
