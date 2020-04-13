@@ -2093,3 +2093,9 @@ zscores
 zstar
 ztol
 zyxwvu
+ngdoc
+hashchange
+vojta
+onhashchange
+maxlen
+popstate
