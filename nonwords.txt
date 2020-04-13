@@ -2130,3 +2130,9 @@ zscores
 zstar
 ztol
 zyxwvu
+temparea
+raphaelcruzeiro
+otaviosoares
+jqeditor
+cbartlett
+contenteditables
