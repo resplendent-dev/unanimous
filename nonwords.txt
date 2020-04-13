@@ -2109,3 +2109,9 @@ domready
 controlgroup
 vclick
 transcluded
+tabindex
+scrollstop
+mobileinit
+touchstart
+touchmove
+touchend
