@@ -143,6 +143,7 @@ blkin
 blockblobservice
 bodycopy
 boilerplatey
+bolded
 bolds
 booleans
 bools
@@ -238,6 +239,7 @@ commonjs
 commonprefix
 commutativity
 comparators
+completers
 compressibility
 computeds
 confoundingly
@@ -583,6 +585,7 @@ hellip
 hellohook
 helour
 heterophobia
+hexcolor
 hexlifies
 hexlify
 hexload
@@ -697,6 +700,7 @@ jshintrc
 jsinspect
 jsinspectrc
 jsoneditoronline
+jsoniq
 jsonwire
 jsurloppe
 julianwachholz
@@ -1290,6 +1294,7 @@ scrollbars
 scrollspy
 searchableselect
 sectionauthor
+securable
 seealso
 seekable
 seeked
@@ -1672,6 +1677,7 @@ unflattening
 unforked
 unforking
 unfound
+unget
 unglobbed
 ungrouped
 unguessable
@@ -2087,9 +2093,3 @@ zscores
 zstar
 ztol
 zyxwvu
-jsoniq
-securable
-hexcolor
-completers
-unget
-bolded
