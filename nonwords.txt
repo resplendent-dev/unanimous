@@ -2087,3 +2087,9 @@ zscores
 zstar
 ztol
 zyxwvu
+jsoniq
+securable
+hexcolor
+completers
+unget
+bolded
