@@ -99,6 +99,7 @@ autoloaded
 automagically
 automapped
 automodule
+autopurge
 autosave
 avals
 avoriaz
@@ -884,8 +885,10 @@ moorman
 moraxy
 motiky
 mousecatcher
+mousedown
 mousedrag
 mouseenter
+mouseleave
 mousenter
 mouseover
 moviegeek
@@ -1042,6 +1045,7 @@ padds
 pageblobservice
 pageflag
 pagerefs
+pageshow
 pagetime
 paldepind
 pannable
@@ -2117,4 +2121,9 @@ zscores
 zstar
 ztol
 zyxwvu
-pageshow
+thlorenz
+supertype
+subcontent
+slideup
+skinnable
+pushstate
