@@ -282,6 +282,7 @@ dataframing
 dataless
 datapoints
 datetimes
+davglass
 davidrekow
 dbforce
 dbhost
@@ -578,6 +579,7 @@ guybedford
 gzipped
 hakibenita
 halibote
+hashchange
 hasn
 headful
 heapu
@@ -680,6 +682,7 @@ jackhenry
 jaring
 jasminewd
 javascripts
+jblas
 jeesh
 jeffknupp
 jfkirk
@@ -810,6 +813,7 @@ matthiask
 matzhu
 maxcomplexity
 maxdepth
+maxlen
 maxmemory
 maxparams
 maxsize
@@ -848,6 +852,7 @@ minibatches
 minifies
 miniframework
 minimalistic
+minlength
 minprops
 mipmap
 misconfiguration
@@ -929,6 +934,7 @@ newname
 newplaceid
 newsmeme
 newstyle
+ngdoc
 ngettext
 nicht
 nickstenning
@@ -989,6 +995,7 @@ onbeforeremove
 onblur
 onclick
 oncreate
+onhashchange
 onhold
 onlinestatuschanged
 onload
@@ -1006,6 +1013,7 @@ oraclegis
 orderedmultimdict
 orderer
 oretha
+orientationchange
 otherhost
 ourself
 outbufs
@@ -1077,6 +1085,7 @@ pluggability
 plusequals
 pointsize
 popitem
+popstate
 populators
 popvalue
 portis
@@ -1854,6 +1863,7 @@ visitnodetype
 visitxxx
 vnode
 voivodeship
+vojta
 volo
 volofile
 volofiles
@@ -2093,9 +2103,3 @@ zscores
 zstar
 ztol
 zyxwvu
-ngdoc
-hashchange
-vojta
-onhashchange
-maxlen
-popstate
