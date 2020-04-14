@@ -2141,3 +2141,9 @@ zscores
 zstar
 ztol
 zyxwvu
+okey
+fscchannl
+teppokoivula
+subbutton
+specialchars
+slackwalker
