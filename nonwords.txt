@@ -10,6 +10,7 @@ accusamus
 aclauthorizationpolicy
 aculo
 addedon
+addfinalizer
 addinfourl
 adipiscing
 adipisicing
@@ -99,6 +100,7 @@ autoloaded
 automagically
 automapped
 automodule
+autopurge
 autosave
 avals
 avoriaz
@@ -106,6 +108,7 @@ awesomez
 axios
 azimuthal
 baar
+backcompat
 backref
 backreference
 backslashed
@@ -143,6 +146,7 @@ blkin
 blockblobservice
 bodycopy
 boilerplatey
+bolded
 bolds
 booleans
 bools
@@ -179,6 +183,7 @@ caseless
 cass
 casted
 catenate
+cbartlett
 cdba
 ceil
 ceiled
@@ -238,6 +243,7 @@ commonjs
 commonprefix
 commutativity
 comparators
+completers
 compressibility
 computeds
 confoundingly
@@ -247,7 +253,9 @@ consequat
 consolemail
 containerless
 containments
+contenteditables
 contentready
+controlgroup
 coplanar
 copyable
 couldn
@@ -280,6 +288,7 @@ dataframing
 dataless
 datapoints
 datetimes
+davglass
 davidrekow
 dbforce
 dbhost
@@ -366,6 +375,7 @@ doesnt
 dollarstring
 dolore
 domprefixes
+domready
 dotless
 dragend
 dragup
@@ -398,11 +408,13 @@ elementinteraction
 elementinternal
 elementlocation
 elementresize
+elementspath
 elif
 elkan
 elts
 elusion
 embeddable
+eminem
 emissive
 emptystring
 enablement
@@ -517,6 +529,7 @@ frobshop
 fromkeys
 frontend's
 frozenset
+fscchannl
 fsync
 fugiat
 funct
@@ -576,6 +589,7 @@ guybedford
 gzipped
 hakibenita
 halibote
+hashchange
 hasn
 headful
 heapu
@@ -583,6 +597,7 @@ hellip
 hellohook
 helour
 heterophobia
+hexcolor
 hexlifies
 hexlify
 hexload
@@ -677,6 +692,7 @@ jackhenry
 jaring
 jasminewd
 javascripts
+jblas
 jeesh
 jeffknupp
 jfkirk
@@ -689,6 +705,7 @@ joinedload
 joinpath
 jpcntx
 jpcntxprober
+jqeditor
 jscoverage
 jscript
 jsdoc
@@ -697,6 +714,7 @@ jshintrc
 jsinspect
 jsinspectrc
 jsoneditoronline
+jsoniq
 jsonwire
 jsurloppe
 julianwachholz
@@ -806,6 +824,7 @@ matthiask
 matzhu
 maxcomplexity
 maxdepth
+maxlen
 maxmemory
 maxparams
 maxsize
@@ -844,8 +863,10 @@ minibatches
 minifies
 miniframework
 minimalistic
+minlength
 minprops
 mipmap
+misbehaviors
 misconfiguration
 misconfigured
 misencoded
@@ -858,6 +879,7 @@ mlt
 mmerickel
 mname
 mnobject
+mobileinit
 modellist
 modelview
 modindex
@@ -871,8 +893,10 @@ moorman
 moraxy
 motiky
 mousecatcher
+mousedown
 mousedrag
 mouseenter
+mouseleave
 mousenter
 mouseover
 moviegeek
@@ -925,6 +949,7 @@ newname
 newplaceid
 newsmeme
 newstyle
+ngdoc
 ngettext
 nicht
 nickstenning
@@ -968,6 +993,7 @@ nullability
 nullable
 nullpointer
 numfound
+oauthtoken
 oberstet
 objectlanguage
 obscurified
@@ -977,6 +1003,7 @@ odff
 oembetter
 officia
 offscreen
+okey
 olddisplay
 omdict
 onabort
@@ -985,6 +1012,7 @@ onbeforeremove
 onblur
 onclick
 oncreate
+onhashchange
 onhold
 onlinestatuschanged
 onload
@@ -1002,6 +1030,8 @@ oraclegis
 orderedmultimdict
 orderer
 oretha
+orientationchange
+otaviosoares
 otherhost
 ourself
 outbufs
@@ -1023,15 +1053,18 @@ overwritable
 oxfe
 packagist
 padds
+pagebeforechange
 pageblobservice
 pageflag
 pagerefs
+pageshow
 pagetime
 paldepind
 pannable
 parallelization
 parallelizes
 parametrizes
+paranoic
 paren
 parens
 parentdir
@@ -1045,9 +1078,12 @@ parsetab
 parzen
 passhash
 pastable
+pasteembed
+pasteimage
 patchable
 pathname
 paulbocuse
+pchar
 pcnoordhuis
 pdate
 pencilblue
@@ -1062,6 +1098,7 @@ pgid
 pgproto
 pgroto
 philippeluickx
+phonegap
 phonenumberutil
 pids
 placeful
@@ -1073,6 +1110,7 @@ pluggability
 plusequals
 pointsize
 popitem
+popstate
 populators
 popvalue
 portis
@@ -1131,6 +1169,7 @@ propertychange
 proration
 prostomarkeloff
 prototypal
+prototypically
 proxied
 proxying
 prtgadmin
@@ -1143,6 +1182,7 @@ ptweens
 punctuations
 punycode
 pushd
+pushstate
 pweight
 pyassem
 pyminify
@@ -1166,11 +1206,15 @@ quux
 ractive
 radarhere
 radiochange
+ramirovjnr
+ramirovjr
 randocall
 rangez
+raphaelcruzeiro
 raspo
 ratiofieldname
 ratiofields
+rawcdn
 raydeo
 rconradharris
 reactnative
@@ -1187,6 +1231,7 @@ reconnections
 recrawl
 rects
 recurses
+recursing
 recursionlimit
 redbox
 redditclone
@@ -1256,6 +1301,7 @@ rico
 ripplejs
 rmse
 rollbacked
+rollups
 romanization
 romanized
 rootid
@@ -1288,8 +1334,11 @@ scriptlet
 scrollbar
 scrollbars
 scrollspy
+scrollstart
+scrollstop
 searchableselect
 sectionauthor
+securable
 seealso
 seekable
 seeked
@@ -1328,16 +1377,20 @@ signedness
 signups
 simplemocha
 sinebow
+singingwolfboy
 singularized
 sint
 siphones
 sitekey
 sitewide
 sizedimage
+skinnable
 skiptags
 skipunless
 skool
+slackwalker
 slenska
+slideup
 sloria
 slowreportpath
 slugified
@@ -1368,6 +1421,7 @@ sourcelink
 spaceless
 spacerun
 sparkline
+specialchars
 spion
 splitlines
 splitted
@@ -1413,15 +1467,18 @@ stroh
 strokewidth
 strptime
 strs
+structified
 stunnel
 stylesheet
 subaccount
 subattribute
+subbutton
 subclassed
 subclassers
 subclasses
 subclassing
 subcollection
+subcontent
 subdependencies
 subdirectories
 subdirectory
@@ -1483,6 +1540,7 @@ superclasses
 superfast
 superroma
 supersets
+supertype
 sveltejs
 svenstaro
 syllabary
@@ -1497,6 +1555,7 @@ sys
 taavi
 tabfile
 tabfiles
+tabindex
 tableconstructor
 tablename
 tableref
@@ -1516,11 +1575,13 @@ tbody
 tcp
 tcyrus
 teardown
+temparea
 tempat
 templatefiles
 templateset
 tempor
 tensorflows
+teppokoivula
 testability
 testee
 testprop
@@ -1541,6 +1602,7 @@ thenable
 thenewsmeme
 thepast
 theres
+thlorenz
 threadid
 throbber
 thumbnailed
@@ -1580,6 +1642,9 @@ topline
 tornadoparser
 tostr
 totaldoclen
+touchend
+touchmove
+touchstart
 tounicode
 tracebacks
 tradeoff
@@ -1587,6 +1652,7 @@ tradeoffs
 trads
 tranditional
 transclude
+transcluded
 transclusion
 transformx
 transitionend
@@ -1598,6 +1664,7 @@ transpiler
 transpilers
 transpiles
 transpiling
+treemode
 trenda
 tres
 trevorscheitrum
@@ -1672,6 +1739,7 @@ unflattening
 unforked
 unforking
 unfound
+unget
 unglobbed
 ungrouped
 unguessable
@@ -1681,6 +1749,7 @@ unhashed
 unhashing
 unhighlight
 unhighlighted
+unhighlighting
 unicast
 unicodetext
 unindent
@@ -1758,6 +1827,7 @@ unstacked
 unstacking
 unstacks
 unstar
+unstyled
 unsubbing
 unsubscribers
 unsubscription
@@ -1765,7 +1835,6 @@ unsuspend
 unsuspended
 unsuspending
 unsuspends
-untagged
 unterminated
 unthrottled
 untracked
@@ -1798,6 +1867,7 @@ urlsafe
 urlunquoted
 urss
 usecase
+usefixtures
 usercancelled
 userdn
 userid
@@ -1809,6 +1879,7 @@ userprompts
 usershome
 userstory
 utf
+utilbar
 uxxxx
 vadd
 validatejs
@@ -1820,6 +1891,7 @@ vanillajni
 varargslist
 varnames
 vchar
+vclick
 vectorization
 vectorizers
 velit
@@ -1848,6 +1920,7 @@ visitnodetype
 visitxxx
 vnode
 voivodeship
+vojta
 volo
 volofile
 volofiles
@@ -1900,6 +1973,7 @@ wmem
 wmsg
 wmv
 woooops
+wouldn
 wrappable
 writeable
 writeformat
