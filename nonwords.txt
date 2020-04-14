@@ -157,6 +157,7 @@ broj
 browsable
 browserback
 brushable
+bskinsm
 buddyjs
 bugzil
 buildable
@@ -857,6 +858,7 @@ mihpayid
 mikael
 mikehelmick
 miketaylr
+mimeype
 mimicus
 mindflayer
 minibatches
@@ -956,6 +958,7 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
+ning
 nique
 nisi
 nname
@@ -1141,6 +1144,7 @@ prefixexp
 preformatted
 preinitialize
 preinstalled
+preloaddone
 preloaded
 preloads
 preorder
@@ -1435,6 +1439,7 @@ sqldsn
 sqrt
 squarified
 squoosh
+srcuri
 stackability
 starrhorne
 startswith
@@ -2161,9 +2166,3 @@ zscores
 zstar
 ztol
 zyxwvu
-untagged
-ning
-mimeype
-bskinsm
-srcuri
-preloaddone
