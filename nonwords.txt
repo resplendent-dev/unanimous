@@ -2136,3 +2136,9 @@ zscores
 zstar
 ztol
 zyxwvu
+elementspath
+utilbar
+treemode
+unhighlighting
+recursing
+structified
