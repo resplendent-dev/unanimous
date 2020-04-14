@@ -2166,3 +2166,9 @@ zscores
 zstar
 ztol
 zyxwvu
+mixedcase
+loadtrigger
+domloaded
+froms
+predefine
+preaction
