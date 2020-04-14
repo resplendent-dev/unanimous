@@ -407,6 +407,7 @@ elementinteraction
 elementinternal
 elementlocation
 elementresize
+elementspath
 elif
 elkan
 elts
@@ -1218,6 +1219,7 @@ reconnections
 recrawl
 rects
 recurses
+recursing
 recursionlimit
 redbox
 redditclone
@@ -1450,6 +1452,7 @@ stroh
 strokewidth
 strptime
 strs
+structified
 stunnel
 stylesheet
 subaccount
@@ -1644,6 +1647,7 @@ transpiler
 transpilers
 transpiles
 transpiling
+treemode
 trenda
 tres
 trevorscheitrum
@@ -1728,6 +1732,7 @@ unhashed
 unhashing
 unhighlight
 unhighlighted
+unhighlighting
 unicast
 unicodetext
 unindent
@@ -1812,7 +1817,6 @@ unsuspend
 unsuspended
 unsuspending
 unsuspends
-untagged
 unterminated
 unthrottled
 untracked
@@ -1856,6 +1860,7 @@ userprompts
 usershome
 userstory
 utf
+utilbar
 uxxxx
 vadd
 validatejs
@@ -2136,9 +2141,3 @@ zscores
 zstar
 ztol
 zyxwvu
-elementspath
-utilbar
-treemode
-unhighlighting
-recursing
-structified
