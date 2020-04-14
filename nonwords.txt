@@ -1060,6 +1060,7 @@ pannable
 parallelization
 parallelizes
 parametrizes
+paranoic
 paren
 parens
 parentdir
@@ -1073,6 +1074,8 @@ parsetab
 parzen
 passhash
 pastable
+pasteembed
+pasteimage
 patchable
 pathname
 paulbocuse
@@ -1199,6 +1202,7 @@ quux
 ractive
 radarhere
 radiochange
+ramirovjnr
 ramirovjr
 randocall
 rangez
@@ -1818,6 +1822,7 @@ unstacked
 unstacking
 unstacks
 unstar
+unstyled
 unsubbing
 unsubscribers
 unsubscription
@@ -1962,6 +1967,7 @@ wmem
 wmsg
 wmv
 woooops
+wouldn
 wrappable
 writeable
 writeformat
@@ -2149,9 +2155,3 @@ zscores
 zstar
 ztol
 zyxwvu
-ramirovjnr
-pasteimage
-pasteembed
-paranoic
-unstyled
-wouldn
