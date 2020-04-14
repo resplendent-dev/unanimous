@@ -157,6 +157,7 @@ broj
 browsable
 browserback
 brushable
+bskinsm
 buddyjs
 bugzil
 buildable
@@ -374,6 +375,7 @@ doesn
 doesnt
 dollarstring
 dolore
+domloaded
 domprefixes
 domready
 dotless
@@ -527,6 +529,7 @@ freenode
 freqprober
 frobshop
 fromkeys
+froms
 frontend's
 frozenset
 fscchannl
@@ -784,6 +787,7 @@ ller
 lluchs
 lnotab
 loadedmetadata
+loadtrigger
 localenegotiator
 localeselector
 localhost
@@ -857,6 +861,7 @@ mihpayid
 mikael
 mikehelmick
 miketaylr
+mimeype
 mimicus
 mindflayer
 minibatches
@@ -873,6 +878,7 @@ misencoded
 misnamings
 misordered
 mithriljs
+mixedcase
 mixups
 mkvirtualenv
 mlt
@@ -956,6 +962,7 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
+ning
 nique
 nisi
 nname
@@ -1126,6 +1133,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+preaction
 precalculating
 precallfunc
 preclip
@@ -1134,6 +1142,7 @@ precompiled
 precompiling
 precomputation
 preconfigured
+predefine
 prefetched
 prefilter
 prefilters
@@ -1141,6 +1150,7 @@ prefixexp
 preformatted
 preinitialize
 preinstalled
+preloaddone
 preloaded
 preloads
 preorder
@@ -1435,6 +1445,7 @@ sqldsn
 sqrt
 squarified
 squoosh
+srcuri
 stackability
 starrhorne
 startswith
