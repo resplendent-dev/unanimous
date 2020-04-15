@@ -2193,3 +2193,9 @@ zscores
 zstar
 ztol
 zyxwvu
+manpages
+mandoc
+roff
+ronn
+textfiles
+ayer
