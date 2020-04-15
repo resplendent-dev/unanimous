@@ -147,6 +147,8 @@ bjoerns
 blewskiego
 blkin
 blockblobservice
+blowsie
+bluelaguna
 bodycopy
 boilerplatey
 bolded
@@ -554,6 +556,7 @@ fuzzysharp
 fuzzywuzz
 fxshow
 fylker
+gaborsar
 gaeopenid
 gamers
 garyd
@@ -897,6 +900,7 @@ mithriljs
 mixedcase
 mixups
 mkvirtualenv
+mlms
 mlt
 mmacmillan
 mmerickel
@@ -2212,7 +2216,3 @@ zscores
 zstar
 ztol
 zyxwvu
-mlms
-gaborsar
-bluelaguna
-blowsie
