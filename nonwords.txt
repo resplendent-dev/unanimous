@@ -107,6 +107,7 @@ avals
 avoriaz
 awesomez
 axios
+ayer
 azimuthal
 baar
 backcompat
@@ -828,7 +829,9 @@ maikhoepfel
 makemigrations
 makoemail
 malfunctional
+mandoc
 manglings
+manpages
 manytomany
 markupset
 matchable
@@ -1326,10 +1329,12 @@ ribeye
 rico
 ripplejs
 rmse
+roff
 rollbacked
 rollups
 romanization
 romanized
+ronn
 rootid
 routable
 routelist
@@ -1618,6 +1623,7 @@ tetete
 textarea
 textareas
 textboxes
+textfiles
 textitem
 tfoot
 tga
@@ -1766,6 +1772,7 @@ unescaping
 unflagged
 unflattened
 unflattening
+unfocus
 unforked
 unforking
 unformatted
@@ -2193,9 +2200,3 @@ zscores
 zstar
 ztol
 zyxwvu
-manpages
-mandoc
-roff
-ronn
-textfiles
-ayer
