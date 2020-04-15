@@ -2184,3 +2184,9 @@ zscores
 zstar
 ztol
 zyxwvu
+cachable
+bugridden
+asynchrony
+polyfills
+endth
+stringifier
