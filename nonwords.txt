@@ -235,6 +235,7 @@ codeview
 codez
 codingstatemachine
 coffeedoc
+collapsedness
 collectassets
 collinear
 combinator
@@ -1054,6 +1055,7 @@ outtextf
 outtextlist
 overcomplicated
 overcounting
+overengineered
 overfitting
 overholt
 overidability
@@ -1709,7 +1711,6 @@ tyle
 typename
 typeof
 typoes
-tzinfo
 uchardet
 ueber
 uglify
@@ -1731,6 +1732,7 @@ uncategorised
 unchecking
 unchecks
 unclosed
+uncollapsed
 uncollectible
 uncomment
 uncommenting
@@ -1747,6 +1749,8 @@ underspecified
 underspecifies
 undisplayed
 undoc
+undocked
+undocking
 unencrypted
 unescaped
 unescaping
@@ -1755,6 +1759,7 @@ unflattened
 unflattening
 unforked
 unforking
+unformatted
 unfound
 unget
 unglobbed
@@ -1832,6 +1837,7 @@ unsanitized
 unsatisfiable
 unscale
 unscaled
+unsearched
 unsecure
 unselect
 unselectable
@@ -2178,9 +2184,3 @@ zscores
 zstar
 ztol
 zyxwvu
-undocking
-undocked
-unformatted
-uncollapsed
-unsearched
-overengineered
