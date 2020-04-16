@@ -2230,3 +2230,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+kerning
+fileloading
+trns
+tabnabbing
+subdictionary
+subdictionaries
