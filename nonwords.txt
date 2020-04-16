@@ -2216,3 +2216,9 @@ zscores
 zstar
 ztol
 zyxwvu
+unexported
+codecrumbs
+testinput
+previewsuccess
+previewfailure
+miniphone
