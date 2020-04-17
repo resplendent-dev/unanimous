@@ -2280,3 +2280,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+nonamefile
+monkeypatching
+ssize
+retriable
+ntlmpool
+noxfile
