@@ -531,8 +531,10 @@ fieldset
 fileloading
 filemail
 filemodels
+filepost
 fileprogress
 fileservice
+filetuple
 filteredimage
 finalsub
 findall
@@ -591,6 +593,7 @@ genindex
 getaddrinfo
 getattr
 getcwd
+gethostbyname
 getpath
 getpeercert
 getppid
@@ -1418,6 +1421,7 @@ ryanvarley
 ryoryomaru
 sadielbartholomew
 safestring
+sandboxed
 sangelone
 sanitization
 saturday
@@ -1438,6 +1442,7 @@ scrollstop
 searchableselect
 sectionauthor
 securable
+securetransport
 seealso
 seekable
 seeked
@@ -1454,6 +1459,7 @@ sessioning
 sessionmaker
 sessionstorage
 setattr
+setblocking
 setdefault
 setext
 sethmlarson
@@ -2298,9 +2304,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-gethostbyname
-filetuple
-filepost
-setblocking
-securetransport
-sandboxed
