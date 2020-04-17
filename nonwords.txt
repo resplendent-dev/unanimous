@@ -2304,3 +2304,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+preloading
+poolsize
+optname
+nodelay
+ness
+multicasting
