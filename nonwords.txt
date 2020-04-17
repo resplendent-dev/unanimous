@@ -209,6 +209,7 @@ chardetect
 charmap
 charsetgroupprober
 charsetprober
+charstrings
 chartapp
 chartbeat
 chartist
@@ -443,6 +444,7 @@ endactiveurl
 endangularjs
 endassets
 endblock
+endchar
 endchartjs
 endcomment
 endcompress
@@ -592,6 +594,7 @@ gittip
 gjtorikian
 globbed
 glogging
+glyf
 gmtime
 gnarvaja
 gnomonic
@@ -819,6 +822,7 @@ lluchs
 lnotab
 loadedmetadata
 loadtrigger
+loca
 localenegotiator
 localeselector
 localhost
@@ -944,6 +948,7 @@ mouseleave
 mousenter
 mouseover
 moviegeek
+mozcentral
 mrjoelkemp
 msgid
 msgids
@@ -1547,6 +1552,7 @@ stunnel
 stylesheet
 subaccount
 subattribute
+subband
 subblock
 subblocks
 subbutton
@@ -2258,9 +2264,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-endchar
-loca
-subband
-mozcentral
-glyf
-charstrings
