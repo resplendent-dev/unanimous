@@ -181,6 +181,8 @@ bytestream
 bytestrings
 cachable
 cacheutil
+cadata
+cafile
 cakeipsum
 callables
 callsites
@@ -192,6 +194,7 @@ cannotdeduceregionerror
 canonicalise
 canvascontext
 canvaswrapper
+capath
 capicola
 carljm
 carre
@@ -339,11 +342,13 @@ decrypted
 decrypting
 decrypts
 deepcopied
+deepcopy
 defaultfilters
 deferreds
 defragmentation
 degit
 deja
+delims
 delitem
 denilsonsa
 denter
@@ -527,6 +532,7 @@ february
 fenc
 fieldclass
 fieldname
+fieldnames
 fieldset
 fileloading
 filemail
@@ -2316,9 +2322,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-fieldnames
-delims
-deepcopy
-capath
-cafile
-cadata
