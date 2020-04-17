@@ -147,6 +147,7 @@ binarized
 bindable
 bjoerns
 blewskiego
+blitting
 blkin
 bloburl
 blockblobservice
@@ -1140,6 +1141,7 @@ paulbocuse
 pchar
 pcnoordhuis
 pdate
+peity
 pencilblue
 percona
 performable
@@ -2063,6 +2065,7 @@ wmsg
 wmv
 woooops
 wordlists
+workernode
 wouldn
 wrappable
 writeable
@@ -2162,6 +2165,7 @@ xxxxxxxxxxxx
 xy
 xymatrix
 xypic
+xyunits
 xyz
 xzvpf
 xzycn
@@ -2170,6 +2174,8 @@ yasoob
 yaxis
 ycontbound
 ydata
+ydensity
+ydieresis
 ydirection
 yearshtml
 yehuda
