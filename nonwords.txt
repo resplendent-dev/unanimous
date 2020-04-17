@@ -90,6 +90,7 @@ authkey
 authorurl
 authorwebsite
 authrequest
+authurl
 autocompleted
 autocompletion
 autoencode
@@ -174,6 +175,7 @@ buddyjs
 bugridden
 bugzil
 buildable
+buildbots
 burgerservicenummer
 buuuunch
 byid
@@ -2322,5 +2324,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-buildbots
-authurl
