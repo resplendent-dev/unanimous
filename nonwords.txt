@@ -408,6 +408,7 @@ dropmove
 droppable
 dummymail
 dummypage
+dummyserver
 dumpscript
 duplications
 durationchange
@@ -580,6 +581,7 @@ gendoc
 generateimages
 genericinlineformset
 genindex
+getaddrinfo
 getattr
 getcwd
 getpath
@@ -1437,6 +1439,7 @@ sessionstorage
 setattr
 setdefault
 setext
+sethmlarson
 setitem
 setrelheap
 setuid
@@ -1444,6 +1447,7 @@ setupmobans
 sexualized
 sfnt
 sgi
+shazow
 shch
 sherika
 sherrell
@@ -1576,6 +1580,7 @@ subexception
 subexceptions
 subfields
 subfolder
+subitem
 subitems
 sublicensable
 sublicense
@@ -1690,6 +1695,7 @@ tfoot
 tga
 thatguy
 thats
+theacodes
 thead
 theghostbel
 themoviedb
@@ -2274,9 +2280,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dummyserver
-theacodes
-shazow
-getaddrinfo
-subitem
-sethmlarson
