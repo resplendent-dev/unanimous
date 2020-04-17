@@ -2270,3 +2270,7 @@ zstar
 zsyscall
 ztol
 zyxwvu
+usecmap
+subrs
+sfnt
+rrcurveto
