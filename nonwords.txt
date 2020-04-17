@@ -978,6 +978,7 @@ mthread
 mthreading
 mtitg
 multibuy
+multicasting
 multicurl
 multidocument
 multiheaders
@@ -1015,6 +1016,7 @@ nczeczulin
 nder
 ndez
 nearterm
+ness
 newdata
 newlang
 newmexico
@@ -1038,6 +1040,7 @@ nname
 nnen
 nocontent
 nocover
+nodelay
 nodemailer
 noimagehere
 noinput
@@ -1109,6 +1112,7 @@ openredis
 operationid
 optimizable
 optionals
+optname
 oraclegis
 orderedmultimdict
 orderer
@@ -1196,6 +1200,7 @@ pluggability
 plusequals
 pointsize
 polyfills
+poolsize
 popitem
 popstate
 populators
@@ -1233,6 +1238,7 @@ preinitialize
 preinstalled
 preloaddone
 preloaded
+preloading
 preloads
 preorder
 preparers
@@ -2304,9 +2310,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-preloading
-poolsize
-optname
-nodelay
-ness
-multicasting
