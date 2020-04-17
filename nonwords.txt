@@ -114,6 +114,7 @@ ayer
 azimuthal
 baar
 backcompat
+backported
 backref
 backreference
 backslashed
@@ -174,6 +175,7 @@ bugridden
 bugzil
 buildable
 burgerservicenummer
+buuuunch
 byid
 bytestream
 bytestrings
@@ -269,6 +271,7 @@ computeds
 conformant
 confoundingly
 conftest
+connectionpool
 consectetur
 consequat
 consolemail
@@ -548,6 +551,7 @@ focusout
 foobarhello
 fooo
 foos
+forcelist
 formconfig
 formid
 formrows
@@ -588,6 +592,7 @@ getaddrinfo
 getattr
 getcwd
 getpath
+getpeercert
 getppid
 getset
 getsitepackages
@@ -623,6 +628,7 @@ guilabel
 gutil
 guybedford
 gzipped
+haikuginger
 hakibenita
 halibote
 handshaked
@@ -2292,9 +2298,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-buuuunch
-backported
-connectionpool
-getpeercert
-forcelist
-haikuginger
