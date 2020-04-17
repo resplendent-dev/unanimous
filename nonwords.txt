@@ -1384,6 +1384,7 @@ ronn
 rootid
 routable
 routelist
+rrcurveto
 rrggbb
 rsquo
 rstrip
@@ -1441,6 +1442,7 @@ setrelheap
 setuid
 setupmobans
 sexualized
+sfnt
 sgi
 shch
 sherika
@@ -1601,6 +1603,7 @@ subqueryload
 subrequests
 subresponse
 subroute
+subrs
 subsampling
 subscribername
 subselects
@@ -1967,6 +1970,7 @@ urlsafe
 urlunquoted
 urss
 usecase
+usecmap
 usefixtures
 usercancelled
 userdn
@@ -2270,7 +2274,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-usecmap
-subrs
-sfnt
-rrcurveto
