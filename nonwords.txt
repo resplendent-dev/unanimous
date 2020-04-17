@@ -2258,3 +2258,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+endchar
+loca
+subband
+mozcentral
+glyf
+charstrings
