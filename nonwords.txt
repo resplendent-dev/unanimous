@@ -250,6 +250,7 @@ codeinjection
 codesc
 codeview
 codez
+codings
 codingstatemachine
 coffeedoc
 collapsedness
@@ -388,6 +389,7 @@ djangopackages
 djangoparser
 djmoney
 djterm
+dnsname
 doctype
 documentclass
 dodgily
@@ -472,6 +474,7 @@ equalities
 equirectangular
 erasmas
 ericyd
+erikcederstran
 errbacks
 errorbars
 errored
@@ -622,6 +625,7 @@ guybedford
 gzipped
 hakibenita
 halibote
+handshaked
 hashchange
 hasn
 headful
@@ -664,6 +668,7 @@ imho
 imitatio
 impactful
 imparsible
+importblocker
 imprecisions
 incase
 includable
@@ -966,6 +971,7 @@ mtitg
 multibuy
 multicurl
 multidocument
+multiheaders
 multiplatform
 multiplesite
 multiserver
@@ -2286,9 +2292,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-multiheaders
-importblocker
-handshaked
-erikcederstran
-dnsname
-codings
