@@ -141,6 +141,7 @@ benchmarked
 benjaminbrandt
 benpickles
 bergen
+bfrange
 bhouston
 bhtml
 binarized
@@ -227,6 +228,8 @@ chunkalways
 chunkdone
 chunkfail
 chunksend
+cidchar
+cidrange
 cillum
 citable
 cjnewman
@@ -1606,6 +1609,7 @@ subsequences
 subsetting
 subsubsection
 subsuites
+subtable
 subtargets
 subtemplates
 subtest
@@ -2002,6 +2006,7 @@ versioners
 versionfile
 versionwarning
 vetoable
+vhcurveto
 videoblog
 viewable
 viewcode
@@ -2034,6 +2039,7 @@ walsh
 warnoptions
 wasn
 watsons
+waybackmachine
 weakrefs
 webasset
 webgl
@@ -2264,9 +2270,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-subtable
-cidrange
-cidchar
-bfrange
-waybackmachine
-vhcurveto
