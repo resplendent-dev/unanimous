@@ -2310,3 +2310,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+lukasa
+hexdigits
+frozensets
+fromtimestamp
+formdata
+fileno
