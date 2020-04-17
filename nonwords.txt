@@ -940,6 +940,7 @@ moduleauthor
 mofile
 mollit
 monkeypatched
+monkeypatching
 monotonicity
 montana
 moorman
@@ -1028,6 +1029,7 @@ noinput
 noinspection
 noirbizarre
 nolint
+nonamefile
 nonbillable
 noneditable
 nonexisting
@@ -1048,8 +1050,10 @@ notedit
 notmodified
 notset
 nowrap
+noxfile
 nrofcomponents
 ntilde
+ntlmpool
 nuget
 nullability
 nullable
@@ -1366,6 +1370,7 @@ resultdb
 rethrow
 retokenization
 retransmission
+retriable
 reusability
 revalidate
 revalidates
@@ -1522,6 +1527,7 @@ sqrt
 squarified
 squoosh
 srcuri
+ssize
 stackability
 starrhorne
 startswith
@@ -2280,9 +2286,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-nonamefile
-monkeypatching
-ssize
-retriable
-ntlmpool
-noxfile
