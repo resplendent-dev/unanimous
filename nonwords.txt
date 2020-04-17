@@ -2322,3 +2322,5 @@ zstar
 zsyscall
 ztol
 zyxwvu
+buildbots
+authurl
