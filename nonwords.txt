@@ -2316,3 +2316,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+fieldnames
+delims
+deepcopy
+capath
+cafile
+cadata
