@@ -2274,3 +2274,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+dummyserver
+theacodes
+shazow
+getaddrinfo
+subitem
+sethmlarson
