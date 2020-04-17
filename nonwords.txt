@@ -2292,3 +2292,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+buuuunch
+backported
+connectionpool
+getpeercert
+forcelist
+haikuginger
