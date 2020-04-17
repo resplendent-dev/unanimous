@@ -2298,3 +2298,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+gethostbyname
+filetuple
+filepost
+setblocking
+securetransport
+sandboxed
