@@ -141,6 +141,7 @@ benchmarked
 benjaminbrandt
 benpickles
 bergen
+bfrange
 bhouston
 bhtml
 binarized
@@ -209,6 +210,7 @@ chardetect
 charmap
 charsetgroupprober
 charsetprober
+charstrings
 chartapp
 chartbeat
 chartist
@@ -226,6 +228,8 @@ chunkalways
 chunkdone
 chunkfail
 chunksend
+cidchar
+cidrange
 cillum
 citable
 cjnewman
@@ -443,6 +447,7 @@ endactiveurl
 endangularjs
 endassets
 endblock
+endchar
 endchartjs
 endcomment
 endcompress
@@ -592,6 +597,7 @@ gittip
 gjtorikian
 globbed
 glogging
+glyf
 gmtime
 gnarvaja
 gnomonic
@@ -819,6 +825,7 @@ lluchs
 lnotab
 loadedmetadata
 loadtrigger
+loca
 localenegotiator
 localeselector
 localhost
@@ -944,6 +951,7 @@ mouseleave
 mousenter
 mouseover
 moviegeek
+mozcentral
 mrjoelkemp
 msgid
 msgids
@@ -1376,6 +1384,7 @@ ronn
 rootid
 routable
 routelist
+rrcurveto
 rrggbb
 rsquo
 rstrip
@@ -1433,6 +1442,7 @@ setrelheap
 setuid
 setupmobans
 sexualized
+sfnt
 sgi
 shch
 sherika
@@ -1547,6 +1557,7 @@ stunnel
 stylesheet
 subaccount
 subattribute
+subband
 subblock
 subblocks
 subbutton
@@ -1592,6 +1603,7 @@ subqueryload
 subrequests
 subresponse
 subroute
+subrs
 subsampling
 subscribername
 subselects
@@ -1600,6 +1612,7 @@ subsequences
 subsetting
 subsubsection
 subsuites
+subtable
 subtargets
 subtemplates
 subtest
@@ -1957,6 +1970,7 @@ urlsafe
 urlunquoted
 urss
 usecase
+usecmap
 usefixtures
 usercancelled
 userdn
@@ -1996,6 +2010,7 @@ versioners
 versionfile
 versionwarning
 vetoable
+vhcurveto
 videoblog
 viewable
 viewcode
@@ -2028,6 +2043,7 @@ walsh
 warnoptions
 wasn
 watsons
+waybackmachine
 weakrefs
 webasset
 webgl
