@@ -335,8 +335,10 @@ ddcb
 ddfb
 ddmanager
 deallocated
+debounce
 debounced
 debouncer
+debouncing
 debugapp
 debuggable
 deburr
@@ -553,6 +555,7 @@ finalsub
 findall
 findone
 firma
+fitzpatrick
 fizfuz
 flashblock
 flaskblog
@@ -746,6 +749,7 @@ istanbul
 istartswith
 iterables
 iteratee
+iteratees
 iterationlabs
 iteritems
 iterkeys
@@ -917,6 +921,7 @@ mediatypes
 megastring
 meisthai
 mememeoo
+memoizes
 memoizing
 memorymail
 metaclasses
@@ -1096,6 +1101,7 @@ ntlmpool
 nuget
 nullability
 nullable
+nullish
 nullpointer
 numfound
 nwith
@@ -2335,9 +2341,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-iteratees
-nullish
-memoizes
-fitzpatrick
-debouncing
-debounce
