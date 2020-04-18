@@ -2341,3 +2341,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+upcase
+luego
+hightables
+hasta
+ching
+zomg
