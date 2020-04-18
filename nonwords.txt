@@ -80,6 +80,7 @@ atronah
 attribs
 attrname
 atype
+augend
 augmentable
 ause
 aute
@@ -148,6 +149,7 @@ bhouston
 bhtml
 binarized
 bindable
+bitmasks
 bjoerns
 blewskiego
 blitting
@@ -337,6 +339,8 @@ debounced
 debouncer
 debugapp
 debuggable
+deburr
+deburred
 declaratively
 decodings
 decoratormethod
@@ -964,6 +968,7 @@ mobileinit
 modellist
 modelview
 modindex
+modularized
 moduleauthor
 mofile
 mollit
@@ -1030,6 +1035,8 @@ nczeczulin
 nder
 ndez
 nearterm
+neig
+neighbo
 ness
 newdata
 newlang
@@ -1817,6 +1824,7 @@ trenda
 tres
 treturn
 trevorscheitrum
+triaged
 trialamt
 trialbillingfrequency
 trialbillingperiod
@@ -1862,6 +1870,7 @@ uncaptured
 uncategorised
 unchecking
 unchecks
+uncloneable
 unclosed
 uncollapsed
 uncollectible
@@ -2326,9 +2335,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-modularized
-uncloneable
-triaged
-neighbo
-neig
-deburred
