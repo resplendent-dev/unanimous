@@ -2353,3 +2353,9 @@ typedefn
 nullary
 traversable
 sublist
+applicative
+appender
+abby
+bookmarklet
+uncurry
+treeshaking
