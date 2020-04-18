@@ -398,6 +398,8 @@ directionality
 dirname
 dirruns
 disableddisabled
+disambiguator
+disambiguators
 discontiguous
 disjunction
 dista
@@ -411,6 +413,8 @@ djangoparser
 djmoney
 djterm
 dnsname
+docplaster
+docregion
 doctype
 documentclass
 dodgily
@@ -421,6 +425,7 @@ dolore
 domloaded
 domprefixes
 domready
+donationware
 dotless
 dragend
 dragup
@@ -475,6 +480,7 @@ endchar
 endchartjs
 endcomment
 endcompress
+enddocregion
 endfor
 endif
 endiffeature
@@ -999,6 +1005,7 @@ mouseenter
 mouseleave
 mousenter
 mouseover
+mout
 moviegeek
 mozcentral
 mrjoelkemp
@@ -1010,6 +1017,7 @@ mthread
 mthreading
 mtitg
 multibuy
+multicasted
 multicasting
 multicurl
 multidocument
@@ -1884,6 +1892,7 @@ unapplied
 unapply
 unassign
 unbatched
+unbreak
 unbundled
 uncached
 uncapitalise
@@ -2103,6 +2112,7 @@ viewkeys
 viewport
 viewvalues
 virginia
+virtualize
 visitaugassign
 visitaugslice
 visitcontinue
@@ -2359,9 +2369,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-donationware
-mout
-docregion
-enddocregion
-multicasted
-docplaster
