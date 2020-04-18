@@ -233,6 +233,7 @@ chere
 childprop
 childview
 chilpit
+ching
 chunkalways
 chunkdone
 chunkfail
@@ -656,6 +657,7 @@ halibote
 handshaked
 hashchange
 hasn
+hasta
 headful
 heapu
 hellip
@@ -667,6 +669,7 @@ hexdigits
 hexlifies
 hexlify
 hexload
+hightables
 hitcounts
 hl
 hollaback
@@ -881,6 +884,7 @@ lowercased
 lowerstrip
 lowess
 lstrip
+luego
 lukasa
 luminance
 lvdalens
@@ -2014,6 +2018,7 @@ untyped
 unvalidatable
 unversioned
 unvote
+upcase
 updatesubs
 updatingrelationship
 upperbound
@@ -2329,6 +2334,7 @@ zipball
 zipcity
 zmap
 zmusic
+zomg
 zomgdev
 zoomable
 zorder
@@ -2341,9 +2347,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-upcase
-luego
-hightables
-hasta
-ching
-zomg
