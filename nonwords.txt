@@ -1,6 +1,7 @@
 aabb
 aabbbccccddddd
 abbrs
+abby
 abc
 abcbotoresource
 abcdef
@@ -51,7 +52,9 @@ apimanager
 apos
 appcontext
 appendblobservice
+appender
 appgroups
+applicative
 appspot
 aprasanna
 aralejs
@@ -162,6 +165,7 @@ bodycopy
 boilerplatey
 bolded
 bolds
+bookmarklet
 booleans
 bools
 bootstrapform
@@ -1105,6 +1109,7 @@ ntlmpool
 nuget
 nullability
 nullable
+nullary
 nullish
 nullpointer
 numfound
@@ -1649,6 +1654,7 @@ sublicensable
 sublicense
 sublicensees
 sublicenses
+sublist
 submenus
 submodels
 subnode
@@ -1704,6 +1710,7 @@ supertype
 sveltejs
 svenstaro
 syllabary
+symb
 symlinked
 symlinkfile
 syncdb
@@ -1819,6 +1826,7 @@ tranditional
 transclude
 transcluded
 transclusion
+transduce
 transformx
 transitionend
 translationdir
@@ -1829,7 +1837,9 @@ transpiler
 transpilers
 transpiles
 transpiling
+traversable
 treemode
+treeshaking
 trenda
 tres
 treturn
@@ -1857,6 +1867,7 @@ twoway
 txnid
 txt
 tyle
+typedefn
 typename
 typeof
 typoes
@@ -1890,6 +1901,7 @@ uncommit
 uncompress
 uncompressable
 uncomputed
+uncurry
 uncustomized
 undaemonize
 undef
@@ -2347,15 +2359,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-symb
-transduce
-typedefn
-nullary
-traversable
-sublist
-applicative
-appender
-abby
-bookmarklet
-uncurry
-treeshaking
