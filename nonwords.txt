@@ -1,6 +1,7 @@
 aabb
 aabbbccccddddd
 abbrs
+abby
 abc
 abcbotoresource
 abcdef
@@ -51,7 +52,9 @@ apimanager
 apos
 appcontext
 appendblobservice
+appender
 appgroups
+applicative
 appspot
 aprasanna
 aralejs
@@ -80,6 +83,7 @@ atronah
 attribs
 attrname
 atype
+augend
 augmentable
 ause
 aute
@@ -148,6 +152,7 @@ bhouston
 bhtml
 binarized
 bindable
+bitmasks
 bjoerns
 blewskiego
 blitting
@@ -160,6 +165,7 @@ bodycopy
 boilerplatey
 bolded
 bolds
+bookmarklet
 booleans
 bools
 bootstrapform
@@ -231,6 +237,7 @@ chere
 childprop
 childview
 chilpit
+ching
 chunkalways
 chunkdone
 chunkfail
@@ -333,10 +340,14 @@ ddcb
 ddfb
 ddmanager
 deallocated
+debounce
 debounced
 debouncer
+debouncing
 debugapp
 debuggable
+deburr
+deburred
 declaratively
 decodings
 decoratormethod
@@ -387,6 +398,8 @@ directionality
 dirname
 dirruns
 disableddisabled
+disambiguator
+disambiguators
 discontiguous
 disjunction
 dista
@@ -400,6 +413,8 @@ djangoparser
 djmoney
 djterm
 dnsname
+docplaster
+docregion
 doctype
 documentclass
 dodgily
@@ -410,6 +425,7 @@ dolore
 domloaded
 domprefixes
 domready
+donationware
 dotless
 dragend
 dragup
@@ -464,6 +480,7 @@ endchar
 endchartjs
 endcomment
 endcompress
+enddocregion
 endfor
 endif
 endiffeature
@@ -549,6 +566,7 @@ finalsub
 findall
 findone
 firma
+fitzpatrick
 fizfuz
 flashblock
 flaskblog
@@ -649,6 +667,7 @@ halibote
 handshaked
 hashchange
 hasn
+hasta
 headful
 heapu
 hellip
@@ -660,6 +679,7 @@ hexdigits
 hexlifies
 hexlify
 hexload
+hightables
 hitcounts
 hl
 hollaback
@@ -742,6 +762,7 @@ istanbul
 istartswith
 iterables
 iteratee
+iteratees
 iterationlabs
 iteritems
 iterkeys
@@ -873,6 +894,7 @@ lowercased
 lowerstrip
 lowess
 lstrip
+luego
 lukasa
 luminance
 lvdalens
@@ -913,6 +935,7 @@ mediatypes
 megastring
 meisthai
 mememeoo
+memoizes
 memoizing
 memorymail
 metaclasses
@@ -964,6 +987,7 @@ mobileinit
 modellist
 modelview
 modindex
+modularized
 moduleauthor
 mofile
 mollit
@@ -981,6 +1005,7 @@ mouseenter
 mouseleave
 mousenter
 mouseover
+mout
 moviegeek
 mozcentral
 mrjoelkemp
@@ -992,6 +1017,7 @@ mthread
 mthreading
 mtitg
 multibuy
+multicasted
 multicasting
 multicurl
 multidocument
@@ -1030,6 +1056,8 @@ nczeczulin
 nder
 ndez
 nearterm
+neig
+neighbo
 ness
 newdata
 newlang
@@ -1089,6 +1117,8 @@ ntlmpool
 nuget
 nullability
 nullable
+nullary
+nullish
 nullpointer
 numfound
 nwith
@@ -1233,6 +1263,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+pquentin
 preaction
 precalculating
 precallfunc
@@ -1435,6 +1466,7 @@ rtfrodrigo
 rtype
 rundelay
 runshell
+runtimes
 rvagg
 ryanmcgrath
 ryanvarley
@@ -1630,6 +1662,7 @@ sublicensable
 sublicense
 sublicensees
 sublicenses
+sublist
 submenus
 submodels
 subnode
@@ -1685,6 +1718,7 @@ supertype
 sveltejs
 svenstaro
 syllabary
+symb
 symlinked
 symlinkfile
 syncdb
@@ -1800,6 +1834,7 @@ tranditional
 transclude
 transcluded
 transclusion
+transduce
 transformx
 transitionend
 translationdir
@@ -1810,11 +1845,14 @@ transpiler
 transpilers
 transpiles
 transpiling
+traversable
 treemode
+treeshaking
 trenda
 tres
 treturn
 trevorscheitrum
+triaged
 trialamt
 trialbillingfrequency
 trialbillingperiod
@@ -1837,6 +1875,7 @@ twoway
 txnid
 txt
 tyle
+typedefn
 typename
 typeof
 typoes
@@ -1853,6 +1892,7 @@ unapplied
 unapply
 unassign
 unbatched
+unbreak
 unbundled
 uncached
 uncapitalise
@@ -1860,6 +1900,7 @@ uncaptured
 uncategorised
 unchecking
 unchecks
+uncloneable
 unclosed
 uncollapsed
 uncollectible
@@ -1869,6 +1910,7 @@ uncommit
 uncompress
 uncompressable
 uncomputed
+uncurry
 uncustomized
 undaemonize
 undef
@@ -1997,6 +2039,7 @@ untyped
 unvalidatable
 unversioned
 unvote
+upcase
 updatesubs
 updatingrelationship
 upperbound
@@ -2069,6 +2112,7 @@ viewkeys
 viewport
 viewvalues
 virginia
+virtualize
 visitaugassign
 visitaugslice
 visitcontinue
@@ -2312,6 +2356,7 @@ zipball
 zipcity
 zmap
 zmusic
+zomg
 zomgdev
 zoomable
 zorder
