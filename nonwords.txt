@@ -2347,3 +2347,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+symb
+transduce
+typedefn
+nullary
+traversable
+sublist
