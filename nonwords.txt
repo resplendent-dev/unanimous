@@ -134,6 +134,7 @@ basename
 basestring
 bashrc
 basicsep
+bastardised
 batchrange
 bauen
 bban
@@ -572,6 +573,7 @@ flashblock
 flaskblog
 flaskext
 flaticons
+flatmapwithconcurrencylimit
 floppyform
 fname
 focusable
@@ -731,7 +733,6 @@ inlined
 inlining
 inprogress
 installable
-instanceof
 instantiation
 instantiations
 interactable
@@ -819,6 +820,7 @@ keyevent
 keyid
 keypaths
 keypresses
+kinded
 kirovboris
 kissy
 klmn
@@ -1154,6 +1156,7 @@ onwards
 onwindowscroll
 openredis
 operationid
+optimising
 optimizable
 optionals
 optname
@@ -1473,6 +1476,7 @@ ryanvarley
 ryoryomaru
 sadielbartholomew
 safestring
+samplee
 sandboxed
 sangelone
 sanitization
@@ -1812,6 +1816,7 @@ tocdup
 tocscope
 toctree
 todense
+toeventstream
 tokenizes
 tokenizing
 tokentype
@@ -1819,6 +1824,7 @@ toks
 tonos
 toolfunc
 topline
+toproperty
 tornadoparser
 tostr
 totaldoclen
@@ -1867,6 +1873,7 @@ tsadi
 tsquery
 tty
 ttype
+tuples
 tweened
 tweener
 tweening
@@ -1892,6 +1899,7 @@ unapplied
 unapply
 unassign
 unbatched
+unbinder
 unbreak
 unbundled
 uncached
@@ -2024,6 +2032,7 @@ unstacking
 unstacks
 unstar
 unstyled
+unsub
 unsubbing
 unsubscribers
 unsubscription
@@ -2352,6 +2361,7 @@ zier
 zigenpoisson
 zinb
 zinegbin
+zipasarray
 zipball
 zipcity
 zmap
