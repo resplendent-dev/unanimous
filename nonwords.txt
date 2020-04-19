@@ -134,6 +134,7 @@ basename
 basestring
 bashrc
 basicsep
+bastardised
 batchrange
 bauen
 bban
@@ -731,7 +732,6 @@ inlined
 inlining
 inprogress
 installable
-instanceof
 instantiation
 instantiations
 interactable
@@ -1154,6 +1154,7 @@ onwards
 onwindowscroll
 openredis
 operationid
+optimising
 optimizable
 optionals
 optname
@@ -1867,6 +1868,7 @@ tsadi
 tsquery
 tty
 ttype
+tuples
 tweened
 tweener
 tweening
