@@ -512,6 +512,7 @@ errorlist
 ervenec
 escitalopram
 essen
+esversion
 eucjpprober
 euckrfreq
 euckrfreqprober
@@ -860,6 +861,7 @@ libphonenumber
 libpng
 libsasl
 libsqlite
+libu
 libxslt
 licensors
 lifesinger
@@ -1554,6 +1556,7 @@ sint
 siphones
 sitekey
 sitewide
+sitten
 sizedimage
 skinnable
 skiptags
@@ -1717,6 +1720,7 @@ subvalidators
 subvalue
 subvalues
 subviews
+suckage
 sucrase
 summarizers
 sunt
@@ -1880,6 +1884,7 @@ tsadi
 tsquery
 tty
 ttype
+tulevaisuudessa
 tuples
 tweened
 tweener
@@ -2048,6 +2053,7 @@ unsuspended
 unsuspending
 unsuspends
 unterminated
+untils
 untracked
 untransformed
 untranspiled
@@ -2350,6 +2356,7 @@ zastat
 zcorpan
 zdirection
 zdotb
+zdump
 zerobased
 zerocopy
 zerocoverage
@@ -2386,9 +2393,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-tulevaisuudessa
-suckage
-sitten
-libu
-untils
-zdump
