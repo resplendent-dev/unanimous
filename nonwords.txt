@@ -2379,3 +2379,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+thingie
+cujojs
+hashmap
+hashmaps
+retrigger
+jstransform
