@@ -2407,3 +2407,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+latt
+latinised
+decapitalize
+watcha
+panzerdp
+optionality
