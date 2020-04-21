@@ -351,6 +351,7 @@ debugapp
 debuggable
 deburr
 deburred
+decapitalize
 declaratively
 decodings
 decoratormethod
@@ -416,6 +417,7 @@ djangoparser
 djmoney
 djterm
 dnsname
+doclet
 docplaster
 docregion
 doctype
@@ -850,7 +852,9 @@ langhebrewmodel
 langthaimodel
 latedef
 latinise
+latinised
 latinized
+latt
 lazybird
 leadfoot
 leberkas
@@ -1172,6 +1176,7 @@ openredis
 operationid
 optimising
 optimizable
+optionality
 optionals
 optname
 oraclegis
@@ -1210,6 +1215,7 @@ pageshow
 pagetime
 paldepind
 pannable
+panzerdp
 parallelization
 parallelizes
 parametrizes
@@ -2172,6 +2178,7 @@ walkthrough
 walsh
 warnoptions
 wasn
+watcha
 watsons
 waybackmachine
 weakrefs
@@ -2407,9 +2414,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-latt
-latinised
-decapitalize
-watcha
-panzerdp
-optionality
