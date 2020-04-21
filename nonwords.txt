@@ -853,6 +853,7 @@ leadfoot
 leberkas
 lechotet
 leds
+lemmatize
 lemori
 letterpaper
 libev
@@ -897,11 +898,11 @@ logics
 longpress
 looby
 lookbehind
+loopbody
 loopfunc
 lossy
 lowercased
 lowerstrip
-lowess
 lstrip
 luego
 lukasa
@@ -947,6 +948,7 @@ mememeoo
 memoizes
 memoizing
 memorymail
+meridiem
 metaclasses
 metanav
 metasearch
@@ -1302,6 +1304,7 @@ prepending
 prepends
 prepopulated
 prepopulating
+preprocessed
 preprocessors
 prereleases
 prerendered
@@ -1334,6 +1337,7 @@ prtgsensor
 pserve
 pseudoterminals
 ptweens
+publics
 punctuations
 punycode
 pushd
@@ -1410,6 +1414,7 @@ reimplement
 reimplementation
 reindexed
 reinitializing
+reinject
 relu
 reminderslist
 renancouto
@@ -1874,6 +1879,7 @@ trialamt
 trialbillingfrequency
 trialbillingperiod
 trialtotalbillingcycles
+trinulls
 tristate
 trivy
 trns
@@ -2393,9 +2399,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-meridiem
-publics
-preprocessed
-loopbody
-lemmatize
-trinulls
