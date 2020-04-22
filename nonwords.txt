@@ -1024,6 +1024,7 @@ minutt
 minutter
 minutu
 minuut
+minuuttia
 mipmap
 misbehaviors
 misconfiguration
@@ -1048,8 +1049,11 @@ modindex
 modularized
 moduleauthor
 mofile
+moins
 mois
 mollit
+monato
+monatoj
 monkeypatched
 monkeypatching
 monotonicity
@@ -1058,6 +1062,8 @@ moorman
 moraxy
 morg
 morgen
+morgenen
+morgonen
 motiky
 mousecatcher
 mousedown
@@ -2516,9 +2522,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-morgonen
-morgenen
-monatoj
-monato
-moins
-minuuttia
