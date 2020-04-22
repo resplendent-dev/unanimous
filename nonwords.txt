@@ -2558,3 +2558,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+juil
+jaroj
+horoj
+hores
+hoje
+hace
