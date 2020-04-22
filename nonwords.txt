@@ -561,6 +561,7 @@ fatypes
 fbed
 fbone
 fccff
+febru
 februar
 february
 fecha
@@ -684,6 +685,7 @@ gzipped
 haikuginger
 hakibenita
 halibote
+halvt
 handshaked
 hari
 hashchange
@@ -930,6 +932,7 @@ lossy
 lowercased
 lowerstrip
 lstrip
+ltima
 luego
 lukasa
 luminance
@@ -945,6 +948,8 @@ magna
 magnifyby
 magnifyduration
 maikhoepfel
+maio
+mais
 makemigrations
 makoemail
 malfunctional
@@ -1050,6 +1055,7 @@ monotonicity
 montana
 moorman
 moraxy
+morg
 morgen
 motiky
 mousecatcher
@@ -2468,9 +2474,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-morg
-mais
-maio
-ltima
-halvt
-febru
