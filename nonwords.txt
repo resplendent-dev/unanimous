@@ -2450,3 +2450,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+mercredi
+menos
+mandag
+maand
+lundi
+jour
