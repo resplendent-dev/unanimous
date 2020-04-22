@@ -2420,3 +2420,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+segundos
+onsdag
+minutos
+meses
+sekund
+kvartal
