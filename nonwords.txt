@@ -1829,6 +1829,7 @@ tablespace
 tabnabbing
 taglib
 tagname
+tagoj
 tahun
 takahiro
 tanh
@@ -1883,6 +1884,7 @@ thunkor
 thursday
 tiangolo
 tidx
+timar
 timberlandonline
 timedeltas
 timeframe
@@ -1965,6 +1967,9 @@ tsquery
 tty
 ttype
 tulevaisuudessa
+tunnin
+tunti
+tuntia
 tuples
 tweened
 tweener
@@ -2196,6 +2201,7 @@ vectorization
 vectorizers
 velit
 vendored
+vendredi
 veniam
 verifiably
 verifications
@@ -2480,9 +2486,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-vendredi
-tuntia
-tunti
-tunnin
-timar
-tagoj
