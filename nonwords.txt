@@ -2516,3 +2516,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+morgonen
+morgenen
+monatoj
+monato
+moins
+minuuttia
