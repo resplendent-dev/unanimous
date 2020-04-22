@@ -2486,3 +2486,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+sutra
+soir
+sodperce
+sodperc
+sexta
+sekuntia
