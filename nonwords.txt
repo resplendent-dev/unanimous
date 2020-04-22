@@ -185,6 +185,7 @@ bugridden
 bugzil
 buildable
 buildbots
+bulan
 burgerservicenummer
 buuuunch
 byid
@@ -323,6 +324,7 @@ customizations
 customizingformtemplates
 dagar
 dakuten
+dalam
 dalek
 dandehavilland
 dasd
@@ -401,6 +403,7 @@ deviceobj
 deviceobject
 deviceready
 dfae
+dias
 didn
 dimensionality
 directionality
@@ -1100,6 +1103,7 @@ namespacing
 narr
 natively
 nativescript
+natten
 navigations
 nbest
 nbsp
@@ -1140,6 +1144,7 @@ noimagehere
 noinput
 noinspection
 noirbizarre
+noite
 nolint
 nonamefile
 nonbillable
@@ -1385,6 +1390,7 @@ pserve
 pseudoterminals
 ptweens
 publics
+pukul
 punctuations
 punycode
 pushd
@@ -2462,9 +2468,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dias
-dalam
-bulan
-pukul
-noite
-natten
