@@ -2426,3 +2426,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+minutu
+dagar
+anos
+sekundi
+juli
+hari
