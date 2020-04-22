@@ -138,6 +138,7 @@ bastardised
 batchrange
 bauen
 bban
+bbbb
 bcde
 bday
 beeing
@@ -256,6 +257,7 @@ classmethod
 classname
 clckru
 cleansweep
+clenemt
 clickjacking
 cloudstorageaccount
 cmdclass
@@ -352,6 +354,7 @@ debuggable
 deburr
 deburred
 decapitalize
+decapitalized
 declaratively
 decodings
 decoratormethod
@@ -984,6 +987,8 @@ minimalistic
 miniphone
 minlength
 minprops
+minuta
+minuto
 mipmap
 misbehaviors
 misconfiguration
@@ -1892,6 +1897,7 @@ trialamt
 trialbillingfrequency
 trialbillingperiod
 trialtotalbillingcycles
+trimestre
 trinulls
 tristate
 trivy
@@ -2414,9 +2420,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-decapitalized
-clenemt
-bbbb
-minuto
-minuta
-trimestre
