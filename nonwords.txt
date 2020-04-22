@@ -602,6 +602,7 @@ formrows
 fragsize
 framebuffer
 frameset
+fredag
 freenode
 freqprober
 frobshop
@@ -658,6 +659,8 @@ glyf
 gmtime
 gnarvaja
 gnomonic
+godina
+godinu
 googleclassicanalytics
 googleuniversalanalytics
 gosquared
@@ -691,6 +694,8 @@ hellip
 hellohook
 helour
 heterophobia
+heure
+heures
 hexcolor
 hexdigits
 hexlifies
@@ -699,6 +704,7 @@ hexload
 hightables
 hitcounts
 hl
+hodina
 hollaback
 hookings
 hostmask
@@ -2456,9 +2462,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-hodina
-heures
-heure
-godinu
-godina
-fredag
