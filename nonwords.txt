@@ -2462,3 +2462,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+dias
+dalam
+bulan
+pukul
+noite
+natten
