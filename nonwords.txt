@@ -43,6 +43,7 @@ andouille
 anentropic
 anim
 anims
+anos
 anphisa
 anselmstordeur
 antimeridian
@@ -320,6 +321,7 @@ cursored
 customdashboard
 customizations
 customizingformtemplates
+dagar
 dakuten
 dalek
 dandehavilland
@@ -676,6 +678,7 @@ haikuginger
 hakibenita
 halibote
 handshaked
+hari
 hashchange
 hashmap
 hashmaps
@@ -818,6 +821,7 @@ jsoniq
 jsonwire
 jstransform
 jsurloppe
+juli
 julianwachholz
 jwilges
 katayoku
@@ -992,6 +996,7 @@ minprops
 minuta
 minuto
 minutos
+minutu
 mipmap
 misbehaviors
 misconfiguration
@@ -1537,6 +1542,7 @@ seekable
 seeked
 segundos
 sekund
+sekundi
 selectedcontacts
 sellable
 seltests
@@ -2426,9 +2432,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-minutu
-dagar
-anos
-sekundi
-juli
-hari
