@@ -2576,3 +2576,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+dilluns
+dernier
+dari
+danas
+dagur
+dage
