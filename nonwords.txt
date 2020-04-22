@@ -2564,3 +2564,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+geleden
+fevereiro
+februari
+ettermiddagen
+etterm
+eitt
