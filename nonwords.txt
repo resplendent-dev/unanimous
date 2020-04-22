@@ -843,6 +843,7 @@ komplexen
 kouio
 kovi
 kowal
+kvartal
 kwarg
 labore
 laboris
@@ -959,6 +960,7 @@ memoizes
 memoizing
 memorymail
 meridiem
+meses
 metaclasses
 metanav
 metasearch
@@ -989,6 +991,7 @@ minlength
 minprops
 minuta
 minuto
+minutos
 mipmap
 misbehaviors
 misconfiguration
@@ -1173,6 +1176,7 @@ onload
 onposition
 onreadystatechange
 onscroll
+onsdag
 onstate
 onunload
 onwards
@@ -1531,6 +1535,8 @@ securetransport
 seealso
 seekable
 seeked
+segundos
+sekund
 selectedcontacts
 sellable
 seltests
@@ -2420,9 +2426,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-segundos
-onsdag
-minutos
-meses
-sekund
-kvartal
