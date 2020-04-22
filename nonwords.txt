@@ -405,6 +405,7 @@ deviceready
 dfae
 dias
 didn
+dimanche
 dimecres
 dimensionality
 directionality
@@ -418,13 +419,16 @@ disjunction
 dista
 distributable
 distributivity
+diumenge
 divs
+diwrnod
 dize
 djamin
 djangopackages
 djangoparser
 djmoney
 djterm
+dnes
 dnsname
 doclet
 docplaster
@@ -455,6 +459,7 @@ dumpscript
 duplications
 durationchange
 dwatow
+dydd
 dynamiczone
 eacute
 eaparango
@@ -467,6 +472,7 @@ ectoplasm
 editsection
 eerste
 efghij
+eftermiddagen
 eidx
 einmal
 eitt
@@ -2570,9 +2576,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-eftermiddagen
-dydd
-dnes
-diwrnod
-diumenge
-dimanche
