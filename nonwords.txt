@@ -2414,3 +2414,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+decapitalized
+clenemt
+bbbb
+minuto
+minuta
+trimestre
