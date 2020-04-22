@@ -2528,3 +2528,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+miercuri
+mewn
+mesiacom
+mesiacmi
+mesiac
+merkredo
