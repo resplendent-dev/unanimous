@@ -986,11 +986,16 @@ memorymail
 menos
 mercredi
 meridiem
+merkredo
 mesec
 meses
+mesiac
+mesiacmi
+mesiacom
 metaclasses
 metanav
 metasearch
+mewn
 mfcovington
 microframeworks
 microlibraries
@@ -998,6 +1003,7 @@ microtask
 microtasks
 middot
 midstring
+miercuri
 mignon
 migonzalvar
 migraph
@@ -2528,9 +2534,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-miercuri
-mewn
-mesiacom
-mesiacmi
-mesiac
-merkredo
