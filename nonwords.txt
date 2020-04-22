@@ -323,10 +323,14 @@ customdashboard
 customizations
 customizingformtemplates
 dagar
+dage
+dagur
 dakuten
 dalam
 dalek
+danas
 dandehavilland
+dari
 dasd
 dass
 dataframing
@@ -384,6 +388,7 @@ dequeue
 dequeued
 derbyjs
 dereference
+dernier
 desaturates
 deserialization
 deserialized
@@ -405,6 +410,7 @@ deviceready
 dfae
 dias
 didn
+dilluns
 dimanche
 dimecres
 dimensionality
@@ -2576,9 +2582,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dilluns
-dernier
-dari
-danas
-dagur
-dage
