@@ -2510,3 +2510,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+omtrent
+nedjelja
+nappal
+napja
+nachts
+munud
