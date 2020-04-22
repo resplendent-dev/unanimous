@@ -2540,3 +2540,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+maanden
+maandag
+maanantaina
+lunes
+lundo
+lebih
