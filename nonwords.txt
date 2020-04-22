@@ -880,6 +880,7 @@ latt
 lazybird
 leadfoot
 leberkas
+lebih
 lechotet
 leds
 lemmatize
@@ -938,10 +939,15 @@ luego
 lukasa
 luminance
 lundi
+lundo
+lunes
 lvdalens
 lxxxvi
 lynis
+maanantaina
 maand
+maandag
+maanden
 macr
 macroman
 macromedia
@@ -2540,9 +2546,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-maanden
-maandag
-maanantaina
-lunes
-lundo
-lebih
