@@ -2522,3 +2522,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+minuutti
+minuutin
+minuts
+minutoj
+minuten
+minit
