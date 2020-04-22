@@ -1312,11 +1312,14 @@ playability
 plotclick
 pluggability
 plusequals
+podne
 pointsize
 polyfills
+pondelok
 ponedjeljak
 poolsize
 popitem
+popodne
 popstate
 populators
 popvalue
@@ -1352,6 +1355,7 @@ prefixexp
 preformatted
 preinitialize
 preinstalled
+preko
 preloaddone
 preloaded
 preloading
@@ -1372,9 +1376,11 @@ preval
 previewfailure
 previewlinks
 previewsuccess
+pribli
 pristinemethod
 probabilistically
 probeobject
+prochain
 productinfo
 programatically
 programing
@@ -2498,9 +2504,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-prochain
-pribli
-preko
-popodne
-pondelok
-podne
