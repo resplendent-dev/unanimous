@@ -2570,3 +2570,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+eftermiddagen
+dydd
+dnes
+diwrnod
+diumenge
+dimanche
