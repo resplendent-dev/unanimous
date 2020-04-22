@@ -1090,6 +1090,7 @@ multithreading
 multitree
 multivalue
 multiwidgets
+munud
 myaction
 myblogsite
 mydir
@@ -1106,7 +1107,10 @@ myview
 mywhitelist
 mywidget
 myyj
+nachts
 namespacing
+napja
+nappal
 narr
 natively
 nativescript
@@ -1119,6 +1123,7 @@ nder
 ndez
 nearterm
 neder
+nedjelja
 neig
 neighbo
 ness
@@ -1201,6 +1206,7 @@ offscreen
 okey
 olddisplay
 omdict
+omtrent
 onabort
 onbeforeactivate
 onbeforeremove
@@ -2510,9 +2516,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-omtrent
-nedjelja
-nappal
-napja
-nachts
-munud
