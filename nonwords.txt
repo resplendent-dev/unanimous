@@ -1207,6 +1207,7 @@ onbeforeremove
 onblur
 onclick
 oncreate
+ongeveer
 onhashchange
 onhold
 onlinestatuschanged
@@ -1216,6 +1217,7 @@ onreadystatechange
 onscroll
 onsdag
 onstate
+ontem
 onunload
 onwards
 onwindowscroll
@@ -1260,6 +1262,7 @@ pageflag
 pagerefs
 pageshow
 pagetime
+pagi
 paldepind
 pannable
 panzerdp
@@ -1278,6 +1281,7 @@ parsestr
 parsesuite
 parsetab
 parzen
+pasado
 passhash
 pastable
 pasteembed
@@ -1290,6 +1294,8 @@ pcnoordhuis
 pdate
 peity
 pencilblue
+perccel
+perce
 percona
 performable
 performant
@@ -2504,9 +2510,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-perce
-perccel
-pasado
-pagi
-ontem
-ongeveer
