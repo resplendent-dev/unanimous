@@ -2438,3 +2438,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+secondes
+sati
+quarta
+ponedjeljak
+neder
+morgen
