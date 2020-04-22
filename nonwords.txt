@@ -2504,3 +2504,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+perce
+perccel
+pasado
+pagi
+ontem
+ongeveer
