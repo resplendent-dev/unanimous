@@ -2498,3 +2498,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+prochain
+pribli
+preko
+popodne
+pondelok
+podne
