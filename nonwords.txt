@@ -2444,3 +2444,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+mois
+minuut
+minutter
+minutt
+mindre
+mesec
