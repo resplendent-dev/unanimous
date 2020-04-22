@@ -861,8 +861,14 @@ komplexen
 kouio
 kovi
 kowal
+kurang
+kuukauden
+kuukausi
+kuukautta
 kvartal
+kvelden
 kwarg
+kwartaal
 labore
 laboris
 laborum
@@ -2546,9 +2552,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-kwartaal
-kvelden
-kuukautta
-kuukausi
-kuukauden
-kurang
