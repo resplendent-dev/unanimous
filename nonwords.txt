@@ -2480,3 +2480,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+vendredi
+tuntia
+tunti
+tunnin
+timar
+tagoj
