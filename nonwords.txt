@@ -2456,3 +2456,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+hodina
+heures
+heure
+godinu
+godina
+fredag
