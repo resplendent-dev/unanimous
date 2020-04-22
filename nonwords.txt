@@ -2534,3 +2534,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+meer
+medio
+masa
+manje
+malam
+maig
