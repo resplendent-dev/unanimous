@@ -835,8 +835,11 @@ jsoniq
 jsonwire
 jstransform
 jsurloppe
+juillet
+julho
 juli
 julianwachholz
+julio
 jwilges
 katayoku
 kavdev
@@ -845,6 +848,7 @@ keine
 kennethreitz
 kentaromiura
 kerning
+keskiviikkona
 kevgathuku
 keydown
 keyevent
@@ -855,12 +859,14 @@ kinded
 kirovboris
 kissy
 klmn
+klukkustund
 kobzol
 kompiuter
 komplexen
 kouio
 kovi
 kowal
+kuluttua
 kurang
 kuukauden
 kuukausi
@@ -2552,9 +2558,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-kuluttua
-klukkustund
-keskiviikkona
-julio
-julho
-juillet
