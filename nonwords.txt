@@ -2582,3 +2582,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+anys
+amanh
+alle
+zondag
+zajtra
+yfory
