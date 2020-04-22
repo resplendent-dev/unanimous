@@ -2552,3 +2552,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+kuluttua
+klukkustund
+keskiviikkona
+julio
+julho
+juillet
