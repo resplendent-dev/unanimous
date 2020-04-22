@@ -558,6 +558,7 @@ fatypes
 fbed
 fbone
 fccff
+februar
 february
 fecha
 fenc
@@ -1540,7 +1541,9 @@ securetransport
 seealso
 seekable
 seeked
+segunda
 segundos
+seks
 sekund
 sekundi
 selectedcontacts
@@ -1576,6 +1579,7 @@ shortcutted
 shorthands
 shouldn
 showbrowser
+siden
 siefkenj
 sigmavirus
 sigmoid
@@ -1788,8 +1792,10 @@ tablespace
 tabnabbing
 taglib
 tagname
+tahun
 takahiro
 tanh
+tarde
 targetable
 targetimageid
 tastypies
@@ -2432,9 +2438,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-februar
-tarde
-tahun
-siden
-seks
-segunda
