@@ -965,6 +965,7 @@ memoizes
 memoizing
 memorymail
 meridiem
+mesec
 meses
 metaclasses
 metanav
@@ -987,6 +988,7 @@ miketaylr
 mimeype
 mimicus
 mindflayer
+mindre
 minibatches
 minifies
 miniframework
@@ -997,7 +999,10 @@ minprops
 minuta
 minuto
 minutos
+minutt
+minutter
 minutu
+minuut
 mipmap
 misbehaviors
 misconfiguration
@@ -1022,6 +1027,7 @@ modindex
 modularized
 moduleauthor
 mofile
+mois
 mollit
 monkeypatched
 monkeypatching
@@ -2444,9 +2450,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-mois
-minuut
-minutter
-minutt
-mindre
-mesec
