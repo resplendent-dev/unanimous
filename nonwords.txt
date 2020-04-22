@@ -405,6 +405,7 @@ deviceready
 dfae
 dias
 didn
+dimecres
 dimensionality
 directionality
 dirname
@@ -2229,6 +2230,10 @@ volumechange
 voluptate
 voterid
 vprintf
+vrier
+vuoden
+vuosi
+vuotta
 waddlelikeaduck
 waitforelements
 waitings
@@ -2276,6 +2281,7 @@ wmake
 wmem
 wmsg
 wmv
+woensdag
 woooops
 wordlists
 workernode
@@ -2474,9 +2480,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dimecres
-woensdag
-vuotta
-vuosi
-vuoden
-vrier
