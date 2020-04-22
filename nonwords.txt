@@ -683,6 +683,7 @@ guilabel
 gutil
 guybedford
 gzipped
+hace
 haikuginger
 hakibenita
 halibote
@@ -711,8 +712,11 @@ hightables
 hitcounts
 hl
 hodina
+hoje
 hollaback
 hookings
+hores
+horoj
 hostmask
 hostnames
 hoverable
@@ -802,6 +806,7 @@ ivar
 ixrss
 jackhenry
 jaring
+jaroj
 jasminewd
 javascripts
 jbinary
@@ -835,6 +840,7 @@ jsoniq
 jsonwire
 jstransform
 jsurloppe
+juil
 juillet
 julho
 juli
@@ -2558,9 +2564,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-juil
-jaroj
-horoj
-hores
-hoje
-hace
