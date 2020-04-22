@@ -805,6 +805,7 @@ jnozsc
 joehybird
 joinedload
 joinpath
+jour
 jpcntx
 jpcntxprober
 jqeditor
@@ -923,9 +924,11 @@ lstrip
 luego
 lukasa
 luminance
+lundi
 lvdalens
 lxxxvi
 lynis
+maand
 macr
 macroman
 macromedia
@@ -936,6 +939,7 @@ maikhoepfel
 makemigrations
 makoemail
 malfunctional
+mandag
 mandoc
 manglings
 manpages
@@ -964,6 +968,8 @@ mememeoo
 memoizes
 memoizing
 memorymail
+menos
+mercredi
 meridiem
 mesec
 meses
@@ -2450,9 +2456,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-mercredi
-menos
-mandag
-maand
-lundi
-jour
