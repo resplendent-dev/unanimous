@@ -469,6 +469,7 @@ eerste
 efghij
 eidx
 einmal
+eitt
 eiusmod
 elementinteraction
 elementinternal
@@ -524,6 +525,8 @@ ervenec
 escitalopram
 essen
 esversion
+etterm
+ettermiddagen
 eucjpprober
 euckrfreq
 euckrfreqprober
@@ -564,9 +567,11 @@ fbone
 fccff
 febru
 februar
+februari
 february
 fecha
 fenc
+fevereiro
 fieldclass
 fieldname
 fieldnames
@@ -636,6 +641,7 @@ gamers
 garyd
 gdennis
 geholfen
+geleden
 gendoc
 generateimages
 genericinlineformset
@@ -2564,9 +2570,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-geleden
-fevereiro
-februari
-ettermiddagen
-etterm
-eitt
