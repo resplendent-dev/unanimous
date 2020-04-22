@@ -1029,6 +1029,7 @@ monotonicity
 montana
 moorman
 moraxy
+morgen
 motiky
 mousecatcher
 mousedown
@@ -1088,6 +1089,7 @@ nczeczulin
 nder
 ndez
 nearterm
+neder
 neig
 neighbo
 ness
@@ -1282,6 +1284,7 @@ pluggability
 plusequals
 pointsize
 polyfills
+ponedjeljak
 poolsize
 popitem
 popstate
@@ -1383,6 +1386,7 @@ qsval
 qtime
 quantiles
 quantizing
+quarta
 quartile
 queueservice
 quis
@@ -1519,6 +1523,7 @@ samplee
 sandboxed
 sangelone
 sanitization
+sati
 saturday
 sbstjn
 scaffolded
@@ -1535,6 +1540,7 @@ scrollspy
 scrollstart
 scrollstop
 searchableselect
+secondes
 sectionauthor
 securable
 securetransport
@@ -2438,9 +2444,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-secondes
-sati
-quarta
-ponedjeljak
-neder
-morgen
