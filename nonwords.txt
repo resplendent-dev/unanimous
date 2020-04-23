@@ -382,7 +382,6 @@ deja
 delims
 delitem
 denilsonsa
-denter
 deparam
 dependables
 deployable
@@ -2312,12 +2311,15 @@ versionwarning
 vetoable
 vhcurveto
 videoblog
+viernes
 viewable
 viewcode
 viewitems
 viewkeys
 viewport
 viewvalues
+viime
+vineri
 virginia
 virtualize
 visitaugassign
@@ -2336,6 +2338,7 @@ voluptate
 voterid
 vprintf
 vrier
+vrijdag
 vuoden
 vuosi
 vuotta
@@ -2476,6 +2479,7 @@ xthreaded
 xticklabels
 xticks
 xtprobit
+xullo
 xupp
 xvals
 xvar
