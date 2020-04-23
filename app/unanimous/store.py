@@ -6,6 +6,7 @@ import datetime
 import hashlib
 import io
 import logging
+import os
 import pathlib
 import zipfile
 
@@ -27,7 +28,10 @@ def get_config_dir(basepath=None):
     Return the directory to store the cache of PyPi packages
     """
     if basepath is None:
-        basepath = pathlib.Path.home()
+        try:
+            basepath = pathlib.Path.home()
+        except AttributeError:
+            basepath = pathlib.Path(os.path.expanduser("~"))
     path = basepath / ".unanimous"
     if not path.exists():
         path.mkdir()
