@@ -286,9 +286,11 @@ commonjs
 commonprefix
 commutativity
 comparators
+complemento
 completers
 compressibility
 computeds
+configuraci
 conformant
 confoundingly
 conftest
@@ -523,6 +525,7 @@ enqueuing
 enskild
 enterable
 entityref
+entre
 enumerables
 eprint
 eqeqeq
@@ -619,6 +622,8 @@ foobarhello
 fooo
 foos
 forcelist
+formato
+formatos
 formconfig
 formdata
 formid
@@ -775,6 +780,7 @@ incrementing
 indentby
 indeterministic
 indexable
+indicando
 infctr
 informations
 infos
@@ -1252,6 +1258,7 @@ nrful
 nrofcomponents
 ntilde
 ntlmpool
+nuevo
 nuget
 nullability
 nullable
@@ -1263,6 +1270,7 @@ nwith
 oauthtoken
 oberstet
 objectlanguage
+objeto
 obscurified
 observables
 occaecat
@@ -1376,7 +1384,6 @@ performant
 permissionif
 personalmodule
 petrbela
-pgadmin
 pgid
 pgproto
 pgroto
@@ -1679,6 +1686,7 @@ sekuntia
 selectedcontacts
 sellable
 seltests
+semana
 sensorid
 sensorobject
 sensortree
@@ -2267,6 +2275,7 @@ urlresolvers
 urlsafe
 urlunquoted
 urss
+usar
 usecase
 usecmap
 usefixtures
@@ -2592,9 +2601,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-objeto
-complemento
-indicando
-formatos
-entre
-semana
