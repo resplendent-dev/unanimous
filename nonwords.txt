@@ -2633,3 +2633,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+ilike
+someurl
+messup
+dasherize
+camelize
+shelljs
