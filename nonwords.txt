@@ -2601,3 +2601,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+dispon
+adir
+demanda
+complementos
+adicionar
+todas
