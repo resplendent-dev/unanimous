@@ -13,8 +13,10 @@ aculo
 addedon
 addfinalizer
 addinfourl
+adicionar
 adipiscing
 adipisicing
+adir
 adjwt
 adminaction
 aebeaaf
@@ -287,6 +289,7 @@ commonprefix
 commutativity
 comparators
 complemento
+complementos
 completers
 compressibility
 computeds
@@ -383,6 +386,7 @@ degit
 deja
 delims
 delitem
+demanda
 denilsonsa
 deparam
 dependables
@@ -426,6 +430,7 @@ disambiguator
 disambiguators
 discontiguous
 disjunction
+dispon
 dista
 distributable
 distributivity
@@ -540,7 +545,9 @@ errored
 errorlist
 ervenec
 escitalopram
+especificada
 essen
+este
 esversion
 etterm
 ettermiddagen
@@ -589,6 +596,7 @@ february
 fecha
 fenc
 fevereiro
+fica
 fieldclass
 fieldname
 fieldnames
@@ -791,6 +799,7 @@ inlined
 inlining
 inprogress
 installable
+instancia
 instantiation
 instantiations
 interactable
@@ -2012,6 +2021,7 @@ tobiasbueschel
 tocdup
 tocscope
 toctree
+todas
 todense
 toeventstream
 tokenizes
@@ -2601,9 +2611,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dispon
-adir
-demanda
-complementos
-adicionar
-todas
