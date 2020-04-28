@@ -723,6 +723,7 @@ guilabel
 gutil
 guybedford
 gzipped
+gzips
 hace
 haikuginger
 hakibenita
@@ -938,6 +939,7 @@ latinise
 latinised
 latinized
 latt
+laxbreak
 lazybird
 leadfoot
 leberkas
@@ -1034,6 +1036,7 @@ manytomany
 markupset
 masa
 matchable
+mathias
 matthiask
 matzhu
 maxcomplexity
@@ -2146,6 +2149,7 @@ uncommit
 uncompress
 uncompressable
 uncomputed
+unconsume
 uncurry
 uncustomized
 undaemonize
@@ -2629,5 +2633,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-mathias
-unconsume
