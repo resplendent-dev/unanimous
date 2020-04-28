@@ -2617,3 +2617,9 @@ unidades
 retornar
 manipula
 localidade
+instante
+globalmente
+fechas
+estender
+dulo
+carga
