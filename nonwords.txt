@@ -213,6 +213,7 @@ canvascontext
 canvaswrapper
 capath
 capicola
+carga
 carljm
 carre
 caseless
@@ -266,6 +267,7 @@ clckru
 cleansweep
 clenemt
 clickjacking
+clonado
 cloudstorageaccount
 cmdclass
 cobrateam
@@ -415,6 +417,7 @@ deviceid
 deviceobj
 deviceobject
 deviceready
+devuelve
 dfae
 dias
 didn
@@ -467,6 +470,7 @@ dropdowns
 dropmenu
 dropmove
 droppable
+dulo
 dummymail
 dummypage
 dummyserver
@@ -548,6 +552,7 @@ escitalopram
 especificada
 essen
 este
+estender
 esversion
 etterm
 ettermiddagen
@@ -594,6 +599,7 @@ februar
 februari
 february
 fecha
+fechas
 fenc
 fevereiro
 fica
@@ -691,6 +697,7 @@ gitattributes
 githubs
 gittip
 gjtorikian
+globalmente
 globbed
 glogging
 glyf
@@ -800,6 +807,7 @@ inlining
 inprogress
 installable
 instancia
+instante
 instantiation
 instantiations
 interactable
@@ -972,6 +980,7 @@ loca
 localenegotiator
 localeselector
 localhost
+localidade
 localstore
 localtime
 locmem
@@ -1018,6 +1027,7 @@ malfunctional
 mandag
 mandoc
 manglings
+manipula
 manje
 manpages
 manytomany
@@ -1614,6 +1624,7 @@ restructured
 resultdb
 rethrow
 retokenization
+retornar
 retransmission
 retriable
 retrigger
@@ -2168,6 +2179,9 @@ unhighlighted
 unhighlighting
 unicast
 unicodetext
+unidad
+unidade
+unidades
 unindent
 unindented
 unindexed
@@ -2611,15 +2625,4 @@ zstar
 zsyscall
 ztol
 zyxwvu
-devuelve
-clonado
-unidades
-retornar
-manipula
-localidade
-instante
-globalmente
-fechas
-estender
-dulo
-carga
+partir
