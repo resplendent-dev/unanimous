@@ -2592,3 +2592,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+objeto
+complemento
+indicando
+formatos
+entre
+semana
