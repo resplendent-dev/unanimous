@@ -2611,3 +2611,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+devuelve
+clonado
+unidades
+retornar
+manipula
+localidade
