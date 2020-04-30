@@ -13,8 +13,10 @@ aculo
 addedon
 addfinalizer
 addinfourl
+adicionar
 adipiscing
 adipisicing
+adir
 adjwt
 adminaction
 aebeaaf
@@ -202,6 +204,7 @@ cakeipsum
 callables
 callsites
 calmerthanyouare
+camelize
 camelized
 camelizing
 cancelable
@@ -211,6 +214,7 @@ canvascontext
 canvaswrapper
 capath
 capicola
+carga
 carljm
 carre
 caseless
@@ -264,6 +268,7 @@ clckru
 cleansweep
 clenemt
 clickjacking
+clonado
 cloudstorageaccount
 cmdclass
 cobrateam
@@ -286,9 +291,12 @@ commonjs
 commonprefix
 commutativity
 comparators
+complemento
+complementos
 completers
 compressibility
 computeds
+configuraci
 conformant
 confoundingly
 conftest
@@ -335,6 +343,7 @@ danas
 dandehavilland
 dari
 dasd
+dasherize
 dass
 dataframing
 dataless
@@ -379,8 +388,10 @@ deferreds
 defragmentation
 degit
 deja
+delim
 delims
 delitem
+demanda
 denilsonsa
 deparam
 dependables
@@ -409,6 +420,7 @@ deviceid
 deviceobj
 deviceobject
 deviceready
+devuelve
 dfae
 dias
 didn
@@ -424,6 +436,7 @@ disambiguator
 disambiguators
 discontiguous
 disjunction
+dispon
 dista
 distributable
 distributivity
@@ -460,6 +473,7 @@ dropdowns
 dropmenu
 dropmove
 droppable
+dulo
 dummymail
 dummypage
 dummyserver
@@ -523,6 +537,7 @@ enqueuing
 enskild
 enterable
 entityref
+entre
 enumerables
 eprint
 eqeqeq
@@ -537,7 +552,10 @@ errored
 errorlist
 ervenec
 escitalopram
+especificada
 essen
+este
+estender
 esversion
 etterm
 ettermiddagen
@@ -584,8 +602,10 @@ februar
 februari
 february
 fecha
+fechas
 fenc
 fevereiro
+fica
 fieldclass
 fieldname
 fieldnames
@@ -619,6 +639,8 @@ foobarhello
 fooo
 foos
 forcelist
+formato
+formatos
 formconfig
 formdata
 formid
@@ -678,6 +700,7 @@ gitattributes
 githubs
 gittip
 gjtorikian
+globalmente
 globbed
 glogging
 glyf
@@ -703,6 +726,7 @@ guilabel
 gutil
 guybedford
 gzipped
+gzips
 hace
 haikuginger
 hakibenita
@@ -759,6 +783,7 @@ iendswith
 iffeature
 iframes
 ilayer
+ilike
 imagegenerators
 imho
 imitatio
@@ -775,6 +800,7 @@ incrementing
 indentby
 indeterministic
 indexable
+indicando
 infctr
 informations
 infos
@@ -785,6 +811,8 @@ inlined
 inlining
 inprogress
 installable
+instancia
+instante
 instantiation
 instantiations
 interactable
@@ -915,6 +943,7 @@ latinise
 latinised
 latinized
 latt
+laxbreak
 lazybird
 leadfoot
 leberkas
@@ -957,6 +986,7 @@ loca
 localenegotiator
 localeselector
 localhost
+localidade
 localstore
 localtime
 locmem
@@ -1003,12 +1033,14 @@ malfunctional
 mandag
 mandoc
 manglings
+manipula
 manje
 manpages
 manytomany
 markupset
 masa
 matchable
+mathias
 matthiask
 matzhu
 maxcomplexity
@@ -1042,6 +1074,7 @@ meses
 mesiac
 mesiacmi
 mesiacom
+messup
 metaclasses
 metanav
 metasearch
@@ -1062,6 +1095,7 @@ mihpayid
 mikael
 mikehelmick
 miketaylr
+milissegundos
 mimeype
 mimicus
 mindflayer
@@ -1201,6 +1235,7 @@ newmexico
 newname
 newplaceid
 newsmeme
+newstr
 newstyle
 ngdoc
 ngettext
@@ -1252,6 +1287,7 @@ nrful
 nrofcomponents
 ntilde
 ntlmpool
+nuevo
 nuget
 nullability
 nullable
@@ -1263,8 +1299,11 @@ nwith
 oauthtoken
 oberstet
 objectlanguage
+objeto
 obscurified
 observables
+obtener
+obter
 occaecat
 octubre
 odff
@@ -1354,6 +1393,7 @@ parsererror
 parsestr
 parsesuite
 parsetab
+partir
 parzen
 pasado
 passhash
@@ -1376,7 +1416,6 @@ performant
 permissionif
 personalmodule
 petrbela
-pgadmin
 pgid
 pgproto
 pgroto
@@ -1598,6 +1637,7 @@ restructured
 resultdb
 rethrow
 retokenization
+retornar
 retransmission
 retriable
 retrigger
@@ -1679,6 +1719,7 @@ sekuntia
 selectedcontacts
 sellable
 seltests
+semana
 sensorid
 sensorobject
 sensortree
@@ -1703,6 +1744,7 @@ sfnt
 sgi
 shazow
 shch
+shelljs
 sherika
 sherrell
 shived
@@ -1758,6 +1800,7 @@ someotherfile
 someredirectedurl
 somerequest
 someschema
+someurl
 someutfcharacters
 soname
 sortation
@@ -2004,6 +2047,7 @@ tobiasbueschel
 tocdup
 tocscope
 toctree
+todas
 todense
 toeventstream
 tokenizes
@@ -2113,6 +2157,7 @@ uncommit
 uncompress
 uncompressable
 uncomputed
+unconsume
 uncurry
 uncustomized
 undaemonize
@@ -2150,6 +2195,9 @@ unhighlighted
 unhighlighting
 unicast
 unicodetext
+unidad
+unidade
+unidades
 unindent
 unindented
 unindexed
@@ -2267,6 +2315,7 @@ urlresolvers
 urlsafe
 urlunquoted
 urss
+usar
 usecase
 usecmap
 usefixtures
