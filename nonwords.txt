@@ -41,6 +41,7 @@ alphanumerics
 alteredq
 amanh
 amazonaws
+ampm
 ance
 ancock
 andouille
@@ -79,11 +80,13 @@ arn
 arns
 arraylike
 articletags
+asin
 assertsetequal
 assignees
 asynchronicity
 asynchrony
 asyoutypeformatter
+atan
 atomicity
 atronah
 attribs
@@ -193,6 +196,7 @@ buildbots
 bulan
 burgerservicenummer
 buuuunch
+bwith
 byid
 bytestream
 bytestrings
@@ -311,6 +315,7 @@ contentready
 controlgroup
 coplanar
 copyable
+coth
 couldn
 cov
 coveragerc
@@ -631,6 +636,7 @@ flaskext
 flaticons
 flatmapwithconcurrencylimit
 floppyform
+fmod
 fname
 focusable
 focusin
@@ -723,7 +729,6 @@ groupin
 grouptitle
 gsound
 guilabel
-gutil
 guybedford
 gzipped
 gzips
@@ -956,7 +961,6 @@ letterpaper
 libev
 libffi
 libphonenumber
-libpng
 libsasl
 libsqlite
 libu
@@ -1245,7 +1249,6 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
-ning
 nique
 nisi
 nmatpt
@@ -1422,6 +1425,7 @@ pgroto
 philippeluickx
 phonegap
 phonenumberutil
+pickset
 pids
 pkzip
 placeful
@@ -1532,6 +1536,7 @@ pyassem
 pyminify
 pyopenid
 pysolrs
+pythagoras
 pythonhosted
 pywkm
 qcluster
@@ -1762,6 +1767,7 @@ simplemocha
 sinebow
 singingwolfboy
 singularized
+sinh
 sint
 siphones
 sitekey
@@ -2612,7 +2618,6 @@ zerophase
 zerorpcs
 zeroservice
 zeroservices
-zeroth
 zeroworkers
 zfade
 zfinal
@@ -2641,9 +2646,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-bwith
-pickset
-ampm
-fmod
-coth
-atan
