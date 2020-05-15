@@ -2641,3 +2641,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+bwith
+pickset
+ampm
+fmod
+coth
+atan
