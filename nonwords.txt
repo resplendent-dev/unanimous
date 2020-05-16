@@ -158,6 +158,7 @@ benchmarked
 benjaminbrandt
 benpickles
 bergen
+bfnrt
 bfrange
 bhouston
 bhtml
@@ -641,6 +642,7 @@ fname
 focusable
 focusin
 focusout
+focusoutblur
 foobarhello
 fooo
 foos
@@ -1154,8 +1156,10 @@ mois
 mollit
 monato
 monatoj
+monic
 monkeypatched
 monkeypatching
+monomial
 monotonicity
 montana
 moorman
@@ -1767,13 +1771,13 @@ simplemocha
 sinebow
 singingwolfboy
 singularized
-sinh
 sint
 siphones
 sitekey
 sitewide
 sitten
 sizedimage
+sizset
 skinnable
 skiptags
 skipunless
@@ -1943,6 +1947,7 @@ subvalues
 subviews
 suckage
 sucrase
+summand
 summarizers
 sunt
 superclasses
@@ -1979,7 +1984,6 @@ tagname
 tagoj
 tahun
 takahiro
-tanh
 tarde
 targetable
 targetimageid
@@ -2325,6 +2329,7 @@ usar
 usecase
 usecmap
 usefixtures
+usemap
 usercancelled
 userdn
 userid
@@ -2646,9 +2651,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-monic
-monomial
-summand
-usemap
-sizset
-focusoutblur
