@@ -2646,3 +2646,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+monic
+monomial
+summand
+usemap
+sizset
+focusoutblur
