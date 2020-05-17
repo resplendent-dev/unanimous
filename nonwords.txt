@@ -165,6 +165,7 @@ bhtml
 binarized
 bindable
 bitmasks
+bitshifts
 bjoerns
 blewskiego
 blitting
@@ -669,6 +670,7 @@ frontend's
 frozenset
 frozensets
 fscchannl
+fstat
 fsync
 fugiat
 funct
@@ -1435,6 +1437,7 @@ permissionif
 personalmodule
 petrbela
 pgid
+pgoffset
 pgproto
 pgroto
 philippeluickx
@@ -1465,6 +1468,7 @@ portis
 positionally
 positionals
 postaction
+postamble
 postback
 postcallfunc
 postclip
@@ -1671,6 +1675,7 @@ rickygu
 rico
 ripplejs
 rmse
+rmtp
 roff
 rokom
 rokov
@@ -1683,6 +1688,7 @@ ronn
 rootid
 routable
 routelist
+rqtp
 rrcurveto
 rrggbb
 rsquo
@@ -2665,9 +2671,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-bitshifts
-rqtp
-rmtp
-postamble
-pgoffset
-fstat
