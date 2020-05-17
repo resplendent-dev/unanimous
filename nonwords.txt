@@ -41,6 +41,7 @@ alphanumerics
 alteredq
 amanh
 amazonaws
+ampm
 ance
 ancock
 andouille
@@ -79,11 +80,13 @@ arn
 arns
 arraylike
 articletags
+asin
 assertsetequal
 assignees
 asynchronicity
 asynchrony
 asyoutypeformatter
+atan
 atomicity
 atronah
 attribs
@@ -155,6 +158,7 @@ benchmarked
 benjaminbrandt
 benpickles
 bergen
+bfnrt
 bfrange
 bhouston
 bhtml
@@ -193,6 +197,7 @@ buildbots
 bulan
 burgerservicenummer
 buuuunch
+bwith
 byid
 bytestream
 bytestrings
@@ -311,6 +316,7 @@ contentready
 controlgroup
 coplanar
 copyable
+coth
 couldn
 cov
 coveragerc
@@ -631,10 +637,12 @@ flaskext
 flaticons
 flatmapwithconcurrencylimit
 floppyform
+fmod
 fname
 focusable
 focusin
 focusout
+focusoutblur
 foobarhello
 fooo
 foos
@@ -723,7 +731,6 @@ groupin
 grouptitle
 gsound
 guilabel
-gutil
 guybedford
 gzipped
 gzips
@@ -956,7 +963,6 @@ letterpaper
 libev
 libffi
 libphonenumber
-libpng
 libsasl
 libsqlite
 libu
@@ -1150,8 +1156,10 @@ mois
 mollit
 monato
 monatoj
+monic
 monkeypatched
 monkeypatching
+monomial
 monotonicity
 montana
 moorman
@@ -1245,7 +1253,6 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
-ning
 nique
 nisi
 nmatpt
@@ -1422,6 +1429,7 @@ pgroto
 philippeluickx
 phonegap
 phonenumberutil
+pickset
 pids
 pkzip
 placeful
@@ -1532,6 +1540,7 @@ pyassem
 pyminify
 pyopenid
 pysolrs
+pythagoras
 pythonhosted
 pywkm
 qcluster
@@ -1768,6 +1777,7 @@ sitekey
 sitewide
 sitten
 sizedimage
+sizset
 skinnable
 skiptags
 skipunless
@@ -1937,6 +1947,7 @@ subvalues
 subviews
 suckage
 sucrase
+summand
 summarizers
 sunt
 superclasses
@@ -1973,7 +1984,6 @@ tagname
 tagoj
 tahun
 takahiro
-tanh
 tarde
 targetable
 targetimageid
@@ -2319,6 +2329,7 @@ usar
 usecase
 usecmap
 usefixtures
+usemap
 usercancelled
 userdn
 userid
@@ -2612,7 +2623,6 @@ zerophase
 zerorpcs
 zeroservice
 zeroservices
-zeroth
 zeroworkers
 zfade
 zfinal
