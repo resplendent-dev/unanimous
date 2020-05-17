@@ -2665,3 +2665,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+bitshifts
+rqtp
+rmtp
+postamble
+pgoffset
+fstat
