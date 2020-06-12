@@ -2671,3 +2671,15 @@ zstar
 zsyscall
 ztol
 zyxwvu
+dstpath
+preassign
+uglified
+quatro
+christopher
+bsdglob
+nplurals
+dedented
+scil
+gbykge
+promisifier
+tildeio
