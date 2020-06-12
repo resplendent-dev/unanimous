@@ -303,6 +303,7 @@ comparators
 complemento
 complementos
 completers
+composability
 compressibility
 computeds
 configuraci
@@ -362,6 +363,7 @@ dataurlstring
 datetimes
 davglass
 davidrekow
+davy
 dbforce
 dbhost
 dbmail
@@ -849,6 +851,7 @@ irure
 isable
 isinstance
 isogram
+ispending
 isrss
 isspace
 issubset
@@ -1533,7 +1536,9 @@ programing
 programmatically
 progressall
 proident
+promiseinspection
 promisifier
+promisifies
 promisifying
 propertychange
 proration
@@ -1574,6 +1579,7 @@ quantizing
 quarta
 quartile
 quatro
+queryish
 queueservice
 quis
 quotmark
@@ -2675,9 +2681,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-queryish
-promisifies
-promiseinspection
-ispending
-davy
-composability
