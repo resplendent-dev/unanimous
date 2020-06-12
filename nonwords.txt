@@ -211,10 +211,12 @@ cakeipsum
 callables
 callsites
 calmerthanyouare
+calvinmetcalf
 camelize
 camelized
 camelizing
 cancelable
+cancellable
 cannotdeduceregionerror
 canonicalise
 canvascontext
@@ -228,6 +230,8 @@ carre
 caseless
 cass
 casted
+catchreturn
+catchthrow
 catchup
 catenate
 cbartlett
@@ -2212,6 +2216,7 @@ undoc
 undocked
 undocking
 unencrypted
+unenroll
 unescaped
 unescaping
 unexported
@@ -2294,6 +2299,7 @@ unregister
 unregistering
 unregisters
 unregistration
+unrejected
 unrender
 unrendered
 unresolvable
@@ -2681,9 +2687,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-catchthrow
-catchreturn
-cancellable
-calvinmetcalf
-unrejected
-unenroll
