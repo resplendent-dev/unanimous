@@ -2681,3 +2681,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+catchthrow
+catchreturn
+cancellable
+calvinmetcalf
+unrejected
+unenroll
