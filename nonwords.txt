@@ -2675,3 +2675,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+queryish
+promisifies
+promiseinspection
+ispending
+davy
+composability
