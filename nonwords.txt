@@ -189,6 +189,7 @@ broj
 browsable
 browserback
 brushable
+bsdglob
 bskinsm
 buddyjs
 bugridden
@@ -257,6 +258,7 @@ childprop
 childview
 chilpit
 ching
+christopher
 chunkalways
 chunkdone
 chunkfail
@@ -389,6 +391,7 @@ decoratormethod
 decrypted
 decrypting
 decrypts
+dedented
 deepcopied
 deepcopy
 defaultfilters
@@ -455,7 +458,6 @@ dize
 djamin
 djangopackages
 djangoparser
-djmoney
 djterm
 dnes
 dnsname
@@ -481,6 +483,7 @@ dropdowns
 dropmenu
 dropmove
 droppable
+dstpath
 dulo
 dummymail
 dummypage
@@ -687,6 +690,7 @@ gaborsar
 gaeopenid
 gamers
 garyd
+gbykge
 gdennis
 geholfen
 geleden
@@ -821,7 +825,6 @@ initkwargs
 inlined
 inlining
 inprogress
-installable
 instancia
 instante
 instantiation
@@ -1302,12 +1305,12 @@ notmodified
 notset
 nowrap
 noxfile
+nplurals
 nrful
 nrofcomponents
 ntilde
 ntlmpool
 nuevo
-nuget
 nullability
 nullable
 nullary
@@ -1481,6 +1484,7 @@ postprocessed
 postprocessors
 pquentin
 preaction
+preassign
 precalculating
 precallfunc
 preclip
@@ -1529,6 +1533,7 @@ programing
 programmatically
 progressall
 proident
+promisifier
 promisifying
 propertychange
 proration
@@ -1568,6 +1573,7 @@ quantiles
 quantizing
 quarta
 quartile
+quatro
 queueservice
 quis
 quotmark
@@ -1718,6 +1724,7 @@ scalability
 scannability
 scanstride
 scatterplot
+scil
 scottjehl
 screenreaders
 scriptlet
@@ -1809,7 +1816,6 @@ slowreportpath
 slugified
 smallinteger
 smgid
-smth
 snapshotting
 snils
 snipver
@@ -1929,7 +1935,6 @@ subobservables
 subpackages
 subpage
 subpath
-subpixel
 subpreparer
 subpreparers
 subprocesses
@@ -2052,8 +2057,8 @@ thumbnailed
 thumbnailing
 thunkor
 thursday
-tiangolo
 tidx
+tildeio
 timar
 timberlandonline
 timedeltas
@@ -2156,6 +2161,7 @@ typeof
 typoes
 uchardet
 ueber
+uglified
 uglify
 uids
 ukey
@@ -2433,7 +2439,6 @@ warnoptions
 wasn
 watcha
 watsons
-waybackmachine
 weakrefs
 webasset
 webgl
@@ -2525,7 +2530,6 @@ xlabel
 xlarge
 xlim
 xlist
-xlog
 xlow
 xls
 xmax
@@ -2671,15 +2675,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-dstpath
-preassign
-uglified
-quatro
-christopher
-bsdglob
-nplurals
-dedented
-scil
-gbykge
-promisifier
-tildeio
