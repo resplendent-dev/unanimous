@@ -2687,3 +2687,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+tapcatch
+straces
+nodefn
+unspool
+nonew
+inflight
