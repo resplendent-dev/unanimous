@@ -137,6 +137,7 @@ barangays
 barycentric
 basedir
 basename
+basepath
 basestring
 bashrc
 basicsep
@@ -420,6 +421,7 @@ deserializing
 deserunt
 desnode
 destag
+destructoid
 destructured
 desynchronization
 detailmenu
@@ -729,6 +731,7 @@ gplv
 graticule
 greenlets
 greenthreads
+grimfandango
 groupfinder
 groupin
 grouptitle
@@ -1083,6 +1086,7 @@ messup
 metaclasses
 metanav
 metasearch
+metavideogame
 mewn
 mfcovington
 microframeworks
@@ -1337,6 +1341,7 @@ onhashchange
 onhold
 onlinestatuschanged
 onload
+onlyhdwallpapers
 onposition
 onreadystatechange
 onscroll
@@ -1886,6 +1891,7 @@ strptime
 strs
 structified
 stunnel
+stureek
 stylesheet
 subaccount
 subattribute
@@ -2659,9 +2665,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-grimfandango
-stureek
-basepath
-onlyhdwallpapers
-metavideogame
-destructoid
