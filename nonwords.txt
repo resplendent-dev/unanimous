@@ -2672,3 +2672,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+wwww
+nonprintable
+rethtml
+helloend
+chariterator
+backface
