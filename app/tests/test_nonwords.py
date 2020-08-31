@@ -5,7 +5,7 @@ from spellingtest.check import PluginTestCase
 class TestNonWordFilter(PluginTestCase):
     """Check non-words are allowed."""
 
-    bad_words1 = ["helo", "begn"]
+    bad_words1 = ["heklo", "begn"]
 
     def setup_fs(self):
         """Setup files."""
@@ -25,7 +25,7 @@ class TestNonWordFilter(PluginTestCase):
             "WordsWithCapitals",
         ]
         exclude_words = ["hujibuki", "gplv", ""]
-        self.bad_words1 = ["helo", "begn"]
+        self.bad_words1 = ["heklo", "begn"]
         self.mktemp(
             "test1.txt",
             "\n".join(self.bad_words1 + good_words + exclude_words),
