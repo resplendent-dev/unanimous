@@ -272,6 +272,7 @@ cjwsyh
 classbased
 classexample
 classname
+clazz
 clckru
 cleansweep
 clenemt
@@ -503,6 +504,7 @@ ecstaskdefinition
 ectoplasm
 editsection
 eerste
+effectful
 efghij
 eftermiddagen
 eidx
@@ -905,6 +907,7 @@ juillet
 julho
 juli
 julianwachholz
+juntos
 jwilges
 katayoku
 kavdev
@@ -1336,6 +1339,7 @@ onbeforeremove
 onblur
 onclick
 oncreate
+onevar
 ongeveer
 onhashchange
 onhold
@@ -1517,6 +1521,7 @@ previewfailure
 previewlinks
 previewsuccess
 pribli
+priori
 pristinemethod
 probabilistically
 probeobject
@@ -1528,6 +1533,7 @@ programmatically
 progressall
 proident
 promiseinspection
+promisified
 promisifier
 promisifies
 promisifying
@@ -1973,6 +1979,7 @@ superclasses
 superfast
 superroma
 supersets
+suspendable
 sutra
 sveltejs
 svenstaro
@@ -2665,9 +2672,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-onevar
-clazz
-suspendable
-juntos
-effectful
-promisified
