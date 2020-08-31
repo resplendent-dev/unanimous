@@ -27,7 +27,7 @@ for PYVER in ${PYTHONVERS} ; do
   if ! "python${PYVER}" -m pytest --cov-config=.coveragerc --cov-fail-under=95 "--cov=${MAIN_MODULE}" --cov-report=xml:test-cov.xml --cov-report=html --cov-report=term-missing ; then
     PYTEST_FAIL="YES"
   fi
-  if [ ! -z "${TRAVIS_JOB_ID:-}" ] ; then
+  if [ -n "${TRAVIS_JOB_ID:-}" ] ; then
     "python${PYVER}" -m coveralls
   fi
   if [ "${PYTEST_FAIL}" == "YES" ] ; then
