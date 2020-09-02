@@ -2701,3 +2701,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+udde
+depascalize
+unauthorizedcb
+timeoutcb
+textcb
+rescb
