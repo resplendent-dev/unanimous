@@ -2711,3 +2711,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+keypoints
+implementers
+trusion
+trichromat
+pixelsin
+caron
