@@ -2686,3 +2686,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+googlechrome
+annyang
+soundstart
+sideload
+onend
+regenerator
