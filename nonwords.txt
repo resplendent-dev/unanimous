@@ -2718,3 +2718,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+prototyped
+backprop
+combinable
+misclassification
+stevenmiller
+hyperparameters
