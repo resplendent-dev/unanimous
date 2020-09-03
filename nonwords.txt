@@ -2725,3 +2725,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+gater
+selfconnection
+gatings
+linkability
+cvkef
+chrissrogers
