@@ -2738,3 +2738,9 @@ setosa
 thenables
 attroperties
 tocify
+slatedocs
+rubyracer
+realityking
+pointerover
+pointerout
+pointerleave
