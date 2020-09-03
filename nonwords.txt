@@ -2744,3 +2744,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+pointerenter
+nosearch
+mrdimosthenis
+gemfile
+eslintrc
+bowser
