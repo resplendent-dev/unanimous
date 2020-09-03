@@ -91,6 +91,7 @@ atomicity
 atronah
 attribs
 attrname
+attroperties
 atype
 augend
 augmentable
@@ -1493,6 +1494,9 @@ plotclick
 pluggability
 plusequals
 podne
+pointerleave
+pointerout
+pointerover
 pointsize
 polyfills
 pondelok
@@ -1637,6 +1641,7 @@ rcoles
 rconradharris
 reactnative
 readd
+realityking
 realname
 realworld
 reapprove
@@ -1747,6 +1752,7 @@ rstrip
 rsts
 rtfrodrigo
 rtype
+rubyracer
 rundelay
 runshell
 runtimes
@@ -1816,6 +1822,7 @@ setdefault
 setext
 sethmlarson
 setitem
+setosa
 setrelheap
 setuid
 setupmobans
@@ -1856,6 +1863,7 @@ skiptags
 skipunless
 skool
 slackwalker
+slatedocs
 slenska
 slideup
 sloria
@@ -2098,6 +2106,7 @@ thead
 theghostbel
 themoviedb
 thenable
+thenables
 thenderson
 thenewsmeme
 thepast
@@ -2135,6 +2144,7 @@ tlrobinson
 tmpfs
 tobiasbueschel
 tocdup
+tocify
 tocscope
 todas
 todense
@@ -2447,6 +2457,7 @@ vendredi
 veniam
 verifiably
 verifications
+versicolor
 versionadded
 versionchange
 versionchanged
@@ -2465,6 +2476,7 @@ viewvalues
 viime
 vineri
 virginia
+virginica
 virtualize
 visitaugassign
 visitaugslice
@@ -2732,15 +2744,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-virginica
-versicolor
-setosa
-thenables
-attroperties
-tocify
-slatedocs
-rubyracer
-realityking
-pointerover
-pointerout
-pointerleave
