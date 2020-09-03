@@ -130,6 +130,7 @@ baar
 backcompat
 backface
 backported
+backprop
 backref
 backreference
 backslashed
@@ -299,6 +300,7 @@ coffeedoc
 collapsedness
 collectassets
 collinear
+combinable
 combinator
 commitwithin
 commodo
@@ -325,6 +327,7 @@ containments
 contenteditables
 contentready
 controlgroup
+convnetjs
 coplanar
 coth
 couldn
@@ -804,6 +807,7 @@ httpexceptions
 httprettized
 hustcc
 hybi
+hyperparameters
 iancal
 ibnida
 icio
@@ -1153,6 +1157,7 @@ minuutti
 minuuttia
 mipmap
 misbehaviors
+misclassification
 misconfiguration
 misconfigured
 misencoded
@@ -1568,6 +1573,7 @@ propertychange
 proration
 prostomarkeloff
 prototypal
+prototyped
 prototypically
 proxied
 proxying
@@ -1905,6 +1911,7 @@ stefanschenk
 stelcheck
 stereographic
 stevenlevithan
+stevenmiller
 sticked
 stickypanel
 stopasgroup
@@ -2718,9 +2725,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-prototyped
-backprop
-combinable
-misclassification
-stevenmiller
-hyperparameters
