@@ -184,6 +184,7 @@ bolds
 bookmarklet
 bools
 bootstrapform
+bootstraponline
 booyah
 boudin
 brigen
@@ -265,6 +266,7 @@ childprop
 childview
 chilpit
 ching
+chrissrogers
 christopher
 chunkalways
 chunkdone
@@ -352,6 +354,7 @@ cursored
 customdashboard
 customizations
 customizingformtemplates
+cvkef
 dagar
 dage
 dagur
@@ -703,6 +706,8 @@ gaborsar
 gaeopenid
 gamers
 garyd
+gater
+gatings
 gbykge
 gdennis
 geholfen
@@ -1006,6 +1011,7 @@ linenos
 lineto
 linewise
 linex
+linkability
 linkified
 linksgo
 linters
@@ -1790,6 +1796,7 @@ sekundi
 sekundoj
 sekuntia
 selectedcontacts
+selfconnection
 sellable
 seltests
 semana
@@ -2725,9 +2732,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-gater
-selfconnection
-gatings
-linkability
-cvkef
-chrissrogers
