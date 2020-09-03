@@ -2732,3 +2732,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+virginica
+versicolor
+setosa
+thenables
+attroperties
+tocify
