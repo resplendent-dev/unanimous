@@ -193,10 +193,12 @@ brigen
 broj
 browsable
 browserback
+browserscope
 brushable
 bsdglob
 bskinsm
 buddyjs
+bugginess
 bugridden
 bugzil
 buildable
@@ -402,6 +404,7 @@ decapitalize
 decapitalized
 declaratively
 decodings
+decompilation
 decoratormethod
 decrypted
 decrypting
@@ -580,6 +583,7 @@ erikcederstran
 errbacks
 errorbars
 errored
+erroring
 errorlist
 ervenec
 escitalopram
@@ -1128,6 +1132,7 @@ microframeworks
 microlibraries
 microtask
 microtasks
+microtime
 middot
 midstring
 miercuri
@@ -1542,6 +1547,7 @@ precomputation
 preconfigured
 predefine
 prefetched
+prefill
 prefilter
 prefilters
 prefixexp
@@ -2255,6 +2261,7 @@ uncaptured
 uncategorised
 unchecking
 unchecks
+unclockable
 uncloneable
 unclosed
 uncollapsed
@@ -2366,6 +2373,7 @@ unrender
 unrendered
 unresolvable
 unrotate
+unrun
 unsanitized
 unsatisfiable
 unscale
@@ -2751,9 +2759,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-unrun
-erroring
-unclockable
-prefill
-bugginess
-browserscope
