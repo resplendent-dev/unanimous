@@ -2759,3 +2759,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+logicalparadox
+fgnass
+sublanguage
+vbscript
+autodetection
+lexing
