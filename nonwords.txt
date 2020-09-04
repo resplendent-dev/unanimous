@@ -2775,3 +2775,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+transactiontype
+thunkp
+testrequestpage
+tableextension
+symbolp
+supdiag
