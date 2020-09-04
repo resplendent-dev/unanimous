@@ -107,6 +107,7 @@ authrequest
 authurl
 autocompleted
 autocompletion
+autodetection
 autoencode
 autoexpose
 autofill
@@ -640,6 +641,7 @@ fecha
 fechas
 fenc
 fevereiro
+fgnass
 fica
 fieldclass
 fieldname
@@ -1002,6 +1004,7 @@ leds
 lemmatize
 lemori
 letterpaper
+lexing
 libev
 libffi
 libphonenumber
@@ -1040,6 +1043,7 @@ localtime
 locmem
 locmemcache
 loggroup
+logicalparadox
 logics
 longpress
 looby
@@ -1991,6 +1995,7 @@ subfields
 subfolder
 subitem
 subitems
+sublanguage
 sublicensable
 sublicense
 sublicensees
@@ -2461,6 +2466,7 @@ vangogh
 vanillajni
 varargslist
 varnames
+vbscript
 vchar
 vclick
 vdeturckheim
@@ -2759,9 +2765,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-logicalparadox
-fgnass
-sublanguage
-vbscript
-autodetection
-lexing
