@@ -2054,6 +2054,7 @@ sucrase
 summand
 summarizers
 sunt
+supdiag
 superclasses
 superfast
 superroma
@@ -2064,6 +2065,7 @@ sveltejs
 svenstaro
 syllabary
 symb
+symbolp
 symlinked
 symlinkfile
 syncdb
@@ -2077,6 +2079,7 @@ tabfile
 tabfiles
 tabindex
 tableconstructor
+tableextension
 tablename
 tableref
 tableservice
@@ -2111,6 +2114,7 @@ testability
 testee
 testinput
 testprop
+testrequestpage
 teststyles
 tetete
 textarea
@@ -2141,6 +2145,7 @@ throbber
 thumbnailed
 thumbnailing
 thunkor
+thunkp
 thursday
 tidx
 tildeio
@@ -2191,6 +2196,7 @@ tradeoff
 tradeoffs
 trads
 tranditional
+transactiontype
 transclude
 transcluded
 transclusion
@@ -2775,9 +2781,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-transactiontype
-thunkp
-testrequestpage
-tableextension
-symbolp
-supdiag
