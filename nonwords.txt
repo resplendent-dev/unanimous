@@ -22,6 +22,7 @@ adjwt
 adminaction
 aebeaaf
 aeiou
+afshinmeh
 aiohttpparser
 aiotutorial
 albertgao
@@ -107,6 +108,7 @@ authrequest
 authurl
 autocompleted
 autocompletion
+autodetection
 autoencode
 autoexpose
 autofill
@@ -471,6 +473,7 @@ disjunction
 dispon
 dista
 distributable
+distributables
 distributivity
 diumenge
 divs
@@ -517,6 +520,7 @@ dydd
 dynamiczone
 eacute
 eaparango
+easings
 easytmdb
 ebertti
 ecmascript
@@ -640,6 +644,7 @@ fecha
 fechas
 fenc
 fevereiro
+fgnass
 fica
 fieldclass
 fieldname
@@ -901,6 +906,7 @@ itleref
 ivar
 ixrss
 jackhenry
+jacoborus
 jaring
 jaroj
 jasminewd
@@ -1002,6 +1008,7 @@ leds
 lemmatize
 lemori
 letterpaper
+lexing
 libev
 libffi
 libphonenumber
@@ -1040,6 +1047,7 @@ localtime
 locmem
 locmemcache
 loggroup
+logicalparadox
 logics
 longpress
 looby
@@ -1267,6 +1275,7 @@ mywidget
 myyj
 nachts
 namespacing
+nanobar
 napja
 nappal
 narr
@@ -1392,6 +1401,7 @@ onlinestatuschanged
 onload
 onlyhdwallpapers
 onposition
+onprogress
 onreadystatechange
 onscroll
 onsdag
@@ -1683,6 +1693,7 @@ regconfig
 regenerator
 regens
 regexes
+regexpp
 regexs
 regis
 regrtest
@@ -1693,6 +1704,7 @@ reindexed
 reinitializing
 reinject
 relu
+rematching
 reminderslist
 renancouto
 renewtoken
@@ -1875,6 +1887,7 @@ skiptags
 skipunless
 skool
 slackwalker
+slashy
 slatedocs
 slenska
 slideup
@@ -1991,6 +2004,7 @@ subfields
 subfolder
 subitem
 subitems
+sublanguage
 sublicensable
 sublicense
 sublicensees
@@ -2044,6 +2058,7 @@ sucrase
 summand
 summarizers
 sunt
+supdiag
 superclasses
 superfast
 superroma
@@ -2054,6 +2069,7 @@ sveltejs
 svenstaro
 syllabary
 symb
+symbolp
 symlinked
 symlinkfile
 syncdb
@@ -2067,6 +2083,7 @@ tabfile
 tabfiles
 tabindex
 tableconstructor
+tableextension
 tablename
 tableref
 tableservice
@@ -2099,8 +2116,10 @@ tensorflows
 teppokoivula
 testability
 testee
+testem
 testinput
 testprop
+testrequestpage
 teststyles
 tetete
 textarea
@@ -2131,6 +2150,7 @@ throbber
 thumbnailed
 thumbnailing
 thunkor
+thunkp
 thursday
 tidx
 tildeio
@@ -2167,6 +2187,7 @@ tokentype
 toks
 tonos
 toolfunc
+topbar
 topline
 toproperty
 tornadoparser
@@ -2181,6 +2202,7 @@ tradeoff
 tradeoffs
 trads
 tranditional
+transactiontype
 transclude
 transcluded
 transclusion
@@ -2279,6 +2301,7 @@ undaemonize
 undef
 undefine
 undelegate
+underride
 underspecified
 underspecifies
 undisplayed
@@ -2433,6 +2456,7 @@ urlresolvers
 urlsafe
 urlunquoted
 urss
+usabli
 usar
 usecase
 usecmap
@@ -2461,6 +2485,7 @@ vangogh
 vanillajni
 varargslist
 varnames
+vbscript
 vchar
 vclick
 vdeturckheim
@@ -2527,6 +2552,7 @@ watsons
 weakrefs
 webasset
 webgl
+webinista
 webobparser
 webservers
 weekperiod
@@ -2619,8 +2645,10 @@ xls
 xmax
 xmin
 xml
+xmldocumenttype
 xmlns
 xmltree
+xmlwriteoptions
 xmul
 xname
 xnew
