@@ -473,6 +473,7 @@ disjunction
 dispon
 dista
 distributable
+distributables
 distributivity
 diumenge
 divs
@@ -519,6 +520,7 @@ dydd
 dynamiczone
 eacute
 eaparango
+easings
 easytmdb
 ebertti
 ecmascript
@@ -904,6 +906,7 @@ itleref
 ivar
 ixrss
 jackhenry
+jacoborus
 jaring
 jaroj
 jasminewd
@@ -1272,6 +1275,7 @@ mywidget
 myyj
 nachts
 namespacing
+nanobar
 napja
 nappal
 narr
@@ -2112,6 +2116,7 @@ tensorflows
 teppokoivula
 testability
 testee
+testem
 testinput
 testprop
 testrequestpage
@@ -2182,6 +2187,7 @@ tokentype
 toks
 tonos
 toolfunc
+topbar
 topline
 toproperty
 tornadoparser
@@ -2781,9 +2787,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-distributables
-easings
-testem
-topbar
-nanobar
-jacoborus
