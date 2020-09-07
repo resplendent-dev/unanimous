@@ -884,6 +884,9 @@ incrementing
 indentby
 indeterministic
 indexable
+indexf
+indexh
+indexv
 indicando
 infctr
 inflight
@@ -1966,6 +1969,8 @@ slackwalker
 slashy
 slatedocs
 slenska
+slidechanged
+slidee
 slideup
 sloria
 slowreportpath
@@ -2336,6 +2341,7 @@ tweened
 tweener
 tweening
 tweens
+tweesing
 twoway
 txnid
 txt
@@ -2462,6 +2468,7 @@ unpaginated
 unparseable
 unparsed
 unpatch
+unpause
 unpaused
 unpersisted
 unpickle
@@ -2569,6 +2576,7 @@ vadd
 validatejs
 validatr
 validthis
+valign
 valueerror
 valuegetter
 vangogh
@@ -2880,9 +2888,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-valign
-slidee
-tweesing
-unpause
-indexv
-indexh
