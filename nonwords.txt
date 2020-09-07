@@ -268,6 +268,7 @@ charwidth
 checkboxes
 checkboxselectmultiple
 checkconfig
+checklines
 checkmark
 checksums
 chere
@@ -275,6 +276,7 @@ childprop
 childview
 chilpit
 ching
+chjj
 chrissrogers
 christopher
 chunkalways
@@ -289,6 +291,7 @@ cjnewman
 cjwsyh
 classbased
 classexample
+classid
 classie
 classname
 clazz
@@ -296,6 +299,7 @@ clckru
 cleansweep
 clenemt
 clickjacking
+clike
 clonado
 cloudstorageaccount
 cmdclass
@@ -452,6 +456,7 @@ destag
 destructoid
 destructured
 desynchronization
+detab
 detailmenu
 detailprint
 deterministically
@@ -494,6 +499,7 @@ dnsname
 doclet
 docplaster
 docregion
+docsify
 doctype
 documentclass
 dodgily
@@ -506,6 +512,7 @@ domprefixes
 domready
 donationware
 dotless
+doubleclicks
 dragend
 dragup
 dragupload
@@ -1398,6 +1405,7 @@ nosearch
 nosec
 nostrud
 notedit
+notie
 notmodified
 notset
 nowrap
@@ -2866,10 +2874,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-doubleclicks
-docsify
-detab
-clike
-classid
-chjj
-checklines
