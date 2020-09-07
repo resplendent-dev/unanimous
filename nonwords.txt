@@ -2880,3 +2880,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+valign
+slidee
+tweesing
+unpause
+indexv
+indexh
