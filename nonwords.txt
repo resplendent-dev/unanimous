@@ -108,6 +108,7 @@ authorurl
 authorwebsite
 authrequest
 authurl
+autocapitalize
 autocompleted
 autocompletion
 autodetection
@@ -868,6 +869,7 @@ ilike
 imagegenerators
 imho
 imitatio
+immed
 impactful
 imparsible
 implementers
@@ -894,6 +896,7 @@ initkwargs
 inlined
 inlining
 inprogress
+inputmode
 instancia
 instante
 instantiation
@@ -1076,6 +1079,7 @@ linters
 listenee
 listwidgets
 ljust
+llemark
 ller
 lluchs
 lnotab
@@ -1302,6 +1306,7 @@ multidocument
 multiheaders
 multiplatform
 multiplesite
+multiplicated
 multiserver
 multitree
 multivalue
@@ -1348,6 +1353,7 @@ neig
 neighbo
 ness
 neverending
+newcap
 newdata
 newlang
 newmexico
