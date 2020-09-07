@@ -759,6 +759,7 @@ ghickman
 ghit
 gitattributes
 githubs
+githubusercontent
 gittip
 gjtorikian
 globalmente
@@ -809,6 +810,7 @@ hellip
 helloend
 hellohook
 helour
+herf
 heterophobia
 heure
 heures
@@ -1055,6 +1057,7 @@ lighttpd
 linearities
 linearray
 linebreaks
+linehash
 linenos
 lineto
 linewise
@@ -1083,6 +1086,7 @@ loggroup
 logicalparadox
 logics
 longpress
+longtext
 looby
 lookbehind
 loopbody
@@ -1169,6 +1173,7 @@ metaclasses
 metanav
 metasearch
 metavideogame
+metroui
 mewn
 mfcovington
 microframeworks
@@ -1268,6 +1273,7 @@ mousedrag
 mouseenter
 mouseleave
 mousenter
+mouseout
 mouseover
 mout
 moviegeek
@@ -1369,6 +1375,7 @@ noinput
 noinspection
 noirbizarre
 noite
+nolink
 nolint
 nomodule
 nonamefile
@@ -1457,6 +1464,7 @@ onwards
 onwindowscroll
 openredis
 operationid
+optgroups
 optimising
 optimizable
 optionality
@@ -1707,6 +1715,7 @@ rawcdn
 raydeo
 rcoles
 rconradharris
+rdar
 reactnative
 readd
 realityking
@@ -1726,6 +1735,7 @@ recursing
 recursionlimit
 redbox
 redditclone
+rediff
 redispapa
 redisplay
 rediss
@@ -1818,6 +1828,7 @@ rootid
 routable
 routelist
 rqtp
+rquery
 rrcurveto
 rrggbb
 rsquo
@@ -2855,9 +2866,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-rquery
-rediff
-rdar
-optgroups
-nolink
-mouseout
+doubleclicks
