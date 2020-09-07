@@ -619,6 +619,7 @@ excview
 execjosh
 executables
 executescript
+executr
 exename
 exercitation
 existy
@@ -688,6 +689,7 @@ foobarhello
 fooo
 foos
 forcelist
+forin
 formato
 formatos
 formconfig
@@ -872,6 +874,7 @@ informations
 infos
 inikulin
 inited
+initializations
 initkwargs
 inlined
 inlining
@@ -919,6 +922,7 @@ itext
 itleref
 ivar
 ixrss
+izitoast
 jackhenry
 jacoborus
 january
@@ -1114,6 +1118,7 @@ manpages
 manytomany
 mapfn
 marcellefter
+marcelodolza
 markupset
 masa
 matchable
@@ -1217,6 +1222,7 @@ mmerickel
 mname
 mnobject
 mobileinit
+modeless
 modellist
 modelview
 modindex
@@ -2827,9 +2833,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-forin
-initializations
-marcelodolza
-izitoast
-executr
-modeless
