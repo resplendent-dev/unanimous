@@ -583,6 +583,7 @@ entre
 enumerables
 eprint
 eqeqeq
+eqnull
 equalities
 equirectangular
 erasmas
@@ -676,6 +677,7 @@ flaskblog
 flaticons
 flatmapwithconcurrencylimit
 floppyform
+flyout
 fmod
 fname
 focusable
@@ -755,6 +757,7 @@ githubs
 gittip
 gjtorikian
 globalmente
+globalstrict
 globbed
 glogging
 glyf
@@ -1341,6 +1344,7 @@ nodelay
 nodelist
 nodemailer
 nodoc
+noglobals
 noimagehere
 noinput
 noinspection
@@ -1734,6 +1738,7 @@ renancouto
 renewtoken
 reorderer
 replicability
+repositions
 reprehenderit
 representable
 representers
@@ -1883,6 +1888,7 @@ shch
 shelljs
 sherika
 sherrell
+shifters
 shived
 shortcutted
 shorthands
@@ -2489,6 +2495,7 @@ urss
 usabli
 usar
 usecase
+usecases
 usecmap
 usefixtures
 usemap
@@ -2819,9 +2826,4 @@ zstar
 zsyscall
 ztol
 zyxwvu
-flyout
-usecases
-shifters
-repositions
 zzarcon
-noglobals
