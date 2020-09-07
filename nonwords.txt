@@ -2807,3 +2807,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+ibyk
+introjs
+relicensing
+onhintsadded
+onhintclose
+onhintclick
