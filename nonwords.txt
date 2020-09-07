@@ -2855,3 +2855,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+rquery
+rediff
+rdar
+optgroups
+nolink
+mouseout
