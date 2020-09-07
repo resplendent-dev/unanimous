@@ -254,6 +254,7 @@ cellspacing
 chaplin
 chardata
 chardetect
+chardinjs
 chariterator
 charmap
 charsetgroupprober
@@ -1311,6 +1312,7 @@ nedjelja
 neig
 neighbo
 ness
+neverending
 newdata
 newlang
 newmexico
@@ -1703,6 +1705,7 @@ redditclone
 redispapa
 redisplay
 rediss
+redistributable
 reenable
 referentially
 refetch
@@ -2077,6 +2080,7 @@ subvalues
 subviews
 suckage
 sucrase
+sudodoki
 summand
 summarizers
 sunt
@@ -2220,6 +2224,7 @@ touchend
 touchmove
 touchstart
 tounicode
+tourtarget
 tracebacks
 tradeoff
 tradeoffs
@@ -2419,6 +2424,7 @@ unrejected
 unrender
 unrendered
 unresolvable
+unretrievable
 unrotate
 unrun
 unsanitized
@@ -2813,9 +2819,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-chardinjs
-sudodoki
-tourtarget
-unretrievable
-redistributable
-neverending
