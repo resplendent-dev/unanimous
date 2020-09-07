@@ -2874,3 +2874,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+inputmode
+autocapitalize
+newcap
+immed
+multiplicated
+llemark
