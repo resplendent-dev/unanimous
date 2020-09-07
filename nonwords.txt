@@ -2819,3 +2819,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+flyout
+usecases
+shifters
+repositions
+zzarcon
+noglobals
