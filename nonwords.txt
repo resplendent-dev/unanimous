@@ -833,6 +833,7 @@ hybi
 hyperparameters
 iancal
 ibnida
+ibyk
 ibykge
 ibywgc
 icio
@@ -882,6 +883,7 @@ interoperable
 interoperate
 interoperating
 interpolant
+introjs
 introspectables
 ints
 invalidations
@@ -1410,6 +1412,9 @@ onend
 onevar
 ongeveer
 onhashchange
+onhintclick
+onhintclose
+onhintsadded
 onhold
 onlinestatuschanged
 onload
@@ -1718,6 +1723,7 @@ reimplementation
 reindexed
 reinitializing
 reinject
+relicensing
 relu
 rematching
 reminderslist
@@ -2807,9 +2813,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-ibyk
-introjs
-relicensing
-onhintsadded
-onhintclose
-onhintclick
