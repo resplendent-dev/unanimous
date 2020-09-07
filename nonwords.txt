@@ -126,6 +126,8 @@ automapped
 automodule
 autopurge
 autosave
+autoslidepaused
+autoslideresumed
 avals
 avoriaz
 awesomez
@@ -169,6 +171,7 @@ benpickles
 bergen
 bfnrt
 bfrange
+bhljs
 bhouston
 bhtml
 binarized
@@ -213,6 +216,7 @@ burgerservicenummer
 buuuunch
 bwith
 byid
+byteordermark
 bytestream
 bytestrings
 cachable
@@ -332,6 +336,7 @@ completers
 composability
 compressibility
 computeds
+comsafearray
 configuraci
 conformant
 confoundingly
@@ -514,6 +519,8 @@ domready
 donationware
 dotless
 doubleclicks
+dpcm
+dppx
 dragend
 dragup
 dragupload
@@ -706,6 +713,8 @@ formconfig
 formdata
 formid
 formrows
+fragmenthidden
+fragmentshown
 fragsize
 framebuffer
 frameset
@@ -1512,6 +1521,7 @@ overparameterization
 overplotting
 overridability
 overridable
+overviewhidden
 overwritable
 oxfe
 packagist
@@ -2888,9 +2898,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-overviewhidden
-fragmentshown
-fragmenthidden
-dppx
-dpcm
-comsafearray
