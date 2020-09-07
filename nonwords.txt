@@ -307,6 +307,7 @@ codesc
 codeview
 codez
 codings
+codingstandard
 codingstatemachine
 coffeedoc
 collapsedness
@@ -713,6 +714,7 @@ frozensets
 fscchannl
 fstat
 fsync
+ftlabs
 fugiat
 funct
 functionbase
@@ -832,6 +834,7 @@ hroncok
 hsivonen
 htaccess
 htbp
+htmlfile
 htmlregion
 httpexceptions
 httprettized
@@ -1242,6 +1245,7 @@ moduleauthor
 mofile
 moins
 mois
+mojs
 mollit
 monato
 monatoj
@@ -1326,6 +1330,7 @@ ndez
 nearterm
 neder
 nedjelja
+needim
 neig
 neighbo
 ness
@@ -1909,6 +1914,7 @@ shortcutted
 shorthands
 shouldn
 showbrowser
+showdownjs
 sideload
 siden
 siefkenj
@@ -2003,8 +2009,10 @@ stickypanel
 stopasgroup
 stoptimer
 stopworded
+storejs
 straces
 straightlines
+strarr
 strcut
 streamgraph
 streamreader
@@ -2057,6 +2065,7 @@ sublicense
 sublicensees
 sublicenses
 sublist
+sublists
 submenus
 submodels
 subnode
@@ -2846,9 +2855,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-htmlfile
-ftlabs
-codingstandard
-needim
-strarr
-mojs
