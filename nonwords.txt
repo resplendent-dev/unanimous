@@ -1980,6 +1980,7 @@ siphones
 sitekey
 sitewide
 sitten
+situ
 sizedimage
 sizset
 skinnable
@@ -2206,6 +2207,7 @@ tagname
 tagoj
 tahun
 takahiro
+tantaman
 tapcatch
 tarde
 targetable
@@ -2284,6 +2286,7 @@ timnederhoff
 timothycrosley
 timothypratley
 timsort
+tipiirai
 tisba
 titlebar
 tlrobinson
@@ -2392,6 +2395,7 @@ unassignment
 unauthorizedcb
 unbatched
 unbinder
+unblind
 unbreak
 unbundled
 uncached
@@ -2495,6 +2499,7 @@ unparsed
 unpatch
 unpause
 unpaused
+unpausing
 unpersisted
 unpickle
 unpickleable
@@ -2534,6 +2539,7 @@ unstack
 unstacked
 unstacking
 unstacks
+unstandardized
 unstar
 unstyled
 unsub
@@ -2914,9 +2920,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-unstandardized
-unpausing
-unblind
-tipiirai
-tantaman
-situ
