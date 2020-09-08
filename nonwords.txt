@@ -124,10 +124,12 @@ autoloaded
 automagically
 automapped
 automodule
+autopause
 autopurge
 autosave
 autoslidepaused
 autoslideresumed
+autostop
 avals
 avoriaz
 awesomez
@@ -180,6 +182,7 @@ bindable
 bitmasks
 bitshifts
 bjoerns
+blcodes
 blewskiego
 blitting
 blkin
@@ -407,6 +410,7 @@ dbpassword
 dbport
 dbssl
 dbusername
+dcodes
 dcramer
 ddcb
 ddfb
@@ -768,6 +772,7 @@ gethostbyname
 getpath
 getpeercert
 getppid
+getputdelete
 getset
 getsitepackages
 getstarted
@@ -1159,6 +1164,7 @@ marcellefter
 marcelodolza
 marcuswestin
 markdalgleish
+markdownpage
 markupset
 masa
 matchable
@@ -1510,6 +1516,7 @@ ourself
 outbufs
 outdent
 outlookdotcom
+outoff
 outro
 outros
 outtextf
@@ -1794,6 +1801,7 @@ relicensing
 relu
 rematching
 reminderslist
+remotestoragejs
 renancouto
 renewtoken
 reorderer
@@ -1972,6 +1980,7 @@ siphones
 sitekey
 sitewide
 sitten
+situ
 sizedimage
 sizset
 skinnable
@@ -2198,6 +2207,7 @@ tagname
 tagoj
 tahun
 takahiro
+tantaman
 tapcatch
 tarde
 targetable
@@ -2276,6 +2286,7 @@ timnederhoff
 timothycrosley
 timothypratley
 timsort
+tipiirai
 tisba
 titlebar
 tlrobinson
@@ -2384,6 +2395,7 @@ unassignment
 unauthorizedcb
 unbatched
 unbinder
+unblind
 unbreak
 unbundled
 uncached
@@ -2398,6 +2410,7 @@ unclosed
 uncollapsed
 uncollectible
 uncomment
+uncommented
 uncommenting
 uncommit
 uncompress
@@ -2486,6 +2499,7 @@ unparsed
 unpatch
 unpause
 unpaused
+unpausing
 unpersisted
 unpickle
 unpickleable
@@ -2525,6 +2539,7 @@ unstack
 unstacked
 unstacking
 unstacks
+unstandardized
 unstar
 unstyled
 unsub
