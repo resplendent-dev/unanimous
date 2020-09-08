@@ -124,10 +124,12 @@ autoloaded
 automagically
 automapped
 automodule
+autopause
 autopurge
 autosave
 autoslidepaused
 autoslideresumed
+autostop
 avals
 avoriaz
 awesomez
@@ -180,6 +182,7 @@ bindable
 bitmasks
 bitshifts
 bjoerns
+blcodes
 blewskiego
 blitting
 blkin
@@ -407,6 +410,7 @@ dbpassword
 dbport
 dbssl
 dbusername
+dcodes
 dcramer
 ddcb
 ddfb
@@ -768,6 +772,7 @@ gethostbyname
 getpath
 getpeercert
 getppid
+getputdelete
 getset
 getsitepackages
 getstarted
@@ -1159,6 +1164,7 @@ marcellefter
 marcelodolza
 marcuswestin
 markdalgleish
+markdownpage
 markupset
 masa
 matchable
@@ -1510,6 +1516,7 @@ ourself
 outbufs
 outdent
 outlookdotcom
+outoff
 outro
 outros
 outtextf
@@ -1794,6 +1801,7 @@ relicensing
 relu
 rematching
 reminderslist
+remotestoragejs
 renancouto
 renewtoken
 reorderer
@@ -2398,6 +2406,7 @@ unclosed
 uncollapsed
 uncollectible
 uncomment
+uncommented
 uncommenting
 uncommit
 uncompress
@@ -2905,9 +2914,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-markdownpage
-getputdelete
-remotestoragejs
-uncommented
-outoff
-dcodes
