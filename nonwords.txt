@@ -147,6 +147,7 @@ backtick
 bairro
 barangay
 barangays
+bartaz
 barycentric
 basedir
 basename
@@ -337,6 +338,7 @@ composability
 compressibility
 computeds
 comsafearray
+configurability
 configuraci
 conformant
 confoundingly
@@ -1156,6 +1158,7 @@ mapfn
 marcellefter
 marcelodolza
 marcuswestin
+markdalgleish
 markupset
 masa
 matchable
@@ -2041,6 +2044,7 @@ startswith
 stderr
 stefanschenk
 stelcheck
+stepleave
 stereographic
 stevenlevithan
 stevenmiller
@@ -2134,6 +2138,8 @@ subselects
 subsequence
 subsequences
 subsetting
+substep
+substeps
 subsubsection
 subsuites
 subtable
@@ -2658,6 +2664,7 @@ wasn
 watcha
 watsons
 wavded
+wcoder
 weakrefs
 webasset
 webgl
@@ -2898,9 +2905,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-wcoder
-markdalgleish
-configurability
-stepleave
-substep
-bartaz
