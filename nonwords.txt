@@ -1924,6 +1924,7 @@ sekundi
 sekundoj
 sekuntia
 selectedcontacts
+selectee
 selfconnection
 sellable
 seltests
@@ -2920,4 +2921,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-selectee
