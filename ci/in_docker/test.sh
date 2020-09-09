@@ -11,7 +11,8 @@ source "${BASEDIR}/ci/in_docker/prepare.sh"
 cd "${BASEDIR}"
 find . -iname \*.sh -print0 | xargs -0 shellcheck
 # Version independant checks
-PYVER=3.8
+LATESTPYVER=3.8
+PYVER="${LATESTPYVER}"
 # Run spelling in root to check docs
 "python${PYVER}" -m spelling
 # Run black to check all python on 3.8 only
@@ -27,7 +28,7 @@ for PYVER in ${PYTHONVERS} ; do
   if ! "python${PYVER}" -m pytest --cov-config=.coveragerc --cov-fail-under=95 "--cov=${MAIN_MODULE}" --cov-report=xml:test-cov.xml --cov-report=html --cov-report=term-missing ; then
     PYTEST_FAIL="YES"
   fi
-  if [ -n "${TRAVIS_JOB_ID:-}" ] ; then
+  if [ -n "${TRAVIS_JOB_ID:-}" ] && [ "${PYVER}" == "${LATESTPYVER}" ] ; then
     "python${PYVER}" -m coveralls
   fi
   if [ "${PYTEST_FAIL}" == "YES" ] ; then
