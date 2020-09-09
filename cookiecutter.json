@@ -46,5 +46,6 @@
     "entry_points": "",
     "package_data": "",
     "test_requires": "spellingtest\nrequests-mock",
-    "extra_manifest": ""
+    "extra_manifest": "",
+    "latest_python": "3.8"
 }
