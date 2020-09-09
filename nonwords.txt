@@ -1924,6 +1924,7 @@ sekundi
 sekundoj
 sekuntia
 selectedcontacts
+selectee
 selfconnection
 sellable
 seltests
