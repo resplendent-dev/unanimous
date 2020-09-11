@@ -2960,3 +2960,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+wakeup
+aclose
+asyncgens
+asyncgen
+wakeups
+unpark
