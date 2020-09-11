@@ -114,6 +114,7 @@ authurl
 autocapitalize
 autocompleted
 autocompletion
+autocorrelation
 autodetection
 autoencode
 autoexpose
@@ -813,6 +814,7 @@ graticule
 greenlets
 greenthreads
 greymap
+griffinlim
 grimfandango
 groupfinder
 groupin
@@ -1194,6 +1196,7 @@ mediatypes
 meer
 megastring
 meisthai
+melakarta
 mememeoo
 memoizes
 memoizing
@@ -1580,6 +1583,7 @@ patchbody
 pathname
 patik
 paulbocuse
+pcen
 pchar
 pcnoordhuis
 pdate
@@ -1963,6 +1967,7 @@ sexta
 sexualized
 sfnt
 sgi
+sharex
 shazow
 shch
 shelljs
@@ -2042,6 +2047,7 @@ sourcelink
 spaceless
 spacerun
 sparkline
+sparsification
 specialchars
 spion
 splitlines
@@ -2189,6 +2195,7 @@ superroma
 supersets
 suspendable
 sutra
+svara
 sveltejs
 svenstaro
 syllabary
@@ -2256,6 +2263,7 @@ textfiles
 textitem
 tfoot
 tga
+thaat
 thatguy
 thats
 theacodes
@@ -2935,9 +2943,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-sharex
-svara
-thaat
-autocorrelation
-melakarta
-sparsification
