@@ -114,6 +114,7 @@ authurl
 autocapitalize
 autocompleted
 autocompletion
+autocorrelate
 autocorrelation
 autodetection
 autoencode
@@ -266,6 +267,7 @@ ceil
 ceiled
 cellpadding
 cellspacing
+cens
 chaplin
 chardata
 chardetect
@@ -1098,6 +1100,7 @@ linebreaks
 linehash
 linenos
 lineto
+linewidth
 linewise
 linex
 linkability
@@ -1117,6 +1120,7 @@ loca
 localenegotiator
 localeselector
 localidade
+localmax
 localstore
 localtime
 locmem
@@ -2283,6 +2287,7 @@ thisisnotaserver
 thlorenz
 threadid
 threadsafety
+thresholded
 throbber
 thumbnailed
 thumbnailing
@@ -2323,6 +2328,7 @@ tokenizes
 tokenizing
 tokentype
 toks
+tonnetz
 tonos
 toolfunc
 topbar
@@ -2943,9 +2949,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-autocorrelate
-tonnetz
-localmax
-linewidth
-cens
-thresholded
