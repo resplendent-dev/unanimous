@@ -82,6 +82,7 @@ arn
 arns
 arraylike
 articletags
+artige
 asian
 asin
 assertsetequal
@@ -113,6 +114,8 @@ authurl
 autocapitalize
 autocompleted
 autocompletion
+autocorrelate
+autocorrelation
 autodetection
 autoencode
 autoexpose
@@ -203,6 +206,7 @@ bootstraponline
 booyah
 boudin
 bowser
+brickwall
 brigen
 broj
 browsable
@@ -263,6 +267,7 @@ ceil
 ceiled
 cellpadding
 cellspacing
+cens
 chaplin
 chardata
 chardetect
@@ -373,6 +378,7 @@ cssrewrite
 csstidy
 ctor
 ctypeid
+cubase
 cubehelix
 cujojs
 culpa
@@ -597,6 +603,7 @@ endiffeature
 endprivate
 endswith
 endth
+enharmonic
 enim
 enqueued
 enqueues
@@ -676,6 +683,7 @@ fecha
 fechas
 fenc
 fevereiro
+fftpack
 fgnass
 fica
 fieldclass
@@ -759,6 +767,7 @@ gater
 gatings
 gbykge
 gdennis
+gearnews
 geholfen
 geleden
 gemfile
@@ -766,6 +775,7 @@ gendoc
 generateimages
 genericinlineformset
 genindex
+geraldoramos
 getaddrinfo
 getattr
 getcwd
@@ -808,6 +818,7 @@ graticule
 greenlets
 greenthreads
 greymap
+griffinlim
 grimfandango
 groupfinder
 groupin
@@ -883,6 +894,7 @@ iffeature
 iframes
 ilayer
 ilike
+imag
 imagegenerators
 imho
 imitatio
@@ -1077,11 +1089,13 @@ libev
 libffi
 libphonenumber
 libsasl
+libsndfile
 libsqlite
 libu
 libxslt
 licensors
 lifesinger
+liftering
 lightpink
 lighttpd
 linearities
@@ -1090,6 +1104,7 @@ linebreaks
 linehash
 linenos
 lineto
+linewidth
 linewise
 linex
 linkability
@@ -1109,6 +1124,7 @@ loca
 localenegotiator
 localeselector
 localidade
+localmax
 localstore
 localtime
 locmem
@@ -1188,6 +1204,7 @@ mediatypes
 meer
 megastring
 meisthai
+melakarta
 mememeoo
 memoizes
 memoizing
@@ -1215,6 +1232,7 @@ microtask
 microtasks
 microtime
 middot
+midifan
 midstring
 miercuri
 mignon
@@ -1573,6 +1591,7 @@ patchbody
 pathname
 patik
 paulbocuse
+pcen
 pchar
 pcnoordhuis
 pdate
@@ -1581,6 +1600,7 @@ pencilblue
 perccel
 perce
 percona
+percussives
 performable
 performant
 permissionif
@@ -1661,6 +1681,7 @@ preloaddone
 preloaded
 preloading
 preloads
+premade
 preorder
 preparers
 prepended
@@ -1823,6 +1844,7 @@ rerendered
 rerendering
 rerenders
 rerequest
+resampled
 rescaled
 rescb
 resending
@@ -1954,6 +1976,7 @@ sexta
 sexualized
 sfnt
 sgi
+sharex
 shazow
 shch
 shelljs
@@ -2033,6 +2056,8 @@ sourcelink
 spaceless
 spacerun
 sparkline
+sparsification
+sparsify
 specialchars
 spion
 splitlines
@@ -2094,6 +2119,7 @@ subaccount
 subaddress
 subattribute
 subband
+subbands
 subblock
 subblocks
 subbutton
@@ -2145,6 +2171,7 @@ subroute
 subrs
 subsampling
 subscribername
+subsegment
 subselects
 subsequence
 subsequences
@@ -2172,6 +2199,7 @@ sucrase
 sudodoki
 summand
 summarizers
+sumsquare
 sunt
 supdiag
 superclasses
@@ -2180,6 +2208,7 @@ superroma
 supersets
 suspendable
 sutra
+svara
 sveltejs
 svenstaro
 syllabary
@@ -2228,6 +2257,7 @@ temparea
 tempat
 templatefiles
 templateset
+tempograms
 tempor
 tensorflows
 teppokoivula
@@ -2247,6 +2277,7 @@ textfiles
 textitem
 tfoot
 tga
+thaat
 thatguy
 thats
 theacodes
@@ -2266,6 +2297,7 @@ thisisnotaserver
 thlorenz
 threadid
 threadsafety
+thresholded
 throbber
 thumbnailed
 thumbnailing
@@ -2279,6 +2311,7 @@ timberlandonline
 timedeltas
 timeframe
 timein
+timelag
 timeoutcb
 timesout
 timestep
@@ -2306,6 +2339,7 @@ tokenizes
 tokenizing
 tokentype
 toks
+tonnetz
 tonos
 toolfunc
 topbar
@@ -2391,6 +2425,7 @@ ukey
 ul
 ulimit
 ullamco
+unaffordable
 unallowed
 unapplied
 unapply
