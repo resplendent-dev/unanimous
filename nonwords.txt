@@ -847,6 +847,7 @@ hasn
 hasta
 headful
 heapu
+hedythedev
 hellip
 helloend
 hellohook
@@ -1092,6 +1093,7 @@ leds
 lemmatize
 lemori
 letterpaper
+lexicographically
 lexing
 libev
 libffi
@@ -1171,6 +1173,7 @@ magnifyby
 magnifyduration
 maig
 maikhoepfel
+maintainership
 maio
 mais
 makemigrations
@@ -1555,6 +1558,8 @@ overengineered
 overfitting
 overholt
 overidability
+overline
+overlined
 overparameterization
 overplotting
 overridability
@@ -1859,6 +1864,7 @@ rescaled
 rescb
 resending
 resends
+resharding
 resizable
 resolvers
 resourceattributenotfounderror
@@ -2049,12 +2055,14 @@ solrconfig
 someenv
 somefile
 somefunnyname
+somekey
 somelib
 someotherfile
 someotherurl
 someredirectedurl
 somerequest
 someschema
+somestream
 someurl
 someutfcharacters
 soname
@@ -2473,6 +2481,7 @@ undaemonize
 undef
 undefine
 undelegate
+underflows
 underride
 underspecified
 underspecifies
@@ -2975,9 +2984,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-maintainership
-overlined
-overline
-hedythedev
-resharding
-lexicographically
