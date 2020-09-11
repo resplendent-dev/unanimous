@@ -2949,3 +2949,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+percussives
+tempograms
+subsegment
+sparsify
+liftering
+imag
