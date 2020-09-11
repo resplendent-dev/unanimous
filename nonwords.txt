@@ -2943,3 +2943,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+autocorrelate
+tonnetz
+localmax
+linewidth
+cens
+thresholded
