@@ -2967,3 +2967,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+waaaay
+interferences
+minfps
+maxfps
+isatty
+ffff
