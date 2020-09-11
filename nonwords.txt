@@ -2925,3 +2925,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+resampled
+libsndfile
+unaffordable
+premade
+geraldoramos
+artige
