@@ -603,6 +603,7 @@ endiffeature
 endprivate
 endswith
 endth
+enharmonic
 enim
 enqueued
 enqueues
@@ -682,6 +683,7 @@ fecha
 fechas
 fenc
 fevereiro
+fftpack
 fgnass
 fica
 fieldclass
@@ -892,6 +894,7 @@ iffeature
 iframes
 ilayer
 ilike
+imag
 imagegenerators
 imho
 imitatio
@@ -1092,6 +1095,7 @@ libu
 libxslt
 licensors
 lifesinger
+liftering
 lightpink
 lighttpd
 linearities
@@ -1596,6 +1600,7 @@ pencilblue
 perccel
 perce
 percona
+percussives
 performable
 performant
 permissionif
@@ -2052,6 +2057,7 @@ spaceless
 spacerun
 sparkline
 sparsification
+sparsify
 specialchars
 spion
 splitlines
@@ -2113,6 +2119,7 @@ subaccount
 subaddress
 subattribute
 subband
+subbands
 subblock
 subblocks
 subbutton
@@ -2164,6 +2171,7 @@ subroute
 subrs
 subsampling
 subscribername
+subsegment
 subselects
 subsequence
 subsequences
@@ -2191,6 +2199,7 @@ sucrase
 sudodoki
 summand
 summarizers
+sumsquare
 sunt
 supdiag
 superclasses
@@ -2248,6 +2257,7 @@ temparea
 tempat
 templatefiles
 templateset
+tempograms
 tempor
 tensorflows
 teppokoivula
@@ -2301,6 +2311,7 @@ timberlandonline
 timedeltas
 timeframe
 timein
+timelag
 timeoutcb
 timesout
 timestep
@@ -2949,9 +2960,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-percussives
-tempograms
-subsegment
-sparsify
-liftering
-imag
