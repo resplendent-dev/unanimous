@@ -2935,3 +2935,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+sharex
+svara
+thaat
+autocorrelation
+melakarta
+sparsification
