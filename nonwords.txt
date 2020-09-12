@@ -533,6 +533,7 @@ djterm
 dnes
 dnldr
 dnsname
+dockerssh
 doclet
 docplaster
 docregion
@@ -702,6 +703,7 @@ februari
 february
 fecha
 fechas
+feedstock
 fenc
 fevereiro
 ffff
@@ -920,8 +922,11 @@ ideographic
 iendswith
 iffeature
 iframes
+iftop
 igual
+ilai
 ilayer
+ilen
 ilike
 imag
 imagegenerators
@@ -1018,6 +1023,7 @@ jdataview
 jeesh
 jeffknupp
 jezik
+jferard
 jfkirk
 jisfreq
 jisfreqprober
@@ -1136,6 +1142,7 @@ liftering
 lightpink
 lighttpd
 linearities
+linearized
 linearray
 linebreaks
 linehash
@@ -1605,6 +1612,7 @@ overwritable
 oxfe
 packagist
 padds
+padnone
 pagebeforechange
 pageblobservice
 pageflag
@@ -1851,6 +1859,7 @@ redispapa
 redisplay
 rediss
 redistributable
+reducefunc
 reenable
 referentially
 refetch
@@ -1939,6 +1948,7 @@ rollbacked
 rollups
 romanization
 romanized
+rominf
 ronkorving
 ronn
 rootid
@@ -2076,6 +2086,7 @@ slackwalker
 slashy
 slatedocs
 slenska
+sliceable
 slidechanged
 slidee
 slideup
@@ -2290,6 +2301,7 @@ sys
 taavi
 tabfile
 tabfiles
+tabideal
 tabindex
 tableconstructor
 tableextension
@@ -2721,6 +2733,7 @@ validatr
 validthis
 valign
 valueerror
+valuefunc
 valuegetter
 vanillajni
 varargslist
@@ -3036,15 +3049,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-linearized
-feedstock
-tabideal
-iftop
-dockerssh
-jferard
-ilen
-ilai
-valuefunc
-reducefunc
-sliceable
-rominf
