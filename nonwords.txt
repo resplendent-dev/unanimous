@@ -468,6 +468,7 @@ deparam
 depascalize
 dependables
 deployable
+deprecations
 depthed
 dequeue
 dequeued
@@ -618,6 +619,7 @@ endth
 enharmonic
 enim
 enqueued
+enqueueing
 enqueues
 enqueuing
 enskild
@@ -849,12 +851,14 @@ hakibenita
 halibote
 halvt
 handshaked
+harddisk
 hari
 hashchange
 hashmap
 hashmaps
 hasn
 hasta
+hdinfo
 headful
 heapu
 hedythedev
@@ -1233,6 +1237,7 @@ megastring
 meisthai
 melakarta
 mememeoo
+memmapping
 memoizes
 memoizing
 memorymail
@@ -1772,6 +1777,7 @@ pushstate
 putbody
 pweight
 pyassem
+pyimcore
 pyminify
 pyopenid
 pysolrs
@@ -2647,6 +2653,7 @@ unvalidatable
 unversioned
 unvote
 upcase
+upcasted
 updatesubs
 updatingrelationship
 upperbound
@@ -3012,9 +3019,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-deprecations
-memmapping
-enqueueing
-upcasted
-harddisk
-hdinfo
