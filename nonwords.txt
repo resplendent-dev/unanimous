@@ -3057,3 +3057,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+mappable
+rescuable
+paletted
+unpremultiply
+wreaddir
+upsampling
