@@ -245,6 +245,7 @@ calvinmetcalf
 camelize
 camelized
 camelizing
+camshift
 cancelable
 cancellable
 cannotdeduceregionerror
@@ -292,6 +293,7 @@ checklines
 checkmark
 checksums
 chere
+childarea
 childprop
 childview
 chilpit
@@ -900,6 +902,7 @@ ideographic
 iendswith
 iffeature
 iframes
+igual
 ilayer
 ilike
 imag
@@ -1095,6 +1098,7 @@ lechotet
 leds
 lemmatize
 lemori
+lenna
 letterpaper
 lexicographically
 lexing
@@ -1929,6 +1933,7 @@ ryoryomaru
 sadielbartholomew
 safestring
 samplee
+sampleimages
 sandboxed
 sangelone
 sanitization
@@ -2217,6 +2222,7 @@ subtype
 subvalidators
 subvalue
 subvalues
+subversionrelease
 subviews
 suckage
 sucrase
@@ -2990,9 +2996,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-subversionrelease
-childarea
-lenna
-camshift
-sampleimages
-igual
