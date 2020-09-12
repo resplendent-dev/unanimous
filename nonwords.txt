@@ -267,6 +267,7 @@ catchthrow
 catchup
 catenate
 cbartlett
+ccrs
 cdba
 ceil
 ceiled
@@ -564,6 +565,7 @@ dynamiczone
 eacute
 eaparango
 easings
+easting
 easytmdb
 ebertti
 ecmascript
@@ -1151,6 +1153,7 @@ logicalparadox
 logics
 longpress
 longtext
+lons
 looby
 lookbehind
 loopbody
@@ -1291,6 +1294,7 @@ minuutti
 minuuttia
 mipmap
 misbehaviors
+miscellanea
 misclassification
 misconfiguration
 misconfigured
@@ -1466,6 +1470,7 @@ nonwords
 noone
 noqaj
 normalizations
+northing
 noscript
 nosearch
 nosec
@@ -1750,6 +1755,7 @@ prtgapi
 prtgdevice
 prtgsensor
 pserve
+pseudocylindrical
 pseudoterminals
 ptweens
 publics
@@ -1856,6 +1862,7 @@ repositions
 reprehenderit
 representable
 representers
+reprojected
 reprs
 requestbody
 requestline
@@ -1978,6 +1985,8 @@ selfconnection
 sellable
 seltests
 semana
+semimajor
+semiminor
 sensorid
 sensorobject
 sensortree
@@ -2355,6 +2364,7 @@ timothypratley
 timsort
 tipiirai
 tisba
+tissot
 titlebar
 tlrobinson
 tmpfs
@@ -2996,9 +3006,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-northing
-easting
-pseudocylindrical
-semimajor
-miscellanea
-ccrs
