@@ -3042,3 +3042,9 @@ tabideal
 iftop
 dockerssh
 jferard
+ilen
+ilai
+valuefunc
+reducefunc
+sliceable
+rominf
