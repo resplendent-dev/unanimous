@@ -2990,3 +2990,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+subversionrelease
+childarea
+lenna
+camshift
+sampleimages
+igual
