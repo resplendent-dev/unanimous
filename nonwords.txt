@@ -3012,3 +3012,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+deprecations
+memmapping
+enqueueing
+upcasted
+harddisk
+hdinfo
