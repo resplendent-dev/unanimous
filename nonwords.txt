@@ -509,6 +509,7 @@ disableddisabled
 disambiguator
 disambiguators
 discontiguous
+discoverable
 disjunction
 dispon
 dista
@@ -524,6 +525,7 @@ djangopackages
 djangoparser
 djterm
 dnes
+dnldr
 dnsname
 doclet
 docplaster
@@ -677,6 +679,7 @@ extensibility
 externs
 fafafa
 failback
+fairtask
 fakestr
 falconparser
 fallbacks
@@ -829,6 +832,7 @@ graticule
 greenlets
 greenthreads
 greymap
+gridded
 griffinlim
 grimfandango
 groupfinder
@@ -1371,6 +1375,7 @@ multiheaders
 multiplatform
 multiplesite
 multiplicated
+multirun
 multiserver
 multitree
 multivalue
@@ -2926,6 +2931,7 @@ yepnopejs
 yerr
 yfitted
 yforecast
+yformatter
 yfory
 ygroupf
 yielder
@@ -3006,9 +3012,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-gridded
-dnldr
-yformatter
-multirun
-fairtask
-discoverable
