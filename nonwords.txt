@@ -2996,3 +2996,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+northing
+easting
+pseudocylindrical
+semimajor
+miscellanea
+ccrs
