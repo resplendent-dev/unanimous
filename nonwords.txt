@@ -346,6 +346,7 @@ coffeedoc
 collapsedness
 collectassets
 collinear
+colormapped
 combinable
 combinator
 commitwithin
@@ -1228,6 +1229,7 @@ manje
 manpages
 manytomany
 mapfn
+mappable
 marcellefter
 marcelodolza
 marcuswestin
@@ -1626,6 +1628,7 @@ pageshow
 pagetime
 pagi
 paldepind
+paletted
 pannable
 panzerdp
 parallelization
@@ -1916,6 +1919,7 @@ rerequest
 resampled
 rescaled
 rescb
+rescuable
 resending
 resends
 resharding
@@ -2635,6 +2639,7 @@ unpickled
 unpickling
 unpkg
 unprefixed
+unpremultiply
 unproject
 unpublish
 unqueued
@@ -2695,6 +2700,7 @@ upperbound
 uppercased
 uppercases
 upsample
+upsampling
 upscaled
 upstreams
 upvote
@@ -2857,6 +2863,7 @@ wordlists
 workernode
 wouldn
 wrappable
+wreaddir
 writeable
 writeformat
 writehdr
@@ -3057,9 +3064,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-mappable
-rescuable
-paletted
-unpremultiply
-wreaddir
-upsampling
