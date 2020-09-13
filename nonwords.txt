@@ -3076,3 +3076,9 @@ xpos
 stringformatting
 startposition
 isxn
+issn
+instatiate
+imagetypes
+fullcode
+fontalignment
+corel
