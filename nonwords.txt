@@ -1046,6 +1046,7 @@ jnozsc
 joehybird
 joinedload
 joinpath
+joomla
 joseanpg
 jour
 jpcntx
@@ -2159,6 +2160,7 @@ sparkline
 sparsification
 sparsify
 spcs
+specgram
 specgrams
 specialchars
 spion
@@ -2393,6 +2395,7 @@ theacodes
 thead
 theghostbel
 themeless
+themers
 themoviedb
 thenability
 thenable
@@ -2439,6 +2442,7 @@ titlebar
 tlrobinson
 tmpfs
 tmshn
+toall
 tobiasbueschel
 tocdup
 tocify
@@ -2588,6 +2592,7 @@ unencrypted
 unenroll
 unescaped
 unescaping
+unexisting
 unexported
 unflagged
 unflattened
@@ -2930,6 +2935,7 @@ xenial
 xepb
 xeval
 xext
+xfconf
 xfffd
 xfree
 xgrid
@@ -2964,6 +2970,7 @@ xpos
 xpxi
 xqlint
 xrange
+xrdb
 xred
 xreduced
 xreplace
@@ -3098,9 +3105,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-specgram
-unexisting
-joomla
-xrdb
-xfconf
-toall
