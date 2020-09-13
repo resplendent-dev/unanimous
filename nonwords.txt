@@ -3082,3 +3082,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+vformat
+sdispater
+jpegsave
+yres
+interpolators
+imageize
