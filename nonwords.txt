@@ -1439,6 +1439,7 @@ mywhitelist
 mywidget
 myyj
 nachts
+nade
 namespacing
 nanobar
 napja
@@ -1522,6 +1523,7 @@ nosearch
 nosec
 nostrud
 notedit
+notesequence
 notie
 notmodified
 notset
@@ -1690,6 +1692,8 @@ pgroto
 philippeluickx
 phonegap
 phonenumberutil
+pianoroll
+pianorolls
 pickset
 pids
 pixelsin
@@ -2155,6 +2159,7 @@ sparkline
 sparsification
 sparsify
 spcs
+specgrams
 specialchars
 spion
 splitlines
@@ -2214,6 +2219,7 @@ structified
 stunnel
 stureek
 stylesheet
+stylization
 subaccount
 subaddress
 subattribute
@@ -2553,6 +2559,7 @@ unchecks
 unclockable
 uncloneable
 unclosed
+uncoded
 uncollapsed
 uncollectible
 uncomment
@@ -2678,6 +2685,7 @@ unscale
 unscaled
 unsearched
 unsecure
+unseekable
 unselect
 unselectable
 unselected
@@ -2719,6 +2727,7 @@ uppercases
 upsample
 upsampling
 upscaled
+upsize
 upstreams
 upvote
 upvoted
@@ -2771,6 +2780,7 @@ varnames
 vbscript
 vchar
 vclick
+vdecls
 vdeturckheim
 vectorization
 vectorizers
@@ -3088,9 +3098,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-vdecls
-upsize
-unseekable
-uncoded
-pianoroll
-pianorolls
