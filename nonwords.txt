@@ -3088,3 +3088,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+vdecls
+upsize
+unseekable
+uncoded
+pianoroll
+pianorolls
