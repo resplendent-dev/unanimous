@@ -938,6 +938,7 @@ ilen
 ilike
 imag
 imagegenerators
+imageize
 imagetypes
 imho
 imitatio
@@ -986,6 +987,7 @@ interoperable
 interoperate
 interoperating
 interpolant
+interpolators
 introjs
 introspectables
 ints
@@ -1048,6 +1050,7 @@ joseanpg
 jour
 jpcntx
 jpcntxprober
+jpegsave
 jqeditor
 jscoverage
 jscript
@@ -2016,6 +2019,7 @@ scrollbars
 scrollspy
 scrollstart
 scrollstop
+sdispater
 searchableselect
 seconden
 secondes
@@ -2784,6 +2788,7 @@ versioners
 versionwarning
 vertexdomain
 vetoable
+vformat
 vhcurveto
 videoblog
 viernes
@@ -3023,6 +3028,7 @@ yourresourcename
 yourumisequence
 youtu
 ypos
+yres
 yrvs
 yscale
 ysize
@@ -3082,9 +3088,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-vformat
-sdispater
-jpegsave
-yres
-interpolators
-imageize
