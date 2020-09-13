@@ -378,6 +378,7 @@ contentready
 controlgroup
 convnetjs
 coplanar
+corel
 coth
 couldn
 cov
@@ -747,6 +748,7 @@ focusable
 focusin
 focusout
 focusoutblur
+fontalignment
 foobarhello
 fooo
 foos
@@ -778,6 +780,7 @@ fstat
 fsync
 ftlabs
 fugiat
+fullcode
 funct
 functionbase
 functionbased
@@ -935,6 +938,7 @@ ilen
 ilike
 imag
 imagegenerators
+imagetypes
 imho
 imitatio
 immed
@@ -972,6 +976,7 @@ instancia
 instante
 instantiation
 instantiations
+instatiate
 interactable
 interbank
 interferences
@@ -998,11 +1003,13 @@ isatty
 isogram
 ispending
 isrss
+issn
 isspace
 issubset
 issuecomment
 istanbul
 istartswith
+isxn
 iteratee
 iteratees
 iterationlabs
@@ -2162,6 +2169,7 @@ srcuri
 ssize
 stackability
 starrhorne
+startposition
 startswith
 stderr
 stefanschenk
@@ -2184,6 +2192,7 @@ streamgraph
 streamreader
 streamreaders
 streamwriter
+stringformatting
 stringifiable
 stringification
 stringified
@@ -2299,6 +2308,7 @@ sutra
 svara
 sveltejs
 svenstaro
+svgz
 syllabary
 symb
 symbolp
@@ -2935,6 +2945,7 @@ xobj
 xp
 xpartial
 xpaths
+xpos
 xpxi
 xqlint
 xrange
@@ -3011,6 +3022,7 @@ yourpath
 yourresourcename
 yourumisequence
 youtu
+ypos
 yrvs
 yscale
 ysize
@@ -3070,15 +3082,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-svgz
-ypos
-xpos
-stringformatting
-startposition
-isxn
-issn
-instatiate
-imagetypes
-fullcode
-fontalignment
-corel
