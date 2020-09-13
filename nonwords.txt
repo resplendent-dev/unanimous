@@ -346,6 +346,7 @@ coffeedoc
 collapsedness
 collectassets
 collinear
+colormapped
 combinable
 combinator
 commitwithin
@@ -377,6 +378,7 @@ contentready
 controlgroup
 convnetjs
 coplanar
+corel
 coth
 couldn
 cov
@@ -451,6 +453,7 @@ deburred
 decapitalize
 decapitalized
 declaratively
+declarator
 decodings
 decompilation
 decoratormethod
@@ -745,6 +748,7 @@ focusable
 focusin
 focusout
 focusoutblur
+fontalignment
 foobarhello
 fooo
 foos
@@ -776,6 +780,7 @@ fstat
 fsync
 ftlabs
 fugiat
+fullcode
 funct
 functionbase
 functionbased
@@ -933,6 +938,8 @@ ilen
 ilike
 imag
 imagegenerators
+imageize
+imagetypes
 imho
 imitatio
 immed
@@ -970,6 +977,7 @@ instancia
 instante
 instantiation
 instantiations
+instatiate
 interactable
 interbank
 interferences
@@ -979,6 +987,7 @@ interoperable
 interoperate
 interoperating
 interpolant
+interpolators
 introjs
 introspectables
 ints
@@ -996,11 +1005,13 @@ isatty
 isogram
 ispending
 isrss
+issn
 isspace
 issubset
 issuecomment
 istanbul
 istartswith
+isxn
 iteratee
 iteratees
 iterationlabs
@@ -1039,6 +1050,7 @@ joseanpg
 jour
 jpcntx
 jpcntxprober
+jpegsave
 jqeditor
 jscoverage
 jscript
@@ -1228,6 +1240,7 @@ manje
 manpages
 manytomany
 mapfn
+mappable
 marcellefter
 marcelodolza
 marcuswestin
@@ -1426,6 +1439,7 @@ mywhitelist
 mywidget
 myyj
 nachts
+nade
 namespacing
 nanobar
 napja
@@ -1509,6 +1523,7 @@ nosearch
 nosec
 nostrud
 notedit
+notesequence
 notie
 notmodified
 notset
@@ -1626,6 +1641,7 @@ pageshow
 pagetime
 pagi
 paldepind
+paletted
 pannable
 panzerdp
 parallelization
@@ -1676,14 +1692,18 @@ pgroto
 philippeluickx
 phonegap
 phonenumberutil
+pianoroll
+pianorolls
 pickset
 pids
 pixelsin
+pixmap
 pkzip
 placeful
 placeless
 plainstr
 playability
+playmany
 plotclick
 pluggability
 plusequals
@@ -1916,6 +1936,7 @@ rerequest
 resampled
 rescaled
 rescb
+rescuable
 resending
 resends
 resharding
@@ -2002,6 +2023,7 @@ scrollbars
 scrollspy
 scrollstart
 scrollstop
+sdispater
 searchableselect
 seconden
 secondes
@@ -2137,6 +2159,7 @@ sparkline
 sparsification
 sparsify
 spcs
+specgrams
 specialchars
 spion
 splitlines
@@ -2155,6 +2178,7 @@ srcuri
 ssize
 stackability
 starrhorne
+startposition
 startswith
 stderr
 stefanschenk
@@ -2177,6 +2201,7 @@ streamgraph
 streamreader
 streamreaders
 streamwriter
+stringformatting
 stringifiable
 stringification
 stringified
@@ -2194,6 +2219,7 @@ structified
 stunnel
 stureek
 stylesheet
+stylization
 subaccount
 subaddress
 subattribute
@@ -2292,6 +2318,7 @@ sutra
 svara
 sveltejs
 svenstaro
+svgz
 syllabary
 symb
 symbolp
@@ -2532,6 +2559,7 @@ unchecks
 unclockable
 uncloneable
 unclosed
+uncoded
 uncollapsed
 uncollectible
 uncomment
@@ -2635,6 +2663,7 @@ unpickled
 unpickling
 unpkg
 unprefixed
+unpremultiply
 unproject
 unpublish
 unqueued
@@ -2656,6 +2685,7 @@ unscale
 unscaled
 unsearched
 unsecure
+unseekable
 unselect
 unselectable
 unselected
@@ -2695,7 +2725,9 @@ upperbound
 uppercased
 uppercases
 upsample
+upsampling
 upscaled
+upsize
 upstreams
 upvote
 upvoted
@@ -2748,6 +2780,7 @@ varnames
 vbscript
 vchar
 vclick
+vdecls
 vdeturckheim
 vectorization
 vectorizers
@@ -2763,7 +2796,9 @@ versionchange
 versionchanged
 versioners
 versionwarning
+vertexdomain
 vetoable
+vformat
 vhcurveto
 videoblog
 viernes
@@ -2857,6 +2892,8 @@ wordlists
 workernode
 wouldn
 wrappable
+wraptypes
+wreaddir
 writeable
 writeformat
 writehdr
@@ -2923,6 +2960,7 @@ xobj
 xp
 xpartial
 xpaths
+xpos
 xpxi
 xqlint
 xrange
@@ -2963,6 +3001,7 @@ xzycn
 yanghao
 yasoob
 yaxis
+ycbcr
 ycontbound
 ydata
 ydensity
@@ -2998,6 +3037,8 @@ yourpath
 yourresourcename
 yourumisequence
 youtu
+ypos
+yres
 yrvs
 yscale
 ysize
