@@ -226,6 +226,7 @@ brushable
 bsdglob
 bskinsm
 buddyjs
+buffiter
 bugginess
 bugridden
 bugzil
@@ -323,6 +324,7 @@ classexample
 classid
 classie
 classname
+classpartial
 clazz
 clckru
 cleansweep
@@ -571,6 +573,7 @@ dstpath
 dummymail
 dummypage
 dummyserver
+dumpable
 dumpscript
 duplications
 durationchange
@@ -1464,6 +1467,7 @@ needim
 neig
 neighbo
 ness
+netrefs
 neverending
 newcap
 newdata
@@ -1593,6 +1597,7 @@ onwards
 onwindowscroll
 opec
 openredis
+operandi
 operationid
 optgroups
 optimising
@@ -1671,6 +1676,7 @@ patchbody
 pathname
 patik
 paulbocuse
+payloadgen
 pcen
 pchar
 pcnoordhuis
@@ -2364,6 +2370,7 @@ tbody
 tcp
 tcyrus
 teardown
+teleported
 temparea
 tempat
 templatefiles
@@ -2517,7 +2524,9 @@ tulevaisuudessa
 tunnin
 tunti
 tuntia
+tupleiterator
 tuples
+tvanzyl
 tweened
 tweener
 tweening
@@ -2552,6 +2561,7 @@ unauthorizedcb
 unbatched
 unbinder
 unblind
+unboxing
 unbreak
 unbundled
 uncached
@@ -3071,6 +3081,7 @@ zdump
 zerobased
 zerocopy
 zerocoverage
+zerodeploy
 zeroinflation
 zerophase
 zerorpcs
@@ -3105,3 +3116,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+throwable
