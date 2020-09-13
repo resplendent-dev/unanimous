@@ -3105,3 +3105,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+payloadgen
+netrefs
+operandi
+zerodeploy
+teleported
+dumpable
