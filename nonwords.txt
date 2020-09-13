@@ -3070,3 +3070,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+svgz
+ypos
+xpos
+stringformatting
+startposition
+isxn
