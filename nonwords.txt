@@ -452,6 +452,7 @@ deburred
 decapitalize
 decapitalized
 declaratively
+declarator
 decodings
 decompilation
 decoratormethod
@@ -1682,11 +1683,13 @@ phonenumberutil
 pickset
 pids
 pixelsin
+pixmap
 pkzip
 placeful
 placeless
 plainstr
 playability
+playmany
 plotclick
 pluggability
 plusequals
@@ -2769,6 +2772,7 @@ versionchange
 versionchanged
 versioners
 versionwarning
+vertexdomain
 vetoable
 vhcurveto
 videoblog
@@ -2863,6 +2867,7 @@ wordlists
 workernode
 wouldn
 wrappable
+wraptypes
 wreaddir
 writeable
 writeformat
@@ -2970,6 +2975,7 @@ xzycn
 yanghao
 yasoob
 yaxis
+ycbcr
 ycontbound
 ydata
 ydensity
@@ -3064,9 +3070,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-declarator
-pixmap
-wraptypes
-vertexdomain
-ycbcr
-playmany
