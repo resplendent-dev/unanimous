@@ -3098,3 +3098,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+specgram
+unexisting
+joomla
+xrdb
+xfconf
+toall
