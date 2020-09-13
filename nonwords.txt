@@ -3064,3 +3064,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+declarator
+pixmap
+wraptypes
+vertexdomain
+ycbcr
+playmany
