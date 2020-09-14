@@ -875,6 +875,7 @@ groupin
 grouptitle
 gsound
 guilabel
+gunakan
 guybedford
 gzipped
 gzips
@@ -1042,6 +1043,7 @@ itleref
 ivar
 ixrss
 izitoast
+izvr
 jackhenry
 jacoborus
 january
@@ -1121,6 +1123,7 @@ klukkustund
 kobzol
 kompiuter
 komplexen
+kori
 koristite
 kouio
 kovi
