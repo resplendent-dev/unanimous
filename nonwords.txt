@@ -2432,6 +2432,7 @@ templatefiles
 templateset
 tempograms
 tempor
+tenje
 tenjem
 tensorflows
 teppokoivula
@@ -2570,6 +2571,7 @@ trinulls
 tristate
 trivy
 trns
+trovare
 trueish
 truely
 trusion
@@ -2842,7 +2844,10 @@ usershome
 userstory
 utf
 utilbar
+utilisant
+uvid
 uxxxx
+uzak
 vadd
 validatejs
 validatr
@@ -2852,8 +2857,10 @@ valueerror
 valuefunc
 valuegetter
 vanillajni
+vanno
 varargslist
 varnames
+vastatrices
 vbscript
 vchar
 vclick
@@ -2861,6 +2868,7 @@ vdecls
 vdeturckheim
 vectorization
 vectorizers
+veis
 velit
 vendored
 vendredi
@@ -2873,9 +2881,12 @@ versionadded
 versionchange
 versionchanged
 versioners
+versioni
 versionwarning
 vertexdomain
 vetoable
+veya
+veza
 vformat
 vhcurveto
 videoblog
@@ -2891,6 +2902,8 @@ vineri
 virginia
 virginica
 virtualize
+virusdefender
+visitar
 visitare
 visitaugassign
 visitaugslice
@@ -2923,6 +2936,7 @@ wakeup
 wakeups
 walkthrough
 walsh
+warninggp
 warnoptions
 wasn
 watcha
@@ -3081,6 +3095,7 @@ xyz
 xzvpf
 xzycn
 yanghao
+yarayan
 yasoob
 yaxis
 ycbcr
@@ -3136,6 +3151,9 @@ ywmle
 ywunbiased
 yyyy
 zachleat
+zadnji
+zahtjeva
+zajedno
 zajtra
 zassenhaus
 zastat
@@ -3184,21 +3202,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-zajedno
-zahtjeva
-zadnji
-yarayan
-warninggp
-visitar
-virusdefender
-veza
-veya
-versioni
-veis
-vastatrices
-vanno
-uzak
-uvid
-utilisant
-trovare
-tenje
