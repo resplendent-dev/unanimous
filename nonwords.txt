@@ -3208,3 +3208,9 @@ syssecurity
 sustavu
 superevr
 subjacente
+strumento
+stranica
+sterseniz
+spektar
+sottostante
+slika
