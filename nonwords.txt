@@ -1313,10 +1313,13 @@ memmapping
 memoizes
 memoizing
 memorymail
+mengotomasi
+mengunjungi
 menos
 mercredi
 meridiem
 merkredo
+merupakan
 mesec
 meses
 mesiac
@@ -1339,6 +1342,7 @@ middot
 midifan
 midstring
 miercuri
+migliore
 mignon
 migonzalvar
 migraph
@@ -1409,6 +1413,7 @@ moins
 mois
 mojs
 mollit
+molti
 monato
 monatoj
 monic
@@ -1417,12 +1422,15 @@ monkeypatching
 monomial
 monotonicity
 montana
+montrent
 moorman
 moraxy
 morg
 morgen
 morgenen
 morgonen
+mostrano
+moteur
 motiky
 motore
 mousecatcher
@@ -3272,10 +3280,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-moteur
-mostrano
-montrent
-molti
-migliore
-merupakan
-mengunjungi
+luanginx
