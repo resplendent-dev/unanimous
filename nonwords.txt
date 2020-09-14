@@ -3184,3 +3184,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+zajedno
+zahtjeva
+zadnji
+yarayan
+warninggp
+visitar
