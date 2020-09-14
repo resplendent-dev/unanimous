@@ -1121,6 +1121,7 @@ klukkustund
 kobzol
 kompiuter
 komplexen
+koristite
 kouio
 kovi
 kowal
@@ -1194,6 +1195,7 @@ linksgo
 linters
 liste
 listenee
+listu
 listwidgets
 ljust
 llemark
@@ -1619,6 +1621,8 @@ opec
 openredis
 operandi
 operationid
+operativo
+opis
 optgroups
 optimising
 optimizable
@@ -1641,6 +1645,7 @@ outro
 outros
 outtextf
 outtextlist
+ovdje
 overcomplicated
 overcounting
 overengineered
@@ -1735,6 +1740,7 @@ plotclick
 pluggability
 plusequals
 pnotify
+poderoso
 podne
 pointerenter
 pointerleave
@@ -1766,6 +1772,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+pouvez
 pquentin
 preaction
 preassign
@@ -1804,15 +1811,18 @@ preprocessed
 prereleases
 prerendered
 presentational
+preuzeti
 preval
 previewfailure
 previewlinks
 previewsuccess
 pribli
 priori
+priru
 pristinemethod
 probabilistically
 probeobject
+processo
 prochain
 productinfo
 programatically
@@ -2046,6 +2056,7 @@ scaffolded
 scalability
 scannability
 scanstride
+scaricare
 scatterplot
 scil
 scottjehl
@@ -2366,6 +2377,7 @@ synergized
 syntaxes
 syntaxic
 sys
+syst
 taavi
 tabfile
 tabfiles
@@ -2386,6 +2398,7 @@ tahun
 takahiro
 tantaman
 tapcatch
+tapez
 tarde
 targetable
 targetimageid
@@ -2406,6 +2419,7 @@ templatefiles
 templateset
 tempograms
 tempor
+tenjem
 tensorflows
 teppokoivula
 testability
@@ -3155,15 +3169,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-tenjem
-tapez
-syst
-scaricare
-processo
-priru
-preuzeti
-pouvez
-poderoso
-ovdje
-opis
-operativo
