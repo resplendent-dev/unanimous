@@ -721,6 +721,7 @@ falconparser
 fallbacks
 falsey
 fatypes
+fazlas
 fbed
 fbone
 fccff
@@ -737,6 +738,7 @@ ffff
 fftpack
 fgnass
 fica
+fichier
 fieldclass
 fieldname
 fieldnames
@@ -764,6 +766,7 @@ flaskblog
 flaticons
 flatmapwithconcurrencylimit
 floppyform
+flsf
 flyout
 fmod
 fname
@@ -772,6 +775,8 @@ focusin
 focusout
 focusoutblur
 fonctionnalit
+fonctionne
+fonctions
 fontalignment
 foobarhello
 fooo
@@ -792,6 +797,8 @@ frameset
 fredag
 freenode
 freqprober
+frequentes
+frequenti
 frobshop
 fromkeys
 froms
@@ -812,6 +819,7 @@ functionbased
 functionish
 functor
 funzionalit
+funzionare
 fuzzyrusty
 fuzzysharp
 fuzzywuzz
@@ -825,14 +833,17 @@ gater
 gatings
 gbykge
 gdennis
+gdje
 gearnews
 geholfen
 geleden
+geli
 gemfile
 gendoc
 generateimages
 genericinlineformset
 genindex
+geral
 geraldoramos
 getaddrinfo
 getattr
@@ -3303,9 +3314,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-geral
-geli
-gdje
-funzionare
-frequenti
-frequentes
