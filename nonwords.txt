@@ -3256,3 +3256,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+pengambil
+panoramica
+pada
+outil
+osodog
+osnovnih
