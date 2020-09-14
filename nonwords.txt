@@ -470,6 +470,8 @@ deferreds
 defragmentation
 degit
 deja
+deleteorphanedmedia
+deleteredundantstatic
 delim
 delims
 delitem
@@ -1829,6 +1831,7 @@ pushstate
 putbody
 pweight
 pyassem
+pycloudinary
 pyimcore
 pyminify
 pyopenid
@@ -2334,6 +2337,7 @@ symlinked
 symlinkfile
 syncdb
 synched
+syncreq
 synergized
 syntaxes
 syntaxic
@@ -2368,6 +2372,7 @@ taxos
 tbekolay
 tbody
 tcp
+tcsh
 tcyrus
 teardown
 teleported
@@ -2418,6 +2423,7 @@ threadid
 threadsafety
 thresholded
 throbber
+throwable
 thumbnailed
 thumbnailing
 thunkor
@@ -3099,6 +3105,7 @@ zinegbin
 zipasarray
 zipball
 zipcity
+zipname
 zmap
 zmusic
 zomg
@@ -3116,10 +3123,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-throwable
-tcsh
-syncreq
-zipname
-pycloudinary
-deleteredundantstatic
-deleteorphanedmedia
