@@ -1208,6 +1208,7 @@ linksgo
 linters
 liste
 listenee
+listesini
 listu
 listwidgets
 ljust
@@ -1241,6 +1242,8 @@ lowercased
 lowerstrip
 lstrip
 ltima
+ltimas
+luanginx
 luego
 lukasa
 luminance
@@ -3280,4 +3283,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-luanginx
