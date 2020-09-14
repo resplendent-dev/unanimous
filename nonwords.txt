@@ -2137,6 +2137,7 @@ shelljs
 sherika
 sherrell
 shifters
+shiftzwei
 shived
 shortcutted
 shorthands
@@ -3217,4 +3218,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-shiftzwei
+semua
