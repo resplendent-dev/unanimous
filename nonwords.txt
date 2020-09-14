@@ -1131,9 +1131,14 @@ kissy
 klmn
 klukkustund
 kobzol
+kolekciju
+komandi
 kompiuter
 komplexen
+koneksi
 kori
+korisni
+korisnih
 koristite
 kouio
 kovi
@@ -1157,7 +1162,9 @@ lamosity
 langbulgarianmodel
 langgreekmodel
 langhebrewmodel
+langsung
 langthaimodel
+lant
 latedef
 latencies
 latinise
@@ -1177,6 +1184,7 @@ lemmatize
 lemori
 lenna
 letterpaper
+levleri
 lexicographically
 lexing
 libev
@@ -2028,6 +2036,8 @@ reorderer
 replicability
 repositions
 repositori
+reposunu
+repozitorija
 reprehenderit
 representable
 representers
@@ -2077,6 +2087,7 @@ ribeye
 rickygu
 rico
 ripplejs
+rmaktad
 rmillet
 rmse
 rmtp
@@ -3283,9 +3294,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-rmaktad
-repozitorija
-reposunu
-levleri
-lant
-langsung
