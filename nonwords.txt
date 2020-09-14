@@ -1727,7 +1727,10 @@ percona
 percussives
 performable
 performant
+perintah
+permet
 permissionif
+permite
 personalmodule
 petrbela
 pgid
@@ -1739,6 +1742,7 @@ phonegap
 phonenumberutil
 pianoroll
 pianorolls
+piattaforma
 pickset
 pids
 pixelsin
@@ -1747,6 +1751,8 @@ pkzip
 placeful
 placeless
 plainstr
+platformi
+platformlarda
 playability
 playmany
 plotclick
@@ -1772,8 +1778,12 @@ popvalue
 portis
 positionally
 positionals
+posjetiti
+poslu
+possui
 postaction
 postamble
+postavljena
 postback
 postbody
 postcallfunc
@@ -1785,6 +1795,7 @@ postgresserver
 postorder
 postprocessed
 postprocessors
+potente
 pouvez
 pquentin
 preaction
@@ -1804,6 +1815,7 @@ prefilter
 prefilters
 prefixexp
 preformatted
+pregati
 pregled
 preinitialize
 preinstalled
@@ -3244,15 +3256,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-pregati
-potente
-postavljena
-possui
-poslu
-posjetiti
-platformlarda
-platformi
-piattaforma
-permite
-permet
-perintah
