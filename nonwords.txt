@@ -3244,3 +3244,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+pregati
+potente
+postavljena
+possui
+poslu
+posjetiti
