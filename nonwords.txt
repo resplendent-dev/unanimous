@@ -721,6 +721,7 @@ falconparser
 fallbacks
 falsey
 fatypes
+fazlas
 fbed
 fbone
 fccff
@@ -737,6 +738,7 @@ ffff
 fftpack
 fgnass
 fica
+fichier
 fieldclass
 fieldname
 fieldnames
@@ -764,6 +766,7 @@ flaskblog
 flaticons
 flatmapwithconcurrencylimit
 floppyform
+flsf
 flyout
 fmod
 fname
@@ -772,6 +775,8 @@ focusin
 focusout
 focusoutblur
 fonctionnalit
+fonctionne
+fonctions
 fontalignment
 foobarhello
 fooo
@@ -792,6 +797,8 @@ frameset
 fredag
 freenode
 freqprober
+frequentes
+frequenti
 frobshop
 fromkeys
 froms
@@ -812,6 +819,7 @@ functionbased
 functionish
 functor
 funzionalit
+funzionare
 fuzzyrusty
 fuzzysharp
 fuzzywuzz
@@ -825,14 +833,17 @@ gater
 gatings
 gbykge
 gdennis
+gdje
 gearnews
 geholfen
 geleden
+geli
 gemfile
 gendoc
 generateimages
 genericinlineformset
 genindex
+geral
 geraldoramos
 getaddrinfo
 getattr
@@ -989,11 +1000,13 @@ indexf
 indexh
 indexv
 indicando
+indirmek
 infctr
 inferencing
 inflight
 informations
 infos
+inglese
 inikulin
 inited
 initializations
@@ -1019,7 +1032,9 @@ interpolant
 interpolators
 introjs
 introspectables
+intrus
 ints
+invadido
 invalidations
 invertible
 invoiceitems
@@ -1041,6 +1056,7 @@ issuecomment
 istanbul
 istartswith
 isxn
+itelja
 iteratee
 iteratees
 iterationlabs
@@ -1103,6 +1119,7 @@ juillet
 julho
 juli
 julianwachholz
+juntamente
 juntos
 jwilges
 jyfm
@@ -1128,12 +1145,20 @@ khtml
 kinded
 kirovboris
 kissy
+klamalar
+klayarak
 klmn
+kloniranjem
 klukkustund
 kobzol
+kolekciju
+komandi
 kompiuter
 komplexen
+koneksi
 kori
+korisni
+korisnih
 koristite
 kouio
 kovi
@@ -1157,7 +1182,9 @@ lamosity
 langbulgarianmodel
 langgreekmodel
 langhebrewmodel
+langsung
 langthaimodel
+lant
 latedef
 latencies
 latinise
@@ -1177,6 +1204,7 @@ lemmatize
 lemori
 lenna
 letterpaper
+levleri
 lexicographically
 lexing
 libev
@@ -2028,6 +2056,8 @@ reorderer
 replicability
 repositions
 repositori
+reposunu
+repozitorija
 reprehenderit
 representable
 representers
@@ -2077,6 +2107,7 @@ ribeye
 rickygu
 rico
 ripplejs
+rmaktad
 rmillet
 rmse
 rmtp
