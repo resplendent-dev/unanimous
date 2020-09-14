@@ -194,6 +194,7 @@ bhouston
 bhtml
 binarized
 bindable
+biste
 bitmasks
 bitshifts
 bjoerns
@@ -333,6 +334,7 @@ clenemt
 clickjacking
 clike
 clonado
+clonando
 cloudstorageaccount
 cmdclass
 cobrateam
@@ -409,6 +411,7 @@ customdashboard
 customizations
 customizingformtemplates
 cvkef
+daftar
 dagar
 dage
 dagur
@@ -478,7 +481,9 @@ deleteredundantstatic
 delim
 delims
 delitem
+delle
 demanda
+dengan
 denilsonsa
 deoptimizations
 deparam
@@ -1781,6 +1786,7 @@ prefixexp
 preformatted
 preinitialize
 preinstalled
+prekida
 preko
 preloaddone
 preloaded
@@ -2205,6 +2211,7 @@ squoosh
 srcuri
 ssize
 stackability
+stager
 starrhorne
 startposition
 startswith
@@ -2550,6 +2557,7 @@ tunti
 tuntia
 tupleiterator
 tuples
+tutte
 tvanzyl
 tweened
 tweener
@@ -2754,6 +2762,7 @@ untils
 untracked
 untransformed
 untranspiled
+untuk
 untyped
 unvalidatable
 unversioned
@@ -2831,6 +2840,7 @@ vendredi
 veniam
 verifiably
 verifications
+versi
 versicolor
 versionadded
 versionchange
@@ -2854,6 +2864,7 @@ vineri
 virginia
 virginica
 virtualize
+visitare
 visitaugassign
 visitaugslice
 visitcontinue
@@ -3144,10 +3155,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-stager
-prekida
-dengan
-delle
-daftar
-clonando
-biste
