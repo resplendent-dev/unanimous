@@ -3172,3 +3172,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+funzionalit
+funciona
+fonctionnalit
+encontrar
+comandos
+automatiza
