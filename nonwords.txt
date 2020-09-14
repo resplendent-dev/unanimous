@@ -3130,3 +3130,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+fixups
+unsubscriptable
+hultner
+firstparty
+exitfirst
+deepcopyable
