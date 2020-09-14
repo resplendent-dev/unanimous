@@ -1804,6 +1804,7 @@ prefilter
 prefilters
 prefixexp
 preformatted
+pregled
 preinitialize
 preinstalled
 prekida
@@ -1813,6 +1814,7 @@ preloaded
 preloading
 preloads
 premade
+prendre
 preorder
 preparers
 prepended
@@ -1820,6 +1822,8 @@ prepending
 prepends
 prepopulated
 prepopulating
+preporu
+prepoznavanja
 preprocessed
 prereleases
 prerendered
@@ -1830,6 +1834,7 @@ previewfailure
 previewlinks
 previewsuccess
 pribli
+primjer
 primjerima
 priori
 priru
