@@ -3227,3 +3227,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+rendere
+ragos
+radi
+quello
+quel
+puissant
