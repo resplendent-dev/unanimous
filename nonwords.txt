@@ -989,11 +989,13 @@ indexf
 indexh
 indexv
 indicando
+indirmek
 infctr
 inferencing
 inflight
 informations
 infos
+inglese
 inikulin
 inited
 initializations
@@ -1019,7 +1021,9 @@ interpolant
 interpolators
 introjs
 introspectables
+intrus
 ints
+invadido
 invalidations
 invertible
 invoiceitems
@@ -1041,6 +1045,7 @@ issuecomment
 istanbul
 istartswith
 isxn
+itelja
 iteratee
 iteratees
 iterationlabs
@@ -1103,6 +1108,7 @@ juillet
 julho
 juli
 julianwachholz
+juntamente
 juntos
 jwilges
 jyfm
@@ -1128,7 +1134,10 @@ khtml
 kinded
 kirovboris
 kissy
+klamalar
+klayarak
 klmn
+kloniranjem
 klukkustund
 kobzol
 kolekciju
@@ -3294,9 +3303,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-kloniranjem
-klayarak
-klamalar
-juntamente
-itelja
-invadido
