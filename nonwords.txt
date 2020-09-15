@@ -3314,3 +3314,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+taiko
+huskyrc
+pinst
+easein
+upto
+tobiaslins
