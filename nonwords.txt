@@ -475,6 +475,8 @@ decrypted
 decrypting
 decrypts
 dedented
+deduped
+deduplicates
 deepcopied
 deepcopy
 deepcopyable
@@ -767,6 +769,7 @@ flashblock
 flaskblog
 flaticons
 flatmapwithconcurrencylimit
+flickable
 floppyform
 flsf
 flyout
@@ -1737,6 +1740,7 @@ overviewhidden
 overwritable
 oxfe
 packagist
+pacocoursey
 pada
 padds
 padnone
@@ -2004,6 +2008,7 @@ raphaelcruzeiro
 raspo
 ratiofieldname
 ratiofields
+rauchg
 rawcdn
 raydeo
 rcoles
@@ -2113,6 +2118,8 @@ retrigger
 reusability
 revalidate
 revalidates
+revalidating
+revalidation
 reviver
 rght
 ribeye
@@ -2253,6 +2260,7 @@ shorthands
 shouldn
 showbrowser
 showdownjs
+shuding
 sideload
 siden
 siefkenj
@@ -3334,9 +3342,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-revalidation
-revalidating
-pacocoursey
-deduplicates
-deduped
-shuding
