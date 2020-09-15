@@ -3320,3 +3320,9 @@ pinst
 easein
 upto
 tobiaslins
+sheweichun
+hljslicense
+animatable
+multiaxis
+zeroline
+hljs
