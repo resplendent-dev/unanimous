@@ -57,6 +57,7 @@ ancock
 andouille
 anentropic
 anim
+animatable
 anims
 annyang
 anos
@@ -598,6 +599,7 @@ dydd
 dynamiczone
 eacute
 eaparango
+easein
 easings
 easting
 easytmdb
@@ -861,6 +863,7 @@ getvalue
 gfxmonk
 ghickman
 ghit
+gimuy
 gitattributes
 githubs
 githubusercontent
@@ -933,6 +936,8 @@ hexload
 hightables
 hitcounts
 hl
+hljs
+hljslicense
 hodina
 hoje
 hollaback
@@ -954,6 +959,7 @@ httpexceptions
 httprettized
 hultner
 humanmsg
+huskyrc
 hustcc
 hybi
 hyperparameters
@@ -1339,6 +1345,7 @@ meer
 megastring
 meisthai
 melakarta
+memberof
 mememeoo
 memmapping
 memoizes
@@ -1484,6 +1491,7 @@ mtavruli
 mthread
 mthreading
 mtitg
+multiaxis
 multibuy
 multicasted
 multicasting
@@ -1607,6 +1615,7 @@ nosec
 nostrud
 notedit
 notesequence
+notexample
 notie
 notmodified
 notset
@@ -1686,6 +1695,7 @@ operativo
 opis
 oppure
 optgroups
+opticdev
 optimising
 optimizable
 optionality
@@ -1800,6 +1810,7 @@ pianorolls
 piattaforma
 pickset
 pids
+pinst
 pixelsin
 pixmap
 pkzip
@@ -1855,6 +1866,7 @@ pouvez
 pquentin
 preaction
 preassign
+precached
 precalculating
 precallfunc
 preclip
@@ -2232,6 +2244,7 @@ shch
 shelljs
 sherika
 sherrell
+sheweichun
 shifters
 shiftzwei
 shived
@@ -2383,6 +2396,7 @@ structified
 strumento
 stunnel
 stureek
+styleobject
 stylesheet
 stylization
 subaccount
@@ -2518,6 +2532,7 @@ taglib
 tagname
 tagoj
 tahun
+taiko
 takahiro
 takip
 tantaman
@@ -2622,6 +2637,7 @@ tmpfs
 tmshn
 toall
 tobiasbueschel
+tobiaslins
 tocdup
 tocify
 tocscope
@@ -2920,6 +2936,7 @@ upsampling
 upscaled
 upsize
 upstreams
+upto
 upvote
 upvoted
 upvoting
@@ -3007,6 +3024,7 @@ viewable
 viewcode
 viewitems
 viewkeys
+viewmode
 viewport
 viewvalues
 viime
@@ -3061,6 +3079,7 @@ webasset
 webgl
 webinista
 webobparser
+webpacks
 webservers
 weekperiod
 weex
@@ -3279,6 +3298,7 @@ zerocopy
 zerocoverage
 zerodeploy
 zeroinflation
+zeroline
 zerophase
 zerorpcs
 zeroservice
