@@ -1345,6 +1345,7 @@ meer
 megastring
 meisthai
 melakarta
+memberof
 mememeoo
 memmapping
 memoizes
@@ -1614,6 +1615,7 @@ nosec
 nostrud
 notedit
 notesequence
+notexample
 notie
 notmodified
 notset
@@ -1693,6 +1695,7 @@ operativo
 opis
 oppure
 optgroups
+opticdev
 optimising
 optimizable
 optionality
@@ -1863,6 +1866,7 @@ pouvez
 pquentin
 preaction
 preassign
+precached
 precalculating
 precallfunc
 preclip
@@ -3020,6 +3024,7 @@ viewable
 viewcode
 viewitems
 viewkeys
+viewmode
 viewport
 viewvalues
 viime
@@ -3074,6 +3079,7 @@ webasset
 webgl
 webinista
 webobparser
+webpacks
 webservers
 weekperiod
 weex
@@ -3328,9 +3334,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-notexample
-viewmode
-memberof
-precached
-opticdev
-webpacks
