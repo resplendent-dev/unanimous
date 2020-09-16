@@ -2730,6 +2730,7 @@ toproperty
 tornadoparser
 tostr
 totaldoclen
+touchcancel
 touchend
 touchmove
 touchstart
@@ -2801,6 +2802,7 @@ typedefn
 typename
 typeof
 typoes
+uage
 uchardet
 uclibc
 udde
@@ -2923,6 +2925,7 @@ unmounts
 unmute
 unnested
 unnormalized
+unobserve
 unopinionated
 unorderedlist
 unpaginated
@@ -3168,6 +3171,7 @@ whistleblower
 whitelisted
 whitelisting
 whitelists
+whitesmoke
 wigtobigwig
 wildcarded
 windowsconsoleio
@@ -3181,6 +3185,7 @@ wlev
 wmag
 wmake
 wmem
+wmode
 wmsg
 wmv
 woensdag
@@ -3409,4 +3414,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-wmode
+stemv
