@@ -3382,3 +3382,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+ffdab
+faebd
+ehellman
+deeppink
+darkviolet
+darkturquoise
