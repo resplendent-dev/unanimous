@@ -3394,3 +3394,9 @@ darkorange
 darkolivegreen
 darkmagenta
 darkkhaki
+darkgreen
+darkcyan
+darkblue
+ceeb
+cdaa
+burlywood
