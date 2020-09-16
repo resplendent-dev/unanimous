@@ -807,6 +807,7 @@ focusable
 focusin
 focusout
 focusoutblur
+focussed
 fonctionnalit
 fonctionne
 fonctions
@@ -1178,6 +1179,7 @@ kentaromiura
 kerning
 keskiviikkona
 kevgathuku
+keycodes
 keydown
 keyevent
 keyframes
@@ -1882,6 +1884,7 @@ phonenumberutil
 pianoroll
 pianorolls
 piattaforma
+pickadate
 pickset
 pids
 pinst
@@ -1894,6 +1897,7 @@ plainstr
 platformi
 platformlarda
 playability
+playdate
 playmany
 plotclick
 pluggability
@@ -2950,6 +2954,7 @@ unmemoization
 unmemoize
 unmemoizing
 unmemoziation
+unminified
 unmocked
 unmoderated
 unmount
@@ -3262,6 +3267,7 @@ xdate
 xdeadbeef
 xdirection
 xdvi
+xeeali
 xenial
 xepb
 xeval
@@ -3448,9 +3454,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-focussed
-keycodes
-unminified
-pickadate
-playdate
-xeeali
