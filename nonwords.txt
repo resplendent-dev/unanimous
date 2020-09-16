@@ -3361,3 +3361,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+navajowhite
+mrksmts
+midnightblue
+michaelrambeau
+mediumturquoise
+mediumspringgreen
