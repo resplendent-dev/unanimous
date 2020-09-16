@@ -1010,6 +1010,7 @@ indexable
 indexf
 indexh
 indexv
+indianred
 indicando
 indirmek
 infctr
@@ -1229,8 +1230,12 @@ libxslt
 licensors
 lifesinger
 liftering
+lightcoral
+lightgray
+lightgreen
 lightpink
 lighttpd
+lightyellow
 linearities
 linearized
 linearray
@@ -1277,6 +1282,7 @@ lookbehind
 loopbody
 loopfunc
 lossy
+lostpointercapture
 lowercased
 lowerstrip
 lstrip
@@ -1346,6 +1352,12 @@ mcflask
 mcflyin
 mdash
 mediatypes
+mediumblue
+mediumorchid
+mediumpurple
+mediumslateblue
+mediumspringgreen
+mediumturquoise
 meer
 megastring
 meisthai
@@ -1375,6 +1387,7 @@ metavideogame
 metroui
 mewn
 mfcovington
+michaelrambeau
 microbundle
 microframeworks
 microlibraries
@@ -1383,6 +1396,7 @@ microtasks
 microtime
 middot
 midifan
+midnightblue
 midstring
 miercuri
 migliore
@@ -1489,6 +1503,7 @@ moviegeek
 mozcentral
 mrdimosthenis
 mrjoelkemp
+mrksmts
 msgid
 msgids
 msie
@@ -1540,6 +1555,7 @@ narr
 natively
 nativescript
 natten
+navajowhite
 navigations
 nbest
 nbsp
@@ -3361,15 +3377,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-navajowhite
-mrksmts
-midnightblue
-michaelrambeau
-mediumturquoise
-mediumspringgreen
-mediumslateblue
-mediumpurple
-mediumorchid
-mediumblue
-lostpointercapture
-lightyellow
