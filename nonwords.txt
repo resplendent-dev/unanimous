@@ -458,6 +458,7 @@ dataframing
 dataless
 datapoints
 dataurlstring
+datedropper
 datetimes
 davglass
 davidrekow
@@ -545,6 +546,7 @@ detab
 detailmenu
 detailprint
 deterministically
+deutsch
 dev
 devexpress
 deviceid
@@ -705,6 +707,7 @@ errorlist
 ervenec
 escitalopram
 eslintrc
+espanol
 especificada
 essen
 este
@@ -830,6 +833,7 @@ fragsize
 framebuffer
 framerates
 frameset
+francais
 fredag
 freenode
 freqprober
@@ -1554,6 +1558,7 @@ multibuy
 multicasted
 multicasting
 multicurl
+multidate
 multidocument
 multiheaders
 multiplatform
@@ -2393,6 +2398,7 @@ slidee
 slideup
 slika
 sloria
+slovenian
 slowreportpath
 slugified
 smallinteger
@@ -2848,6 +2854,7 @@ uglified
 uglify
 uids
 ukey
+ukrainian
 ul
 ulimit
 ullamco
@@ -3454,9 +3461,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-multidate
-ukrainian
-espanol
-deutsch
-datedropper
-slovenian
