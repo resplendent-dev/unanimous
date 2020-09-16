@@ -26,6 +26,7 @@ adminaction
 aebeaaf
 aeiou
 afficher
+afilp
 africa
 afshinmeh
 aiohttpparser
@@ -34,6 +35,7 @@ ajki
 albertgao
 aleja
 aleskarovadi
+aliceblue
 aliqua
 aliquip
 allas
@@ -64,6 +66,7 @@ anos
 anphisa
 anselmstordeur
 antimeridian
+antiquewhite
 antiword
 anys
 apierrors
@@ -182,6 +185,7 @@ bauen
 bban
 bbbb
 bcde
+bchanx
 bdate
 bday
 beeing
@@ -194,6 +198,7 @@ benpickles
 bergen
 bfnrt
 bfrange
+bfunction
 bhljs
 bhour
 bhouston
@@ -212,6 +217,7 @@ bloburl
 blockblobservice
 blowsie
 bluelaguna
+blueviolet
 bmintz
 bodycopy
 boilerplatey
@@ -232,6 +238,7 @@ browserback
 browserscope
 brushable
 bsdglob
+bselector
 bskinsm
 buddyjs
 buffiter
@@ -242,6 +249,7 @@ buildable
 buildbots
 bulan
 burgerservicenummer
+burlywood
 buuuunch
 bwith
 byid
@@ -283,7 +291,9 @@ catchup
 catenate
 cbartlett
 ccrs
+cdaa
 cdba
+ceeb
 ceil
 ceiled
 cellpadding
@@ -429,6 +439,17 @@ danas
 dandehavilland
 dandv
 dari
+darkblue
+darkcyan
+darkgreen
+darkkhaki
+darkmagenta
+darkolivegreen
+darkorange
+darkred
+darkslategrey
+darkturquoise
+darkviolet
 dasd
 dasherize
 dass
@@ -440,6 +461,7 @@ datetimes
 davglass
 davidrekow
 davy
+dbef
 dbforce
 dbhost
 dbmail
@@ -480,6 +502,7 @@ deduplicates
 deepcopied
 deepcopy
 deepcopyable
+deeppink
 defaultfilters
 deferreds
 defragmentation
@@ -616,6 +639,7 @@ effectful
 efghij
 eftermiddagen
 egypt
+ehellman
 eidx
 einmal
 eitt
@@ -717,6 +741,7 @@ extarea
 extendibility
 extensibility
 externs
+faebd
 fafafa
 failback
 fairtask
@@ -738,6 +763,7 @@ fechas
 feedstock
 fenc
 fevereiro
+ffdab
 ffff
 fftpack
 fgnass
@@ -771,6 +797,7 @@ flaticons
 flatmapwithconcurrencylimit
 flickable
 floppyform
+floralwhite
 flsf
 flyout
 fmod
@@ -787,6 +814,7 @@ foobarhello
 fooo
 foos
 forcelist
+forestgreen
 forin
 formato
 formatos
@@ -798,6 +826,7 @@ fragmenthidden
 fragmentshown
 fragsize
 framebuffer
+framerates
 frameset
 fredag
 freenode
@@ -832,6 +861,7 @@ fxshow
 fylker
 gaborsar
 gaeopenid
+gainsboro
 gamers
 garyd
 gater
@@ -888,6 +918,7 @@ googleuniversalanalytics
 gosquared
 gothic
 gotoh
+gotpointercapture
 gplv
 gpzy
 graticule
@@ -903,6 +934,7 @@ grouptitle
 gsound
 guilabel
 gunakan
+gunnarx
 guybedford
 gzipped
 gzips
@@ -1008,6 +1040,7 @@ indexable
 indexf
 indexh
 indexv
+indianred
 indicando
 indirmek
 infctr
@@ -1227,8 +1260,12 @@ libxslt
 licensors
 lifesinger
 liftering
+lightcoral
+lightgray
+lightgreen
 lightpink
 lighttpd
+lightyellow
 linearities
 linearized
 linearray
@@ -1275,6 +1312,7 @@ lookbehind
 loopbody
 loopfunc
 lossy
+lostpointercapture
 lowercased
 lowerstrip
 lstrip
@@ -1344,6 +1382,12 @@ mcflask
 mcflyin
 mdash
 mediatypes
+mediumblue
+mediumorchid
+mediumpurple
+mediumslateblue
+mediumspringgreen
+mediumturquoise
 meer
 megastring
 meisthai
@@ -1373,6 +1417,7 @@ metavideogame
 metroui
 mewn
 mfcovington
+michaelrambeau
 microbundle
 microframeworks
 microlibraries
@@ -1381,6 +1426,7 @@ microtasks
 microtime
 middot
 midifan
+midnightblue
 midstring
 miercuri
 migliore
@@ -1487,6 +1533,7 @@ moviegeek
 mozcentral
 mrdimosthenis
 mrjoelkemp
+mrksmts
 msgid
 msgids
 msie
@@ -1538,6 +1585,7 @@ narr
 natively
 nativescript
 natten
+navajowhite
 navigations
 nbest
 nbsp
@@ -1575,8 +1623,10 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
+nikrowell
 nique
 nisi
+niubsta
 nmatpt
 nname
 nnen
@@ -1657,6 +1707,8 @@ ogni
 okey
 olarak
 olddisplay
+oldlace
+olivedrab
 omdict
 omtrent
 onabort
@@ -1752,9 +1804,11 @@ pageshow
 pagetime
 pagi
 paldepind
+palegreen
 paletted
 pannable
 panoramica
+panose
 panzerdp
 parallelization
 parallelizes
@@ -1833,8 +1887,10 @@ poderoso
 podne
 pointerenter
 pointerleave
+pointermove
 pointerout
 pointerover
+pointerup
 pointsize
 polyfills
 pondelok
@@ -1867,6 +1923,7 @@ postprocessed
 postprocessors
 potente
 pouvez
+powderblue
 pquentin
 preaction
 preassign
@@ -2006,6 +2063,7 @@ randocall
 rangez
 raphaelcruzeiro
 raspo
+ratechange
 ratiofieldname
 ratiofields
 rauchg
@@ -2015,7 +2073,9 @@ rcoles
 rconradharris
 rdar
 reactnative
+reactroot
 readd
+readeral
 realityking
 realname
 realworld
@@ -2023,6 +2083,7 @@ reapprove
 reasking
 reauthenticate
 rebasing
+rebeccapurple
 recomponent
 reconcatenate
 reconnection
@@ -2103,6 +2164,7 @@ resizable
 resolvers
 resourceattributenotfounderror
 respace
+responders
 respondjs
 responsivetable
 resps
@@ -2138,12 +2200,15 @@ rollbacked
 rollups
 romanization
 romanized
+romellem
 rominf
 ronkorving
 ronn
 rootid
+rosybrown
 routable
 routelist
+royalblue
 rqtp
 rquery
 rrcurveto
@@ -2162,11 +2227,13 @@ rvagg
 ryanmcgrath
 ryanvarley
 ryoryomaru
+saddlebrown
 sadielbartholomew
 safestring
 samplee
 sampleimages
 sandboxed
+sandybrown
 sangelone
 sanitization
 sapiente
@@ -2195,12 +2262,14 @@ scrollspy
 scrollstart
 scrollstop
 sdispater
+seagreen
 searchableselect
 seconden
 secondes
 sectionauthor
 securable
 securetransport
+sedlukha
 seealso
 seekable
 seeked
@@ -2214,6 +2283,7 @@ sekundoj
 sekuntia
 selectedcontacts
 selectee
+selectionchange
 selfconnection
 sellable
 seltests
@@ -2287,9 +2357,13 @@ skinnable
 skiptags
 skipunless
 skool
+skyblue
 slackwalker
 slashy
+slateblue
 slatedocs
+slategray
+slategrey
 slenska
 sliceable
 slidechanged
@@ -2348,6 +2422,7 @@ splitlines
 splitted
 spookylukey
 spooledtempfile
+springgreen
 spritecss
 spritemapped
 spritemaps
@@ -2364,8 +2439,11 @@ starrhorne
 startposition
 startswith
 stderr
+steelblue
 stefanschenk
 stelcheck
+stemh
+stemv
 stepleave
 stereographic
 sterseniz
@@ -2554,6 +2632,7 @@ tastypies
 taxamt
 taxos
 tbekolay
+tblr
 tbody
 tcp
 tcsh
@@ -2666,6 +2745,7 @@ toproperty
 tornadoparser
 tostr
 totaldoclen
+touchcancel
 touchend
 touchmove
 touchstart
@@ -2737,6 +2817,7 @@ typedefn
 typename
 typeof
 typoes
+uage
 uchardet
 uclibc
 udde
@@ -2859,6 +2940,7 @@ unmounts
 unmute
 unnested
 unnormalized
+unobserve
 unopinionated
 unorderedlist
 unpaginated
@@ -3104,6 +3186,7 @@ whistleblower
 whitelisted
 whitelisting
 whitelists
+whitesmoke
 wigtobigwig
 wildcarded
 windowsconsoleio
@@ -3117,10 +3200,12 @@ wlev
 wmag
 wmake
 wmem
+wmode
 wmsg
 wmv
 woensdag
 woooops
+wopian
 wordlists
 workernode
 wouldn
@@ -3170,6 +3255,7 @@ xgrid
 xhat
 xhatparams
 xhrs
+xiel
 xifloat
 xind
 xindex
@@ -3247,6 +3333,7 @@ yeap
 yearshtml
 yehuda
 yekibud
+yellowgreen
 yepnopejs
 yerr
 yfitted
