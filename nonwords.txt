@@ -2079,6 +2079,7 @@ reapprove
 reasking
 reauthenticate
 rebasing
+rebeccapurple
 recomponent
 reconcatenate
 reconnection
@@ -2159,6 +2160,7 @@ resizable
 resolvers
 resourceattributenotfounderror
 respace
+responders
 respondjs
 responsivetable
 resps
@@ -2194,10 +2196,12 @@ rollbacked
 rollups
 romanization
 romanized
+romellem
 rominf
 ronkorving
 ronn
 rootid
+rosybrown
 routable
 routelist
 royalblue
@@ -2254,6 +2258,7 @@ scrollspy
 scrollstart
 scrollstop
 sdispater
+seagreen
 searchableselect
 seconden
 secondes
@@ -2274,6 +2279,7 @@ sekundoj
 sekuntia
 selectedcontacts
 selectee
+selectionchange
 selfconnection
 sellable
 seltests
@@ -2347,11 +2353,13 @@ skinnable
 skiptags
 skipunless
 skool
+skyblue
 slackwalker
 slashy
 slateblue
 slatedocs
 slategray
+slategrey
 slenska
 sliceable
 slidechanged
@@ -2410,6 +2418,7 @@ splitlines
 splitted
 spookylukey
 spooledtempfile
+springgreen
 spritecss
 spritemapped
 spritemaps
@@ -2426,9 +2435,11 @@ starrhorne
 startposition
 startswith
 stderr
+steelblue
 stefanschenk
 stelcheck
 stemh
+stemv
 stepleave
 stereographic
 sterseniz
@@ -3414,10 +3425,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-stemv
-steelblue
-springgreen
-slategrey
-skyblue
-selectionchange
-seagreen
+readeral
