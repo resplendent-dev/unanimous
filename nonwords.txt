@@ -1887,8 +1887,10 @@ poderoso
 podne
 pointerenter
 pointerleave
+pointermove
 pointerout
 pointerover
+pointerup
 pointsize
 polyfills
 pondelok
@@ -2071,7 +2073,9 @@ rcoles
 rconradharris
 rdar
 reactnative
+reactroot
 readd
+readeral
 realityking
 realname
 realworld
@@ -3425,4 +3429,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-readeral
