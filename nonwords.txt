@@ -111,6 +111,7 @@ attacklab
 attribs
 attrname
 attroperties
+atwho
 atype
 augend
 augmentable
@@ -457,6 +458,7 @@ dataframing
 dataless
 datapoints
 dataurlstring
+datedropper
 datetimes
 davglass
 davidrekow
@@ -544,6 +546,7 @@ detab
 detailmenu
 detailprint
 deterministically
+deutsch
 dev
 devexpress
 deviceid
@@ -704,6 +707,7 @@ errorlist
 ervenec
 escitalopram
 eslintrc
+espanol
 especificada
 essen
 este
@@ -806,6 +810,7 @@ focusable
 focusin
 focusout
 focusoutblur
+focussed
 fonctionnalit
 fonctionne
 fonctions
@@ -828,6 +833,7 @@ fragsize
 framebuffer
 framerates
 frameset
+francais
 fredag
 freenode
 freqprober
@@ -1004,6 +1010,7 @@ ibnida
 ibyk
 ibykge
 ibywgc
+ichord
 icio
 icontains
 ideographic
@@ -1047,7 +1054,6 @@ infctr
 inferencing
 inflight
 informations
-infos
 inglese
 inikulin
 inited
@@ -1057,6 +1063,7 @@ inlined
 inlining
 inprogress
 inputmode
+inputors
 instancia
 instante
 instantiation
@@ -1176,6 +1183,7 @@ kentaromiura
 kerning
 keskiviikkona
 kevgathuku
+keycodes
 keydown
 keyevent
 keyframes
@@ -1474,6 +1482,8 @@ misconfigured
 misencoded
 misnamings
 misordered
+mistyrose
+miterlimit
 mithriljs
 mixedcase
 mixups
@@ -1525,9 +1535,11 @@ mousedown
 mousedrag
 mouseenter
 mouseleave
+mousemove
 mousenter
 mouseout
 mouseover
+mouseup
 mout
 moviegeek
 mozcentral
@@ -1546,6 +1558,7 @@ multibuy
 multicasted
 multicasting
 multicurl
+multidate
 multidocument
 multiheaders
 multiplatform
@@ -1665,6 +1678,7 @@ northing
 noscript
 nosearch
 nosec
+noslash
 nostrud
 notedit
 notesequence
@@ -1728,14 +1742,17 @@ onhold
 onlinestatuschanged
 onload
 onlyhdwallpapers
+onmessage
 onposition
 onprogress
+onpropertychange
 onreadystatechange
 onscroll
 onsdag
 onstate
 onsuccess
 ontem
+ontimeout
 onunload
 onwards
 onwindowscroll
@@ -1757,6 +1774,7 @@ optionality
 optionals
 optname
 oraclegis
+orangered
 orderedmultimdict
 orderer
 oretha
@@ -1804,12 +1822,16 @@ pageshow
 pagetime
 pagi
 paldepind
+palegoldenrod
 palegreen
 paletted
+paleturquoise
+palevioletred
 pannable
 panoramica
 panose
 panzerdp
+papayawhip
 parallelization
 parallelizes
 parametrizes
@@ -1841,6 +1863,7 @@ pcen
 pchar
 pcnoordhuis
 pdate
+peachpuff
 peity
 pencilblue
 pengambil
@@ -1866,6 +1889,7 @@ phonenumberutil
 pianoroll
 pianorolls
 piattaforma
+pickadate
 pickset
 pids
 pinst
@@ -1878,6 +1902,7 @@ plainstr
 platformi
 platformlarda
 playability
+playdate
 playmany
 plotclick
 pluggability
@@ -1885,6 +1910,8 @@ plusequals
 pnotify
 poderoso
 podne
+pointercancel
+pointerdown
 pointerenter
 pointerleave
 pointermove
@@ -2371,6 +2398,7 @@ slidee
 slideup
 slika
 sloria
+slovenian
 slowreportpath
 slugified
 smallinteger
@@ -2826,6 +2854,7 @@ uglified
 uglify
 uids
 ukey
+ukrainian
 ul
 ulimit
 ullamco
@@ -2932,6 +2961,7 @@ unmemoization
 unmemoize
 unmemoizing
 unmemoziation
+unminified
 unmocked
 unmoderated
 unmount
@@ -3244,6 +3274,7 @@ xdate
 xdeadbeef
 xdirection
 xdvi
+xeeali
 xenial
 xepb
 xeval
@@ -3412,6 +3443,7 @@ zipball
 zipcity
 zipname
 ziyaret
+zloirock
 zmap
 zmusic
 zomg
