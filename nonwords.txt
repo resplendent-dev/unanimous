@@ -772,6 +772,7 @@ flaticons
 flatmapwithconcurrencylimit
 flickable
 floppyform
+floralwhite
 flsf
 flyout
 fmod
@@ -788,6 +789,7 @@ foobarhello
 fooo
 foos
 forcelist
+forestgreen
 forin
 formato
 formatos
@@ -799,6 +801,7 @@ fragmenthidden
 fragmentshown
 fragsize
 framebuffer
+framerates
 frameset
 fredag
 freenode
@@ -833,6 +836,7 @@ fxshow
 fylker
 gaborsar
 gaeopenid
+gainsboro
 gamers
 garyd
 gater
@@ -889,6 +893,7 @@ googleuniversalanalytics
 gosquared
 gothic
 gotoh
+gotpointercapture
 gplv
 gpzy
 graticule
