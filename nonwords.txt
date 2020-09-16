@@ -3429,3 +3429,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+zloirock
+pointerdown
+pointercancel
+peachpuff
+papayawhip
+palevioletred
