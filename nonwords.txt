@@ -3342,3 +3342,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+bchanx
+gunnarx
+yellowgreen
+tblr
+stemh
+slategray
