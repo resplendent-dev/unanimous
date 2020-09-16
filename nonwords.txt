@@ -1577,8 +1577,10 @@ nickstenning
 nicode
 nightlies
 nightwatchjs
+nikrowell
 nique
 nisi
+niubsta
 nmatpt
 nname
 nnen
@@ -1659,6 +1661,8 @@ ogni
 okey
 olarak
 olddisplay
+oldlace
+olivedrab
 omdict
 omtrent
 onabort
@@ -1754,9 +1758,11 @@ pageshow
 pagetime
 pagi
 paldepind
+palegreen
 paletted
 pannable
 panoramica
+panose
 panzerdp
 parallelization
 parallelizes
@@ -1869,6 +1875,7 @@ postprocessed
 postprocessors
 potente
 pouvez
+powderblue
 pquentin
 preaction
 preassign
@@ -2008,6 +2015,7 @@ randocall
 rangez
 raphaelcruzeiro
 raspo
+ratechange
 ratiofieldname
 ratiofields
 rauchg
@@ -2146,6 +2154,7 @@ ronn
 rootid
 routable
 routelist
+royalblue
 rqtp
 rquery
 rrcurveto
@@ -3352,9 +3361,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-royalblue
-ratechange
-powderblue
-panose
-palegreen
-olivedrab
