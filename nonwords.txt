@@ -3415,3 +3415,9 @@ ztol
 zyxwvu
 zzarcon
 stemv
+steelblue
+springgreen
+slategrey
+skyblue
+selectionchange
+seagreen
