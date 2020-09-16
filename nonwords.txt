@@ -3388,3 +3388,9 @@ ehellman
 deeppink
 darkviolet
 darkturquoise
+darkslategrey
+darkred
+darkorange
+darkolivegreen
+darkmagenta
+darkkhaki
