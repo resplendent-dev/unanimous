@@ -3352,3 +3352,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+royalblue
+ratechange
+powderblue
+panose
+palegreen
+olivedrab
