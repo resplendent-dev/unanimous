@@ -3473,3 +3473,9 @@ wcykge
 vdykge
 rescaling
 endbyte
+adher
+undirectional
+unsets
+unconfigurable
+testspec
+subclassable
