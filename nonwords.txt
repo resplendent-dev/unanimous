@@ -3485,3 +3485,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+ruid
+autosizing
+precompute
+repositioned
+unbridge
+focuselement
