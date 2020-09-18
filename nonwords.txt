@@ -151,6 +151,7 @@ automodule
 autopause
 autopurge
 autosave
+autosizing
 autoslidepaused
 autoslideresumed
 autostop
@@ -815,6 +816,7 @@ flyout
 fmod
 fname
 focusable
+focuselement
 focusin
 focusout
 focusoutblur
@@ -1973,6 +1975,7 @@ precompile
 precompiled
 precompiling
 precomputation
+precompute
 preconfigured
 predefine
 prefetched
@@ -2170,6 +2173,7 @@ rendere
 renewtoken
 reorderer
 replicability
+repositioned
 repositions
 repositori
 reposunu
@@ -2259,6 +2263,7 @@ rsts
 rtfrodrigo
 rtype
 rubyracer
+ruid
 rundelay
 runshell
 runtimes
@@ -2888,6 +2893,7 @@ unbinder
 unblind
 unboxing
 unbreak
+unbridge
 unbundled
 uncached
 uncapitalise
@@ -3485,9 +3491,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-ruid
-autosizing
-precompute
-repositioned
-unbridge
-focuselement
+arashmanteghi
