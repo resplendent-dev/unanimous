@@ -182,7 +182,6 @@ basedir
 basename
 basepath
 basestring
-bashrc
 basicsep
 bastardised
 batchrange
@@ -243,6 +242,7 @@ browsable
 browserback
 browserscope
 brushable
+brutaldesign
 bsdglob
 bselector
 bskinsm
@@ -1228,6 +1228,7 @@ korisni
 korisnih
 koristite
 kouio
+kovadani
 kovi
 kowal
 kuluttua
@@ -2036,6 +2037,7 @@ preval
 previewfailure
 previewlinks
 previewsuccess
+prevslide
 pribli
 primjer
 primjerima
@@ -2330,6 +2332,8 @@ screenreaders
 scriptlet
 scrollbar
 scrollbars
+scrollers
+scrollmonitor
 scrollspy
 scrollstart
 scrollstop
@@ -2583,6 +2587,7 @@ subexception
 subexceptions
 subfields
 subfolder
+subhtml
 subitem
 subitems
 subjacente
