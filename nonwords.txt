@@ -3525,3 +3525,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+kovadani
+subhtml
+prevslide
+scrollers
+scrollmonitor
+brutaldesign
