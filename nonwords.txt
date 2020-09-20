@@ -478,6 +478,7 @@ datedropper
 datetimes
 davglass
 davidrekow
+davidwalsh
 davy
 dbef
 dbforce
@@ -826,6 +827,8 @@ flashblock
 flaskblog
 flaticons
 flatmapwithconcurrencylimit
+flexboxgrid
+flexgrid
 flickable
 floppyform
 floralwhite
@@ -1247,6 +1250,7 @@ kouio
 kovadani
 kovi
 kowal
+kristoferjoseph
 kuluttua
 kurang
 kuukauden
@@ -1408,6 +1412,7 @@ mapfn
 mappable
 marcellefter
 marcelodolza
+marcolago
 marcuswestin
 markdalgleish
 markdownpage
@@ -1942,6 +1947,7 @@ pgoffset
 pgproto
 pgroto
 philippeluickx
+philipwalton
 phonegap
 phonenumberutil
 pianoroll
@@ -3564,9 +3570,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-philipwalton
-kristoferjoseph
-marcolago
-flexgrid
-flexboxgrid
-davidwalsh
