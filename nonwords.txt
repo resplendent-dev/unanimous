@@ -1083,6 +1083,7 @@ incase
 includable
 includeme
 incompressible
+incorrects
 incr
 incrementing
 indentby
@@ -1133,6 +1134,7 @@ invertible
 invoiceitems
 ioredis
 ipaddrs
+iphoneoscodecs
 ipod
 iress
 irreplacable
@@ -1173,6 +1175,7 @@ jasminewd
 javascripts
 jbinary
 jblas
+jdalton
 jdataview
 jeesh
 jeffknupp
@@ -1620,6 +1623,7 @@ mtavruli
 mthread
 mthreading
 mtitg
+muddledramblings
 multiaxis
 multibuy
 multicasted
@@ -1741,6 +1745,7 @@ nonexisting
 noninteractive
 nonlinearity
 nonlocal
+nonprefixed
 nonprintable
 nonsensuous
 nonword
@@ -2040,6 +2045,7 @@ powderblue
 pquentin
 preaction
 preassign
+prebaked
 precached
 precalculating
 precallfunc
@@ -2452,6 +2458,7 @@ sheweichun
 shifters
 shiftzwei
 shived
+shiving
 shortcutted
 shorthands
 shouldn
@@ -2561,6 +2568,7 @@ sqrt
 squarified
 squoosh
 srcuri
+srufaculty
 ssfi
 ssize
 stackability
@@ -3593,9 +3601,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-srufaculty
-shiving
-prebaked
-nonprefixed
-muddledramblings
-jdalton
