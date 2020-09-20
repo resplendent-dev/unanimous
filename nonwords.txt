@@ -13,6 +13,7 @@ accusamus
 aclauthorizationpolicy
 aclose
 aclosing
+activations
 aculo
 addedon
 addfinalizer
@@ -415,8 +416,10 @@ coplanar
 corel
 coth
 couldn
+counterintuitively
 cov
 coveragerc
+creatable
 createjs
 creativecommons
 cript
@@ -621,6 +624,7 @@ domready
 donationware
 dotless
 doubleclicks
+dpam
 dpcm
 dppx
 dragend
@@ -844,6 +848,7 @@ fooo
 foos
 forcelist
 forestgreen
+forgivey
 forin
 formato
 formatos
@@ -858,6 +863,7 @@ framebuffer
 framerates
 frameset
 francais
+frebsite
 fredag
 freenode
 freqprober
@@ -1036,6 +1042,7 @@ ibykge
 ibywgc
 ichord
 icio
+iconbar
 icontains
 ideographic
 iendswith
@@ -1527,6 +1534,8 @@ mkvirtualenv
 mlms
 mlt
 mmacmillan
+mmenu
+mmenujs
 mmerickel
 mname
 mnobject
@@ -1640,6 +1649,7 @@ natively
 nativescript
 natten
 navajowhite
+navbars
 navigations
 nbayramberdiyev
 nbest
@@ -1775,6 +1785,7 @@ onabort
 onbeforeactivate
 onbeforeremove
 onblur
+oncanvas
 onclick
 oncreate
 onend
@@ -2802,6 +2813,7 @@ thunkp
 thursday
 tidx
 tildeio
+tileview
 timar
 timberlandonline
 timedeltas
@@ -2921,6 +2933,7 @@ tyle
 typedefn
 typename
 typeof
+typings
 typoes
 uage
 uchardet
@@ -3551,15 +3564,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-counterintuitively
-forgivey
-activations
-dpam
-creatable
-iconbar
-mmenu
-oncanvas
-typings
-tileview
-navbars
-mmenujs
