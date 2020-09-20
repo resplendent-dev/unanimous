@@ -28,6 +28,7 @@ aebeaaf
 aeiou
 afficher
 afilp
+aflesler
 africa
 afshinmeh
 aiohttpparser
@@ -164,6 +165,9 @@ axios
 ayer
 azimuthal
 baar
+babelified
+babydoll
+backburner
 backcompat
 backface
 backported
@@ -240,6 +244,7 @@ brigen
 broj
 browsable
 browserback
+browserified
 browserscope
 brushable
 brutaldesign
@@ -558,6 +563,7 @@ deutsch
 dev
 devexpress
 deviceid
+devicemotion
 deviceobj
 deviceobject
 deviceready
@@ -605,6 +611,7 @@ documentclass
 dodgily
 doesn
 doesnt
+doesville
 dollarstring
 dolore
 domify
@@ -1866,6 +1873,8 @@ panoramica
 panose
 panzerdp
 papayawhip
+parallaxed
+parallaxing
 parallelization
 parallelizes
 parametrizes
@@ -1935,6 +1944,8 @@ placeless
 plainstr
 platformi
 platformlarda
+plax
+plaxify
 playability
 playdate
 playmany
@@ -2253,6 +2264,7 @@ revalidates
 revalidating
 revalidation
 reviver
+rewalk
 rght
 ribeye
 rickygu
@@ -2450,6 +2462,7 @@ slovenian
 slowreportpath
 slugified
 smallinteger
+smartdevice
 smgid
 snackbar
 snapshotting
@@ -2664,6 +2677,7 @@ supersets
 suspendable
 sustavu
 sutra
+suuuuuper
 svara
 sveltejs
 svenstaro
@@ -3245,6 +3259,7 @@ vuotta
 vvvpq
 waaaay
 waddlelikeaduck
+wagerfield
 waitforelements
 waitings
 waivable
@@ -3530,15 +3545,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-browserified
-babelified
-wagerfield
-smartdevice
-rewalk
-aflesler
-parallaxed
-doesville
-backburner
-babydoll
-parallaxing
-plax
