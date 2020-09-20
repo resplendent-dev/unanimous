@@ -3557,3 +3557,9 @@ activations
 dpam
 creatable
 iconbar
+mmenu
+oncanvas
+typings
+tileview
+navbars
+mmenujs
