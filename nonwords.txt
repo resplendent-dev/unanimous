@@ -3545,3 +3545,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+stephband
+localmouse
+mouseport
+jparallax
+elems
+scrollmenu
