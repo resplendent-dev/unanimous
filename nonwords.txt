@@ -85,6 +85,7 @@ arashmanteghi
 archimedean
 architected
 aren
+arent
 argname
 argumentconverter
 argumentmapper
@@ -228,6 +229,7 @@ blockblobservice
 blowsie
 bluelaguna
 blueviolet
+bluezed
 bmintz
 bodycopy
 boilerplatey
@@ -377,10 +379,13 @@ codings
 codingstandard
 codingstatemachine
 coffeedoc
+colgroup
+colgroups
 collapsedness
 collectassets
 collinear
 colormapped
+colspans
 comandos
 combinable
 combinator
@@ -473,6 +478,7 @@ dass
 dataframing
 dataless
 datapoints
+datatableized
 dataurlstring
 datedropper
 datetimes
@@ -812,6 +818,7 @@ fileno
 fileoverview
 filepost
 fileprogress
+filesave
 fileservice
 filetuple
 filteredimage
@@ -1060,6 +1067,7 @@ ilike
 imag
 imagegenerators
 imageize
+imagemin
 imagetypes
 imho
 imitatio
@@ -1129,6 +1137,7 @@ irreplacable
 irure
 isable
 isatty
+isnt
 isogram
 ispending
 isrss
@@ -1599,6 +1608,7 @@ mozcentral
 mrdimosthenis
 mrjoelkemp
 mrksmts
+mrmrs
 msgid
 msgids
 msie
@@ -1867,6 +1877,7 @@ overparameterization
 overplotting
 overridability
 overridable
+overscroll
 overviewhidden
 overwritable
 oxfe
@@ -1973,6 +1984,7 @@ playmany
 plotclick
 pluggability
 plusequals
+pngcrush
 pnotify
 poderoso
 podne
@@ -2842,6 +2854,7 @@ tisba
 tissot
 titlebar
 tlrobinson
+tmlee
 tmpfs
 tmshn
 toall
@@ -3017,6 +3030,7 @@ unexported
 unflagged
 unflattened
 unflattening
+unfloated
 unfocus
 unforked
 unforking
@@ -3570,15 +3584,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-unfloated
-datatableized
-bluezed
-arent
-colgroups
-tmlee
-overscroll
-isnt
-colspans
-colgroup
-pngcrush
-mrmrs
