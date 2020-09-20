@@ -669,6 +669,7 @@ elementinternal
 elementlocation
 elementresize
 elementspath
+elems
 elif
 elkan
 elts
@@ -1168,6 +1169,7 @@ joomla
 joseanpg
 joshnh
 jour
+jparallax
 jpcntx
 jpcntxprober
 jpegsave
@@ -1333,6 +1335,7 @@ localenegotiator
 localeselector
 localidade
 localmax
+localmouse
 localstore
 localtime
 locmem
@@ -1574,6 +1577,7 @@ mousemove
 mousenter
 mouseout
 mouseover
+mouseport
 mouseup
 mout
 moviegeek
@@ -2345,6 +2349,7 @@ scriptlet
 scrollbar
 scrollbars
 scrollers
+scrollmenu
 scrollmonitor
 scrollspy
 scrollstart
@@ -2534,6 +2539,7 @@ stefanschenk
 stelcheck
 stemh
 stemv
+stephband
 stepleave
 stereographic
 sterseniz
@@ -3545,9 +3551,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-stephband
-localmouse
-mouseport
-jparallax
-elems
-scrollmenu
