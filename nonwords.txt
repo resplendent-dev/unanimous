@@ -3614,3 +3614,9 @@ danzel
 uninheritable
 rwev
 customisable
+atstp
+zoomdelta
+upscaling
+tooltipopen
+tooltipclose
+tnightingale
