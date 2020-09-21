@@ -101,6 +101,7 @@ articletags
 artige
 asian
 asin
+aspx
 assertsetequal
 assignees
 asyncgen
@@ -637,6 +638,7 @@ domready
 donationware
 dotless
 doubleclicks
+doubletap
 dpam
 dpcm
 dppx
@@ -1005,6 +1007,7 @@ hashmap
 hashmaps
 hasn
 hasta
+havemeyer
 hdinfo
 headful
 heapu
@@ -1236,6 +1239,7 @@ keepdb
 keine
 keisheiled
 kennethreitz
+kent
 kentaromiura
 kerning
 keskiviikkona
@@ -1644,6 +1648,7 @@ multiplatform
 multiplesite
 multiplicated
 multirun
+multiscaletilesource
 multiserver
 multitouch
 multitree
@@ -1750,6 +1755,7 @@ nonbillable
 noneditable
 nonew
 nonexisting
+noniles
 noninteractive
 nonlinearity
 nonlocal
@@ -2616,6 +2622,7 @@ streamgraph
 streamreader
 streamreaders
 streamwriter
+streetlabels
 stringformatting
 stringifiable
 stringification
@@ -2744,8 +2751,11 @@ svara
 sveltejs
 svenstaro
 svgz
+swoopy
+sxua
 syllabary
 symb
+symbolizers
 symbolp
 symlinked
 symlinkfile
@@ -3638,9 +3648,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-symbolizers
-sxua
-swoopy
-streetlabels
-noniles
-kent
