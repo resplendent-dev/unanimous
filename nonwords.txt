@@ -38,6 +38,7 @@ ajki
 albertgao
 aleja
 aleskarovadi
+alexanderdickson
 aliceblue
 aliqua
 aliquip
@@ -156,6 +157,7 @@ automapped
 automatiza
 automodule
 autopause
+autoplaying
 autopurge
 autosave
 autosizing
@@ -185,6 +187,7 @@ backtick
 bairro
 barangay
 barangays
+barky
 bartaz
 barycentric
 basedir
@@ -234,6 +237,7 @@ bluelaguna
 blueviolet
 bluezed
 bmintz
+bobbysud
 bodycopy
 boilerplatey
 bolded
@@ -265,6 +269,7 @@ bugridden
 bugzil
 buildable
 buildbots
+builddate
 bulan
 burgerservicenummer
 burlywood
@@ -343,6 +348,7 @@ childview
 chilpit
 ching
 chjj
+choroplet
 chrishumboldt
 chrissrogers
 christopher
@@ -1396,6 +1402,7 @@ lstrip
 ltima
 ltimas
 luanginx
+ludacris
 luego
 lukasa
 luminance
@@ -1436,6 +1443,7 @@ manje
 manpages
 manytomany
 mapfn
+mapofthings
 mappable
 marcellefter
 marcelodolza
@@ -1522,6 +1530,7 @@ mihpayid
 mikael
 mikehelmick
 miketaylr
+mikezarandona
 milissegundos
 mimeype
 mimicus
@@ -1730,6 +1739,7 @@ nikrowell
 nique
 nisi
 niubsta
+njcqy
 nmatpt
 nname
 nnen
@@ -1773,6 +1783,7 @@ nosearch
 nosec
 noslash
 nostrud
+nosuchimage
 notedit
 notesequence
 notexample
@@ -2110,6 +2121,7 @@ preuzeti
 preval
 previewfailure
 previewlinks
+previewsize
 previewsuccess
 prevslide
 pribli
@@ -2483,6 +2495,7 @@ shorthands
 shouldn
 showbrowser
 showdownjs
+showinfo
 shuding
 sideload
 siden
@@ -2750,6 +2763,8 @@ suuuuuper
 svara
 sveltejs
 svenstaro
+svgmap
+svgurl
 svgz
 swoopy
 sxua
@@ -2871,6 +2886,7 @@ thursday
 tidx
 tildeio
 tilelayers
+tilestream
 tileview
 timar
 timberlandonline
@@ -3073,6 +3089,7 @@ unescaped
 unescaping
 unexisting
 unexported
+unfindable
 unflagged
 unflattened
 unflattening
@@ -3107,6 +3124,7 @@ uninstantiated
 unintuitive
 uninvoked
 unioned
+unioning
 uniquified
 uniquifies
 unitless
@@ -3218,6 +3236,7 @@ updatesubs
 updatingrelationship
 upperbound
 uppercased
+uppercaseness
 uppercases
 upsample
 upsampling
@@ -3311,6 +3330,7 @@ veza
 vformat
 vhcurveto
 videoblog
+videoid
 viernes
 viewable
 viewcode
@@ -3625,6 +3645,7 @@ zipcity
 zipname
 ziyaret
 zloirock
+zlzxjew
 zmap
 zmusic
 zomg
