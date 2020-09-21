@@ -113,6 +113,7 @@ atan
 atau
 atomicity
 atronah
+atstp
 attacklab
 attribs
 attrname
@@ -449,6 +450,7 @@ curpage
 curr
 cursored
 customdashboard
+customisable
 customizations
 customizingformtemplates
 cvkef
@@ -463,6 +465,7 @@ dalek
 danas
 dandehavilland
 dandv
+danzel
 dari
 darkblue
 darkcyan
@@ -936,6 +939,7 @@ getcwd
 getfirebug
 gethostbyname
 getpeercert
+getpixelorigin
 getppid
 getputdelete
 getset
@@ -2009,6 +2013,7 @@ pointerleave
 pointermove
 pointerout
 pointerover
+pointersets
 pointerup
 pointsize
 polyfilling
@@ -2022,6 +2027,7 @@ popitem
 popodne
 popstate
 populators
+popupclose
 popvalue
 portis
 positionally
@@ -2358,6 +2364,7 @@ runshell
 runtimes
 russia
 rvagg
+rwev
 ryanmcgrath
 ryanvarley
 ryoryomaru
@@ -2878,6 +2885,7 @@ tlrobinson
 tmlee
 tmpfs
 tmshn
+tnightingale
 toall
 tobiasbueschel
 tobiaslins
@@ -2895,6 +2903,8 @@ tommyod
 tonnetz
 tonos
 toolfunc
+tooltipclose
+tooltipopen
 topbar
 topline
 toproperty
@@ -3076,6 +3086,7 @@ unidades
 unindent
 unindented
 unindexed
+uninheritable
 uninstantiated
 unintuitive
 uninvoked
@@ -3193,6 +3204,7 @@ uppercases
 upsample
 upsampling
 upscaled
+upscaling
 upsize
 upstreams
 upto
@@ -3597,6 +3609,7 @@ zomg
 zomgdev
 zondag
 zoomable
+zoomdelta
 zorder
 zouts
 zpk
@@ -3608,15 +3621,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-pointersets
-getpixelorigin
-danzel
-uninheritable
-rwev
-customisable
-atstp
-zoomdelta
-upscaling
-tooltipopen
-tooltipclose
-tnightingale
