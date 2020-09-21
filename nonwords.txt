@@ -1301,6 +1301,7 @@ latinised
 latinized
 latt
 laxbreak
+layerremove
 lazybird
 lcih
 lcik
@@ -3610,9 +3611,14 @@ zomgdev
 zondag
 zoomable
 zoomdelta
+zoomend
+zoominfo
+zoomlevelschange
+zoomout
 zorder
 zouts
 zpk
+zregexparse
 zright
 zscored
 zscores
@@ -3621,9 +3627,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-layerremove
-zregexparse
-zoomout
-zoomlevelschange
-zoominfo
-zoomend
