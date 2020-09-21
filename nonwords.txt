@@ -3621,3 +3621,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+layerremove
+zregexparse
+zoomout
+zoomlevelschange
+zoominfo
+zoomend
