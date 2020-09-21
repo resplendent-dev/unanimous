@@ -3638,3 +3638,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+symbolizers
+sxua
+swoopy
+streetlabels
+noniles
+kent
