@@ -65,6 +65,7 @@ anim
 animatable
 anims
 annyang
+anonymizing
 anos
 anphisa
 anselmstordeur
@@ -247,6 +248,7 @@ brigen
 broj
 browsable
 browserback
+browserconfig
 browserified
 browserscope
 brushable
@@ -1024,6 +1026,7 @@ hljslicense
 hodina
 hoje
 hollaback
+homescreen
 hookings
 hores
 horoj
@@ -2008,6 +2011,7 @@ pointerout
 pointerover
 pointerup
 pointsize
+polyfilling
 polyfills
 pondelok
 ponedjeljak
@@ -2058,6 +2062,7 @@ precompute
 preconfigured
 predefine
 prefetched
+prefetches
 prefill
 prefilter
 prefilters
@@ -3336,6 +3341,7 @@ weakrefs
 webasset
 webgl
 webinista
+webmanifest
 webobparser
 webpacks
 webservers
@@ -3357,6 +3363,7 @@ whitelists
 whitesmoke
 wigtobigwig
 wildcarded
+wilto
 windowsconsoleio
 windoze
 wininst
