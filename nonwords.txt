@@ -38,6 +38,7 @@ ajki
 albertgao
 aleja
 aleskarovadi
+alexanderdickson
 aliceblue
 aliqua
 aliquip
@@ -265,6 +266,7 @@ bugridden
 bugzil
 buildable
 buildbots
+builddate
 bulan
 burgerservicenummer
 burlywood
@@ -343,6 +345,7 @@ childview
 chilpit
 ching
 chjj
+choroplet
 chrishumboldt
 chrissrogers
 christopher
@@ -837,6 +840,7 @@ findone
 firma
 firstparty
 fitzpatrick
+fiven
 fixups
 fizfuz
 flashblock
@@ -1522,6 +1526,7 @@ mihpayid
 mikael
 mikehelmick
 miketaylr
+mikezarandona
 milissegundos
 mimeype
 mimicus
@@ -2110,6 +2115,7 @@ preuzeti
 preval
 previewfailure
 previewlinks
+previewsize
 previewsuccess
 prevslide
 pribli
@@ -2483,6 +2489,7 @@ shorthands
 shouldn
 showbrowser
 showdownjs
+showinfo
 shuding
 sideload
 siden
@@ -2750,6 +2757,8 @@ suuuuuper
 svara
 sveltejs
 svenstaro
+svgmap
+svgurl
 svgz
 swoopy
 sxua
@@ -3311,6 +3320,7 @@ veza
 vformat
 vhcurveto
 videoblog
+videoid
 viernes
 viewable
 viewcode
@@ -3648,9 +3658,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-svgmap
-svgurl
-choroplet
-builddate
-previewsize
-alexanderdickson
