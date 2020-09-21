@@ -3648,3 +3648,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+svgmap
+svgurl
+choroplet
+builddate
+previewsize
+alexanderdickson
