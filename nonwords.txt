@@ -3601,3 +3601,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+wilto
+anonymizing
+browserconfig
+prefetches
+webmanifest
+polyfilling
