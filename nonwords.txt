@@ -1161,6 +1161,7 @@ invadido
 invalidations
 invertible
 invoiceitems
+ionsound
 ioredis
 ipaddrs
 iphoneoscodecs
@@ -1671,6 +1672,7 @@ multidate
 multidocument
 multiheaders
 multiplatform
+multiplay
 multiplesite
 multiplicated
 multirun
@@ -1768,6 +1770,7 @@ nodelist
 nodemailer
 nodoc
 noempty
+noexif
 noglobals
 noimagehere
 noinput
@@ -2779,6 +2782,7 @@ supdiag
 superclasses
 superevr
 superfast
+supernew
 superroma
 supersets
 suspendable
@@ -2876,6 +2880,7 @@ textboxes
 textcb
 textfiles
 textitem
+textmate
 texttrackchange
 tfoot
 tga
@@ -2935,6 +2940,7 @@ tipiirai
 tisba
 tissot
 titlebar
+tjfwb
 tlrobinson
 tmlee
 tmpfs
@@ -2949,6 +2955,8 @@ tocscope
 todas
 todense
 toeventstream
+togglecomment
+togglerecording
 tokenizes
 tokenizing
 tokentype
@@ -2992,6 +3000,7 @@ transpiled
 transpilers
 transpiles
 transpiling
+transposeletters
 traversable
 treemode
 treeshaking
@@ -3121,6 +3130,7 @@ unflattened
 unflattening
 unfloated
 unfocus
+unfoldall
 unforked
 unforking
 unformatted
@@ -3358,6 +3368,7 @@ vformat
 vhcurveto
 videoblog
 videoid
+videostream
 viernes
 viewable
 viewcode
@@ -3697,9 +3708,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-multiplay
-ionsound
-videostream
-noexif
-unfoldall
-transposeletters
