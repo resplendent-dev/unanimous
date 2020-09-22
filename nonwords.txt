@@ -252,6 +252,7 @@ bootstrapform
 bootstraponline
 booyah
 boudin
+bouncejs
 bowser
 brickwall
 brigen
@@ -462,6 +463,7 @@ cupidatat
 curpage
 curr
 cursored
+curviness
 customdashboard
 customisable
 customizations
@@ -675,6 +677,7 @@ duplicative
 durationchange
 dwatow
 dydd
+dynamicsjs
 dynamiczone
 eacute
 eaparango
@@ -2271,6 +2274,7 @@ rebeccapurple
 reblink
 rebranded
 rebranding
+recompiles
 recomponent
 reconcatenate
 reconnection
@@ -3364,6 +3368,7 @@ vectorization
 vectorizers
 veis
 velit
+velocityjs
 vendored
 vendredi
 veniam
@@ -3563,6 +3568,7 @@ xmul
 xname
 xnew
 xobj
+xorshift
 xp
 xpartial
 xpaths
@@ -3725,9 +3731,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-recompiles
-bouncejs
-curviness
-velocityjs
-xorshift
-dynamicsjs
