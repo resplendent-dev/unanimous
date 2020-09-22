@@ -902,6 +902,7 @@ francais
 frebsite
 fredag
 freenode
+freqdec
 freqprober
 frequentes
 frequenti
@@ -1044,6 +1045,7 @@ hexlifies
 hexlify
 hexload
 hightables
+historymanagement
 hitcounts
 hl
 hljs
@@ -2416,6 +2418,7 @@ ryoryomaru
 saddlebrown
 sadielbartholomew
 safestring
+sagitta
 salla
 samplee
 sampleimages
@@ -2551,6 +2554,11 @@ skiptags
 skipunless
 skool
 skyblue
+slabtext
+slabtextdone
+slabtexted
+slabtextinactive
+slabtype
 slackwalker
 slashy
 slateblue
@@ -2598,6 +2606,7 @@ someurl
 someutfcharacters
 soname
 sortation
+sortlines
 sorton
 sottostante
 soundstart
@@ -2648,6 +2657,7 @@ stereographic
 sterseniz
 stevenlevithan
 stevenmiller
+sthrough
 sticked
 stickypanel
 stopasgroup
@@ -3708,9 +3718,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-sthrough
-sortlines
-historymanagement
-sagitta
-slabtype
-slabtextinactive
