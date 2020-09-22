@@ -3684,3 +3684,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+flashaudio
+kbps
+firstplay
+texttrackchange
+pluginsetup
+leavepictureinpicture
