@@ -69,6 +69,7 @@ anims
 annyang
 anonymizing
 anos
+anotherlogger
 anphisa
 anselmstordeur
 antimeridian
@@ -206,6 +207,7 @@ bchanx
 bdate
 bday
 beeing
+beforepluginsetup
 beforeremove
 behaverc
 benaadams
@@ -410,6 +412,7 @@ comparators
 complemento
 complementos
 completers
+componentresize
 composability
 compressibility
 computeds
@@ -736,6 +739,7 @@ enqueues
 enqueuing
 enskild
 enterable
+enterpictureinpicture
 entityref
 entre
 enumerables
@@ -846,9 +850,11 @@ findall
 findone
 firma
 firstparty
+firstplay
 fitzpatrick
 fixups
 fizfuz
+flashaudio
 flashblock
 flaskblog
 flaticons
@@ -1248,6 +1254,7 @@ jyfm
 kalekundert
 katayoku
 kavdev
+kbps
 keepdb
 keine
 keisheiled
@@ -1326,6 +1333,7 @@ lciwgb
 lckdyb
 lcykge
 leadfoot
+leavepictureinpicture
 leberkas
 lebih
 lechotet
@@ -2031,6 +2039,7 @@ playmany
 playpause
 plotclick
 pluggability
+pluginsetup
 plusequals
 pngcrush
 pnotify
@@ -2073,6 +2082,7 @@ postbody
 postcallfunc
 postclip
 postcsrf
+posterchange
 postfixed
 postfixes
 postgresserver
@@ -2459,6 +2469,7 @@ sekund
 sekundi
 sekundoj
 sekuntia
+selectedchange
 selectedcontacts
 selectee
 selectionchange
@@ -2547,6 +2558,7 @@ slenska
 sliceable
 slidechanged
 slidee
+slideractive
 slideup
 slika
 sloria
@@ -2864,6 +2876,7 @@ textboxes
 textcb
 textfiles
 textitem
+texttrackchange
 tfoot
 tga
 thaat
@@ -3684,15 +3697,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-flashaudio
-kbps
-firstplay
-texttrackchange
-pluginsetup
-leavepictureinpicture
-enterpictureinpicture
-componentresize
-beforepluginsetup
-anotherlogger
-slideractive
-selectedchange
