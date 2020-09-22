@@ -15,6 +15,7 @@ aclose
 aclosing
 activations
 aculo
+adactio
 addedon
 addfinalizer
 addinfourl
@@ -524,6 +525,7 @@ deallocated
 debitis
 debounce
 debounced
+debounces
 debouncing
 debugapp
 debuggability
@@ -1264,6 +1266,7 @@ keisheiled
 kennethreitz
 kent
 kentaromiura
+kerned
 kerning
 keskiviikkona
 kevgathuku
@@ -1813,6 +1816,7 @@ notexample
 notie
 notmodified
 notset
+novacancy
 novak
 nowrap
 noxfile
@@ -1990,12 +1994,14 @@ patchable
 patchbody
 pathname
 patik
+patrickmarabeas
 paulbocuse
 payloadgen
 pcen
 pchar
 pcnoordhuis
 pdate
+peacechen
 peachpuff
 peity
 pencilblue
@@ -2262,6 +2268,7 @@ reasking
 reauthenticate
 rebasing
 rebeccapurple
+reblink
 rebranded
 rebranding
 recomponent
@@ -3718,9 +3725,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-novacancy
-reblink
-patrickmarabeas
-debounces
-peacechen
-adactio
