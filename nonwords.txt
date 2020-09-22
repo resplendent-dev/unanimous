@@ -3697,3 +3697,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+multiplay
+ionsound
+videostream
+noexif
+unfoldall
+transposeletters
