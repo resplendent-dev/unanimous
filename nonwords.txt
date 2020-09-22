@@ -3708,3 +3708,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+sthrough
+sortlines
+historymanagement
+sagitta
+slabtype
+slabtextinactive
