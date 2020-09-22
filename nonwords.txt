@@ -3669,3 +3669,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+idents
+duplicative
+noncommercially
+mouseovered
+copyrightable
+playpause
