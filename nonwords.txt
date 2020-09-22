@@ -3690,3 +3690,9 @@ firstplay
 texttrackchange
 pluginsetup
 leavepictureinpicture
+enterpictureinpicture
+componentresize
+beforepluginsetup
+anotherlogger
+slideractive
+selectedchange
