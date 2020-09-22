@@ -2356,6 +2356,7 @@ rght
 ribeye
 rickygu
 rico
+rint
 ripplejs
 rmaktad
 rmillet
@@ -3163,6 +3164,7 @@ unmount
 unmounting
 unmounts
 unmute
+unmuting
 unnested
 unnormalized
 unobserve
