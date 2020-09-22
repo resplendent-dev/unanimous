@@ -15,6 +15,7 @@ aclose
 aclosing
 activations
 aculo
+adactio
 addedon
 addfinalizer
 addinfourl
@@ -25,6 +26,7 @@ adipisicing
 adir
 adjwt
 adminaction
+adresinden
 aebeaaf
 aeiou
 afficher
@@ -68,6 +70,7 @@ anims
 annyang
 anonymizing
 anos
+anotherlogger
 anphisa
 anselmstordeur
 antimeridian
@@ -205,6 +208,7 @@ bchanx
 bdate
 bday
 beeing
+beforepluginsetup
 beforeremove
 behaverc
 benaadams
@@ -409,6 +413,7 @@ comparators
 complemento
 complementos
 completers
+componentresize
 composability
 compressibility
 computeds
@@ -429,6 +434,7 @@ contentready
 controlgroup
 convnetjs
 coplanar
+copyrightable
 corel
 coth
 couldn
@@ -487,6 +493,7 @@ darkturquoise
 darkviolet
 dasd
 dasherize
+dashjs
 dass
 dataframing
 dataless
@@ -518,6 +525,7 @@ deallocated
 debitis
 debounce
 debounced
+debounces
 debouncing
 debugapp
 debuggability
@@ -663,6 +671,7 @@ dummyserver
 dumpable
 dumpscript
 duplications
+duplicative
 durationchange
 dwatow
 dydd
@@ -732,6 +741,7 @@ enqueues
 enqueuing
 enskild
 enterable
+enterpictureinpicture
 entityref
 entre
 enumerables
@@ -842,9 +852,11 @@ findall
 findone
 firma
 firstparty
+firstplay
 fitzpatrick
 fixups
 fizfuz
+flashaudio
 flashblock
 flaskblog
 flaticons
@@ -855,6 +867,7 @@ flickable
 floppyform
 floralwhite
 flsf
+flvjs
 flyout
 fmod
 fname
@@ -891,6 +904,7 @@ francais
 frebsite
 fredag
 freenode
+freqdec
 freqprober
 frequentes
 frequenti
@@ -969,6 +983,7 @@ globalstrict
 globbed
 glogging
 glyf
+gmbh
 gmtime
 gnarvaja
 gnomonic
@@ -1032,6 +1047,7 @@ hexlifies
 hexlify
 hexload
 hightables
+historymanagement
 hitcounts
 hl
 hljs
@@ -1072,6 +1088,7 @@ ichord
 icio
 iconbar
 icontains
+idents
 ideographic
 iendswith
 iffeature
@@ -1148,6 +1165,7 @@ invadido
 invalidations
 invertible
 invoiceitems
+ionsound
 ioredis
 ipaddrs
 iphoneoscodecs
@@ -1241,12 +1259,14 @@ jyfm
 kalekundert
 katayoku
 kavdev
+kbps
 keepdb
 keine
 keisheiled
 kennethreitz
 kent
 kentaromiura
+kerned
 kerning
 keskiviikkona
 kevgathuku
@@ -1319,6 +1339,7 @@ lciwgb
 lckdyb
 lcykge
 leadfoot
+leavepictureinpicture
 leberkas
 lebih
 lechotet
@@ -1628,6 +1649,7 @@ mousemove
 mousenter
 mouseout
 mouseover
+mouseovered
 mouseport
 mouseup
 mout
@@ -1645,6 +1667,7 @@ mthread
 mthreading
 mtitg
 muddledramblings
+muhdnurhidayat
 multiaxis
 multibuy
 multicasted
@@ -1654,6 +1677,7 @@ multidate
 multidocument
 multiheaders
 multiplatform
+multiplay
 multiplesite
 multiplicated
 multirun
@@ -1751,6 +1775,7 @@ nodelist
 nodemailer
 nodoc
 noempty
+noexif
 noglobals
 noimagehere
 noinput
@@ -1762,6 +1787,7 @@ nolint
 nomodule
 nonamefile
 nonbillable
+noncommercially
 noneditable
 nonew
 nonexisting
@@ -1790,6 +1816,7 @@ notexample
 notie
 notmodified
 notset
+novacancy
 novak
 nowrap
 noxfile
@@ -1967,12 +1994,14 @@ patchable
 patchbody
 pathname
 patik
+patrickmarabeas
 paulbocuse
 payloadgen
 pcen
 pchar
 pcnoordhuis
 pdate
+peacechen
 peachpuff
 peity
 pencilblue
@@ -1989,6 +2018,7 @@ permissionif
 permite
 personalmodule
 petrbela
+petter
 pgid
 pgoffset
 pgproto
@@ -2017,8 +2047,10 @@ plaxify
 playability
 playdate
 playmany
+playpause
 plotclick
 pluggability
+pluginsetup
 plusequals
 pngcrush
 pnotify
@@ -2061,6 +2093,7 @@ postbody
 postcallfunc
 postclip
 postcsrf
+posterchange
 postfixed
 postfixes
 postgresserver
@@ -2235,6 +2268,7 @@ reasking
 reauthenticate
 rebasing
 rebeccapurple
+reblink
 rebranded
 rebranding
 recomponent
@@ -2344,6 +2378,7 @@ rght
 ribeye
 rickygu
 rico
+rint
 ripplejs
 rmaktad
 rmillet
@@ -2390,6 +2425,7 @@ ryoryomaru
 saddlebrown
 sadielbartholomew
 safestring
+sagitta
 salla
 samplee
 sampleimages
@@ -2446,6 +2482,7 @@ sekund
 sekundi
 sekundoj
 sekuntia
+selectedchange
 selectedcontacts
 selectee
 selectionchange
@@ -2524,6 +2561,11 @@ skiptags
 skipunless
 skool
 skyblue
+slabtext
+slabtextdone
+slabtexted
+slabtextinactive
+slabtype
 slackwalker
 slashy
 slateblue
@@ -2534,6 +2576,7 @@ slenska
 sliceable
 slidechanged
 slidee
+slideractive
 slideup
 slika
 sloria
@@ -2570,6 +2613,7 @@ someurl
 someutfcharacters
 soname
 sortation
+sortlines
 sorton
 sottostante
 soundstart
@@ -2620,6 +2664,7 @@ stereographic
 sterseniz
 stevenlevithan
 stevenmiller
+sthrough
 sticked
 stickypanel
 stopasgroup
@@ -2754,6 +2799,7 @@ supdiag
 superclasses
 superevr
 superfast
+supernew
 superroma
 supersets
 suspendable
@@ -2851,6 +2897,8 @@ textboxes
 textcb
 textfiles
 textitem
+textmate
+texttrackchange
 tfoot
 tga
 thaat
@@ -2909,6 +2957,7 @@ tipiirai
 tisba
 tissot
 titlebar
+tjfwb
 tlrobinson
 tmlee
 tmpfs
@@ -2923,6 +2972,8 @@ tocscope
 todas
 todense
 toeventstream
+togglecomment
+togglerecording
 tokenizes
 tokenizing
 tokentype
@@ -2966,6 +3017,7 @@ transpiled
 transpilers
 transpiles
 transpiling
+transposeletters
 traversable
 treemode
 treeshaking
@@ -3095,6 +3147,7 @@ unflattened
 unflattening
 unfloated
 unfocus
+unfoldall
 unforked
 unforking
 unformatted
@@ -3151,6 +3204,7 @@ unmount
 unmounting
 unmounts
 unmute
+unmuting
 unnested
 unnormalized
 unobserve
@@ -3331,6 +3385,7 @@ vformat
 vhcurveto
 videoblog
 videoid
+videostream
 viernes
 viewable
 viewcode
@@ -3363,6 +3418,7 @@ volofiles
 volumechange
 voluptate
 voluptatum
+vorbisinfo
 voterid
 vprintf
 vrier
