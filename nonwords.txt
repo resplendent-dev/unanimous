@@ -3725,3 +3725,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+recompiles
+bouncejs
+curviness
+velocityjs
+xorshift
+dynamicsjs
