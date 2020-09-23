@@ -234,12 +234,14 @@ biste
 bitmasks
 bitshifts
 bjoerns
+blandit
 blcodes
 blewskiego
 blitting
 blkin
 bloburl
 blockblobservice
+blogpost
 blowsie
 bluelaguna
 blueviolet
@@ -424,6 +426,7 @@ composability
 compressibility
 computeds
 comsafearray
+condimentum
 configurability
 configuraci
 conformant
@@ -1339,6 +1342,7 @@ labore
 laboris
 laborum
 lacinia
+lacus
 ladda
 laiwei
 lamosity
@@ -1651,6 +1655,7 @@ mofile
 moins
 mois
 mojs
+molestie
 mollis
 mollit
 molti
@@ -1945,6 +1950,7 @@ optionals
 optname
 oraclegis
 orangered
+orci
 orderedmultimdict
 orderer
 oretha
@@ -2060,6 +2066,7 @@ pgid
 pgoffset
 pgproto
 pgroto
+pharetra
 philippeluickx
 philipwalton
 phonegap
@@ -3424,6 +3431,7 @@ vdeturckheim
 vdykge
 vectorization
 vectorizers
+vehicula
 veis
 velit
 velocityjs
@@ -3789,9 +3797,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-blogpost
-pharetra
-lacus
-vehicula
-orci
-blandit
