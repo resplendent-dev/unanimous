@@ -59,7 +59,6 @@ altho
 amanh
 amazonaws
 amin
-ampm
 ance
 ancock
 andouille
@@ -203,6 +202,7 @@ batchrange
 bauen
 bban
 bbbb
+bbjay
 bcde
 bchanx
 bdate
@@ -226,6 +226,7 @@ bhouston
 bhtml
 binarized
 bindable
+bindify
 biste
 bitmasks
 bitshifts
@@ -400,6 +401,7 @@ colgroups
 collapsedness
 collectassets
 collinear
+colocated
 colormapped
 colspans
 comandos
@@ -436,6 +438,7 @@ controlgroup
 convnetjs
 coplanar
 copyrightable
+corejs
 corel
 coth
 couldn
@@ -565,6 +568,7 @@ delle
 demanda
 dengan
 denilsonsa
+deopt
 deoptimizations
 deparam
 depascalize
@@ -2286,6 +2290,9 @@ recursing
 recursionlimit
 redbox
 redditclone
+redeclare
+redeclared
+redeclares
 rediff
 redispapa
 redisplay
@@ -2900,6 +2907,7 @@ textareas
 textboxes
 textcb
 textfiles
+textillate
 textitem
 textmate
 texttrackchange
@@ -2943,6 +2951,7 @@ tileview
 timar
 timberlandonline
 timedeltas
+timedout
 timeframe
 timein
 timelag
@@ -3015,6 +3024,7 @@ transduce
 transformx
 transitionend
 translationdir
+transparence
 transpilation
 transpile
 transpiled
@@ -3731,9 +3741,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-bbjay
-textillate
-transparence
-timedout
-deopt
-redeclared
