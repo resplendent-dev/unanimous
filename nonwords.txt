@@ -3731,3 +3731,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+bbjay
+textillate
+transparence
+timedout
+deopt
+redeclared
