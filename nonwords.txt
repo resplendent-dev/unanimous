@@ -3741,3 +3741,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+desugaring
+desugared
+mnieper
+jmesserly
+sucky
+strawman
