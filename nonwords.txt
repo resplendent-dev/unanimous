@@ -1388,6 +1388,7 @@ lightgreen
 lightpink
 lighttpd
 lightyellow
+ligula
 linearities
 linearized
 linearray
@@ -2487,6 +2488,7 @@ scanstride
 scaricamento
 scaricare
 scatterplot
+scelerisque
 scil
 scoperta
 scopo
@@ -3774,4 +3776,4 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-scelerisque
+ultrices
