@@ -591,6 +591,8 @@ desnode
 destag
 destructoid
 destructured
+desugared
+desugaring
 desynchronization
 detab
 detailmenu
@@ -1226,6 +1228,7 @@ jfkirk
 jisfreq
 jisfreqprober
 jknupp
+jmesserly
 jnozsc
 joehybird
 joinedload
@@ -1414,6 +1417,7 @@ locmemcache
 loggroup
 logicalparadox
 logics
+logloads
 longpress
 longtext
 lons
@@ -1608,6 +1612,7 @@ mmenu
 mmenujs
 mmerickel
 mname
+mnieper
 mnobject
 mobileinit
 modalish
@@ -2397,6 +2402,7 @@ rmse
 rmtp
 rmvb
 rnekleri
+rnystrom
 roff
 rokom
 rokov
@@ -2686,6 +2692,7 @@ straces
 straightlines
 stranica
 strarr
+strawman
 strcut
 streamgraph
 streamreader
@@ -2800,6 +2807,7 @@ subvalues
 subversionrelease
 subviews
 suckage
+sucky
 sucrase
 sudodoki
 summand
@@ -3741,9 +3749,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-desugaring
-desugared
-mnieper
-jmesserly
-sucky
-strawman
