@@ -232,6 +232,7 @@ binarized
 bindable
 bindify
 biste
+bitinn
 bitmasks
 bitshifts
 bjoerns
@@ -1050,6 +1051,7 @@ hakibenita
 halibote
 halvt
 handshaked
+hapijs
 harddisk
 hari
 hashchange
@@ -1253,6 +1255,7 @@ jisfreqprober
 jknupp
 jmesserly
 jnozsc
+joeattardi
 joehybird
 joinedload
 joinpath
@@ -1340,6 +1343,7 @@ kurang
 kuukauden
 kuukausi
 kuukautta
+kuuki
 kvartal
 kvelden
 kwarg
@@ -2291,6 +2295,7 @@ quatro
 quel
 quello
 queryish
+questionname
 queueservice
 quis
 quod
@@ -3725,6 +3730,7 @@ ylim
 ymax
 ymin
 ymod
+yomenai
 youproject
 yourapplication
 yourappsfolder
@@ -3814,9 +3820,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-bitinn
-yomenai
-kuuki
-hapijs
-questionname
-joeattardi
