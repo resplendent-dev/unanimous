@@ -190,6 +190,7 @@ backslashed
 backstore
 backtick
 bairro
+barackobama
 barangay
 barangays
 barky
@@ -622,6 +623,7 @@ didn
 dilluns
 dimanche
 dimecres
+dimensionally
 directionality
 dirname
 dirruns
@@ -835,6 +837,7 @@ faucibus
 fazlas
 fbed
 fbone
+fcal
 fccff
 fdeee
 febru
@@ -1384,6 +1387,7 @@ letterpaper
 levleri
 lexicographically
 lexing
+liabru
 libero
 libev
 libffi
@@ -1868,6 +1872,7 @@ noxfile
 nplurals
 nrful
 nrofcomponents
+nsec
 ntilde
 ntlmpool
 nuevo
@@ -3530,6 +3535,7 @@ wcoder
 wcykge
 weakrefs
 webasset
+webfontloader
 webgl
 webinista
 webmanifest
@@ -3808,9 +3814,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-dimensionally
-barackobama
-webfontloader
-liabru
-fcal
-nsec
