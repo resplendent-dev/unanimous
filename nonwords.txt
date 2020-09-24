@@ -820,6 +820,7 @@ expandos
 expanduser
 expirations
 explist
+explorable
 expressinstall
 extarea
 extendibility
@@ -1199,6 +1200,7 @@ invalidations
 invertible
 invoiceitems
 ionsound
+iooxa
 ioredis
 ipaddrs
 iphoneoscodecs
@@ -1389,6 +1391,7 @@ lemori
 lenna
 letterpaper
 levleri
+lexically
 lexicographically
 lexing
 liabru
@@ -3178,6 +3181,7 @@ unauthorizedcb
 unbatched
 unbinder
 unblind
+unboundedly
 unboxing
 unbreak
 unbridge
@@ -3204,6 +3208,7 @@ uncompressable
 uncomputed
 unconfigurable
 unconsume
+uncreativity
 uncurry
 uncustomized
 undaemonize
@@ -3293,6 +3298,7 @@ unmute
 unmuting
 unnested
 unnormalized
+unobservable
 unobserve
 unopinionated
 unorderedlist
@@ -3340,6 +3346,7 @@ unselected
 unserializes
 unserializing
 unsets
+unshadowing
 unshift
 unspool
 unstack
@@ -3820,9 +3827,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-iooxa
-explorable
-lexically
-unshadowing
-unobservable
-uncreativity
