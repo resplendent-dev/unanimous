@@ -3820,3 +3820,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+iooxa
+explorable
+lexically
+unshadowing
+unobservable
+uncreativity
