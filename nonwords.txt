@@ -4145,3 +4145,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+longind
+googltest
+cflags
+depfile
+ppoll
+optind
