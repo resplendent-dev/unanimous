@@ -2793,6 +2793,7 @@ spacerun
 sparkline
 sparsification
 sparsify
+spawnedshelter
 spcs
 specgram
 specgrams
@@ -2823,6 +2824,9 @@ standalones
 starrhorne
 startposition
 startswith
+startupreadings
+staticsitegenerators
+stayinghomeclub
 stderr
 steelblue
 stefanschenk
@@ -3024,6 +3028,7 @@ tablespace
 tabnabbing
 tabplate
 tabsfrom
+tacofancy
 taglib
 tagname
 tagoj
@@ -3051,6 +3056,7 @@ tcsh
 tcyrus
 teardown
 tection
+teesites
 telefone
 teleported
 temparea
@@ -3081,6 +3087,7 @@ textillate
 textitem
 textmate
 textnodes
+textpattern
 texttrackchange
 tfoot
 tga
@@ -3100,7 +3107,9 @@ thenables
 thenderson
 thenewsmeme
 thepast
+theravada
 theres
+thibmaek
 thingie
 thisisnotaserver
 thlorenz
@@ -3166,6 +3175,7 @@ tommyod
 tonnetz
 tonos
 toolfunc
+toolsforactivism
 tooltipclose
 tooltipopen
 topbar
@@ -3274,6 +3284,7 @@ ular
 ulimit
 ullamco
 ultrices
+umbraco
 unaffordable
 unallowed
 unapplied
@@ -3311,6 +3322,7 @@ uncompressable
 uncomputed
 unconfigurable
 unconsume
+uncopyright
 uncreative
 uncreatively
 uncreativity
@@ -3949,15 +3961,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-uncopyright
-umbraco
-toolsforactivism
-thibmaek
-theravada
-textpattern
-teesites
-tacofancy
-stayinghomeclub
-staticsitegenerators
-startupreadings
-spawnedshelter
