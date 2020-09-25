@@ -48,6 +48,7 @@ aliceblue
 aliqua
 aliquam
 aliquip
+ality
 allas
 allauthdemo
 alldevices
@@ -641,6 +642,7 @@ deviceobject
 deviceready
 devuelve
 dfae
+dharmeshkakadia
 dias
 diazona
 didn
@@ -886,6 +888,7 @@ fenc
 fesnt
 fevereiro
 ffdab
+fffaraz
 ffff
 fftpack
 fgnass
@@ -1580,6 +1583,7 @@ masa
 masoudr
 massa
 matchable
+matteocrippa
 matthiask
 matzhu
 maur
@@ -1861,6 +1865,7 @@ neke
 neque
 ness
 netrefs
+neuroscience
 neverending
 newcap
 newdata
@@ -2155,6 +2160,7 @@ pgoffset
 pgproto
 pgroto
 pharetra
+pharo
 philippeluickx
 philipwalton
 phonegap
@@ -2341,6 +2347,7 @@ puissant
 pukul
 punctuations
 punycode
+purescript
 purus
 pushd
 pushstate
@@ -2867,6 +2874,7 @@ stylable
 styledoc
 styledocco
 styledown
+styleguides
 styleobject
 stylesheet
 stylization
@@ -2987,6 +2995,7 @@ syllabary
 symb
 symbolizers
 symbolp
+symfony
 symlinked
 symlinkfile
 syncdb
@@ -3017,6 +3026,7 @@ tabsfrom
 taglib
 tagname
 tagoj
+tagtree
 tahun
 taiko
 tailwindcss
@@ -3738,6 +3748,7 @@ xfconf
 xfffd
 xfree
 xgrid
+xgrommx
 xhat
 xhatparams
 xhrs
@@ -3928,9 +3939,3 @@ ztol
 zygohistomorphic
 zyxwvu
 zzarcon
-ality
-tagtree
-xgrommx
-symfony
-styleguides
-purescript
