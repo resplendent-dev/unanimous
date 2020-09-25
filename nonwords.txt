@@ -3393,6 +3393,7 @@ unseekable
 unselect
 unselectable
 unselected
+unsemantic
 unserializes
 unserializing
 unsets
