@@ -13,6 +13,7 @@ accusamus
 aclauthorizationpolicy
 aclose
 aclosing
+actionably
 activations
 aculo
 adactio
@@ -228,6 +229,7 @@ bhljs
 bhour
 bhouston
 bhtml
+bijective
 binarized
 bindable
 bindify
@@ -297,6 +299,7 @@ cacheutil
 cadata
 cafile
 cakeipsum
+callability
 callables
 callsites
 calmerthanyouare
@@ -402,6 +405,7 @@ codez
 codings
 codingstandard
 codingstatemachine
+coercions
 coffeedoc
 colgroup
 colgroups
@@ -450,6 +454,7 @@ corejs
 corel
 coth
 couldn
+counterintuitive
 counterintuitively
 cov
 coveragerc
@@ -551,6 +556,7 @@ deburred
 decapitalize
 decapitalized
 declaratively
+declarativeness
 declarator
 decodings
 decompilation
@@ -609,6 +615,7 @@ detab
 detailmenu
 detailprint
 deterministically
+detractions
 deutsch
 dev
 devexpress
@@ -637,6 +644,7 @@ discoverable
 disjunction
 dispon
 dista
+distinguisher
 distributable
 distributables
 distributivity
@@ -753,6 +761,7 @@ enddocregion
 endfor
 endif
 endiffeature
+endofunctors
 endprivate
 endswith
 endth
@@ -962,6 +971,7 @@ functionbase
 functionbased
 functionish
 functor
+functors
 funzionalit
 funzionare
 fuzzyrusty
@@ -1915,6 +1925,7 @@ objectlanguage
 objeto
 obscurified
 observables
+obsv
 obtener
 obter
 occaecat
@@ -3856,9 +3867,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-distinguisher
-detractions
-declarativeness
-counterintuitive
-callability
-bijective
