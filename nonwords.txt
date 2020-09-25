@@ -455,6 +455,7 @@ cov
 coveragerc
 creatable
 createjs
+creational
 creativecommons
 cript
 crosshairs
@@ -834,6 +835,7 @@ fakestr
 falconparser
 fallbacks
 falsey
+fasy
 fatypes
 faucibus
 fazlas
@@ -875,6 +877,7 @@ filesave
 fileservice
 filetuple
 filteredimage
+finalizer
 finalsub
 findall
 findone
@@ -1121,6 +1124,7 @@ ichord
 icio
 iconbar
 icontains
+idempotence
 idents
 ideographic
 iendswith
@@ -1212,6 +1216,7 @@ isable
 isatty
 isnt
 isogram
+isomorphism
 ispending
 isrss
 issn
@@ -1675,11 +1680,13 @@ molestie
 mollis
 mollit
 molti
+monadic
 monato
 monatoj
 monic
 monkeypatched
 monkeypatching
+monoid
 monomial
 monotonicity
 montana
@@ -3095,6 +3102,7 @@ transclude
 transcluded
 transclusion
 transduce
+transducing
 transformx
 transitionend
 translationdir
@@ -3128,6 +3136,7 @@ trovare
 trueish
 truely
 trusion
+trustable
 tryexcept
 tsadi
 tsquery
@@ -3209,6 +3218,7 @@ uncomputed
 unconfigurable
 unconsume
 uncreativity
+uncurried
 uncurry
 uncustomized
 undaemonize
@@ -3827,9 +3837,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-creational
-finalizer
-transducing
-idempotence
-fasy
-monadic
