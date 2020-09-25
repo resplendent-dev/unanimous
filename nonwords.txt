@@ -4173,3 +4173,9 @@ strh
 sprintf
 shrx
 shrd
+nullptr
+movzx
+microbenchmarks
+ldrh
+esnappy
+cpus
