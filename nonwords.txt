@@ -57,6 +57,7 @@ alldevices
 alle
 allgroups
 allkeys
+alloc
 allprobes
 allsensors
 alnorth
@@ -1709,11 +1710,13 @@ meisthai
 melakarta
 melhoresparatrabalhar
 memberof
+memcpy
 mememeoo
 memmapping
 memoizes
 memoizing
 memorymail
+memset
 mengotomasi
 mengunjungi
 menos
@@ -2097,6 +2100,7 @@ olarak
 olddisplay
 oldlace
 olivedrab
+olleke
 omdict
 omtrent
 onabort
