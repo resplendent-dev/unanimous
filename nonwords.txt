@@ -765,6 +765,7 @@ dwatow
 dydd
 dynamicsjs
 dynamiczone
+dyndep
 eacute
 eaparango
 easein
@@ -1712,6 +1713,7 @@ mesiac
 mesiacmi
 mesiacom
 messup
+metacharacter
 metanav
 metasearch
 metavideogame
@@ -2130,6 +2132,7 @@ optimizable
 optionality
 optionals
 optname
+optwhere
 oraclegis
 orangered
 orci
@@ -2233,6 +2236,7 @@ pcnoordhuis
 pdate
 peacechen
 peachpuff
+pedanticness
 peity
 pencilblue
 pengambil
@@ -2545,6 +2549,7 @@ rebeccapurple
 reblink
 rebranded
 rebranding
+recompaction
 recompiles
 recomponent
 reconcatenate
@@ -2645,6 +2650,7 @@ respondjs
 responsiblerwd
 responsivetable
 resps
+restat
 restructured
 resultdb
 rethrow
@@ -2699,6 +2705,7 @@ rqtp
 rquery
 rrcurveto
 rrggbb
+rspfile
 rsquo
 rstrip
 rsts
@@ -2969,6 +2976,7 @@ srcuri
 srufaculty
 ssfi
 ssize
+sstream
 stackability
 stager
 standalones
@@ -3075,6 +3083,7 @@ sublist
 sublists
 submenus
 submodels
+subninjas
 subnode
 subns
 subobject
@@ -4136,9 +4145,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-dyndep
-rspfile
-subninjas
-sstream
-restat
-recompaction
