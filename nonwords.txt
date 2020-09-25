@@ -197,9 +197,11 @@ backported
 backprop
 backref
 backreference
+backreferences
 backslashed
 backstore
 backtick
+baddata
 bairro
 barackobama
 barangay
@@ -413,6 +415,7 @@ clonado
 clonando
 cloudstorageaccount
 cmdclass
+cmov
 cnkge
 cobrateam
 codecrumbs
@@ -480,6 +483,7 @@ counterintuitive
 counterintuitively
 cov
 coveragerc
+cpus
 crear
 creatable
 createjs
@@ -863,6 +867,7 @@ errorlist
 ervenec
 escitalopram
 eslintrc
+esnappy
 esnext
 espanol
 esparse
@@ -1518,6 +1523,7 @@ lcik
 lciwgb
 lckdyb
 lcykge
+ldrh
 leadfoot
 leavepictureinpicture
 leberkas
@@ -1731,6 +1737,7 @@ mewn
 mfcovington
 michaelrambeau
 microbenchmark
+microbenchmarks
 microbundle
 microframeworks
 microlib
@@ -1868,6 +1875,7 @@ mouseport
 mouseup
 mout
 moviegeek
+movzx
 mozcentral
 mrdimosthenis
 mrjoelkemp
@@ -2061,6 +2069,7 @@ nullable
 nullary
 nullish
 nullpointer
+nullptr
 numfound
 nunc
 nwith
@@ -2867,6 +2876,8 @@ shouldn
 showbrowser
 showdownjs
 showinfo
+shrd
+shrx
 shuding
 sideload
 siden
@@ -2980,6 +2991,7 @@ spookylukey
 spooledtempfile
 spreadings
 springgreen
+sprintf
 spritecss
 spritemapped
 spritemaps
@@ -3036,6 +3048,7 @@ streamreader
 streamreaders
 streamwriter
 streetlabels
+strh
 stringformatting
 stringifiable
 stringification
@@ -3459,6 +3472,7 @@ typename
 typeof
 typings
 typoes
+tzcnt
 uage
 uchardet
 uclibc
@@ -3509,6 +3523,7 @@ uncomment
 uncommented
 uncommenting
 uncommit
+uncomp
 uncompress
 uncompressable
 uncompresses
@@ -4167,15 +4182,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-uncomp
-tzcnt
-strh
-sprintf
-shrx
-shrd
-nullptr
-movzx
-microbenchmarks
-ldrh
-esnappy
-cpus
