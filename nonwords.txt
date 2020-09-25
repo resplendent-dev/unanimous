@@ -1151,6 +1151,7 @@ htaccess
 htbp
 htmlfile
 htmlregion
+httperf
 httpexceptions
 httprettized
 hultner
@@ -2426,6 +2427,7 @@ realityking
 realname
 realworld
 reapprove
+reaptcha
 reasking
 reassignable
 reauthenticate
@@ -2473,6 +2475,7 @@ regexpu
 regexs
 regis
 regrtest
+rehydrate
 reified
 reimplement
 reimplementation
@@ -2783,6 +2786,7 @@ snapshotting
 snils
 snipver
 sobolevn
+sobre
 sociallogin
 socio
 socketmodule
@@ -3018,6 +3022,7 @@ suuuuuper
 svara
 sveltejs
 svenstaro
+svgdrawing
 svgmap
 svgurl
 svgz
@@ -3387,6 +3392,7 @@ unfocus
 unfoldall
 unforked
 unforking
+unform
 unformatted
 unfound
 unget
@@ -3527,6 +3533,7 @@ unversioned
 unvote
 upcase
 upcasted
+updaters
 updatesubs
 updatingrelationship
 upperbound
@@ -3726,6 +3733,7 @@ whitesmoke
 wigtobigwig
 wildcarded
 wilto
+winamp
 windowsconsoleio
 windoze
 wininst
@@ -3988,9 +3996,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-sobre
-httperf
-winamp
-updaters
-unform
-svgdrawing
