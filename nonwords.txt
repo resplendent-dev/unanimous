@@ -6,6 +6,7 @@ abby
 abc
 abcbotoresource
 abcdef
+abookapart
 acceptor
 accesskey
 accesssecret
@@ -13,6 +14,7 @@ accusamus
 aclauthorizationpolicy
 aclose
 aclosing
+actionably
 activations
 aculo
 adactio
@@ -30,6 +32,7 @@ adresinden
 aebeaaf
 aeiou
 afficher
+affordances
 afilp
 aflesler
 africa
@@ -228,6 +231,7 @@ bhljs
 bhour
 bhouston
 bhtml
+bijective
 binarized
 bindable
 bindify
@@ -275,6 +279,7 @@ brutaldesign
 bsdglob
 bselector
 bskinsm
+bstock
 buddyjs
 buffiter
 bugginess
@@ -297,6 +302,7 @@ cacheutil
 cadata
 cafile
 cakeipsum
+callability
 callables
 callsites
 calmerthanyouare
@@ -402,6 +408,8 @@ codez
 codings
 codingstandard
 codingstatemachine
+codrops
+coercions
 coffeedoc
 colgroup
 colgroups
@@ -450,19 +458,24 @@ corejs
 corel
 coth
 couldn
+counterintuitive
 counterintuitively
 cov
 coveragerc
 creatable
 createjs
+creational
 creativecommons
 cript
 crosshairs
 cryptographically
 cryptosign
+csjs
+cssanimation
 csse
 cssrewrite
 csstidy
+csswg
 csswizardry
 ctor
 ctypeid
@@ -550,6 +563,7 @@ deburred
 decapitalize
 decapitalized
 declaratively
+declarativeness
 declarator
 decodings
 decompilation
@@ -608,6 +622,7 @@ detab
 detailmenu
 detailprint
 deterministically
+detractions
 deutsch
 dev
 devexpress
@@ -636,6 +651,7 @@ discoverable
 disjunction
 dispon
 dista
+distinguisher
 distributable
 distributables
 distributivity
@@ -678,6 +694,7 @@ dppx
 dragend
 dragup
 dragupload
+drboolean
 dropdowns
 dropmenu
 dropmove
@@ -707,6 +724,7 @@ ecmascript
 ecstask
 ecstaskdefinition
 ectoplasm
+edenspiekermann
 editsection
 eerste
 effectful
@@ -752,6 +770,7 @@ enddocregion
 endfor
 endif
 endiffeature
+endofunctors
 endprivate
 endswith
 endth
@@ -771,6 +790,7 @@ eprint
 eqeqeq
 eqnull
 equalities
+equational
 equirectangular
 erasmas
 erat
@@ -818,6 +838,7 @@ expandedmind
 expando
 expandos
 expanduser
+experientially
 expirations
 explist
 explorable
@@ -834,6 +855,7 @@ fakestr
 falconparser
 fallbacks
 falsey
+fasy
 fatypes
 faucibus
 fazlas
@@ -875,6 +897,8 @@ filesave
 fileservice
 filetuple
 filteredimage
+filterings
+finalizer
 finalsub
 findall
 findone
@@ -890,6 +914,7 @@ flashblock
 flaskblog
 flaticons
 flatmapwithconcurrencylimit
+flexboxes
 flexboxgrid
 flexgrid
 flickable
@@ -956,6 +981,7 @@ functionbase
 functionbased
 functionish
 functor
+functors
 funzionalit
 funzionare
 fuzzyrusty
@@ -967,6 +993,7 @@ gaborsar
 gaeopenid
 gainsboro
 gamers
+gamified
 garyd
 gater
 gatings
@@ -989,6 +1016,7 @@ getattr
 getcwd
 getfirebug
 gethostbyname
+getify
 getpeercert
 getpixelorigin
 getppid
@@ -1027,6 +1055,7 @@ gotoh
 gotpointercapture
 gplv
 gpzy
+grabaperch
 graticule
 gravida
 greenlets
@@ -1051,6 +1080,7 @@ haikuginger
 hakibenita
 halibote
 halvt
+handcrafter
 handshaked
 hapijs
 harddisk
@@ -1078,6 +1108,7 @@ hexdigits
 hexlifies
 hexlify
 hexload
+hienvd
 hightables
 historymanagement
 hitcounts
@@ -1121,12 +1152,14 @@ ichord
 icio
 iconbar
 icontains
+idempotence
 idents
 ideographic
 iendswith
 iffeature
 iframes
 iftop
+ignorable
 igual
 ilai
 ilayer
@@ -1148,6 +1181,7 @@ imprecisions
 incase
 includable
 includeme
+inclusionary
 incompressible
 incorrects
 incr
@@ -1195,6 +1229,7 @@ introjs
 introspectables
 intrus
 ints
+inuit
 invadido
 invalidations
 invertible
@@ -1212,6 +1247,8 @@ isable
 isatty
 isnt
 isogram
+isomorphism
+isomorphisms
 ispending
 isrss
 issn
@@ -1237,6 +1274,7 @@ izitoast
 izvr
 jackhenry
 jacoborus
+jamesiry
 january
 jaring
 jaroj
@@ -1249,6 +1287,7 @@ jdalton
 jdataview
 jeesh
 jeffknupp
+jeremydmiller
 jezik
 jferard
 jfkirk
@@ -1317,6 +1356,7 @@ keypaths
 keypoints
 keypresses
 khtml
+kickstarter
 kinded
 kirovboris
 kissy
@@ -1385,6 +1425,7 @@ leberkas
 lebih
 lechotet
 lectus
+lede
 leds
 lemmatize
 lemori
@@ -1500,6 +1541,7 @@ maio
 mais
 makemigrations
 makoemail
+maksugr
 malam
 malfunctional
 mame
@@ -1543,6 +1585,7 @@ mcdjango
 mcflask
 mcflyin
 mdash
+mdcss
 mediatypes
 mediumblue
 mediumorchid
@@ -1607,6 +1650,7 @@ milissegundos
 mimeype
 mimicus
 mindflayer
+mindfr
 mindre
 minfps
 minibatches
@@ -1642,6 +1686,7 @@ misordered
 mistyrose
 miterlimit
 mithriljs
+mitsuruog
 mixedcase
 mixups
 mkvirtualenv
@@ -1675,11 +1720,14 @@ molestie
 mollis
 mollit
 molti
+monadic
 monato
 monatoj
 monic
 monkeypatched
 monkeypatching
+monoid
+monoids
 monomial
 monotonicity
 montana
@@ -1690,6 +1738,7 @@ morg
 morgen
 morgenen
 morgonen
+morphism
 mostrano
 moteur
 motiky
@@ -1730,6 +1779,7 @@ multicurl
 multidate
 multidocument
 multiheaders
+multimedial
 multiplatform
 multiplay
 multiplesite
@@ -1743,6 +1793,7 @@ multivalue
 multiwidgets
 munud
 musl
+mutators
 myaction
 myblogsite
 mydir
@@ -1900,6 +1951,7 @@ objectlanguage
 objeto
 obscurified
 observables
+obsv
 obtener
 obter
 occaecat
@@ -2033,6 +2085,7 @@ parallaxed
 parallaxing
 parallelization
 parallelizes
+parameterization
 parametrizes
 paranoic
 paren
@@ -2074,6 +2127,7 @@ percona
 percussives
 performable
 performant
+performantly
 perintah
 permet
 permissionif
@@ -2213,6 +2267,7 @@ prepopulating
 preporu
 prepoznavanja
 preprocessed
+prepromorphism
 prereleases
 prerendered
 presentational
@@ -2241,6 +2296,7 @@ programatically
 programing
 programma
 programmatically
+programmingly
 progressall
 proident
 promiseinspection
@@ -2333,6 +2389,7 @@ realname
 realworld
 reapprove
 reasking
+reassignable
 reauthenticate
 rebasing
 rebeccapurple
@@ -2342,6 +2399,7 @@ rebranding
 recompiles
 recomponent
 reconcatenate
+reconfigurable
 reconnection
 reconnections
 recrawl
@@ -2361,6 +2419,7 @@ rediss
 redistributable
 reducefunc
 reenable
+refactorable
 referentially
 refetch
 refilter
@@ -2429,6 +2488,7 @@ resourceattributenotfounderror
 respace
 responders
 respondjs
+responsiblerwd
 responsivetable
 resps
 restructured
@@ -2494,6 +2554,7 @@ runshell
 runtimes
 russia
 rvagg
+rwaldron
 rwev
 ryanmcgrath
 ryanvarley
@@ -2564,6 +2625,7 @@ selectedchange
 selectedcontacts
 selectee
 selectionchange
+selectivizr
 selfconnection
 sellable
 seltests
@@ -2664,6 +2726,7 @@ slowreportpath
 slugified
 smallinteger
 smartdevice
+smashingmag
 smgid
 snackbar
 snapshotting
@@ -2695,6 +2758,7 @@ soname
 sortation
 sortlines
 sorton
+sotayamashita
 sottostante
 soundstart
 sourcecode
@@ -2714,6 +2778,7 @@ splitlines
 splitted
 spookylukey
 spooledtempfile
+spreadings
 springgreen
 spritecss
 spritemapped
@@ -2729,6 +2794,7 @@ ssfi
 ssize
 stackability
 stager
+standalones
 starrhorne
 startposition
 startswith
@@ -2781,6 +2847,9 @@ strumento
 stunnel
 stureek
 stylable
+styledoc
+styledocco
+styledown
 styleobject
 stylesheet
 stylization
@@ -2933,6 +3002,7 @@ tagname
 tagoj
 tahun
 taiko
+tailwindcss
 takahiro
 takip
 tantaman
@@ -3095,6 +3165,7 @@ transclude
 transcluded
 transclusion
 transduce
+transducing
 transformx
 transitionend
 translationdir
@@ -3128,6 +3199,8 @@ trovare
 trueish
 truely
 trusion
+trustability
+trustable
 tryexcept
 tsadi
 tsquery
@@ -3139,6 +3212,7 @@ tunti
 tuntia
 tupleiterator
 tuples
+tureey
 tutte
 tvanzyl
 tweened
@@ -3168,6 +3242,7 @@ uids
 ukey
 ukrainian
 ul
+ular
 ulimit
 ullamco
 ultrices
@@ -3208,8 +3283,12 @@ uncompressable
 uncomputed
 unconfigurable
 unconsume
+uncreative
+uncreatively
 uncreativity
+uncurried
 uncurry
+uncurrying
 uncustomized
 undaemonize
 unde
@@ -3343,6 +3422,7 @@ unseekable
 unselect
 unselectable
 unselected
+unsemantic
 unserializes
 unserializing
 unsets
@@ -3356,6 +3436,7 @@ unstacks
 unstandardized
 unstar
 unstick
+unstyle
 unstyled
 unsub
 unsubbing
@@ -3412,6 +3493,7 @@ urna
 urss
 usabli
 usar
+useable
 usecase
 usecases
 usecmap
@@ -3825,5 +3907,6 @@ zscores
 zstar
 zsyscall
 ztol
+zygohistomorphic
 zyxwvu
 zzarcon
