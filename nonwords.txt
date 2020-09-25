@@ -2524,6 +2524,7 @@ retornar
 retransmission
 retriable
 retrigger
+retter
 reusability
 revalidate
 revalidates
@@ -2534,6 +2535,7 @@ rewalk
 rght
 rhoncus
 ribeye
+richardbenjamin
 rickygu
 rico
 rint
@@ -2572,6 +2574,7 @@ rsts
 rstwiki
 rtfrodrigo
 rtype
+rubymotion
 rubyracer
 ruid
 rundelay
@@ -2598,6 +2601,7 @@ sangelone
 sanitization
 sapiente
 sarebbe
+sarl
 sarwasunda
 sati
 saturday
@@ -2612,6 +2616,7 @@ scaricamento
 scaricare
 scatterplot
 scelerisque
+schacon
 scil
 scoperta
 scopo
@@ -2628,6 +2633,7 @@ scrollstart
 scrollstop
 sdispater
 seagreen
+searchability
 searchableselect
 seconden
 secondes
@@ -2638,6 +2644,7 @@ sedlukha
 seealso
 seekable
 seeked
+sefakilic
 segunda
 segundos
 sekitar
@@ -2652,6 +2659,7 @@ selectee
 selectionchange
 selectivizr
 selfconnection
+selfhosted
 sellable
 seltests
 semana
@@ -2707,6 +2715,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+silizuo
 simplemocha
 sinebow
 singingwolfboy
@@ -2722,6 +2731,7 @@ sitten
 situ
 sizedimage
 sizset
+skhaz
 skinnable
 skiptags
 skipunless
@@ -2764,6 +2774,7 @@ socketmodule
 sodales
 sodperc
 sodperce
+softwares
 soir
 solrconfig
 someenv
@@ -3961,9 +3972,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-softwares
-skhaz
-silizuo
-selfhosted
-sefakilic
-searchability
