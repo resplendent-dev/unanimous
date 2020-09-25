@@ -620,7 +620,9 @@ denofn
 denoget
 denoify
 denoinit
+denotrain
 denoversion
+denox
 deopt
 deoptimizations
 deparam
@@ -672,6 +674,7 @@ dilluns
 dimanche
 dimecres
 dimensionally
+dinatra
 dinoenv
 directionality
 dirname
@@ -697,6 +700,7 @@ djamin
 djangopackages
 djangoparser
 djterm
+djwt
 dnes
 dnldr
 dnsname
@@ -898,6 +902,7 @@ fakestr
 falconparser
 fallbacks
 falsey
+fastify
 fasy
 fatypes
 faucibus
@@ -1093,6 +1098,7 @@ gjtorikian
 globalmente
 globalstrict
 globbed
+globrex
 glogging
 glyf
 gmbh
@@ -4121,9 +4127,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-globrex
-fastify
-djwt
-dinatra
-denox
-denotrain
+denopkg
