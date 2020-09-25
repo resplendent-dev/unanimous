@@ -4060,3 +4060,9 @@ atlaskit
 arnemart
 aframe
 jqueryvalidation
+youmightnotneedjqueryplugins
+vivalid
+reorderable
+preselect
+photobox
+lory
