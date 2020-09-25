@@ -60,6 +60,7 @@ allkeys
 allprobes
 allsensors
 alnorth
+alosaur
 alphanumerics
 alteredq
 altho
@@ -329,6 +330,7 @@ canvascontext
 canvaswrapper
 capath
 capicola
+cardosomarcos
 carga
 carhartl
 carljm
@@ -476,6 +478,7 @@ counterintuitive
 counterintuitively
 cov
 coveragerc
+crear
 creatable
 createjs
 creational
@@ -567,6 +570,7 @@ ddcb
 ddfb
 ddmanager
 deallocated
+deamon
 debitis
 debounce
 debounced
@@ -612,6 +616,9 @@ delle
 demanda
 dengan
 denilsonsa
+denofn
+denoget
+denoify
 denoinit
 denoversion
 deopt
@@ -1764,6 +1771,7 @@ mithriljs
 mitsuruog
 mixedcase
 mixups
+mizchi
 mkvirtualenv
 mlms
 mlt
@@ -1924,6 +1932,7 @@ neighbo
 neke
 neque
 ness
+nessie
 netrefs
 neuroscience
 neverending
@@ -1963,6 +1972,7 @@ nodefn
 nodelay
 nodelist
 nodemailer
+nodemon
 nodoc
 noempty
 noexif
@@ -2380,6 +2390,7 @@ previewsize
 previewsuccess
 prevslide
 pribli
+primera
 primereact
 primjer
 primjerima
@@ -2501,6 +2512,7 @@ reactotron
 reactroot
 reactstrap
 readd
+readdir
 readeral
 reakit
 realityking
@@ -2679,6 +2691,7 @@ rstwiki
 rsuite
 rtfrodrigo
 rtype
+rubico
 rubymotion
 rubyracer
 ruid
@@ -2779,6 +2792,7 @@ sensorid
 sensorobject
 sensortree
 serversig
+servest
 servlet
 sess
 sessioning
@@ -2825,6 +2839,7 @@ signedness
 signups
 silizuo
 simplemocha
+sindresorhus
 sinebow
 singingwolfboy
 singularized
@@ -3093,6 +3108,7 @@ subvalue
 subvalues
 subversionrelease
 subviews
+sucesor
 suckage
 sucky
 sucrase
@@ -3103,6 +3119,7 @@ sumsquare
 sunt
 supdiag
 superclasses
+superdeno
 superevr
 superfast
 supernew
@@ -3216,6 +3233,7 @@ textitem
 textmate
 textnodes
 textpattern
+textproto
 texttrackchange
 tfoot
 tga
@@ -4103,16 +4121,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-denoify
-denofn
-deamon
-crear
-cardosomarcos
-alosaur
-denoget
-textproto
-superdeno
-sucesor
-sindresorhus
-servest
-rubico
