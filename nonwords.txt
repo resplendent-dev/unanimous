@@ -300,6 +300,7 @@ burgerservicenummer
 burlywood
 buuuunch
 bwith
+bxslider
 byid
 byteordermark
 bytestream
@@ -935,6 +936,7 @@ firedux
 firma
 firstparty
 firstplay
+fittext
 fitzpatrick
 fixups
 fizfuz
@@ -2702,9 +2704,11 @@ screenreaders
 scriptlet
 scrollbar
 scrollbars
+scrollerjs
 scrollers
 scrollmenu
 scrollmonitor
+scrollreveal
 scrollspy
 scrollstart
 scrollstop
@@ -3077,6 +3081,7 @@ superevr
 superfast
 supernew
 superroma
+superscrollorama
 supersets
 suscipit
 suspendable
@@ -3275,6 +3280,7 @@ toolfunc
 toolsforactivism
 tooltipclose
 tooltipopen
+tooltipsy
 topbar
 topline
 toproperty
@@ -4070,4 +4076,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-fittext
