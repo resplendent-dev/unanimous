@@ -4192,3 +4192,9 @@ lgwin
 islast
 isempty
 hedley
+npostfix
+ndirect
+memcmp
+zopflification
+xxxxx
+vcpkg
