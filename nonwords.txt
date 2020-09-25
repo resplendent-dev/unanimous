@@ -3922,3 +3922,9 @@ ztol
 zygohistomorphic
 zyxwvu
 zzarcon
+esparse
+regexpu
+babelify
+microlib
+jspm
+esnext
