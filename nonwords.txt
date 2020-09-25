@@ -468,6 +468,7 @@ cript
 crosshairs
 cryptographically
 cryptosign
+cssanimation
 csse
 cssrewrite
 csstidy
@@ -719,6 +720,7 @@ ecmascript
 ecstask
 ecstaskdefinition
 ectoplasm
+edenspiekermann
 editsection
 eerste
 effectful
@@ -986,6 +988,7 @@ gaborsar
 gaeopenid
 gainsboro
 gamers
+gamified
 garyd
 gater
 gatings
@@ -1071,6 +1074,7 @@ haikuginger
 hakibenita
 halibote
 halvt
+handcrafter
 handshaked
 hapijs
 harddisk
@@ -1218,6 +1222,7 @@ introjs
 introspectables
 intrus
 ints
+inuit
 invadido
 invalidations
 invertible
@@ -1344,6 +1349,7 @@ keypaths
 keypoints
 keypresses
 khtml
+kickstarter
 kinded
 kirovboris
 kissy
@@ -2605,6 +2611,7 @@ selectedchange
 selectedcontacts
 selectee
 selectionchange
+selectivizr
 selfconnection
 sellable
 seltests
@@ -2705,6 +2712,7 @@ slowreportpath
 slugified
 smallinteger
 smartdevice
+smashingmag
 smgid
 snackbar
 snapshotting
@@ -2736,6 +2744,7 @@ soname
 sortation
 sortlines
 sorton
+sotayamashita
 sottostante
 soundstart
 sourcecode
@@ -2824,6 +2833,9 @@ strumento
 stunnel
 stureek
 stylable
+styledoc
+styledocco
+styledown
 styleobject
 stylesheet
 stylization
@@ -2976,6 +2988,7 @@ tagname
 tagoj
 tahun
 taiko
+tailwindcss
 takahiro
 takip
 tantaman
@@ -3214,6 +3227,7 @@ uids
 ukey
 ukrainian
 ul
+ular
 ulimit
 ullamco
 ultrices
@@ -3407,6 +3421,7 @@ unstacks
 unstandardized
 unstar
 unstick
+unstyle
 unstyled
 unsub
 unsubbing
@@ -3880,15 +3895,3 @@ ztol
 zygohistomorphic
 zyxwvu
 zzarcon
-ular
-tailwindcss
-kickstarter
-inuit
-handcrafter
-gamified
-edenspiekermann
-cssanimation
-unstyle
-styledown
-styledocco
-styledoc
