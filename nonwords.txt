@@ -3873,3 +3873,9 @@ uncurrying
 rwaldron
 programmingly
 mutators
+monoids
+jamesiry
+isomorphisms
+getify
+drboolean
+affordances
