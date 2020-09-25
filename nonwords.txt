@@ -1697,6 +1697,7 @@ morg
 morgen
 morgenen
 morgonen
+morphism
 mostrano
 moteur
 motiky
@@ -2340,6 +2341,7 @@ realname
 realworld
 reapprove
 reasking
+reassignable
 reauthenticate
 rebasing
 rebeccapurple
@@ -2349,6 +2351,7 @@ rebranding
 recompiles
 recomponent
 reconcatenate
+reconfigurable
 reconnection
 reconnections
 recrawl
@@ -2721,6 +2724,7 @@ splitlines
 splitted
 spookylukey
 spooledtempfile
+spreadings
 springgreen
 spritecss
 spritemapped
@@ -2736,6 +2740,7 @@ ssfi
 ssize
 stackability
 stager
+standalones
 starrhorne
 startposition
 startswith
@@ -3136,6 +3141,7 @@ trovare
 trueish
 truely
 trusion
+trustability
 trustable
 tryexcept
 tsadi
@@ -3217,6 +3223,8 @@ uncompressable
 uncomputed
 unconfigurable
 unconsume
+uncreative
+uncreatively
 uncreativity
 uncurried
 uncurry
@@ -3422,6 +3430,7 @@ urna
 urss
 usabli
 usar
+useable
 usecase
 usecases
 usecmap
@@ -3837,9 +3846,3 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
-morphism
-useable
-uncreatively
-uncreative
-trustability
-standalones
