@@ -4167,3 +4167,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+uncomp
+tzcnt
+strh
+sprintf
+shrx
+shrd
