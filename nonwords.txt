@@ -4136,3 +4136,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+dyndep
+rspfile
+subninjas
+sstream
+restat
+recompaction
