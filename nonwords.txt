@@ -354,6 +354,7 @@ ceiled
 cellpadding
 cellspacing
 cens
+cflags
 chaplin
 chardata
 chardetect
@@ -637,6 +638,7 @@ deoptimizations
 deparam
 depascalize
 dependables
+depfile
 deployable
 deprecations
 depthed
@@ -1120,6 +1122,7 @@ godinu
 googlechrome
 googleclassicanalytics
 googleuniversalanalytics
+googltest
 gosquared
 gothic
 gotoh
@@ -1588,6 +1591,7 @@ loggroup
 logicalparadox
 logics
 logloads
+longind
 longpress
 longtext
 lons
@@ -2129,9 +2133,11 @@ optgroups
 opticdev
 optimising
 optimizable
+optind
 optionality
 optionals
 optname
+optstring
 optwhere
 oraclegis
 orangered
@@ -2148,6 +2154,7 @@ otherhost
 ourself
 outbufs
 outdent
+outdir
 outil
 outlookdotcom
 outoff
@@ -2350,6 +2357,7 @@ posuere
 potente
 pouvez
 powderblue
+ppoll
 pquentin
 preaction
 preassign
@@ -2452,6 +2460,7 @@ prtgadmin
 prtgapi
 prtgdevice
 prtgsensor
+pselect
 pserve
 pseudocylindrical
 pseudoterminals
@@ -2847,6 +2856,7 @@ shived
 shiving
 shortcutted
 shorthands
+shortopts
 shouldn
 showbrowser
 showdownjs
@@ -2984,6 +2994,7 @@ starrhorne
 startposition
 startswith
 startupreadings
+statcache
 staticsitegenerators
 statty
 stayinghomeclub
@@ -3307,6 +3318,7 @@ timein
 timelag
 timeoutcb
 timesout
+timespec
 timestep
 timesteps
 timeupdate
@@ -4145,15 +4157,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-longind
-googltest
-cflags
-depfile
-ppoll
-optind
-timespec
-statcache
-shortopts
-pselect
-outdir
-optstring
