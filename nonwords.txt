@@ -58,6 +58,7 @@ alle
 allgroups
 allkeys
 alloc
+allocators
 allprobes
 allsensors
 alnorth
@@ -2905,6 +2906,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+silesia
 silizuo
 simplemocha
 sindresorhus
@@ -3023,6 +3025,7 @@ srcuri
 srufaculty
 ssfi
 ssize
+sssssss
 sstream
 stackability
 stager
@@ -3061,12 +3064,14 @@ straightlines
 stranica
 strarr
 strawman
+strcpy
 strcut
 streamgraph
 streamreader
 streamreaders
 streamwriter
 streetlabels
+strerror
 strh
 stringformatting
 stringifiable
@@ -3150,6 +3155,7 @@ subprotocol
 subprotocols
 subqueries
 subqueryload
+subregion
 subrequests
 subresponse
 subroute
@@ -3165,6 +3171,7 @@ subsetting
 substates
 substep
 substeps
+substrings
 subsubsection
 subsuites
 subtable
@@ -3189,6 +3196,7 @@ sudodoki
 summand
 summarizers
 sumsquare
+sunpro
 sunt
 supdiag
 superclasses
@@ -3510,7 +3518,9 @@ ulimit
 ullamco
 ultrices
 umbraco
+unaddressable
 unaffordable
+unalignment
 unallowed
 unapplied
 unapply
@@ -3524,6 +3534,7 @@ unboundedly
 unboxing
 unbreak
 unbridge
+unbrotli
 unbundled
 uncached
 uncapitalise
@@ -3592,6 +3603,7 @@ unforking
 unform
 unformatted
 unfound
+unfreed
 unget
 unglobbed
 ungrouped
@@ -3729,6 +3741,7 @@ untyped
 unvalidatable
 unversioned
 unvote
+unwire
 upcase
 upcasted
 updaters
@@ -3738,6 +3751,7 @@ upperbound
 uppercased
 uppercaseness
 uppercases
+uppercasing
 uppy
 upsample
 upsampling
@@ -3939,6 +3953,7 @@ wildcarded
 wilto
 winamp
 windowsconsoleio
+windowsize
 windoze
 wininst
 winjs
@@ -4004,6 +4019,7 @@ xeval
 xext
 xfconf
 xfffd
+xffffffff
 xfree
 xgrid
 xgrommx
@@ -4069,12 +4085,15 @@ xxxdef
 xxxfit
 xxxxgithub
 xxxxx
+xxxxxx
+xxxxxxx
 xxxxxxxx
 xxxxxxxxxxxx
 xy
 xymatrix
 xypic
 xyunits
+xyyyyz
 xyz
 xzvpf
 xzycn
@@ -4205,21 +4224,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-allocators
-xyyyyz
-xxxxxxx
-xxxxxx
-xffffffff
-windowsize
-uppercasing
-unwire
-unfreed
-unbrotli
-unalignment
-unaddressable
-sunpro
-substrings
-subregion
-strerror
-strcpy
-sssssss
+rougly
