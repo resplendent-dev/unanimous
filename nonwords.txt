@@ -408,6 +408,7 @@ classpartial
 clazz
 clckru
 cleansweep
+clen
 clenemt
 clickdrag
 clickjacking
@@ -484,6 +485,7 @@ counterintuitive
 counterintuitively
 cov
 coveragerc
+cplusplus
 cpus
 crear
 creatable
@@ -827,6 +829,7 @@ endblock
 endbyte
 endchar
 endchartjs
+endcode
 endcomment
 endcompress
 enddocregion
