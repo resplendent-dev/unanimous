@@ -612,6 +612,8 @@ delle
 demanda
 dengan
 denilsonsa
+denoinit
+denoversion
 deopt
 deoptimizations
 deparam
@@ -626,6 +628,7 @@ derbyjs
 dereference
 dernier
 desandro
+desarrollado
 desaturates
 deserialization
 deserialized
@@ -662,6 +665,7 @@ dilluns
 dimanche
 dimecres
 dimensionally
+dinoenv
 directionality
 dirname
 dirruns
@@ -720,6 +724,7 @@ dragscroll
 dragula
 dragup
 dragupload
+drash
 drboolean
 dropdowns
 dropmenu
@@ -962,6 +967,7 @@ flvjs
 flyout
 fmod
 fname
+fnparse
 focusable
 focuselement
 focusin
@@ -1035,6 +1041,7 @@ gaeopenid
 gainsboro
 gamers
 gamified
+garn
 garyd
 gater
 gatings
@@ -1390,6 +1397,7 @@ juli
 julianwachholz
 juntamente
 juntos
+justjavac
 jwilges
 jyfm
 kalekundert
@@ -1607,6 +1615,7 @@ makoemail
 maksugr
 malam
 malfunctional
+maman
 mame
 mandag
 mandoc
@@ -4094,9 +4103,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-maman
-justjavac
-garn
-fnparse
-drash
-dinoenv
+denoify
