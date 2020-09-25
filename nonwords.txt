@@ -3827,3 +3827,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+creational
+finalizer
+transducing
+idempotence
+fasy
+monadic
