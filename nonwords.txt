@@ -2430,10 +2430,14 @@ rconradharris
 rdar
 reactbone
 reactjsvideos
+reactn
 reactnative
+reactotron
 reactroot
+reactstrap
 readd
 readeral
+reakit
 realityking
 realname
 realworld
@@ -2442,7 +2446,9 @@ reaptcha
 reasking
 reassignable
 reauthenticate
+reaviz
 rebasing
+rebass
 rebeccapurple
 reblink
 rebranded
@@ -2458,6 +2464,7 @@ rects
 recurses
 recursing
 recursionlimit
+recyclerlistview
 redbox
 redditclone
 redeclare
@@ -2531,6 +2538,7 @@ rescaled
 rescaling
 rescb
 rescuable
+reselect
 resending
 resends
 resetted
@@ -2601,6 +2609,7 @@ rsquo
 rstrip
 rsts
 rstwiki
+rsuite
 rtfrodrigo
 rtype
 rubymotion
@@ -4019,9 +4028,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-rsuite
-reselect
-recyclerlistview
-rebass
-reaviz
-reakit
