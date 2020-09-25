@@ -4211,3 +4211,9 @@ xxxxxxx
 xxxxxx
 xffffffff
 windowsize
+uppercasing
+unwire
+unfreed
+unbrotli
+unalignment
+unaddressable
