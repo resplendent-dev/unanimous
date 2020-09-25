@@ -181,6 +181,7 @@ ayer
 azimuthal
 baar
 babelified
+babelify
 babydoll
 backburner
 backcompat
@@ -812,7 +813,9 @@ errorlist
 ervenec
 escitalopram
 eslintrc
+esnext
 espanol
+esparse
 especificada
 essen
 este
@@ -1332,6 +1335,7 @@ jsinspectrc
 jsoneditoronline
 jsoniq
 jsonwire
+jspm
 jstransform
 jsurloppe
 juil
@@ -1637,6 +1641,7 @@ mfcovington
 michaelrambeau
 microbundle
 microframeworks
+microlib
 microlibraries
 microtask
 microtasks
@@ -2441,6 +2446,7 @@ regenerator
 regens
 regexes
 regexpp
+regexpu
 regexs
 regis
 regrtest
@@ -3922,9 +3928,3 @@ ztol
 zygohistomorphic
 zyxwvu
 zzarcon
-esparse
-regexpu
-babelify
-microlib
-jspm
-esnext
