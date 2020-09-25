@@ -15,6 +15,7 @@ aclauthorizationpolicy
 aclose
 aclosing
 actionably
+actiontyper
 activations
 aculo
 adactio
@@ -396,6 +397,7 @@ clazz
 clckru
 cleansweep
 clenemt
+clickdrag
 clickjacking
 clike
 clonado
@@ -490,6 +492,7 @@ cubehelix
 cujojs
 culpa
 cupidatat
+curi
 curpage
 curr
 cursored
@@ -2661,6 +2664,7 @@ sdispater
 seagreen
 searchability
 searchableselect
+searchbox
 seconden
 secondes
 sectionauthor
@@ -2837,6 +2841,7 @@ specgram
 specgrams
 specialchars
 spektar
+spinkit
 spion
 splitlines
 splitted
@@ -2864,6 +2869,7 @@ startposition
 startswith
 startupreadings
 staticsitegenerators
+statty
 stayinghomeclub
 stderr
 steelblue
@@ -2881,6 +2887,7 @@ sthrough
 sticked
 stickit
 stickypanel
+stockcharts
 stopasgroup
 stoptimer
 stopworded
@@ -2919,6 +2926,7 @@ styledoc
 styledocco
 styledown
 styleguides
+styleguidist
 styleobject
 stylesheet
 stylization
@@ -3091,6 +3099,7 @@ taxos
 tbekolay
 tblr
 tbody
+tcomb
 tcp
 tcsh
 tcyrus
@@ -3276,11 +3285,13 @@ trns
 trovare
 trueish
 truely
+trunx
 trusion
 trustability
 trustable
 tryexcept
 tsadi
+tsparticles
 tsquery
 tty
 ttype
@@ -3301,6 +3312,7 @@ tweesing
 twoway
 txnid
 txt
+tydel
 tyle
 typedefn
 typename
@@ -3548,6 +3560,7 @@ upperbound
 uppercased
 uppercaseness
 uppercases
+uppy
 upsample
 upsampling
 upscaled
@@ -3606,6 +3619,7 @@ valign
 valueerror
 valuefunc
 valuegetter
+valuelink
 valuename
 vanillajni
 vanno
@@ -3665,6 +3679,7 @@ vinsgo
 virginia
 virginica
 virtualize
+virtualized
 virusdefender
 visitar
 visitare
@@ -4004,16 +4019,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-curi
-clickdrag
-actiontyper
-tcomb
-virtualized
-valuelink
-uppy
-tydel
-tsparticles
-trunx
-styleguidist
-stockcharts
-statty
