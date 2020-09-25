@@ -1108,6 +1108,7 @@ hexdigits
 hexlifies
 hexlify
 hexload
+hienvd
 hightables
 historymanagement
 hitcounts
@@ -1540,6 +1541,7 @@ maio
 mais
 makemigrations
 makoemail
+maksugr
 malam
 malfunctional
 mame
@@ -1648,6 +1650,7 @@ milissegundos
 mimeype
 mimicus
 mindflayer
+mindfr
 mindre
 minfps
 minibatches
@@ -1683,6 +1686,7 @@ misordered
 mistyrose
 miterlimit
 mithriljs
+mitsuruog
 mixedcase
 mixups
 mkvirtualenv
@@ -2415,6 +2419,7 @@ rediss
 redistributable
 reducefunc
 reenable
+refactorable
 referentially
 refetch
 refilter
@@ -3207,6 +3212,7 @@ tunti
 tuntia
 tupleiterator
 tuples
+tureey
 tutte
 tvanzyl
 tweened
@@ -3904,9 +3910,3 @@ ztol
 zygohistomorphic
 zyxwvu
 zzarcon
-tureey
-refactorable
-mitsuruog
-mindfr
-maksugr
-hienvd
