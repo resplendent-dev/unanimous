@@ -4157,3 +4157,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+optarg
+longopts
+googletest
+xorval
+uncompressing
+microbenchmark
