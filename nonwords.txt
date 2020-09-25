@@ -592,6 +592,7 @@ declarativeness
 declarator
 decodings
 decompilation
+decompressor
 decoratormethod
 decrypted
 decrypting
@@ -1121,6 +1122,7 @@ godina
 godinu
 googlechrome
 googleclassicanalytics
+googletest
 googleuniversalanalytics
 googltest
 gosquared
@@ -1323,6 +1325,7 @@ iobind
 ionsound
 iooxa
 ioredis
+iovec
 ipaddrs
 iphoneoscodecs
 ipod
@@ -1592,6 +1595,7 @@ logicalparadox
 logics
 logloads
 longind
+longopts
 longpress
 longtext
 lons
@@ -1726,6 +1730,7 @@ metus
 mewn
 mfcovington
 michaelrambeau
+microbenchmark
 microbundle
 microframeworks
 microlib
@@ -2129,6 +2134,7 @@ operationid
 operativo
 opis
 oppure
+optarg
 optgroups
 opticdev
 optimising
@@ -3505,6 +3511,8 @@ uncommenting
 uncommit
 uncompress
 uncompressable
+uncompresses
+uncompressing
 uncomputed
 unconfigurable
 unconsume
@@ -3655,6 +3663,7 @@ unserializing
 unsets
 unshadowing
 unshift
+unsigneds
 unspool
 unstack
 unstacked
@@ -3988,6 +3997,7 @@ xname
 xnew
 xobj
 xorshift
+xorval
 xp
 xpartial
 xpaths
@@ -4157,9 +4167,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-optarg
-longopts
-googletest
-xorval
-uncompressing
-microbenchmark
