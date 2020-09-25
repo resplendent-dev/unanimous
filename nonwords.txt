@@ -4151,3 +4151,9 @@ cflags
 depfile
 ppoll
 optind
+timespec
+statcache
+shortopts
+pselect
+outdir
+optstring
