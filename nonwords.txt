@@ -712,6 +712,7 @@ dropmove
 droppable
 drzaus
 dstpath
+dualstorage
 dummymail
 dummypage
 dummyserver
@@ -1251,6 +1252,7 @@ invadido
 invalidations
 invertible
 invoiceitems
+iobind
 ionsound
 iooxa
 ioredis
@@ -1310,6 +1312,7 @@ jferard
 jfkirk
 jisfreq
 jisfreqprober
+jkat
 jknupp
 jmesserly
 jnozsc
@@ -1893,6 +1896,7 @@ nisl
 niubsta
 njcqy
 nmatpt
+nmec
 nname
 nnen
 nocontent
@@ -1904,6 +1908,7 @@ nodemailer
 nodoc
 noempty
 noexif
+nofunsir
 noglobals
 noimagehere
 noinput
@@ -2133,6 +2138,7 @@ patik
 patrickmarabeas
 paulbocuse
 payloadgen
+pcaptools
 pcen
 pchar
 pcnoordhuis
@@ -2164,6 +2170,7 @@ pharetra
 pharo
 philippeluickx
 philipwalton
+phillipadsmith
 phonegap
 phonenumberutil
 phpvietnam
@@ -2860,6 +2867,7 @@ stevenlevithan
 stevenmiller
 sthrough
 sticked
+stickit
 stickypanel
 stopasgroup
 stoptimer
@@ -3980,9 +3988,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-phillipadsmith
-pcaptools
-nofunsir
-nmec
-dualstorage
-stickit
