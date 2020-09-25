@@ -4038,3 +4038,9 @@ packery
 normalizr
 nivo
 newforms
+moroshko
+morearty
+internationalizable
+instatype
+instantsearch
+imvvm
