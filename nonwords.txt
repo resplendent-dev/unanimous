@@ -237,6 +237,7 @@ bhljs
 bhour
 bhouston
 bhtml
+bigtext
 bijective
 binarized
 bindable
@@ -714,6 +715,8 @@ dpam
 dpcm
 dppx
 dragend
+dragscroll
+dragula
 dragup
 dragupload
 drboolean
@@ -949,6 +952,7 @@ flexboxes
 flexboxgrid
 flexgrid
 flickable
+flickity
 floppyform
 floralwhite
 flsf
@@ -1357,6 +1361,7 @@ jpcntx
 jpcntxprober
 jpegsave
 jqeditor
+jquerypp
 jqueryvalidation
 jreact
 jrohatiner
@@ -1466,6 +1471,7 @@ latinized
 latt
 laxbreak
 layerremove
+layzr
 lazybird
 lazyweb
 lcih
@@ -2071,6 +2077,7 @@ onwindowscroll
 opcija
 opec
 openredis
+opentip
 operacijskom
 operacional
 operandi
@@ -2215,6 +2222,7 @@ phillipadsmith
 phonegap
 phonenumberutil
 photobox
+photoswipe
 phpvietnam
 pianoroll
 pianorolls
@@ -4076,9 +4084,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-photoswipe
-opentip
-layzr
-jquerypp
-flickity
-dragula
