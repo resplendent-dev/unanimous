@@ -3867,3 +3867,9 @@ zsyscall
 ztol
 zyxwvu
 zzarcon
+bstock
+zygohistomorphic
+uncurrying
+rwaldron
+programmingly
+mutators
