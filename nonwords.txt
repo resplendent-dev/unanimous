@@ -31,6 +31,7 @@ adresinden
 aebeaaf
 aeiou
 afficher
+affordances
 afilp
 aflesler
 africa
@@ -277,6 +278,7 @@ brutaldesign
 bsdglob
 bselector
 bskinsm
+bstock
 buddyjs
 buffiter
 bugginess
@@ -687,6 +689,7 @@ dppx
 dragend
 dragup
 dragupload
+drboolean
 dropdowns
 dropmenu
 dropmove
@@ -1005,6 +1008,7 @@ getattr
 getcwd
 getfirebug
 gethostbyname
+getify
 getpeercert
 getpixelorigin
 getppid
@@ -1232,6 +1236,7 @@ isatty
 isnt
 isogram
 isomorphism
+isomorphisms
 ispending
 isrss
 issn
@@ -1257,6 +1262,7 @@ izitoast
 izvr
 jackhenry
 jacoborus
+jamesiry
 january
 jaring
 jaroj
@@ -1704,6 +1710,7 @@ monic
 monkeypatched
 monkeypatching
 monoid
+monoids
 monomial
 monotonicity
 montana
@@ -1768,6 +1775,7 @@ multivalue
 multiwidgets
 munud
 musl
+mutators
 myaction
 myblogsite
 mydir
@@ -2270,6 +2278,7 @@ programatically
 programing
 programma
 programmatically
+programmingly
 progressall
 proident
 promiseinspection
@@ -2525,6 +2534,7 @@ runshell
 runtimes
 russia
 rvagg
+rwaldron
 rwev
 ryanmcgrath
 ryanvarley
@@ -3249,6 +3259,7 @@ uncreatively
 uncreativity
 uncurried
 uncurry
+uncurrying
 uncustomized
 undaemonize
 unde
@@ -3865,17 +3876,6 @@ zscores
 zstar
 zsyscall
 ztol
+zygohistomorphic
 zyxwvu
 zzarcon
-bstock
-zygohistomorphic
-uncurrying
-rwaldron
-programmingly
-mutators
-monoids
-jamesiry
-isomorphisms
-getify
-drboolean
-affordances
