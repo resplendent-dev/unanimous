@@ -4238,3 +4238,9 @@ ovpages
 numreaders
 malloced
 clong
+wmutex
+userctx
+unrefs
+unmapped
+underfilled
+unallocated
