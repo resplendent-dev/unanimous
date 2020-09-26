@@ -769,8 +769,10 @@ dummypage
 dummyserver
 dumpable
 dumpscript
+dupdata
 duplications
 duplicative
+dups
 durationchange
 dwatow
 dydd
@@ -1365,7 +1367,6 @@ itelja
 iteratee
 iteratees
 iterationlabs
-iteratively
 iteritems
 iterkeys
 itervalues
@@ -1674,6 +1675,7 @@ manytomany
 mapfn
 mapofthings
 mappable
+mapsize
 marcellefter
 marcelodolza
 marcolago
@@ -1927,6 +1929,7 @@ multiwidgets
 munud
 musl
 mutators
+mutexname
 myaction
 myblogsite
 mycodetips
@@ -2296,6 +2299,7 @@ permite
 personalmodule
 petrbela
 petter
+pghead
 pgid
 pgoffset
 pgproto
@@ -2574,6 +2578,7 @@ reactnative
 reactotron
 reactroot
 reactstrap
+readahead
 readd
 readdir
 readeral
@@ -2705,6 +2710,7 @@ retransmission
 retriable
 retrigger
 retter
+retval
 reusability
 revalidate
 revalidates
@@ -2818,6 +2824,7 @@ scrollspy
 scrollstart
 scrollstop
 sdispater
+sdsnew
 seagreen
 searchability
 searchableselect
@@ -3490,6 +3497,7 @@ tweening
 tweens
 tweesing
 twoway
+txkey
 txnid
 txt
 tydel
@@ -4224,9 +4232,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-sdsnew
-pghead
-mapsize
-dups
-readahead
-mutexname
