@@ -207,6 +207,7 @@ backstore
 backtick
 baddata
 bairro
+baldurk
 barackobama
 barangay
 barangays
@@ -3089,6 +3090,7 @@ statty
 stayinghomeclub
 stbi
 stbir
+stbiw
 stderr
 steelblue
 stefanschenk
@@ -3951,6 +3953,8 @@ visitnodetype
 visitxxx
 vistazo
 vivalid
+vkcube
+vkpt
 vnode
 vogdb
 vogl
@@ -3968,6 +3972,7 @@ vprintf
 vres
 vrier
 vrijdag
+vulkantoy
 vuoden
 vuosi
 vuotta
@@ -3989,6 +3994,7 @@ wasn
 watcha
 watsons
 wavded
+wayland
 wbolster
 wcoder
 wcykge
@@ -4295,9 +4301,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-stbiw
-baldurk
-wayland
-vulkantoy
-vkpt
-vkcube
