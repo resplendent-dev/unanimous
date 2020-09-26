@@ -4252,3 +4252,9 @@ rpcheck
 rmutex
 rlocked
 pixz
+unsized
+lzip
+plzip
+pbzip
+liblzma
+dictzip
