@@ -4278,3 +4278,9 @@ pentachoron
 stbir
 simplectic
 minval
+maxval
+rhombo
+differencing
+albedo
+texels
+rhombohedron
