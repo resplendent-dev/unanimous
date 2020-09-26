@@ -416,6 +416,7 @@ clickjacking
 clike
 clonado
 clonando
+clong
 cloudstorageaccount
 cmdclass
 cmov
@@ -689,6 +690,7 @@ dfae
 dharmeshkakadia
 dias
 diazona
+dictzip
 didn
 dilluns
 dimanche
@@ -769,8 +771,10 @@ dummypage
 dummyserver
 dumpable
 dumpscript
+dupdata
 duplications
 duplicative
+dups
 durationchange
 dwatow
 dydd
@@ -1365,7 +1369,6 @@ itelja
 iteratee
 iteratees
 iterationlabs
-iteratively
 iteritems
 iterkeys
 itervalues
@@ -1554,6 +1557,7 @@ liabru
 libero
 libev
 libffi
+liblzma
 libphonenumber
 libsasl
 libsndfile
@@ -1640,6 +1644,7 @@ lunes
 lvdalens
 lxxxvi
 lynis
+lzip
 maanantaina
 maand
 maandag
@@ -1662,6 +1667,7 @@ makoemail
 maksugr
 malam
 malfunctional
+malloced
 maman
 mame
 mandag
@@ -1674,6 +1680,7 @@ manytomany
 mapfn
 mapofthings
 mappable
+mapsize
 marcellefter
 marcelodolza
 marcolago
@@ -1927,6 +1934,7 @@ multiwidgets
 munud
 musl
 mutators
+mutexname
 myaction
 myblogsite
 mycodetips
@@ -2089,6 +2097,7 @@ nullish
 nullpointer
 nullptr
 numfound
+numreaders
 nunc
 nwith
 oaubert
@@ -2213,6 +2222,7 @@ overridable
 overscroll
 overviewhidden
 overwritable
+ovpages
 oxfe
 packagist
 packery
@@ -2271,6 +2281,7 @@ patik
 patrickmarabeas
 paulbocuse
 payloadgen
+pbzip
 pcaptools
 pcen
 pchar
@@ -2296,10 +2307,12 @@ permite
 personalmodule
 petrbela
 petter
+pghead
 pgid
 pgoffset
 pgproto
 pgroto
+pgstate
 pharetra
 pharo
 philippeluickx
@@ -2320,6 +2333,7 @@ pietvanzoen
 pinst
 pixelsin
 pixmap
+pixz
 pkzip
 placeful
 placeless
@@ -2339,6 +2353,7 @@ plotclick
 pluggability
 pluginsetup
 plusequals
+plzip
 pmuens
 pngcrush
 pnotify
@@ -2574,6 +2589,7 @@ reactnative
 reactotron
 reactroot
 reactstrap
+readahead
 readd
 readdir
 readeral
@@ -2642,6 +2658,7 @@ reindexed
 reinitializing
 reinject
 relayout
+relctx
 relicensing
 relu
 rematching
@@ -2705,6 +2722,7 @@ retransmission
 retriable
 retrigger
 retter
+retval
 reusability
 revalidate
 revalidates
@@ -2722,10 +2740,12 @@ rico
 rint
 ripplejs
 risus
+rlocked
 rmaktad
 rmillet
 rmse
 rmtp
+rmutex
 rmvb
 rnekleri
 rnystrom
@@ -2742,10 +2762,10 @@ ronkorving
 ronn
 rootid
 rosybrown
-rougly
 routable
 routelist
 royalblue
+rpcheck
 rqtp
 rquery
 rrcurveto
@@ -2819,6 +2839,7 @@ scrollspy
 scrollstart
 scrollstop
 sdispater
+sdsnew
 seagreen
 searchability
 searchableselect
@@ -2858,6 +2879,7 @@ semua
 sensorid
 sensorobject
 sensortree
+sepkey
 serversig
 servest
 servlet
@@ -2900,6 +2922,7 @@ showinfo
 shrd
 shrx
 shuding
+sibs
 sideload
 siden
 siefkenj
@@ -3005,6 +3028,7 @@ specgram
 specgrams
 specialchars
 spektar
+spillpg
 spinkit
 spion
 splitlines
@@ -3491,7 +3515,9 @@ tweening
 tweens
 tweesing
 twoway
+txkey
 txnid
+txninfo
 txt
 tydel
 tyle
@@ -3522,6 +3548,7 @@ umbraco
 unaddressable
 unaffordable
 unalignment
+unallocated
 unallowed
 unapplied
 unapply
@@ -3576,6 +3603,7 @@ unde
 undef
 undefine
 undelegate
+underfilled
 underflows
 underride
 underspecified
@@ -3641,6 +3669,7 @@ unlink
 unlinked
 unlisten
 unmaintained
+unmapped
 unmappedstatus
 unmark
 unmarshal
@@ -3683,6 +3712,7 @@ unpremultiply
 unproject
 unpublish
 unqueued
+unrefs
 unrefunded
 unregister
 unregistering
@@ -3712,6 +3742,7 @@ unsets
 unshadowing
 unshift
 unsigneds
+unsized
 unspool
 unstack
 unstacked
@@ -3789,6 +3820,7 @@ usefixtures
 usemap
 useragentstrings
 usercancelled
+userctx
 userdn
 userid
 userids
@@ -3968,6 +4000,7 @@ wmake
 wmem
 wmode
 wmsg
+wmutex
 wmv
 woensdag
 woooops
@@ -4225,3 +4258,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+blocksize
