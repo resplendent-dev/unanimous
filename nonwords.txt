@@ -416,6 +416,7 @@ clickjacking
 clike
 clonado
 clonando
+clong
 cloudstorageaccount
 cmdclass
 cmov
@@ -1663,6 +1664,7 @@ makoemail
 maksugr
 malam
 malfunctional
+malloced
 maman
 mame
 mandag
@@ -2092,6 +2094,7 @@ nullish
 nullpointer
 nullptr
 numfound
+numreaders
 nunc
 nwith
 oaubert
@@ -2216,6 +2219,7 @@ overridable
 overscroll
 overviewhidden
 overwritable
+ovpages
 oxfe
 packagist
 packery
@@ -2304,6 +2308,7 @@ pgid
 pgoffset
 pgproto
 pgroto
+pgstate
 pharetra
 pharo
 philippeluickx
@@ -2647,6 +2652,7 @@ reindexed
 reinitializing
 reinject
 relayout
+relctx
 relicensing
 relu
 rematching
@@ -3499,6 +3505,7 @@ tweesing
 twoway
 txkey
 txnid
+txninfo
 txt
 tydel
 tyle
@@ -3529,6 +3536,7 @@ umbraco
 unaddressable
 unaffordable
 unalignment
+unallocated
 unallowed
 unapplied
 unapply
@@ -3583,6 +3591,7 @@ unde
 undef
 undefine
 undelegate
+underfilled
 underflows
 underride
 underspecified
@@ -3648,6 +3657,7 @@ unlink
 unlinked
 unlisten
 unmaintained
+unmapped
 unmappedstatus
 unmark
 unmarshal
@@ -3690,6 +3700,7 @@ unpremultiply
 unproject
 unpublish
 unqueued
+unrefs
 unrefunded
 unregister
 unregistering
@@ -3796,6 +3807,7 @@ usefixtures
 usemap
 useragentstrings
 usercancelled
+userctx
 userdn
 userid
 userids
@@ -3975,6 +3987,7 @@ wmake
 wmem
 wmode
 wmsg
+wmutex
 wmv
 woensdag
 woooops
@@ -4232,15 +4245,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-relctx
-pgstate
-ovpages
-numreaders
-malloced
-clong
-wmutex
-userctx
-unrefs
-unmapped
-underfilled
-unallocated
