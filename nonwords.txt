@@ -641,6 +641,7 @@ denoify
 denoinit
 denoland
 denoliver
+denom
 denomander
 denopkg
 denotrain
@@ -3221,6 +3222,7 @@ subsetting
 substates
 substep
 substeps
+substract
 substrings
 subsubsection
 subsuites
@@ -3432,6 +3434,7 @@ tisba
 tissot
 titlebar
 tjfwb
+tlensing
 tlrobinson
 tmlee
 tmpfs
@@ -3580,6 +3583,7 @@ unallocated
 unallowed
 unapplied
 unapply
+unapplying
 unassign
 unassignment
 unauthorizedcb
@@ -3737,6 +3741,7 @@ unpickling
 unpkg
 unprefixed
 unpremultiply
+unpremultiplying
 unproject
 unpublish
 unqueued
@@ -3814,6 +3819,7 @@ uppercases
 uppercasing
 uppy
 upsample
+upsamples
 upsampling
 upscaled
 upscaling
@@ -3916,6 +3922,7 @@ vhcurveto
 vhdl
 vheight
 videoblog
+videogame
 videogames
 videoid
 videostream
@@ -3959,6 +3966,7 @@ voluptatum
 vorbisinfo
 voterid
 vprintf
+vres
 vrier
 vrijdag
 vuoden
@@ -4288,10 +4296,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-denom
-vres
-videogame
-upsamples
-unpremultiplying
-unapplying
-tlensing
