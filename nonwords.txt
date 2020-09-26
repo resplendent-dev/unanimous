@@ -690,6 +690,7 @@ dfae
 dharmeshkakadia
 dias
 diazona
+dictzip
 didn
 dilluns
 dimanche
@@ -1556,6 +1557,7 @@ liabru
 libero
 libev
 libffi
+liblzma
 libphonenumber
 libsasl
 libsndfile
@@ -1642,6 +1644,7 @@ lunes
 lvdalens
 lxxxvi
 lynis
+lzip
 maanantaina
 maand
 maandag
@@ -2278,6 +2281,7 @@ patik
 patrickmarabeas
 paulbocuse
 payloadgen
+pbzip
 pcaptools
 pcen
 pchar
@@ -2329,6 +2333,7 @@ pietvanzoen
 pinst
 pixelsin
 pixmap
+pixz
 pkzip
 placeful
 placeless
@@ -2348,6 +2353,7 @@ plotclick
 pluggability
 pluginsetup
 plusequals
+plzip
 pmuens
 pngcrush
 pnotify
@@ -2734,10 +2740,12 @@ rico
 rint
 ripplejs
 risus
+rlocked
 rmaktad
 rmillet
 rmse
 rmtp
+rmutex
 rmvb
 rnekleri
 rnystrom
@@ -2757,6 +2765,7 @@ rosybrown
 routable
 routelist
 royalblue
+rpcheck
 rqtp
 rquery
 rrcurveto
@@ -2870,6 +2879,7 @@ semua
 sensorid
 sensorobject
 sensortree
+sepkey
 serversig
 servest
 servlet
@@ -2912,6 +2922,7 @@ showinfo
 shrd
 shrx
 shuding
+sibs
 sideload
 siden
 siefkenj
@@ -3731,6 +3742,7 @@ unsets
 unshadowing
 unshift
 unsigneds
+unsized
 unspool
 unstack
 unstacked
@@ -4246,15 +4258,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-sibs
-sepkey
-rpcheck
-rmutex
-rlocked
-pixz
-unsized
-lzip
-plzip
-pbzip
-liblzma
-dictzip
+blocksize
