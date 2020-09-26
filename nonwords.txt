@@ -4272,3 +4272,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+texel
+stbi
+pentachoron
+stbir
+simplectic
+minval
