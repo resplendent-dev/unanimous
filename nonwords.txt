@@ -88,6 +88,7 @@ antiword
 anys
 apierrors
 apimanager
+apitrace
 appcontext
 appendblobservice
 appgroups
@@ -1079,6 +1080,7 @@ fylker
 gaborsar
 gaeopenid
 gainsboro
+gamedev
 gamers
 gamified
 garn
@@ -1123,11 +1125,14 @@ githubs
 githubusercontent
 gittip
 gjtorikian
+glbindify
+glbinding
 globalmente
 globalstrict
 globbed
 globrex
 glogging
+glslify
 glyf
 gmbh
 gmtime
@@ -2385,6 +2390,7 @@ popstate
 populators
 popupclose
 popvalue
+portably
 portis
 positionally
 positionals
@@ -4266,9 +4272,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-portably
-glslify
-glbinding
-glbindify
-gamedev
-apitrace
