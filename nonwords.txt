@@ -42,6 +42,7 @@ afshinmeh
 aiohttpparser
 aiotutorial
 ajki
+albedo
 albertgao
 aleja
 aleskarovadi
@@ -88,6 +89,7 @@ antiword
 anys
 apierrors
 apimanager
+apitrace
 appcontext
 appendblobservice
 appgroups
@@ -205,6 +207,7 @@ backstore
 backtick
 baddata
 bairro
+baldurk
 barackobama
 barangay
 barangays
@@ -260,6 +263,7 @@ blitting
 blkin
 bloburl
 blockblobservice
+blocksize
 blogpost
 blowsie
 bluelaguna
@@ -638,6 +642,7 @@ denoify
 denoinit
 denoland
 denoliver
+denom
 denomander
 denopkg
 denotrain
@@ -692,6 +697,7 @@ dias
 diazona
 dictzip
 didn
+differencing
 dilluns
 dimanche
 dimecres
@@ -1078,6 +1084,7 @@ fylker
 gaborsar
 gaeopenid
 gainsboro
+gamedev
 gamers
 gamified
 garn
@@ -1093,6 +1100,7 @@ geleden
 geli
 gemfile
 gendoc
+generalizable
 generateimages
 genericinlineformset
 genindex
@@ -1122,11 +1130,14 @@ githubs
 githubusercontent
 gittip
 gjtorikian
+glbindify
+glbinding
 globalmente
 globalstrict
 globbed
 globrex
 glogging
+glslify
 glyf
 gmbh
 gmtime
@@ -1178,6 +1189,7 @@ hanumanum
 hapijs
 harddisk
 hari
+hashbidimap
 hashchange
 hashmap
 hashmaps
@@ -1299,6 +1311,7 @@ infctr
 inferencing
 inflight
 informations
+infront
 inglese
 inikulin
 inited
@@ -1704,6 +1717,7 @@ maxlen
 maxmemory
 maxparams
 maxsize
+maxval
 maxwidth
 mbcssm
 mbcssmprober
@@ -1810,6 +1824,7 @@ minuut
 minuutin
 minuutti
 minuuttia
+minval
 mipmap
 misbehaviors
 miscellanea
@@ -1969,6 +1984,7 @@ navajowhite
 navbars
 navigations
 navplate
+nbands
 nbayramberdiyev
 nbest
 nbits
@@ -2064,6 +2080,7 @@ noone
 noqaj
 normalizations
 normalizr
+normals
 northing
 noscript
 nosearch
@@ -2293,6 +2310,7 @@ pedanticness
 peity
 pencilblue
 pengambil
+pentachoron
 perccel
 perce
 percona
@@ -2382,6 +2400,7 @@ popstate
 populators
 popupclose
 popvalue
+portably
 portis
 positionally
 positionals
@@ -2442,6 +2461,7 @@ preloaded
 preloading
 preloads
 premade
+premultiplied
 prendre
 preorder
 preparers
@@ -2731,6 +2751,8 @@ revalidation
 reviver
 rewalk
 rght
+rhombo
+rhombohedron
 rhoncus
 rhum
 ribeye
@@ -2879,6 +2901,7 @@ semua
 sensorid
 sensorobject
 sensortree
+sentdex
 sepkey
 serversig
 servest
@@ -2901,6 +2924,7 @@ sexta
 sexualized
 sfnt
 sgi
+shaders
 sharex
 shazow
 shch
@@ -2932,6 +2956,7 @@ signedness
 signups
 silesia
 silizuo
+simplectic
 simplemocha
 sindresorhus
 sinebow
@@ -3063,6 +3088,9 @@ statcache
 staticsitegenerators
 statty
 stayinghomeclub
+stbi
+stbir
+stbiw
 stderr
 steelblue
 stefanschenk
@@ -3329,6 +3357,8 @@ testrequestpage
 testspec
 teststyles
 tetete
+texel
+texels
 textarea
 textareas
 textboxes
@@ -3348,6 +3378,7 @@ thatguy
 thats
 theacodes
 thead
+thebennybox
 theghostbel
 themeable
 themeless
@@ -3404,6 +3435,7 @@ tisba
 tissot
 titlebar
 tjfwb
+tlensing
 tlrobinson
 tmlee
 tmpfs
@@ -3552,6 +3584,7 @@ unallocated
 unallowed
 unapplied
 unapply
+unapplying
 unassign
 unassignment
 unauthorizedcb
@@ -3709,6 +3742,7 @@ unpickling
 unpkg
 unprefixed
 unpremultiply
+unpremultiplying
 unproject
 unpublish
 unqueued
@@ -3786,6 +3820,7 @@ uppercases
 uppercasing
 uppy
 upsample
+upsamples
 upsampling
 upscaled
 upscaling
@@ -3886,7 +3921,9 @@ veza
 vformat
 vhcurveto
 vhdl
+vheight
 videoblog
+videogame
 videogames
 videoid
 videostream
@@ -3916,8 +3953,11 @@ visitnodetype
 visitxxx
 vistazo
 vivalid
+vkcube
+vkpt
 vnode
 vogdb
+vogl
 voivodeship
 vojta
 volo
@@ -3929,8 +3969,10 @@ voluptatum
 vorbisinfo
 voterid
 vprintf
+vres
 vrier
 vrijdag
+vulkantoy
 vuoden
 vuosi
 vuotta
@@ -3952,6 +3994,7 @@ wasn
 watcha
 watsons
 wavded
+wayland
 wbolster
 wcoder
 wcykge
@@ -4258,4 +4301,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-blocksize
