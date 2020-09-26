@@ -4232,3 +4232,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+relctx
+pgstate
+ovpages
+numreaders
+malloced
+clong
