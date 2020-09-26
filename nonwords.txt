@@ -4224,3 +4224,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+sdsnew
+pghead
+mapsize
+dups
+readahead
+mutexname
