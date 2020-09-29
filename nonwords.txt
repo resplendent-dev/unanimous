@@ -72,6 +72,7 @@ amazonaws
 amin
 ance
 ancock
+andlabs
 andouille
 anentropic
 anim
@@ -451,6 +452,8 @@ comandos
 combinable
 combinator
 combinatorial
+combobox
+comctl
 commitwithin
 commodo
 commonjs
@@ -599,6 +602,7 @@ deburr
 deburred
 decapitalize
 decapitalized
+december
 decibans
 declaratively
 declarativeness
@@ -1023,10 +1027,13 @@ fonctionnalit
 fonctionne
 fonctions
 fontalignment
+fontdialog
+fontmatch
 foobarhello
 fooo
 foos
 forcelist
+foreach
 forestgreen
 forgivey
 forin
@@ -1166,6 +1173,7 @@ greymap
 gridded
 griffinlim
 grimfandango
+groupbox
 groupfinder
 groupin
 grouptitle
@@ -1248,6 +1256,7 @@ hultner
 humanmsg
 huskyrc
 hustcc
+hwnd
 hybi
 hyperparameters
 iaculis
@@ -1317,6 +1326,7 @@ inglese
 inikulin
 inited
 initializations
+initializers
 initkwargs
 inlined
 inlining
@@ -1729,6 +1739,7 @@ mberg
 mcdjango
 mcflask
 mcflyin
+mclasen
 mdash
 mdcss
 mediatypes
@@ -3753,6 +3764,7 @@ unpremultiplying
 unproject
 unpublish
 unqueued
+unref
 unrefs
 unrefunded
 unregister
@@ -4003,6 +4015,7 @@ watsons
 wavded
 wayland
 wbolster
+wchar
 wcoder
 wcykge
 weakrefs
@@ -4041,6 +4054,7 @@ windoze
 wininst
 winjs
 winlen
+winnls
 winsock
 wkjagt
 wlen
@@ -4309,16 +4323,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-unref
-december
-comctl
-winnls
-hwnd
-foreach
-combobox
-andlabs
-wchar
-mclasen
-initializers
-groupbox
-fontmatch
