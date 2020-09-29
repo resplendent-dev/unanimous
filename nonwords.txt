@@ -2766,6 +2766,7 @@ revalidate
 revalidates
 revalidating
 revalidation
+reverify
 reviver
 rewalk
 rght
@@ -2777,6 +2778,7 @@ ribeye
 richardbenjamin
 rickygu
 rico
+rightbar
 rint
 ripplejs
 risus
@@ -2804,6 +2806,7 @@ rootid
 rosybrown
 routable
 routelist
+rowheights
 royalblue
 rpcheck
 rqtp
@@ -2879,6 +2882,7 @@ scrollspy
 scrollstart
 scrollstop
 sdispater
+sdkddkver
 sdsnew
 seagreen
 searchability
@@ -3138,6 +3142,7 @@ strarr
 strawman
 strcpy
 strcut
+strdup
 streamgraph
 streamreader
 streamreaders
@@ -3323,6 +3328,7 @@ tableservice
 tablesorting
 tablespace
 tabnabbing
+tabpage
 tabplate
 tabsfrom
 tacofancy
@@ -3589,6 +3595,7 @@ ueber
 uglified
 uglify
 uids
+uipriv
 ukey
 ukrainian
 ul
@@ -3818,6 +3825,7 @@ unsuspended
 unsuspending
 unsuspends
 unterminated
+unthemed
 untiled
 untils
 untracked
@@ -3854,6 +3862,7 @@ upvoting
 uralbash
 urandom
 uravy
+urgh
 uris
 urldispatch
 urlencoded
@@ -4327,9 +4336,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-urgh
-unthemed
-uipriv
-tabpage
-strdup
-sdkddkver
