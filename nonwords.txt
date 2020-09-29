@@ -4310,3 +4310,9 @@ zygohistomorphic
 zyxwvu
 zzarcon
 unref
+december
+comctl
+winnls
+hwnd
+foreach
+combobox
