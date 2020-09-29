@@ -4316,3 +4316,9 @@ winnls
 hwnd
 foreach
 combobox
+andlabs
+wchar
+mclasen
+initializers
+groupbox
+fontmatch
