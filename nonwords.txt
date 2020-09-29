@@ -102,6 +102,8 @@ arashmanteghi
 archimedean
 architected
 arcu
+areaevents
+areautil
 aren
 arent
 argname
@@ -3888,6 +3890,7 @@ utf
 utilbar
 utilisant
 uvid
+uxtheme
 uxxxx
 uzak
 vadd
@@ -4090,6 +4093,7 @@ wuyunjiang
 wwww
 xacov
 xacovfft
+xalign
 xamiro
 xannihilator
 xarg
