@@ -48,6 +48,7 @@ albertgao
 aleja
 aleskarovadi
 alexanderdickson
+algorithmically
 aliceblue
 aliqua
 aliquam
@@ -304,6 +305,7 @@ bskinsm
 bsonmez
 bstock
 buddyjs
+buffersize
 buffiter
 bugginess
 bugridden
@@ -594,7 +596,9 @@ dcramer
 ddcb
 ddfb
 ddmanager
+deallocate
 deallocated
+deallocator
 deamon
 debitis
 debounce
@@ -1426,6 +1430,7 @@ jbinary
 jblas
 jdalton
 jdataview
+jdtang
 jeesh
 jeffknupp
 jeremydmiller
@@ -2140,6 +2145,7 @@ nulhom
 nullability
 nullable
 nullary
+nulled
 nullish
 nullpointer
 nullptr
@@ -2670,6 +2676,7 @@ reconcatenate
 reconfigurable
 reconnection
 reconnections
+reconsume
 recrawl
 rects
 recurses
@@ -2723,6 +2730,7 @@ rendere
 renewtoken
 reorderable
 reorderer
+reparented
 replicability
 repositioned
 repositions
@@ -3506,6 +3514,7 @@ tonnetz
 tonos
 toolfunc
 toolsforactivism
+toolsmiths
 tooltipclose
 tooltipopen
 tooltipsy
@@ -4365,9 +4374,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-buffersize
-jdtang
-reconsume
-nulled
-deallocator
-deallocate
