@@ -4348,3 +4348,9 @@ byteshift
 ukowski
 powerpc
 mulo
+addcll
+vmovn
+upcast
+unoptimized
+umul
+sumhash
