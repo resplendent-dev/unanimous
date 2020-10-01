@@ -851,6 +851,7 @@ endcomment
 endcompress
 enddocregion
 endfor
+endianness
 endif
 endiffeature
 endofunctors
@@ -1614,6 +1615,7 @@ linewidth
 linewise
 linex
 linkability
+linkhash
 linkified
 linksgo
 linters
@@ -1741,6 +1743,7 @@ mberg
 mcdjango
 mcflask
 mcflyin
+mclark
 mclasen
 mdash
 mdcss
@@ -1756,6 +1759,7 @@ megastring
 meisthai
 melakarta
 melhoresparatrabalhar
+memappend
 memberof
 memcmp
 memcpy
@@ -2509,6 +2513,7 @@ primera
 primereact
 primjer
 primjerima
+printbuf
 priori
 priru
 pristinemethod
@@ -2920,6 +2925,7 @@ semimajor
 semiminor
 semper
 semua
+sensical
 sensorid
 sensorobject
 sensortree
@@ -4336,9 +4342,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-endianness
-mclark
-linkhash
-printbuf
-memappend
-sensical
