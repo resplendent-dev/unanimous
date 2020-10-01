@@ -4365,3 +4365,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+buffersize
+jdtang
+reconsume
+nulled
+deallocator
+deallocate
