@@ -4342,3 +4342,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+dotset
+wyhash
+byteshift
+ukowski
+powerpc
+mulo
