@@ -186,6 +186,7 @@ autosizing
 autoslidepaused
 autoslideresumed
 autostop
+autovectorization
 avals
 avgrund
 avoriaz
@@ -428,6 +429,7 @@ clonando
 clong
 cloudstorageaccount
 cmdclass
+cmetrohash
 cmov
 cnkge
 cobrateam
@@ -1208,6 +1210,7 @@ hashchange
 hashmap
 hashmaps
 hasn
+hasshe
 hasta
 havemeyer
 hdinfo
@@ -1339,6 +1342,7 @@ inlining
 inprogress
 inputmode
 inputors
+inserti
 instancia
 instante
 instantiation
@@ -1381,6 +1385,7 @@ irure
 isable
 isatty
 isempty
+iset
 islast
 isnt
 isogram
@@ -2222,6 +2227,7 @@ optind
 optionality
 optionals
 optname
+optshort
 optstring
 optwhere
 oraclegis
@@ -2740,6 +2746,7 @@ rerendered
 rerendering
 rerenders
 rerequest
+rerolled
 resampled
 rescaled
 rescaling
@@ -3677,6 +3684,7 @@ unde
 undef
 undefine
 undelegate
+underalignment
 underfilled
 underflows
 underride
@@ -4020,6 +4028,9 @@ vprintf
 vres
 vrier
 vrijdag
+vshll
+vshlq
+vshrn
 vulkantoy
 vuoden
 vuosi
@@ -4354,9 +4365,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-rerolled
-optshort
-iset
-inserti
-hasshe
-cmetrohash
