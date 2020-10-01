@@ -4336,3 +4336,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+endianness
+mclark
+linkhash
+printbuf
+memappend
+sensical
