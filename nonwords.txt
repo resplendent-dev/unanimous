@@ -19,6 +19,7 @@ actiontyper
 activations
 aculo
 adactio
+addcll
 addedon
 addfinalizer
 addinfourl
@@ -317,6 +318,7 @@ bwith
 bxslider
 byid
 byteordermark
+byteshift
 bytestream
 bytestrings
 cachable
@@ -759,6 +761,7 @@ domready
 donationware
 dotless
 dotnetfunda
+dotset
 doubleclicks
 doubletap
 dpam
@@ -1947,6 +1950,7 @@ mthreading
 mtitg
 muddledramblings
 muhdnurhidayat
+mulo
 multiaxis
 multibuy
 multicasted
@@ -2448,6 +2452,7 @@ posuere
 potente
 pouvez
 powderblue
+powerpc
 ppoll
 pquentin
 preaction
@@ -3276,6 +3281,7 @@ suckage
 sucky
 sucrase
 sudodoki
+sumhash
 summand
 summarizers
 sumsquare
@@ -3603,6 +3609,7 @@ uglify
 uids
 uipriv
 ukey
+ukowski
 ukrainian
 ul
 ular
@@ -3610,6 +3617,7 @@ ulimit
 ullamco
 ultrices
 umbraco
+umul
 unaddressable
 unaffordable
 unalignment
@@ -3758,6 +3766,7 @@ unnormalized
 unobservable
 unobserve
 unopinionated
+unoptimized
 unorderedlist
 unpaginated
 unpark
@@ -3844,6 +3853,7 @@ unversioned
 unvote
 unwire
 upcase
+upcast
 upcasted
 updaters
 updatesubs
@@ -3992,6 +4002,7 @@ vistazo
 vivalid
 vkcube
 vkpt
+vmovn
 vnode
 vogdb
 vogl
@@ -4106,6 +4117,7 @@ wsym
 wunki
 wuyunjiang
 wwww
+wyhash
 xacov
 xacovfft
 xalign
@@ -4342,15 +4354,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-dotset
-wyhash
-byteshift
-ukowski
-powerpc
-mulo
-addcll
-vmovn
-upcast
-unoptimized
-umul
-sumhash
