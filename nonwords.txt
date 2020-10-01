@@ -48,6 +48,7 @@ albertgao
 aleja
 aleskarovadi
 alexanderdickson
+algorithmically
 aliceblue
 aliqua
 aliquam
@@ -186,6 +187,7 @@ autosizing
 autoslidepaused
 autoslideresumed
 autostop
+autovectorization
 avals
 avgrund
 avoriaz
@@ -303,6 +305,7 @@ bskinsm
 bsonmez
 bstock
 buddyjs
+buffersize
 buffiter
 bugginess
 bugridden
@@ -386,6 +389,7 @@ checkboxselectmultiple
 checkconfig
 checklines
 checkmark
+checkmarks
 checksums
 chere
 childarea
@@ -428,6 +432,7 @@ clonando
 clong
 cloudstorageaccount
 cmdclass
+cmetrohash
 cmov
 cnkge
 cobrateam
@@ -592,7 +597,9 @@ dcramer
 ddcb
 ddfb
 ddmanager
+deallocate
 deallocated
+deallocator
 deamon
 debitis
 debounce
@@ -608,6 +615,7 @@ decapitalize
 decapitalized
 december
 decibans
+decisional
 declaratively
 declarativeness
 declarator
@@ -914,6 +922,7 @@ euri
 evaled
 eventjs
 eventname
+evolutive
 exampleurls
 excview
 execjosh
@@ -1208,6 +1217,7 @@ hashchange
 hashmap
 hashmaps
 hasn
+hasshe
 hasta
 havemeyer
 hdinfo
@@ -1339,6 +1349,7 @@ inlining
 inprogress
 inputmode
 inputors
+inserti
 instancia
 instante
 instantiation
@@ -1381,6 +1392,7 @@ irure
 isable
 isatty
 isempty
+iset
 islast
 isnt
 isogram
@@ -1421,6 +1433,7 @@ jbinary
 jblas
 jdalton
 jdataview
+jdtang
 jeesh
 jeffknupp
 jeremydmiller
@@ -1596,6 +1609,7 @@ libsndfile
 libsqlite
 libu
 libui
+libvldmail
 libxslt
 licensors
 lifesinger
@@ -2123,6 +2137,7 @@ novacancy
 novak
 nowrap
 noxfile
+nparsed
 nplurals
 npostfix
 nrful
@@ -2135,6 +2150,7 @@ nulhom
 nullability
 nullable
 nullary
+nulled
 nullish
 nullpointer
 nullptr
@@ -2222,6 +2238,7 @@ optind
 optionality
 optionals
 optname
+optshort
 optstring
 optwhere
 oraclegis
@@ -2664,11 +2681,14 @@ reconcatenate
 reconfigurable
 reconnection
 reconnections
+reconsume
+reconsumed
 recrawl
 rects
 recurses
 recursing
 recursionlimit
+recved
 recyclerlistview
 redbox
 redditclone
@@ -2717,6 +2737,7 @@ rendere
 renewtoken
 reorderable
 reorderer
+reparented
 replicability
 repositioned
 repositions
@@ -2740,6 +2761,7 @@ rerendered
 rerendering
 rerenders
 rerequest
+rerolled
 resampled
 rescaled
 rescaling
@@ -3499,6 +3521,7 @@ tonnetz
 tonos
 toolfunc
 toolsforactivism
+toolsmiths
 tooltipclose
 tooltipopen
 tooltipsy
@@ -3578,6 +3601,7 @@ tupleiterator
 tuples
 tureey
 tutte
+tuxproject
 tvanzyl
 tweened
 tweener
@@ -3677,6 +3701,7 @@ unde
 undef
 undefine
 undelegate
+underalignment
 underfilled
 underflows
 underride
@@ -4020,6 +4045,9 @@ vprintf
 vres
 vrier
 vrijdag
+vshll
+vshlq
+vshrn
 vulkantoy
 vuoden
 vuosi
