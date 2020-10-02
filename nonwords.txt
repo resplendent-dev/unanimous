@@ -260,6 +260,7 @@ bindify
 biste
 bitinn
 bitmasks
+bitreversed
 bitshifts
 bjoerns
 blandit
@@ -616,6 +617,7 @@ deburr
 deburred
 decapitalize
 decapitalized
+decapsulate
 december
 decibans
 decisional
@@ -1199,6 +1201,7 @@ groupbox
 groupfinder
 groupin
 grouptitle
+growable
 gruntfile
 gsap
 gsound
@@ -1828,6 +1831,7 @@ microlibraries
 microtask
 microtasks
 microtime
+middlebox
 middot
 midifan
 midnightblue
@@ -2169,6 +2173,7 @@ numfound
 numreaders
 nunc
 nwith
+nwords
 oaubert
 oauthtoken
 oaxoa
@@ -3151,6 +3156,7 @@ sqlcreate
 sqldsn
 sqrt
 squarified
+squeezeblocks
 squoosh
 srcuri
 srufaculty
@@ -4411,9 +4417,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-nwords
-growable
-decapsulate
-middlebox
-bitreversed
-squeezeblocks
