@@ -405,6 +405,7 @@ christopher
 chunkalways
 chunkdone
 chunkfail
+chunkref
 chunksend
 cidchar
 cidrange
@@ -1338,6 +1339,7 @@ indexh
 indexv
 indianred
 indicando
+indirections
 indirmek
 infctr
 inferencing
@@ -1401,6 +1403,7 @@ isempty
 iset
 islast
 isnt
+isogeny
 isogram
 isomorphism
 isomorphisms
@@ -2443,6 +2446,7 @@ pointerup
 pointsize
 polyfilling
 polyfills
+polyvec
 pondelok
 ponedjeljak
 poolsize
@@ -2547,6 +2551,7 @@ primereact
 primjer
 primjerima
 printbuf
+priolist
 priori
 priru
 pristinemethod
@@ -2566,6 +2571,7 @@ programmingly
 programovat
 progressall
 proident
+projective
 prometheusresearch
 promiseinspection
 promisified
@@ -2968,6 +2974,7 @@ semiminor
 semper
 semua
 sendbufsz
+sendings
 sensical
 sensorid
 sensorobject
@@ -3026,6 +3033,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+sike
 silesia
 silizuo
 simplectic
@@ -3216,6 +3224,7 @@ strptime
 strs
 structified
 strumento
+stuffers
 stunnel
 stureek
 stylable
@@ -4402,9 +4411,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-chunkref
-priolist
-sendings
-indirections
-projective
-isogeny
