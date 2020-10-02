@@ -4388,3 +4388,9 @@ sendbufsz
 recvbufsz
 deallocations
 deallocation
+subspan
+rpaligned
+unmapping
+lockfree
+fini
+decommitting
