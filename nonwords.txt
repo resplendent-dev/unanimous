@@ -4382,3 +4382,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+unpackers
+socketfd
+sendbufsz
+recvbufsz
+deallocations
+deallocation
