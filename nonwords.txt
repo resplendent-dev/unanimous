@@ -599,6 +599,8 @@ ddfb
 ddmanager
 deallocate
 deallocated
+deallocation
+deallocations
 deallocator
 deamon
 debitis
@@ -620,6 +622,9 @@ declaratively
 declarativeness
 declarator
 decodings
+decommit
+decommitted
+decommitting
 decompilation
 decompressor
 decoratormethod
@@ -1005,6 +1010,7 @@ finalizer
 finalsub
 findall
 findone
+fini
 finibus
 firedux
 firma
@@ -1427,6 +1433,7 @@ january
 jaring
 jaroj
 jasminewd
+javaccmd
 javascripts
 javve
 jbinary
@@ -1656,6 +1663,7 @@ localmax
 localmouse
 localstore
 localtime
+lockfree
 locmem
 locmemcache
 loggroup
@@ -2265,6 +2273,7 @@ outros
 outtextf
 outtextlist
 ovdje
+overallocating
 overcomplicated
 overconsumed
 overcounting
@@ -2279,6 +2288,7 @@ overplotting
 overridability
 overridable
 overscroll
+oversizes
 overviewhidden
 overwritable
 ovpages
@@ -2415,6 +2425,7 @@ pluggability
 pluginsetup
 plusequals
 plzip
+pmalloc
 pmuens
 pngcrush
 pnotify
@@ -2688,6 +2699,7 @@ rects
 recurses
 recursing
 recursionlimit
+recvbufsz
 recved
 recyclerlistview
 redbox
@@ -2840,7 +2852,10 @@ routable
 routelist
 rowheights
 royalblue
+rpaligned
 rpcheck
+rpmemalign
+rpposix
 rqtp
 rquery
 rrcurveto
@@ -2952,6 +2967,7 @@ semimajor
 semiminor
 semper
 semua
+sendbufsz
 sensical
 sensorid
 sensorobject
@@ -3069,6 +3085,7 @@ sobolevn
 sobre
 sociallogin
 socio
+socketfd
 socketmodule
 sodales
 sodperc
@@ -3278,6 +3295,7 @@ subselects
 subsequence
 subsequences
 subsetting
+subspan
 substates
 substep
 substeps
@@ -3770,6 +3788,7 @@ unlisten
 unmaintained
 unmapped
 unmappedstatus
+unmapping
 unmark
 unmarshal
 unmarshalling
@@ -3793,6 +3812,7 @@ unobserve
 unopinionated
 unoptimized
 unorderedlist
+unpackers
 unpaginated
 unpark
 unparseable
