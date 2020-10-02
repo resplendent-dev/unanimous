@@ -4394,3 +4394,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+decommitted
+decommit
+rpposix
+rpmemalign
+pmalloc
+oversizes
