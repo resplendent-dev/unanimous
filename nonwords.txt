@@ -260,6 +260,7 @@ bindify
 biste
 bitinn
 bitmasks
+bitreversed
 bitshifts
 bjoerns
 blandit
@@ -405,6 +406,7 @@ christopher
 chunkalways
 chunkdone
 chunkfail
+chunkref
 chunksend
 cidchar
 cidrange
@@ -615,6 +617,7 @@ deburr
 deburred
 decapitalize
 decapitalized
+decapsulate
 december
 decibans
 decisional
@@ -1198,6 +1201,7 @@ groupbox
 groupfinder
 groupin
 grouptitle
+growable
 gruntfile
 gsap
 gsound
@@ -1338,6 +1342,7 @@ indexh
 indexv
 indianred
 indicando
+indirections
 indirmek
 infctr
 inferencing
@@ -1401,6 +1406,7 @@ isempty
 iset
 islast
 isnt
+isogeny
 isogram
 isomorphism
 isomorphisms
@@ -1825,6 +1831,7 @@ microlibraries
 microtask
 microtasks
 microtime
+middlebox
 middot
 midifan
 midnightblue
@@ -2166,6 +2173,7 @@ numfound
 numreaders
 nunc
 nwith
+nwords
 oaubert
 oauthtoken
 oaxoa
@@ -2443,6 +2451,7 @@ pointerup
 pointsize
 polyfilling
 polyfills
+polyvec
 pondelok
 ponedjeljak
 poolsize
@@ -2547,6 +2556,7 @@ primereact
 primjer
 primjerima
 printbuf
+priolist
 priori
 priru
 pristinemethod
@@ -2566,6 +2576,7 @@ programmingly
 programovat
 progressall
 proident
+projective
 prometheusresearch
 promiseinspection
 promisified
@@ -2968,6 +2979,7 @@ semiminor
 semper
 semua
 sendbufsz
+sendings
 sensical
 sensorid
 sensorobject
@@ -3026,6 +3038,7 @@ sigmavirus
 sigmoid
 signedness
 signups
+sike
 silesia
 silizuo
 simplectic
@@ -3143,6 +3156,7 @@ sqlcreate
 sqldsn
 sqrt
 squarified
+squeezeblocks
 squoosh
 srcuri
 srufaculty
@@ -3216,6 +3230,7 @@ strptime
 strs
 structified
 strumento
+stuffers
 stunnel
 stureek
 stylable
