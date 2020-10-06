@@ -1,5 +1,6 @@
 aabb
 aabbbccccddddd
+abamp
 abarnert
 abbrs
 abby
@@ -23,6 +24,7 @@ addcll
 addedon
 addfinalizer
 addinfourl
+addrinfo
 adher
 adicionar
 adipiscing
@@ -114,6 +116,7 @@ argumentmapper
 argumentresolver
 argumentspec
 argumentvalidator
+arities
 arity
 arn
 arnemart
@@ -404,6 +407,7 @@ chrishumboldt
 chrissrogers
 christopher
 chunkalways
+chunkamount
 chunkdone
 chunkfail
 chunkref
@@ -808,6 +812,7 @@ duplicative
 dups
 durationchange
 dwatow
+dyad
 dydd
 dynamicsjs
 dynamiczone
@@ -1243,6 +1248,7 @@ herf
 heterophobia
 heure
 heures
+hexa
 hexcolor
 hexdigits
 hexlifies
@@ -1551,6 +1557,7 @@ kowal
 kristoferjoseph
 kuluttua
 kurang
+kurtosis
 kuukauden
 kuukausi
 kuukautta
@@ -1806,6 +1813,7 @@ menos
 mercredi
 meridiem
 merkredo
+meromorphic
 merupakan
 mesec
 meses
@@ -1878,6 +1886,7 @@ minuutin
 minuutti
 minuuttia
 minval
+miny
 mipmap
 misbehaviors
 miscellanea
@@ -2122,12 +2131,15 @@ noneditable
 nonew
 nonexisting
 noniles
+nonintegral
 noninteractive
 nonlinearity
 nonlocal
+nonpositive
 nonprefixed
 nonprintable
 nonsensuous
+nonterminal
 nonword
 nonwords
 noone
@@ -2327,11 +2339,11 @@ panoramica
 panose
 panzerdp
 papayawhip
+papercuts
 parallaxed
 parallaxing
 parallelization
 parallelizes
-parameterization
 parametrizes
 paranoic
 paren
@@ -2628,6 +2640,7 @@ qcluster
 qinfo
 qmarlats
 qsize
+qsort
 qsval
 qtime
 quam
@@ -2985,6 +2998,7 @@ sensorid
 sensorobject
 sensortree
 sentdex
+sentential
 sepkey
 september
 serversig
@@ -3002,8 +3016,10 @@ sethmlarson
 setitem
 setosa
 setrelheap
+setsockopt
 setuid
 setupmobans
+setvbuf
 sexta
 sexualized
 sfnt
@@ -3058,6 +3074,7 @@ sitten
 situ
 sizedimage
 sizset
+skewness
 skhaz
 skinnable
 skiptags
@@ -3094,6 +3111,7 @@ snackbar
 snapshotting
 snils
 snipver
+snprintf
 sobolevn
 sobre
 sociallogin
@@ -3186,6 +3204,7 @@ stemh
 stemv
 stephband
 stepleave
+stepsize
 stereographic
 sterseniz
 stevenlevithan
@@ -3228,6 +3247,7 @@ stroh
 strokewidth
 strptime
 strs
+strtol
 structified
 strumento
 stuffers
@@ -3434,6 +3454,7 @@ temparea
 tempat
 templatefiles
 templateset
+templatized
 tempograms
 tempor
 tenje
@@ -3641,6 +3662,7 @@ tweener
 tweening
 tweens
 tweesing
+twitc
 twoway
 txkey
 txnid
@@ -3799,6 +3821,7 @@ unkeyed
 unlimit
 unlink
 unlinked
+unlinking
 unlisten
 unmaintained
 unmapped
@@ -3968,6 +3991,7 @@ userids
 userland
 usermedia
 usermodulename
+userp
 userprompts
 usershome
 userstory
@@ -4040,7 +4064,6 @@ viewcode
 viewitems
 viewkeys
 viewmode
-viewport
 viewprereset
 viewvalues
 viime
@@ -4088,6 +4111,7 @@ vuoden
 vuosi
 vuotta
 vvvpq
+vwritef
 waaaay
 waddlelikeaduck
 wagerfield
@@ -4169,6 +4193,7 @@ wrappable
 wraptypes
 wreaddir
 writeable
+writef
 writeformat
 writehdr
 wronskian
