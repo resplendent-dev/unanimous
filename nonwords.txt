@@ -116,6 +116,7 @@ argumentmapper
 argumentresolver
 argumentspec
 argumentvalidator
+arities
 arity
 arn
 arnemart
@@ -1247,6 +1248,7 @@ herf
 heterophobia
 heure
 heures
+hexa
 hexcolor
 hexdigits
 hexlifies
@@ -1884,6 +1886,7 @@ minuutin
 minuutti
 minuuttia
 minval
+miny
 mipmap
 misbehaviors
 miscellanea
@@ -2136,6 +2139,7 @@ nonpositive
 nonprefixed
 nonprintable
 nonsensuous
+nonterminal
 nonword
 nonwords
 noone
@@ -2994,6 +2998,7 @@ sensorid
 sensorobject
 sensortree
 sentdex
+sentential
 sepkey
 september
 serversig
@@ -3014,6 +3019,7 @@ setrelheap
 setsockopt
 setuid
 setupmobans
+setvbuf
 sexta
 sexualized
 sfnt
@@ -3241,6 +3247,7 @@ stroh
 strokewidth
 strptime
 strs
+strtol
 structified
 strumento
 stuffers
@@ -3447,6 +3454,7 @@ temparea
 tempat
 templatefiles
 templateset
+templatized
 tempograms
 tempor
 tenje
@@ -4434,9 +4442,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-nonterminal
-templatized
-miny
-arities
-sentential
-strtol
