@@ -4508,3 +4508,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+yyoverflow
+actionlist
+sectionidx
+maxsection
+yytname
+yyerrorlab
