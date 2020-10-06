@@ -1,5 +1,6 @@
 aabb
 aabbbccccddddd
+abamp
 abarnert
 abbrs
 abby
@@ -405,6 +406,7 @@ chrishumboldt
 chrissrogers
 christopher
 chunkalways
+chunkamount
 chunkdone
 chunkfail
 chunkref
@@ -1553,6 +1555,7 @@ kowal
 kristoferjoseph
 kuluttua
 kurang
+kurtosis
 kuukauden
 kuukausi
 kuukautta
@@ -1808,6 +1811,7 @@ menos
 mercredi
 meridiem
 merkredo
+meromorphic
 merupakan
 mesec
 meses
@@ -2124,9 +2128,11 @@ noneditable
 nonew
 nonexisting
 noniles
+nonintegral
 noninteractive
 nonlinearity
 nonlocal
+nonpositive
 nonprefixed
 nonprintable
 nonsensuous
@@ -2630,6 +2636,7 @@ qcluster
 qinfo
 qmarlats
 qsize
+qsort
 qsval
 qtime
 quam
@@ -3061,6 +3068,7 @@ sitten
 situ
 sizedimage
 sizset
+skewness
 skhaz
 skinnable
 skiptags
@@ -3190,6 +3198,7 @@ stemh
 stemv
 stephband
 stepleave
+stepsize
 stereographic
 sterseniz
 stevenlevithan
@@ -3645,6 +3654,7 @@ tweener
 tweening
 tweens
 tweesing
+twitc
 twoway
 txkey
 txnid
@@ -3973,6 +3983,7 @@ userids
 userland
 usermedia
 usermodulename
+userp
 userprompts
 usershome
 userstory
@@ -4423,9 +4434,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-chunkamount
-twitc
-userp
-abamp
-kurtosis
-skewness
