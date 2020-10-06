@@ -4517,3 +4517,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+yystate
+yyreduce
+yynewstate
+yyformat
+yyexhaustedlab
+yydefault
