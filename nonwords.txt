@@ -4496,3 +4496,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+dtor
+varargs
+utstring
+uthash
+unrefed
+unistd
