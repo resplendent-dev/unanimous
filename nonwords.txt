@@ -313,6 +313,7 @@ bstock
 buddyjs
 buffersize
 buffiter
+buflen
 bugginess
 bugridden
 bugzil
@@ -465,7 +466,6 @@ collinear
 colocated
 colormapped
 colspans
-comandos
 combinable
 combinator
 combinatorial
@@ -650,6 +650,7 @@ deepcopyable
 deeppink
 defaultfilters
 deferreds
+defgroup
 defragmentation
 degit
 deja
@@ -1016,6 +1017,7 @@ fileprogress
 filesave
 fileservice
 filetuple
+filevars
 filteredimage
 filterings
 finalizer
@@ -1098,6 +1100,7 @@ frequenti
 frobshop
 fromkeys
 froms
+fromstring
 fromtimestamp
 frontend's
 frozenset
@@ -1533,10 +1536,14 @@ keydown
 keyevent
 keyframes
 keyid
+keylen
 keypaths
 keypoints
 keypresses
+khash
+khint
 khtml
+khval
 kickstarter
 kinded
 kirovboris
@@ -1635,6 +1642,7 @@ libsasl
 libsndfile
 libsqlite
 libu
+libucl
 libui
 libvldmail
 libxslt
@@ -2057,6 +2065,7 @@ napja
 nappal
 nargs
 narr
+nasciiboy
 natively
 nativescript
 natten
@@ -2526,6 +2535,7 @@ powerpc
 ppoll
 pquentin
 preaction
+preallocated
 preassign
 prebaked
 precached
@@ -4474,9 +4484,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-nasciiboy
-khash
-khint
-libucl
-keylen
-fromstring
