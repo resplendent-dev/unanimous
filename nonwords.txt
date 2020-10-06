@@ -4463,3 +4463,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+libconfini
+metacharacters
+srcstr
+membid
+fopen
+destptr
