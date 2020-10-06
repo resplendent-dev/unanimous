@@ -4502,3 +4502,9 @@ utstring
 uthash
 unrefed
 unistd
+unexpanded
+tolstring
+toint
+todouble
+toboolean
+tlen
