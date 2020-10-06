@@ -23,6 +23,7 @@ addcll
 addedon
 addfinalizer
 addinfourl
+addrinfo
 adher
 adicionar
 adipiscing
@@ -808,6 +809,7 @@ duplicative
 dups
 durationchange
 dwatow
+dyad
 dydd
 dynamicsjs
 dynamiczone
@@ -2327,11 +2329,11 @@ panoramica
 panose
 panzerdp
 papayawhip
+papercuts
 parallaxed
 parallaxing
 parallelization
 parallelizes
-parameterization
 parametrizes
 paranoic
 paren
@@ -3002,6 +3004,7 @@ sethmlarson
 setitem
 setosa
 setrelheap
+setsockopt
 setuid
 setupmobans
 sexta
@@ -3094,6 +3097,7 @@ snackbar
 snapshotting
 snils
 snipver
+snprintf
 sobolevn
 sobre
 sociallogin
@@ -3799,6 +3803,7 @@ unkeyed
 unlimit
 unlink
 unlinked
+unlinking
 unlisten
 unmaintained
 unmapped
@@ -4040,7 +4045,6 @@ viewcode
 viewitems
 viewkeys
 viewmode
-viewport
 viewprereset
 viewvalues
 viime
@@ -4088,6 +4092,7 @@ vuoden
 vuosi
 vuotta
 vvvpq
+vwritef
 waaaay
 waddlelikeaduck
 wagerfield
@@ -4169,6 +4174,7 @@ wrappable
 wraptypes
 wreaddir
 writeable
+writef
 writeformat
 writehdr
 wronskian
@@ -4417,9 +4423,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-unlinking
-snprintf
-setsockopt
-addrinfo
-papercuts
-dyad
