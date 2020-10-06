@@ -12,6 +12,7 @@ acceptor
 accesskey
 accesssecret
 accusamus
+acked
 aclauthorizationpolicy
 aclose
 aclosing
@@ -1864,6 +1865,7 @@ mindfr
 mindre
 minfps
 minibatches
+minicrypto
 minifies
 miniframework
 minimalistic
@@ -1975,10 +1977,14 @@ mout
 moviegeek
 movzx
 mozcentral
+mrbgems
+mrblib
+mrbtest
 mrdimosthenis
 mrjoelkemp
 mrksmts
 mrmrs
+mruby
 msgid
 msgids
 msie
@@ -2654,6 +2660,7 @@ quello
 queryish
 questionname
 queueservice
+quicly
 quis
 quod
 quotmark
@@ -4442,9 +4449,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-mruby
-quicly
-mrbgems
-acked
-mrbtest
-mrblib
