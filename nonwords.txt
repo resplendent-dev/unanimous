@@ -4417,3 +4417,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+unlinking
+snprintf
+setsockopt
+addrinfo
+papercuts
+dyad
