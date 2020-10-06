@@ -4490,3 +4490,9 @@ unrefered
 tryinclude
 nonideal
 metafield
+insns
+insn
+indicies
+inbuf
+hashlin
+excpn
