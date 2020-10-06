@@ -4455,3 +4455,9 @@ unretained
 undefines
 unambiguity
 strfold
+strcmp
+octdigits
+octdigit
+mpcf
+mpca
+hexdigit
