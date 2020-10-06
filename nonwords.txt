@@ -702,6 +702,7 @@ deserunt
 desnode
 destag
 destructoid
+destructors
 destructured
 desugared
 desugaring
@@ -1251,6 +1252,7 @@ heure
 heures
 hexa
 hexcolor
+hexdigit
 hexdigits
 hexlifies
 hexlify
@@ -1977,6 +1979,8 @@ mout
 moviegeek
 movzx
 mozcentral
+mpca
+mpcf
 mrbgems
 mrblib
 mrbtest
@@ -2204,6 +2208,8 @@ obsv
 obtener
 obter
 occaecat
+octdigit
+octdigits
 octubre
 odff
 oembetter
@@ -2227,6 +2233,7 @@ oncanvas
 onclick
 oncreate
 onend
+oneof
 onevar
 ongeveer
 onhashchange
@@ -3230,6 +3237,7 @@ straightlines
 stranica
 strarr
 strawman
+strcmp
 strcpy
 strcut
 strdup
@@ -3239,6 +3247,7 @@ streamreaders
 streamwriter
 streetlabels
 strerror
+strfold
 strh
 stringformatting
 stringifiable
@@ -3709,6 +3718,7 @@ unaffordable
 unalignment
 unallocated
 unallowed
+unambiguity
 unapplied
 unapply
 unapplying
@@ -3762,6 +3772,8 @@ undaemonize
 unde
 undef
 undefine
+undefines
+undefining
 undelegate
 underalignment
 underfilled
@@ -3889,6 +3901,7 @@ unrejected
 unrender
 unrendered
 unresolvable
+unretained
 unretrievable
 unrotate
 unrun
@@ -4449,15 +4462,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-undefining
-oneof
-unretained
-undefines
-unambiguity
-strfold
-strcmp
-octdigits
-octdigit
-mpcf
-mpca
-hexdigit
