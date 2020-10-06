@@ -4447,9 +4447,16 @@ yw
 ywm
 ywmle
 ywunbiased
+yyacceptlab
+yydefault
 yyerrlab
 yyerrorlab
+yyexhaustedlab
+yyformat
+yynewstate
 yyoverflow
+yyreduce
+yystate
 yytname
 yyyy
 zachleat
@@ -4517,9 +4524,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-yystate
-yyreduce
-yynewstate
-yyformat
-yyexhaustedlab
-yydefault
+yyabortlab
