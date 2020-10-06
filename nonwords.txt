@@ -702,6 +702,7 @@ deserializing
 deserunt
 desnode
 destag
+destptr
 destructoid
 destructors
 destructured
@@ -1064,6 +1065,7 @@ fontmatch
 foobarhello
 fooo
 foos
+fopen
 forcelist
 foreach
 forestgreen
@@ -1623,6 +1625,7 @@ lexicographically
 lexing
 lgwin
 liabru
+libconfini
 libero
 libev
 libffi
@@ -1668,6 +1671,7 @@ listwidgets
 ljust
 llemark
 ller
+llint
 lluchs
 lnotab
 loadedmetadata
@@ -1803,6 +1807,7 @@ melakarta
 melhoresparatrabalhar
 memappend
 memberof
+membid
 memcmp
 memcpy
 mememeoo
@@ -1826,6 +1831,7 @@ mesiacmi
 mesiacom
 messup
 metacharacter
+metacharacters
 metanav
 metasearch
 metavideogame
@@ -2374,6 +2380,7 @@ partir
 parzen
 pasado
 pasos
+passfinder
 passhash
 pastable
 pasteembed
@@ -3191,6 +3198,7 @@ sqrt
 squarified
 squeezeblocks
 squoosh
+srcstr
 srcuri
 srufaculty
 ssfi
@@ -3263,6 +3271,7 @@ strlens
 stroh
 strokewidth
 strptime
+strptr
 strs
 strtol
 structified
@@ -3587,6 +3596,7 @@ tokenizes
 tokenizing
 tokentype
 toks
+tolower
 tommyod
 tonnetz
 tonos
@@ -3837,6 +3847,7 @@ uniquified
 uniquifies
 unitless
 unittests
+univocal
 unkeyed
 unlimit
 unlink
@@ -4463,9 +4474,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-libconfini
-metacharacters
-srcstr
-membid
-fopen
-destptr
