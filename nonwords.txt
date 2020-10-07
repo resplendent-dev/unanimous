@@ -264,6 +264,7 @@ bijective
 binarized
 bindable
 bindify
+binn
 biste
 bitinn
 bitmasks
@@ -969,6 +970,7 @@ extarea
 extendibility
 extensibility
 externs
+extptr
 faebd
 fafafa
 failback
@@ -1052,6 +1054,7 @@ flickity
 floppyform
 floralwhite
 flsf
+flto
 flvjs
 flyout
 fmod
@@ -1097,6 +1100,7 @@ francais
 frappacchio
 frebsite
 fredag
+freefn
 freenode
 freqdec
 freqprober
@@ -1687,6 +1691,7 @@ listenee
 listesini
 listu
 listwidgets
+liteserver
 ljust
 llemark
 ller
@@ -2091,6 +2096,7 @@ nbayramberdiyev
 nbest
 nbits
 nbsp
+nbuf
 nconvert
 nczeczulin
 ndan
@@ -2548,6 +2554,7 @@ pouvez
 powderblue
 powerpc
 ppoll
+ppvalue
 pquentin
 preaction
 preallocated
@@ -2673,6 +2680,7 @@ pushstate
 putbody
 pweight
 pyassem
+pybinn
 pycloudinary
 pycrumbs
 pyimcore
@@ -2742,6 +2750,7 @@ readdir
 readeral
 reakit
 realityking
+reallocations
 realname
 realworld
 reapprove
@@ -4177,6 +4186,7 @@ vrijdag
 vshll
 vshlq
 vshrn
+vuint
 vulkantoy
 vuoden
 vuosi
@@ -4447,6 +4457,7 @@ yw
 ywm
 ywmle
 ywunbiased
+yyabortlab
 yyacceptlab
 yydefault
 yyerrlab
@@ -4524,10 +4535,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-yyabortlab
-binn
-vuint
-reallocations
-pybinn
-ppvalue
-nbuf
