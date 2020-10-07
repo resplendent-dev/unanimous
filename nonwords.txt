@@ -4550,3 +4550,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+catenation
+basicsize
+submatching
+reguexec
+catenated
+agrep
