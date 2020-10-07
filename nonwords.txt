@@ -1038,6 +1038,7 @@ firedux
 firma
 firstparty
 firstplay
+firstpos
 fittext
 fitzpatrick
 fixups
@@ -3073,6 +3074,7 @@ sessioning
 sessionmaker
 sessionstorage
 setattr
+setattro
 setblocking
 setdefault
 setext
@@ -3352,6 +3354,8 @@ subdirectories
 subdirectory
 subexception
 subexceptions
+subexpression
+subexpressions
 subfields
 subfolder
 subhtml
@@ -3365,6 +3369,8 @@ sublicensees
 sublicenses
 sublist
 sublists
+submatch
+submatches
 submenus
 submodels
 subninjas
@@ -4544,4 +4550,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-submatch
