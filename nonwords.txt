@@ -45,6 +45,7 @@ aflesler
 aframe
 africa
 afshinmeh
+agrep
 aiohttpparser
 aiotutorial
 ajki
@@ -233,6 +234,7 @@ basename
 basepath
 basestring
 basicsep
+basicsize
 bastardised
 batchrange
 bauen
@@ -371,6 +373,8 @@ catchreturn
 catchthrow
 catchup
 catenate
+catenated
+catenation
 cbartlett
 ccrs
 cdaa
@@ -2818,6 +2822,7 @@ regexpu
 regexs
 regis
 regrtest
+reguexec
 rehydrate
 reified
 reimplement
@@ -3371,6 +3376,7 @@ sublist
 sublists
 submatch
 submatches
+submatching
 submenus
 submodels
 subninjas
@@ -4025,6 +4031,7 @@ untuk
 untyped
 unvalidatable
 unversioned
+unvisited
 unvote
 unwire
 upcase
@@ -4550,9 +4557,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-catenation
-basicsize
-submatching
-reguexec
-catenated
-agrep
