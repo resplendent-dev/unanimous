@@ -4573,3 +4573,9 @@ gencode
 fencepost
 ingroup
 dllexport
+sfixed
+zeroish
+strlen
+qmember
+oneofs
+memmove
