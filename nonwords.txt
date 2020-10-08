@@ -635,6 +635,7 @@ decapsulate
 december
 decibans
 decisional
+decl
 declaratively
 declarativeness
 declarator
@@ -1045,6 +1046,8 @@ firstplay
 firstpos
 fittext
 fitzpatrick
+fixnums
+fixstr
 fixups
 fizfuz
 flashaudio
@@ -1282,6 +1285,7 @@ hexlifies
 hexlify
 hexload
 hhhhhh
+hideinitializer
 hienvd
 hightables
 historymanagement
@@ -1308,6 +1312,7 @@ htaccess
 htbp
 htmlfile
 htmlregion
+htole
 httperf
 httpexceptions
 httprettized
@@ -2374,6 +2379,8 @@ overwritable
 ovpages
 oxfe
 packagist
+packbuf
+packedsz
 packery
 pacocoursey
 pada
@@ -2663,6 +2670,7 @@ propertychange
 proration
 prostomarkeloff
 protips
+protodevel
 prototypal
 prototyped
 prototypically
@@ -3002,7 +3010,6 @@ scannability
 scanstride
 scaricamento
 scaricare
-scatterplot
 scelerisque
 schacon
 scil
@@ -3378,6 +3385,7 @@ submatch
 submatches
 submatching
 submenus
+submessage
 submodels
 subninjas
 subnode
@@ -3775,6 +3783,7 @@ ueber
 uglified
 uglify
 uids
+uints
 uipriv
 ukey
 ukowski
@@ -4251,6 +4260,7 @@ weex
 weirdnesses
 wejs
 weren
+werle
 weve
 wgetrc
 whatnames
@@ -4557,9 +4567,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-fixnums
-uints
-fixstr
-hideinitializer
-werle
-submessage
