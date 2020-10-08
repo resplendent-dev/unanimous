@@ -635,6 +635,7 @@ decapsulate
 december
 decibans
 decisional
+decl
 declaratively
 declarativeness
 declarator
@@ -771,6 +772,7 @@ djangopackages
 djangoparser
 djterm
 djwt
+dllexport
 dnes
 dnldr
 dnsname
@@ -1004,6 +1006,7 @@ fechas
 feedstock
 feimosi
 fenc
+fencepost
 fesnt
 fevereiro
 ffdab
@@ -1045,6 +1048,8 @@ firstplay
 firstpos
 fittext
 fitzpatrick
+fixnums
+fixstr
 fixups
 fizfuz
 flashaudio
@@ -1160,6 +1165,7 @@ geholfen
 geleden
 geli
 gemfile
+gencode
 gendoc
 generalizable
 generateimages
@@ -1282,6 +1288,7 @@ hexlifies
 hexlify
 hexload
 hhhhhh
+hideinitializer
 hienvd
 hightables
 historymanagement
@@ -1308,6 +1315,7 @@ htaccess
 htbp
 htmlfile
 htmlregion
+htole
 httperf
 httpexceptions
 httprettized
@@ -1385,8 +1393,10 @@ inflight
 informations
 infront
 inglese
+ingroup
 inikulin
 inited
+initialiser
 initializations
 initializers
 initkwargs
@@ -1768,6 +1778,7 @@ magnifyduration
 mahdijaberzadehansari
 maig
 maikhoepfel
+mainpage
 maintainership
 maio
 mais
@@ -1845,6 +1856,7 @@ memcmp
 memcpy
 mememeoo
 memmapping
+memmove
 memoizes
 memoizing
 memorymail
@@ -2281,6 +2293,7 @@ onclick
 oncreate
 onend
 oneof
+oneofs
 onevar
 ongeveer
 onhashchange
@@ -2374,6 +2387,8 @@ overwritable
 ovpages
 oxfe
 packagist
+packbuf
+packedsz
 packery
 pacocoursey
 pada
@@ -2663,6 +2678,7 @@ propertychange
 proration
 prostomarkeloff
 protips
+protodevel
 prototypal
 prototyped
 prototypically
@@ -2703,6 +2719,7 @@ pywkm
 qcluster
 qinfo
 qmarlats
+qmember
 qsize
 qsort
 qsval
@@ -3002,7 +3019,6 @@ scannability
 scanstride
 scaricamento
 scaricare
-scatterplot
 scelerisque
 schacon
 scil
@@ -3093,6 +3109,7 @@ setupmobans
 setvbuf
 sexta
 sexualized
+sfixed
 sfnt
 sgi
 shaders
@@ -3316,6 +3333,7 @@ stringifies
 stringifying
 stringio
 stringios
+strlen
 strlens
 stroh
 strokewidth
@@ -3378,6 +3396,7 @@ submatch
 submatches
 submatching
 submenus
+submessage
 submodels
 subninjas
 subnode
@@ -3775,6 +3794,7 @@ ueber
 uglified
 uglify
 uids
+uints
 uipriv
 ukey
 ukowski
@@ -4251,6 +4271,7 @@ weex
 weirdnesses
 wejs
 weren
+werle
 weve
 wgetrc
 whatnames
@@ -4509,6 +4530,7 @@ zerocopy
 zerocoverage
 zerodeploy
 zeroinflation
+zeroish
 zeroline
 zerophase
 zerorpcs
