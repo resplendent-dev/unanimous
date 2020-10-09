@@ -3495,11 +3495,13 @@ sutra
 suuuuuper
 svara
 sveltejs
+svenkeidel
 svenstaro
 svgdrawing
 svgmap
 svgurl
 svgz
+swgillespie
 swoopy
 sxua
 syllabary
@@ -3515,6 +3517,7 @@ syncreq
 synergized
 syntaxes
 syntaxic
+syohex
 sys
 syssecurity
 syst
@@ -3626,6 +3629,7 @@ theravada
 theres
 thibmaek
 thingie
+thisirs
 thisisnotaserver
 thlorenz
 threadid
@@ -3694,6 +3698,7 @@ tokentype
 toks
 tolower
 tolstring
+tomekowal
 tommyod
 tonnetz
 tonos
@@ -3814,6 +3819,7 @@ uglify
 uids
 uints
 uipriv
+ukasz
 ukey
 ukowski
 ukrainian
@@ -4164,6 +4170,7 @@ vchar
 vclick
 vcpkg
 vdecls
+vderyagin
 vdeturckheim
 vdykge
 vectorization
@@ -4348,6 +4355,7 @@ wunki
 wuyunjiang
 wwww
 wyhash
+wyuenho
 xacov
 xacovfft
 xalign
@@ -4459,6 +4467,7 @@ xzvpf
 xzycn
 yamada
 yanghao
+yannick
 yarayan
 yasoob
 yasuyk
@@ -4600,9 +4609,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-yannick
-wyuenho
-vderyagin
-ukasz
-tomekowal
-thisirs
