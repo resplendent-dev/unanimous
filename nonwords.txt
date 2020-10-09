@@ -491,6 +491,7 @@ completers
 componentresize
 composability
 compressibility
+comprlen
 computeds
 comsafearray
 condimentum
@@ -646,6 +647,7 @@ decommitted
 decommitting
 decompilation
 decompressor
+decomprlen
 decoratormethod
 decrypted
 decrypting
@@ -800,7 +802,6 @@ dotnetfunda
 dotset
 doubleclicks
 doubletap
-dpam
 dpcm
 dppx
 dragend
@@ -1178,6 +1179,7 @@ getattr
 getcwd
 getfirebug
 gethostbyname
+gethrtime
 getify
 getpeercert
 getpixelorigin
@@ -1187,6 +1189,8 @@ getset
 getsitepackages
 getstarted
 getters
+gettime
+gettimeofday
 getvalue
 gfxmonk
 ghickman
@@ -1929,6 +1933,7 @@ miniphone
 minit
 minlength
 minprops
+minunit
 minuta
 minuten
 minuto
@@ -1986,6 +1991,7 @@ moduleauthor
 mofile
 moins
 mois
+mojibake
 mojs
 molestie
 mollis
@@ -3039,6 +3045,8 @@ scrollstart
 scrollstop
 sdispater
 sdkddkver
+sdsalloc
+sdsempty
 sdsnew
 seagreen
 searchability
@@ -3791,6 +3799,7 @@ ucyk
 ucykge
 udde
 ueber
+uela
 uglified
 uglify
 uids
