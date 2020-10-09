@@ -359,6 +359,7 @@ cancelable
 cancellable
 cannotdeduceregionerror
 canonicalise
+canonicalization
 canvascontext
 canvaswrapper
 capath
@@ -825,6 +826,7 @@ dropmove
 droppable
 drzaus
 dstpath
+dsturtevant
 dtor
 dualstorage
 dummymail
@@ -988,6 +990,7 @@ extendibility
 extensibility
 externs
 extptr
+extradef
 faebd
 fafafa
 failback
@@ -1083,6 +1086,7 @@ flyout
 fmod
 fname
 fnparse
+fnreturn
 focusable
 focuselement
 focusin
@@ -3593,6 +3597,7 @@ telefone
 teleported
 temparea
 tempat
+templateargument
 templatefiles
 templateset
 templatized
@@ -3889,6 +3894,7 @@ uncommented
 uncommenting
 uncommit
 uncomp
+uncompiled
 uncompress
 uncompressable
 uncompresses
@@ -4204,6 +4210,7 @@ velocityjs
 vendored
 vendredi
 veniam
+verbosities
 verifiably
 verifications
 versi
@@ -4632,10 +4639,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-fnreturn
-extradef
-dsturtevant
-canonicalization
-verbosities
-uncompiled
-templateargument
