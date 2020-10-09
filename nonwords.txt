@@ -4615,3 +4615,9 @@ moreso
 mcandre
 mattapiroglu
 jtsagata
+flipcoder
+cxxshrc
+cxxsh
+shrc
+elsamuko
+cppsh
