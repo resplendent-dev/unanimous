@@ -99,6 +99,7 @@ antimeridian
 antiquewhite
 antiword
 anys
+apeitems
 apierrors
 apimanager
 apitrace
@@ -2822,6 +2823,7 @@ reasking
 reassignable
 reauthenticate
 reaviz
+rebased
 rebasing
 rebass
 rebeccapurple
@@ -2892,6 +2894,7 @@ relu
 rematching
 reminderslist
 remotestoragejs
+removefields
 renancouto
 rendere
 renewtoken
@@ -2931,6 +2934,7 @@ reselect
 resending
 resends
 resetted
+resguar
 resharding
 resizable
 resolvers
@@ -3316,6 +3320,7 @@ stackability
 stager
 standalones
 starrhorne
+startline
 startposition
 startswith
 startupreadings
@@ -3348,6 +3353,7 @@ stopasgroup
 stoptimer
 stopworded
 storejs
+storers
 straces
 straightlines
 stranica
@@ -3504,6 +3510,7 @@ sumsquare
 sunpro
 sunt
 supdiag
+superceded
 superclasses
 superdeno
 superevr
@@ -4111,6 +4118,7 @@ upcast
 upcasted
 updaters
 updatesubs
+updatetags
 updatingrelationship
 upperbound
 uppercased
@@ -4639,9 +4647,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-superceded
-storers
-startline
-resguar
-rebased
-removefields
+updateape
