@@ -523,6 +523,7 @@ counterintuitively
 cov
 coveragerc
 cplusplus
+cppsh
 cpus
 crear
 creatable
@@ -558,6 +559,8 @@ customisable
 customizations
 customizingformtemplates
 cvkef
+cxxsh
+cxxshrc
 cykge
 czuk
 daftar
@@ -873,6 +876,7 @@ elems
 elif
 eliseumds
 elkan
+elsamuko
 elts
 elusion
 embeddable
@@ -1066,6 +1070,7 @@ flexboxgrid
 flexgrid
 flickable
 flickity
+flipcoder
 floppyform
 floralwhite
 flsf
@@ -1549,6 +1554,7 @@ jsonwire
 jspm
 jstransform
 jsurloppe
+jtsagata
 juil
 juillet
 julho
@@ -1822,6 +1828,7 @@ masa
 masoudr
 massa
 matchable
+mattapiroglu
 matteocrippa
 matthiask
 matzhu
@@ -1840,6 +1847,7 @@ maxwidth
 mbcssm
 mbcssmprober
 mberg
+mcandre
 mcdjango
 mcflask
 mcflyin
@@ -2021,6 +2029,7 @@ montrent
 moorman
 moraxy
 morearty
+moreso
 morg
 morgen
 morgenen
@@ -3148,6 +3157,7 @@ shouldn
 showbrowser
 showdownjs
 showinfo
+shrc
 shrd
 shrx
 shuding
@@ -4013,6 +4023,7 @@ unqueued
 unref
 unrefed
 unrefered
+unreflected
 unrefs
 unrefunded
 unregister
@@ -4272,6 +4283,7 @@ walkthrough
 walsh
 warninggp
 warnoptions
+warrantee
 warry
 wasn
 watcha
@@ -4609,15 +4621,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-warrantee
-unreflected
-moreso
-mcandre
-mattapiroglu
-jtsagata
-flipcoder
-cxxshrc
-cxxsh
-shrc
-elsamuko
-cppsh
