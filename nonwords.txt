@@ -4633,3 +4633,9 @@ zygohistomorphic
 zyxwvu
 zzarcon
 fnreturn
+extradef
+dsturtevant
+canonicalization
+verbosities
+uncompiled
+templateargument
