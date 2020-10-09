@@ -223,6 +223,7 @@ backslashed
 backstore
 backtick
 baddata
+badinc
 bairro
 baldurk
 barackobama
@@ -645,6 +646,7 @@ decl
 declaratively
 declarativeness
 declarator
+decls
 decltype
 decodings
 decommit
@@ -1143,7 +1145,9 @@ fsync
 ftlabs
 fugiat
 fullcode
+fullinfo
 funciona
+funcptrs
 funct
 functionbase
 functionbased
@@ -1383,6 +1387,7 @@ imvvm
 inbuf
 incase
 includable
+includee
 includeme
 inclusionary
 incompressible
@@ -2193,6 +2198,7 @@ nmatpt
 nmec
 nname
 nnen
+nocomments
 nocontent
 nocover
 nodefn
@@ -2619,6 +2625,7 @@ precompiled
 precompiling
 precomputation
 precompute
+precomputed
 preconfigured
 predefine
 prefetched
@@ -2836,9 +2843,12 @@ recved
 recyclerlistview
 redbox
 redditclone
+redecl
+redeclarable
 redeclare
 redeclared
 redeclares
+redecls
 rediff
 redispapa
 redisplay
@@ -4071,6 +4081,7 @@ unsubbing
 unsubscribers
 unsubscriptable
 unsubscription
+unsugared
 unsuspend
 unsuspended
 unsuspending
@@ -4621,9 +4632,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-badinc
-decls
-redecls
-includee
-redecl
-precomputed
+fnreturn
