@@ -4732,3 +4732,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+ntoa
+nanosleep
+mallocs
+hbuf
+dbgprintf
+clength
