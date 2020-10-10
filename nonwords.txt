@@ -4670,3 +4670,9 @@ stackframe
 unwinder
 stes
 unpatching
+sizeclass
+mmaps
+allocs
+websymbols
+unhidden
+nondefault
