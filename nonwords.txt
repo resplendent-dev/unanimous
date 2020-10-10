@@ -70,6 +70,7 @@ allgroups
 allkeys
 alloc
 allocators
+allocs
 allprobes
 allsensors
 alnorth
@@ -767,6 +768,7 @@ dirruns
 disableddisabled
 disambiguator
 disambiguators
+disassembler
 discontiguous
 discoverable
 disjunction
@@ -1088,6 +1090,7 @@ flyc
 flyout
 fmod
 fname
+fncall
 fnparse
 fnreturn
 focusable
@@ -1329,6 +1332,7 @@ hoje
 hollaback
 homescreen
 hookings
+hooklist
 hookstate
 hores
 horoj
@@ -1757,6 +1761,7 @@ localmouse
 localstore
 localtime
 lockfree
+lockless
 locmem
 locmemcache
 loggroup
@@ -2002,6 +2007,8 @@ mkvirtualenv
 mlms
 mlt
 mmacmillan
+mman
+mmaps
 mmenu
 mmenujs
 mmerickel
@@ -2234,6 +2241,7 @@ nomodule
 nonamefile
 nonbillable
 noncommercially
+nondefault
 noneditable
 nonew
 nonexisting
@@ -2252,6 +2260,7 @@ nonword
 nonwords
 noone
 noqaj
+noredir
 normalizable
 normalizations
 normalizr
@@ -3215,6 +3224,7 @@ sitekey
 sitewide
 sitten
 situ
+sizeclass
 sizedimage
 sizset
 skewness
@@ -3328,6 +3338,7 @@ ssize
 sssssss
 sstream
 stackability
+stackframe
 stager
 standalones
 starrhorne
@@ -3353,6 +3364,7 @@ stepleave
 stepsize
 stereographic
 sterseniz
+stes
 stevenlevithan
 stevenmiller
 sthrough
@@ -3979,6 +3991,7 @@ unhash
 unhashable
 unhashed
 unhashing
+unhidden
 unhighlight
 unhighlighted
 unhighlighting
@@ -4042,6 +4055,7 @@ unpark
 unparseable
 unparsed
 unpatch
+unpatching
 unpause
 unpaused
 unpausing
@@ -4127,6 +4141,7 @@ unvalidatable
 unversioned
 unvisited
 unvote
+unwinder
 unwire
 upcase
 upcast
@@ -4346,6 +4361,7 @@ webmanifest
 webobparser
 webpacks
 webservers
+websymbols
 weekperiod
 weex
 weirdnesses
@@ -4664,15 +4680,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-noredir
-disassembler
-stackframe
-unwinder
-stes
-unpatching
-sizeclass
-mmaps
-allocs
-websymbols
-unhidden
-nondefault
