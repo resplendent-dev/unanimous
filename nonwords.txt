@@ -124,6 +124,7 @@ argumentmapper
 argumentresolver
 argumentspec
 argumentvalidator
+argvec
 arities
 arity
 arn
@@ -148,6 +149,7 @@ atan
 atau
 atlaskit
 atomicity
+atomicops
 atronah
 atstp
 attacklab
@@ -1185,12 +1187,14 @@ geholfen
 geleden
 geli
 gemfile
+genann
 gencode
 gendoc
 generalizable
 generateimages
 genericinlineformset
 genindex
+gennann
 geral
 geraldoramos
 getaddrinfo
@@ -2397,6 +2401,7 @@ outdent
 outdir
 outil
 outlookdotcom
+outname
 outoff
 outro
 outros
@@ -3187,6 +3192,7 @@ sibs
 sideload
 siden
 siefkenj
+sigaction
 sigmavirus
 sigmoid
 signedness
@@ -3296,6 +3302,7 @@ specialchars
 spektar
 spillpg
 spinkit
+spinlock
 spion
 splitlines
 splitted
@@ -3678,6 +3685,7 @@ thumbnailing
 thunkor
 thunkp
 thursday
+tidptr
 tidx
 tildeio
 tilelayers
@@ -3720,6 +3728,7 @@ tobiaslins
 toboolean
 tocdup
 tocify
+tocptr
 tocscope
 todas
 todense
@@ -4215,6 +4224,7 @@ vcpkg
 vdecls
 vderyagin
 vdeturckheim
+vdso
 vdykge
 vectorization
 vectorizers
@@ -4654,9 +4664,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-outname
-genann
-gennann
-tocptr
-argvec
-spinlock
