@@ -1462,6 +1462,7 @@ instantiations
 instantsearch
 instatiate
 instatype
+instproxy
 interactable
 interbank
 interdum
@@ -2212,6 +2213,7 @@ neuroscience
 neverending
 newcap
 newdata
+newfd
 newforms
 newlang
 newmexico
@@ -2962,6 +2964,7 @@ representable
 representers
 reprojected
 reprs
+repurposed
 requestbody
 requestline
 requestvars
@@ -3831,6 +3834,7 @@ tradeoffs
 trads
 tranditional
 transactiontype
+transceive
 transclude
 transcluded
 transclusion
@@ -3915,6 +3919,7 @@ uclibc
 ucyk
 ucykge
 udde
+udid
 ueber
 uela
 uglified
@@ -4274,6 +4279,7 @@ vanno
 varargs
 varargslist
 vared
+variadargs
 varius
 varnames
 vastatrices
@@ -4376,6 +4382,7 @@ vvvpq
 vwritef
 waaaay
 waddlelikeaduck
+waferdotc
 wagerfield
 waitforelements
 waitings
@@ -4725,9 +4732,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-instproxy
-udid
-transceive
-waferdotc
-variadargs
-newfd
