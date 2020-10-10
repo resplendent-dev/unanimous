@@ -4710,3 +4710,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+sgidefs
+remainderless
+reallocs
+nfixedargs
+movhi
+longdouble
