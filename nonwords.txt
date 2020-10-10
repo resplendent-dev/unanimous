@@ -1301,6 +1301,7 @@ hasta
 havemeyer
 hdinfo
 headful
+heapsort
 heapu
 hedley
 hedythedev
@@ -1352,6 +1353,8 @@ htole
 httperf
 httpexceptions
 httprettized
+huffandpuff
+huffheap
 hultner
 humanmsg
 huskyrc
@@ -1359,6 +1362,8 @@ hustcc
 hwnd
 hybi
 hyperparameters
+hyperrect
+hyperrectangle
 iaculis
 iancal
 ianmassey
@@ -1434,6 +1439,7 @@ initialiser
 initializations
 initializers
 initkwargs
+inlen
 inlined
 inlining
 inprogress
@@ -1589,6 +1595,7 @@ kalekundert
 katayoku
 kavdev
 kbps
+kdres
 keepdb
 keine
 keisheiled
@@ -1704,6 +1711,7 @@ libconfini
 libero
 libev
 libffi
+libkdtree
 liblzma
 libphonenumber
 libsasl
@@ -2410,6 +2418,7 @@ outbufs
 outdent
 outdir
 outil
+outlen
 outlookdotcom
 outname
 outoff
@@ -2955,6 +2964,7 @@ resetted
 resguar
 resharding
 resizable
+resnode
 resolvers
 resourceattributenotfounderror
 respace
@@ -3031,6 +3041,7 @@ rqtp
 rquery
 rrcurveto
 rrggbb
+rset
 rspfile
 rsquo
 rstrip
@@ -3206,6 +3217,7 @@ sigaction
 sigmavirus
 sigmoid
 signedness
+significand
 signups
 sike
 silesia
@@ -4681,15 +4693,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-huffheap
-huffandpuff
-outlen
-inlen
-libkdtree
-kdres
-hyperrectangle
-heapsort
-hyperrect
-rset
-resnode
-significand
