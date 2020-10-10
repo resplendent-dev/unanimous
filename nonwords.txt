@@ -216,6 +216,7 @@ babelified
 babelify
 babydoll
 backburner
+backchain
 backcompat
 backface
 backported
@@ -817,6 +818,7 @@ dotnetfunda
 dotset
 doubleclicks
 doubletap
+doubleword
 dpcm
 dppx
 dragend
@@ -1027,11 +1029,13 @@ feedstock
 feimosi
 fenc
 fencepost
+fenceposts
 fesnt
 fevereiro
 ffdab
 fffaraz
 ffff
+ffitest
 fftpack
 fgnass
 fica
@@ -2017,6 +2021,7 @@ mixups
 mizchi
 mkvirtualenv
 mlms
+mlong
 mlt
 mmacmillan
 mman
@@ -2091,6 +2096,7 @@ mout
 moviegeek
 movzx
 mozcentral
+mparams
 mpca
 mpcf
 mrbgems
@@ -2253,6 +2259,7 @@ nomodule
 nonamefile
 nonbillable
 noncommercially
+noncontiguous
 nondefault
 noneditable
 nonew
@@ -2297,6 +2304,7 @@ noxfile
 nparsed
 nplurals
 npostfix
+nres
 nrful
 nrofcomponents
 nsec
@@ -3177,8 +3185,10 @@ setattro
 setblocking
 setdefault
 setext
+sethi
 sethmlarson
 setitem
+setlos
 setosa
 setrelheap
 setsockopt
@@ -3823,6 +3833,7 @@ transpiles
 transpiling
 transposeletters
 traversable
+treebin
 treemode
 treeshaking
 trenda
@@ -4699,9 +4710,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-nres
-ffitest
-backchain
-treebin
-sethi
-mparams
