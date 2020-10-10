@@ -4761,3 +4761,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+microcontroller
+verdef
+instantiator
+xlatetof
+xlateto
+shstrndx
