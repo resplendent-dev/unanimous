@@ -4687,3 +4687,9 @@ outlen
 inlen
 libkdtree
 kdres
+hyperrectangle
+heapsort
+hyperrect
+rset
+resnode
+significand
