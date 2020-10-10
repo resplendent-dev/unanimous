@@ -1384,6 +1384,7 @@ icontains
 idempotence
 idents
 ideographic
+idevice
 iendswith
 iffeature
 iframes
@@ -2006,6 +2007,7 @@ minuuttia
 minval
 miny
 mipmap
+misagent
 misbehaviors
 miscellanea
 misclassification
@@ -2034,6 +2036,7 @@ mmerickel
 mname
 mnieper
 mnobject
+mobilebackup
 mobileinit
 modalish
 modalmanager
@@ -2662,6 +2665,7 @@ preaction
 preallocated
 preassign
 prebaked
+preboard
 precached
 precaching
 precalculating
@@ -2813,7 +2817,6 @@ quello
 queryish
 questionname
 queueservice
-quicksort
 quicly
 quis
 quod
@@ -2924,6 +2927,7 @@ regexs
 regis
 regrtest
 reguexec
+regused
 rehydrate
 reified
 reimplement
@@ -2934,6 +2938,7 @@ reinject
 relayout
 relctx
 relicensing
+relocs
 relu
 remainderless
 rematching
@@ -3102,6 +3107,7 @@ sati
 saturday
 sayfas
 sbrk
+sbservices
 sbstjn
 scaffolded
 scalability
@@ -3116,6 +3122,7 @@ scoperta
 scopo
 scottjehl
 screenreaders
+screenshotr
 scriptlet
 scrollbar
 scrollbars
@@ -3290,6 +3297,7 @@ sloria
 slovenian
 slowreportpath
 slugified
+smallbins
 smallinteger
 smartdevice
 smashingmag
@@ -4717,9 +4725,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-smallbins
-relocs
-regused
-mobilebackup
-idevice
-sbservices
