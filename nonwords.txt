@@ -793,6 +793,7 @@ djangoparser
 djterm
 djwt
 dllexport
+dname
 dnes
 dnldr
 dnsname
@@ -1527,6 +1528,8 @@ itervalues
 itext
 itleref
 ivar
+ixrsmb
+ixrsmbp
 ixrss
 izitoast
 izvr
@@ -1682,6 +1685,7 @@ langsung
 langthaimodel
 lant
 largelist
+lasterror
 latedef
 latencies
 latinise
@@ -1742,6 +1746,7 @@ lightgray
 lightgreen
 lightpink
 lighttpd
+lightuserdata
 lightyellow
 ligula
 linearities
@@ -1951,6 +1956,7 @@ mewn
 mfcovington
 mgudemann
 michaelrambeau
+microarchitecture
 microbenchmark
 microbenchmarks
 microbundle
@@ -3041,6 +3047,7 @@ risus
 rlis
 rlocked
 rmaktad
+rmessage
 rmillet
 rmse
 rmtp
@@ -3446,6 +3453,7 @@ streetlabels
 strerror
 strfold
 strh
+stringbuffer
 stringformatting
 stringifiable
 stringification
@@ -3694,6 +3702,7 @@ testability
 testee
 testem
 testinput
+testparser
 testprop
 testrequestpage
 testspec
@@ -3787,6 +3796,7 @@ tmlee
 tmpfs
 tmshn
 tnightingale
+tnumber
 toall
 tobiasbueschel
 tobiaslins
@@ -4323,6 +4333,7 @@ vetoable
 veya
 veza
 vformat
+vfpv
 vhcurveto
 vhdl
 vheight
@@ -4450,12 +4461,14 @@ winjs
 winlen
 winnls
 winsock
+wiretype
 wkjagt
 wlen
 wlev
 wmag
 wmake
 wmem
+wmessage
 wmode
 wmsg
 wmutex
@@ -4738,15 +4751,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-rmessage
-ixrsmbp
-ixrsmb
-wmessage
-testparser
-lightuserdata
-wiretype
-tnumber
-stringbuffer
-lasterror
-dname
-microarchitecture
