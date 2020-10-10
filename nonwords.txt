@@ -4681,3 +4681,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+huffheap
+huffandpuff
+outlen
+inlen
+libkdtree
+kdres
