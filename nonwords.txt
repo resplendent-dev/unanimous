@@ -1467,6 +1467,7 @@ instancia
 instante
 instantiation
 instantiations
+instantiator
 instantsearch
 instatiate
 instatype
@@ -1965,6 +1966,7 @@ microarchitecture
 microbenchmark
 microbenchmarks
 microbundle
+microcontroller
 microframeworks
 microlib
 microlibraries
@@ -3261,6 +3263,7 @@ showinfo
 shrc
 shrd
 shrx
+shstrndx
 shuding
 sibs
 sideload
@@ -4328,6 +4331,7 @@ vendored
 vendredi
 veniam
 verbosities
+verdef
 verifiably
 verifications
 versi
@@ -4553,6 +4557,8 @@ xint
 xinterval
 xlabel
 xlarge
+xlateto
+xlatetof
 xlim
 xlow
 xls
@@ -4761,9 +4767,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-microcontroller
-verdef
-instantiator
-xlatetof
-xlateto
-shstrndx
