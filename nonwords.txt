@@ -4654,3 +4654,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+outname
+genann
+gennann
+tocptr
+argvec
+spinlock
