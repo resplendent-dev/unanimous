@@ -450,6 +450,7 @@ clckru
 cleansweep
 clen
 clenemt
+clength
 clickdrag
 clickjacking
 clike
@@ -613,6 +614,7 @@ davidyezsetz
 davy
 dbef
 dbforce
+dbgprintf
 dbhost
 dbmail
 dbmetadata
@@ -1304,6 +1306,7 @@ hasn
 hasshe
 hasta
 havemeyer
+hbuf
 hdinfo
 headful
 heapsort
@@ -1844,6 +1847,7 @@ maksugr
 malam
 malfunctional
 malloced
+mallocs
 maman
 mame
 mandag
@@ -2170,6 +2174,7 @@ nade
 namespacing
 nanobar
 nanoscroller
+nanosleep
 napilno
 napja
 nappal
@@ -2319,6 +2324,7 @@ nrofcomponents
 nsec
 ntilde
 ntlmpool
+ntoa
 nuevo
 nulhom
 nullability
@@ -4732,9 +4738,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-ntoa
-nanosleep
-mallocs
-hbuf
-dbgprintf
-clength
