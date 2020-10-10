@@ -1338,6 +1338,7 @@ hodina
 hoje
 hollaback
 homescreen
+homogenous
 hookings
 hooklist
 hookstate
@@ -1783,6 +1784,7 @@ loggroup
 logicalparadox
 logics
 logloads
+longdouble
 longind
 longopts
 longpress
@@ -2093,6 +2095,7 @@ mouseovered
 mouseport
 mouseup
 mout
+movhi
 moviegeek
 movzx
 mozcentral
@@ -2214,6 +2217,7 @@ newplaceid
 newsmeme
 newstr
 newstyle
+nfixedargs
 ngdoc
 ngettext
 nicchia
@@ -2854,6 +2858,7 @@ readeral
 reakit
 realityking
 reallocations
+reallocs
 realname
 realworld
 reapprove
@@ -2930,6 +2935,7 @@ relayout
 relctx
 relicensing
 relu
+remainderless
 rematching
 reminderslist
 remotestoragejs
@@ -3200,6 +3206,7 @@ sexualized
 sfixed
 sfnt
 sgi
+sgidefs
 shaders
 sharex
 shazow
@@ -4710,9 +4717,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-sgidefs
-remainderless
-reallocs
-nfixedargs
-movhi
-longdouble
