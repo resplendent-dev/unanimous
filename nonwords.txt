@@ -70,6 +70,7 @@ allgroups
 allkeys
 alloc
 allocators
+allocs
 allprobes
 allsensors
 alnorth
@@ -124,6 +125,7 @@ argumentmapper
 argumentresolver
 argumentspec
 argumentvalidator
+argvec
 arities
 arity
 arn
@@ -148,6 +150,7 @@ atan
 atau
 atlaskit
 atomicity
+atomicops
 atronah
 atstp
 attacklab
@@ -765,6 +768,7 @@ dirruns
 disableddisabled
 disambiguator
 disambiguators
+disassembler
 discontiguous
 discoverable
 disjunction
@@ -885,6 +889,7 @@ elsamuko
 elts
 elusion
 embeddable
+embeddedlinuxunified
 eminem
 emissive
 emptystring
@@ -1086,6 +1091,7 @@ flyc
 flyout
 fmod
 fname
+fncall
 fnparse
 fnreturn
 focusable
@@ -1185,12 +1191,14 @@ geholfen
 geleden
 geli
 gemfile
+genann
 gencode
 gendoc
 generalizable
 generateimages
 genericinlineformset
 genindex
+gennann
 geral
 geraldoramos
 getaddrinfo
@@ -1325,6 +1333,7 @@ hoje
 hollaback
 homescreen
 hookings
+hooklist
 hookstate
 hores
 horoj
@@ -1753,6 +1762,7 @@ localmouse
 localstore
 localtime
 lockfree
+lockless
 locmem
 locmemcache
 loggroup
@@ -1998,6 +2008,8 @@ mkvirtualenv
 mlms
 mlt
 mmacmillan
+mman
+mmaps
 mmenu
 mmenujs
 mmerickel
@@ -2230,6 +2242,7 @@ nomodule
 nonamefile
 nonbillable
 noncommercially
+nondefault
 noneditable
 nonew
 nonexisting
@@ -2248,6 +2261,7 @@ nonword
 nonwords
 noone
 noqaj
+noredir
 normalizable
 normalizations
 normalizr
@@ -2397,6 +2411,7 @@ outdent
 outdir
 outil
 outlookdotcom
+outname
 outoff
 outro
 outros
@@ -3187,6 +3202,7 @@ sibs
 sideload
 siden
 siefkenj
+sigaction
 sigmavirus
 sigmoid
 signedness
@@ -3209,6 +3225,7 @@ sitekey
 sitewide
 sitten
 situ
+sizeclass
 sizedimage
 sizset
 skewness
@@ -3296,6 +3313,7 @@ specialchars
 spektar
 spillpg
 spinkit
+spinlock
 spion
 splitlines
 splitted
@@ -3321,6 +3339,7 @@ ssize
 sssssss
 sstream
 stackability
+stackframe
 stager
 standalones
 starrhorne
@@ -3346,6 +3365,7 @@ stepleave
 stepsize
 stereographic
 sterseniz
+stes
 stevenlevithan
 stevenmiller
 sthrough
@@ -3678,6 +3698,7 @@ thumbnailing
 thunkor
 thunkp
 thursday
+tidptr
 tidx
 tildeio
 tilelayers
@@ -3720,6 +3741,7 @@ tobiaslins
 toboolean
 tocdup
 tocify
+tocptr
 tocscope
 todas
 todense
@@ -3970,6 +3992,7 @@ unhash
 unhashable
 unhashed
 unhashing
+unhidden
 unhighlight
 unhighlighted
 unhighlighting
@@ -4033,6 +4056,7 @@ unpark
 unparseable
 unparsed
 unpatch
+unpatching
 unpause
 unpaused
 unpausing
@@ -4118,6 +4142,7 @@ unvalidatable
 unversioned
 unvisited
 unvote
+unwinder
 unwire
 upcase
 upcast
@@ -4215,6 +4240,7 @@ vcpkg
 vdecls
 vderyagin
 vdeturckheim
+vdso
 vdykge
 vectorization
 vectorizers
@@ -4336,6 +4362,7 @@ webmanifest
 webobparser
 webpacks
 webservers
+websymbols
 weekperiod
 weex
 weirdnesses
