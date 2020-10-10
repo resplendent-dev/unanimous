@@ -4744,3 +4744,9 @@ ixrsmb
 wmessage
 testparser
 lightuserdata
+wiretype
+tnumber
+stringbuffer
+lasterror
+dname
+microarchitecture
