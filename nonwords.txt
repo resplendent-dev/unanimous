@@ -922,6 +922,7 @@ endfor
 endianness
 endif
 endiffeature
+endmacro
 endofunctors
 endp
 endprivate
@@ -1735,6 +1736,7 @@ lexing
 lgwin
 liabru
 libconfini
+libere
 libero
 libev
 libffi
@@ -2346,6 +2348,7 @@ novacancy
 novak
 nowrap
 noxfile
+noyau
 nparsed
 nplurals
 npostfix
@@ -2996,6 +2999,7 @@ removefields
 renancouto
 rendere
 renewtoken
+renvoie
 reorderable
 reorderer
 reparented
@@ -4811,3 +4815,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+emax
