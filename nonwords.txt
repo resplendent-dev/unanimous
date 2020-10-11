@@ -1226,6 +1226,7 @@ getputdelete
 getset
 getsitepackages
 getstarted
+getsyminfo
 getters
 gettime
 gettimeofday
@@ -1333,6 +1334,7 @@ hexdigits
 hexlifies
 hexlify
 hexload
+hgignore
 hhhhhh
 hideinitializer
 hienvd
@@ -1759,6 +1761,7 @@ linearities
 linearized
 linearray
 linebreaks
+linefeeds
 linehash
 linenos
 lineto
@@ -1816,6 +1819,7 @@ lostpointercapture
 lowercased
 lowerstrip
 lowlight
+lstat
 lstrip
 ltima
 ltimas
@@ -1861,6 +1865,7 @@ malloced
 mallocs
 maman
 mame
+mamp
 mandag
 mandoc
 manglings
@@ -2118,6 +2123,7 @@ mouseup
 mout
 movhi
 moviegeek
+movscn
 movzx
 mozcentral
 mparams
@@ -2134,6 +2140,7 @@ mruby
 msgid
 msgids
 msie
+msys
 mtavruli
 mthread
 mthreading
@@ -2165,6 +2172,7 @@ munud
 musl
 mutators
 mutexname
+mxml
 myaction
 myblogsite
 mycodetips
@@ -2231,15 +2239,18 @@ neuroscience
 neverending
 newcap
 newdata
+newehdr
 newfd
 newforms
 newlang
 newmexico
 newname
+newphdr
 newplaceid
 newsmeme
 newstr
 newstyle
+nextscn
 nfixedargs
 ngdoc
 ngettext
@@ -2261,6 +2272,7 @@ nmatpt
 nmec
 nname
 nnen
+noarch
 nocomments
 nocontent
 nocover
@@ -2273,6 +2285,7 @@ nodoc
 noempty
 noet
 noexif
+noexpand
 nofunsir
 noglobals
 noimagehere
@@ -2799,6 +2812,7 @@ pselect
 pserve
 pseudocylindrical
 pseudoterminals
+ptrdiff
 ptweens
 publics
 puedes
@@ -2864,6 +2878,7 @@ ratiofieldname
 ratiofields
 rauchg
 rawcdn
+rawfile
 raydeo
 razum
 rcoles
@@ -2885,6 +2900,7 @@ readdir
 readeral
 reakit
 realityking
+realloc
 reallocations
 reallocs
 realname
@@ -2977,6 +2993,7 @@ reorderable
 reorderer
 reparented
 replicability
+repointed
 repositioned
 repositions
 repositori
@@ -3053,6 +3070,7 @@ rickygu
 rico
 rightbar
 rint
+ripgrep
 ripplejs
 risus
 rlis
@@ -3224,6 +3242,7 @@ setattr
 setattro
 setblocking
 setdefault
+seterr
 setext
 sethi
 sethmlarson
@@ -3477,11 +3496,13 @@ stringio
 stringios
 strlen
 strlens
+strnstr
 stroh
 strokewidth
 strptime
 strptr
 strs
+strstr
 strtol
 structified
 strumento
@@ -3636,6 +3657,7 @@ symb
 symbolizers
 symbolp
 symfony
+symlen
 symlinked
 symlinkfile
 syncdb
@@ -3953,6 +3975,7 @@ ueber
 uela
 uglified
 uglify
+uhdr
 uids
 uints
 uipriv
@@ -4331,9 +4354,11 @@ vendored
 vendredi
 veniam
 verbosities
+verdaux
 verdef
 verifiably
 verifications
+vernaux
 versi
 versicolor
 versionadded
@@ -4365,6 +4390,7 @@ viewmode
 viewprereset
 viewvalues
 viime
+vimrc
 vineri
 vinsgo
 virginia
@@ -4404,6 +4430,7 @@ vrijdag
 vshll
 vshlq
 vshrn
+vsnprintf
 vuint
 vulkantoy
 vuoden
@@ -4467,9 +4494,11 @@ wigtobigwig
 wildcarded
 wilto
 winamp
+windir
 windowsconsoleio
 windowsize
 windoze
+winget
 wininst
 winjs
 winlen
@@ -4767,27 +4796,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-seterr
-movscn
-vernaux
-verdaux
-uhdr
-symlen
-rawfile
-nextscn
-newphdr
-newehdr
-linefeeds
-getsyminfo
-mxml
-vsnprintf
-realloc
-hgignore
-winget
-strstr
-windir
-vimrc
-strnstr
-ripgrep
-repointed
-ptrdiff
