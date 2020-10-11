@@ -4785,3 +4785,9 @@ realloc
 hgignore
 winget
 strstr
+windir
+vimrc
+strnstr
+ripgrep
+repointed
+ptrdiff
