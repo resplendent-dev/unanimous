@@ -4796,3 +4796,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+xstring
+peripherique
+addtogroup
+putc
+multibyte
+inodes
