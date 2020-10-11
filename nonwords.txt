@@ -4802,3 +4802,9 @@ addtogroup
 putc
 multibyte
 inodes
+endp
+unblockable
+triostr
+trionan
+taille
+syscall
