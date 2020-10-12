@@ -425,6 +425,7 @@ childview
 chilpit
 ching
 chjj
+chmap
 choroplet
 chrishumboldt
 chrissrogers
@@ -546,6 +547,7 @@ cript
 crosshairs
 cryptographically
 cryptosign
+cscale
 csjs
 cssanimation
 csse
@@ -684,6 +686,7 @@ deferreds
 defgroup
 defragmentation
 degit
+deinterlacing
 deja
 dejs
 deleteorphanedmedia
@@ -696,6 +699,8 @@ delitem
 delle
 demanda
 demann
+demuxer
+demuxing
 dengan
 denilsonsa
 denodb
@@ -897,6 +902,7 @@ elkan
 elsamuko
 elts
 elusion
+emax
 embeddable
 embeddedlinuxunified
 eminem
@@ -1144,6 +1150,8 @@ fragmenthidden
 fragmentshown
 fragsize
 framebuffer
+framedrop
+framerate
 framerates
 frameset
 francais
@@ -1257,6 +1265,7 @@ gmbh
 gmtime
 gnarvaja
 gnomonic
+goaccess
 godina
 godinu
 googlechrome
@@ -1735,6 +1744,7 @@ lexicographically
 lexing
 lgwin
 liabru
+libavcodec
 libconfini
 libere
 libero
@@ -2509,6 +2519,7 @@ overviewhidden
 overwritable
 ovpages
 oxfe
+packable
 packagist
 packbuf
 packedsz
@@ -4075,6 +4086,7 @@ underalignment
 underfilled
 underflows
 underride
+underrun
 underspecified
 underspecifies
 undirectional
@@ -4360,6 +4372,7 @@ vcpkg
 vdecls
 vderyagin
 vdeturckheim
+vdpau
 vdso
 vdykge
 vectorization
@@ -4778,6 +4791,7 @@ zfrac
 zhangyafeikimi
 zier
 zigenpoisson
+zimg
 zinb
 zindexes
 zinegbin
@@ -4815,16 +4829,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-emax
-goaccess
-packable
-demuxer
-zimg
-vdpau
-deinterlacing
-libavcodec
-demuxing
-underrun
-framedrop
-chmap
-cscale
