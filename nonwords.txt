@@ -1406,6 +1406,7 @@ href
 hroncok
 hsgt
 hsivonen
+htab
 htaccess
 htbp
 htmlfile
@@ -1789,6 +1790,7 @@ libero
 libev
 libfat
 libffi
+libiberty
 libkdtree
 liblzma
 libphonenumber
@@ -2275,6 +2277,7 @@ nbits
 nbsp
 nbuf
 nconvert
+ncurses
 nczeczulin
 ndan
 nder
@@ -2293,6 +2296,7 @@ neke
 neque
 ness
 nessie
+netbsd
 netrefs
 neuroscience
 neverending
@@ -2360,6 +2364,7 @@ nonbillable
 noncommercially
 noncontiguous
 nondefault
+nondeterministic
 noneditable
 nonew
 nonexact
@@ -2374,6 +2379,7 @@ nonpositive
 nonprefixed
 nonprintable
 nonsensuous
+nonspacing
 nonterminal
 nonword
 nonwords
@@ -3463,6 +3469,7 @@ somestream
 someurl
 someutfcharacters
 soname
+sooo
 sortation
 sortlines
 sorton
@@ -4234,6 +4241,7 @@ unmemoization
 unmemoize
 unmemoizing
 unmemoziation
+unmerged
 unminified
 unmocked
 unmoderated
@@ -4315,6 +4323,7 @@ unstack
 unstacked
 unstacking
 unstacks
+unstaged
 unstandardized
 unstar
 unstick
@@ -4569,6 +4578,7 @@ waylandvk
 wblur
 wbolster
 wchar
+wclear
 wcoder
 wcykge
 weakrefs
@@ -4613,6 +4623,7 @@ wininst
 winjs
 winlen
 winnls
+winnstr
 winsock
 winvk
 wiretype
@@ -4729,6 +4740,7 @@ xreduced
 xreplace
 xright
 xring
+xrvt
 xscale
 xsigma
 xsigmainvx
@@ -4910,15 +4922,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-htab
-ncurses
-unmerged
-libiberty
-xrvt
-winnstr
-wclear
-unstaged
-sooo
-nonspacing
-nondeterministic
-netbsd
