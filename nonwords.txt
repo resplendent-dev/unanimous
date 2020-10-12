@@ -4274,6 +4274,7 @@ unresolvable
 unretained
 unretrievable
 unrotate
+unrotated
 unrun
 unsanitized
 unsatisfiable
@@ -4290,6 +4291,7 @@ unserializes
 unserializing
 unsets
 unshadowing
+unsharp
 unshift
 unsigneds
 unsized
