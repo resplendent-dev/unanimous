@@ -401,6 +401,7 @@ cbartlett
 ccrs
 cdaa
 cdba
+cdrdao
 cdtext
 ceeb
 ceil
@@ -805,6 +806,7 @@ disassembler
 discontiguous
 discoverable
 disjunction
+diskcopy
 dispon
 dista
 distinguisher
@@ -1387,6 +1389,7 @@ hl
 hljs
 hljslicense
 hodina
+hogger
 hoje
 hollaback
 homescreen
@@ -3608,6 +3611,7 @@ subbands
 subblock
 subblocks
 subbutton
+subchannel
 subclassable
 subclassed
 subclassers
