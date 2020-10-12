@@ -4851,3 +4851,9 @@ zygohistomorphic
 zyxwvu
 zzarcon
 toptitles
+srgb
+monitoraspect
+hwdecs
+desaturation
+autodetected
+suboption
