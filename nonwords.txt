@@ -182,6 +182,7 @@ autocompleted
 autocompletion
 autocorrelate
 autocorrelation
+autodetected
 autodetecting
 autodetection
 autoencode
@@ -230,6 +231,7 @@ backreference
 backreferences
 backslashed
 backstep
+backstepping
 backstore
 backtick
 baddata
@@ -693,6 +695,7 @@ defgroup
 defragmentation
 degit
 deinterlace
+deinterlacers
 deinterlacing
 deja
 dejs
@@ -741,6 +744,7 @@ dernier
 desandro
 desarrollado
 desaturates
+desaturation
 deserialization
 deserialized
 deserializes
@@ -839,6 +843,7 @@ doubleclicks
 doubletap
 doubleword
 downmix
+downscaled
 downscaling
 dpcm
 dppx
@@ -869,6 +874,7 @@ duplicative
 dups
 durationchange
 dwatow
+dxinterop
 dyad
 dydd
 dynamicsjs
@@ -1161,6 +1167,7 @@ fragmentshown
 fragsize
 framebuffer
 framedrop
+framedropping
 framerate
 framerates
 frameset
@@ -1398,6 +1405,7 @@ hultner
 humanmsg
 huskyrc
 hustcc
+hwdecs
 hwnd
 hybi
 hyperparameters
@@ -2112,6 +2120,8 @@ monadic
 monato
 monatoj
 monic
+monitoraspect
+monitorpixelaspect
 monkeypatched
 monkeypatching
 monoid
@@ -2460,6 +2470,7 @@ onstate
 onsuccess
 ontem
 ontimeout
+ontop
 onunload
 onwards
 onwindowscroll
@@ -2891,6 +2902,7 @@ quello
 queryish
 questionname
 queueservice
+queuetime
 quicly
 quis
 quod
@@ -3331,6 +3343,7 @@ siefkenj
 sigaction
 sigmavirus
 sigmoid
+sigmoidal
 signedness
 significand
 signups
@@ -3462,6 +3475,7 @@ squeezeblocks
 squoosh
 srcstr
 srcuri
+srgb
 srufaculty
 ssfi
 ssize
@@ -3609,6 +3623,7 @@ subnode
 subns
 subobject
 subobservables
+suboption
 subpackages
 subpage
 subpath
@@ -3909,6 +3924,7 @@ tooltipsy
 topbar
 topline
 toproperty
+toptitles
 tornadoparser
 tortor
 tostr
@@ -4510,6 +4526,7 @@ watcha
 watsons
 wavded
 wayland
+waylandvk
 wbolster
 wchar
 wcoder
@@ -4534,6 +4551,7 @@ weve
 wgetrc
 whatnames
 whatsmyua
+whendone
 whereclause
 whileloading
 whileplaying
@@ -4850,16 +4868,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-toptitles
-srgb
-monitoraspect
-hwdecs
-desaturation
-autodetected
-suboption
-sigmoidal
-queuetime
-ontop
-monitorpixelaspect
-framedropping
-dxinterop
