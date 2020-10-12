@@ -38,6 +38,7 @@ adir
 adjwt
 adminaction
 adresinden
+adrop
 aebeaaf
 aeiou
 afficher
@@ -100,6 +101,7 @@ anphisa
 anselmstordeur
 antimeridian
 antiquewhite
+antiring
 antiword
 anys
 apeitems
@@ -182,6 +184,7 @@ autocompleted
 autocompletion
 autocorrelate
 autocorrelation
+autodetect
 autodetected
 autodetecting
 autodetection
@@ -492,6 +495,7 @@ collapsedness
 collectassets
 collinear
 colocated
+colorimetrically
 colorlevels
 colormapped
 colorspaces
@@ -743,7 +747,9 @@ dereference
 dernier
 desandro
 desarrollado
+desaturate
 desaturates
+desaturating
 desaturation
 deserialization
 deserialized
@@ -920,6 +926,7 @@ elts
 elusion
 emax
 embeddable
+embeddedfonts
 embeddedlinuxunified
 eminem
 emissive
@@ -1161,6 +1168,7 @@ formik
 formland
 formrows
 formsy
+fourcc
 fprintf
 fragmenthidden
 fragmentshown
@@ -1718,6 +1726,7 @@ lacus
 ladda
 laiwei
 lamosity
+lanczossharp
 langbulgarianmodel
 langgreekmodel
 langhebrewmodel
@@ -2073,6 +2082,7 @@ misconfigured
 misencoded
 misnamings
 misordered
+mistagged
 mistyrose
 miterlimit
 mithriljs
@@ -2368,6 +2378,7 @@ noscript
 nosearch
 nosec
 noslash
+nostreams
 nostrud
 nosuchimage
 notedit
@@ -2499,12 +2510,14 @@ optstring
 optwhere
 oraclegis
 orangered
+orawts
 orci
 orderedmultimdict
 orderer
 oretha
 orientationchange
 ornare
+osdlevel
 osnovnih
 osodog
 otaviosoares
@@ -4518,6 +4531,7 @@ waferdotc
 wagerfield
 waitforelements
 waitings
+waitvsync
 waivable
 wakeup
 wakeups
@@ -4533,6 +4547,7 @@ watsons
 wavded
 wayland
 waylandvk
+wblur
 wbolster
 wchar
 wcoder
@@ -4580,6 +4595,7 @@ winjs
 winlen
 winnls
 winsock
+winvk
 wiretype
 wkjagt
 wlen
@@ -4612,6 +4628,7 @@ wspec
 wss
 wsum
 wsym
+wtaper
 wunki
 wuyunjiang
 wwww
@@ -4874,15 +4891,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-osdlevel
-orawts
-nostreams
-mistagged
-lanczossharp
-fourcc
-embeddedfonts
-desaturating
-desaturate
-colorimetrically
-autodetect
-antiring
