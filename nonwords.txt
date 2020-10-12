@@ -4822,3 +4822,9 @@ demuxer
 zimg
 vdpau
 deinterlacing
+libavcodec
+demuxing
+underrun
+framedrop
+chmap
+cscale
