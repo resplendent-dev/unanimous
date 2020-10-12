@@ -4857,3 +4857,9 @@ hwdecs
 desaturation
 autodetected
 suboption
+sigmoidal
+queuetime
+ontop
+monitorpixelaspect
+framedropping
+dxinterop
