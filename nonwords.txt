@@ -1334,6 +1334,7 @@ guilabel
 gunakan
 gunnarx
 guybedford
+gzerror
 gzipped
 gzips
 hace
@@ -1349,9 +1350,11 @@ harddisk
 hari
 hashbidimap
 hashchange
+hashconfig
 hashlin
 hashmap
 hashmaps
+hashmask
 hasn
 hasshe
 hasta
@@ -1493,9 +1496,11 @@ indirections
 indirmek
 infctr
 inferencing
+inffast
 inflight
 informations
 infront
+inftrees
 inglese
 ingroup
 inikulin
@@ -1872,6 +1877,7 @@ loopfunc
 lory
 lossy
 lostpointercapture
+loup
 lowercased
 lowerstrip
 lowlight
@@ -3075,6 +3081,7 @@ renvoie
 reorderable
 reorderer
 reparented
+replaycount
 replaygain
 replicability
 repointed
@@ -4133,6 +4140,7 @@ uncommenting
 uncommit
 uncomp
 uncompiled
+uncompr
 uncompress
 uncompressable
 uncompresses
@@ -4468,6 +4476,7 @@ velocityjs
 vendored
 vendredi
 veniam
+veracrypt
 verbosities
 verdaux
 verdef
@@ -4922,9 +4931,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-hashmask
-veracrypt
-hashconfig
-loup
-inffast
-uncompr
