@@ -4910,3 +4910,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+htab
+ncurses
+unmerged
+libiberty
+xrvt
+winnstr
