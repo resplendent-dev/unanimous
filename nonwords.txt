@@ -4899,3 +4899,9 @@ syslinux
 cdtext
 badblocks
 leadout
+pregap
+busybox
+htree
+fsck
+userspace
+subheader
