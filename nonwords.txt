@@ -686,6 +686,7 @@ deferreds
 defgroup
 defragmentation
 degit
+deinterlace
 deinterlacing
 deja
 dejs
@@ -699,6 +700,7 @@ delitem
 delle
 demanda
 demann
+demuxed
 demuxer
 demuxing
 dengan
@@ -830,6 +832,7 @@ dotset
 doubleclicks
 doubletap
 doubleword
+downscaling
 dpcm
 dppx
 dragend
@@ -1201,6 +1204,7 @@ gainsboro
 gamedev
 gamers
 gamified
+gapless
 garn
 garyd
 gater
@@ -2900,6 +2904,7 @@ ratiofields
 rauchg
 rawcdn
 rawfile
+rawvideo
 raydeo
 razum
 rcoles
@@ -3014,6 +3019,7 @@ renvoie
 reorderable
 reorderer
 reparented
+replaygain
 replicability
 repointed
 repositioned
@@ -3178,6 +3184,7 @@ sbservices
 sbstjn
 scaffolded
 scalability
+scaletempo
 scanlists
 scannability
 scanstride
@@ -3386,6 +3393,7 @@ socketmodule
 sodales
 sodperc
 sodperce
+softvol
 softwares
 soir
 solrconfig
@@ -4087,6 +4095,7 @@ underfilled
 underflows
 underride
 underrun
+underruns
 underspecified
 underspecifies
 undirectional
@@ -4264,6 +4273,7 @@ unterminated
 unthemed
 untiled
 untils
+untimed
 untracked
 untransformed
 untranspiled
@@ -4829,9 +4839,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-scaletempo
-downscaling
-deinterlace
-replaygain
-untimed
-underruns
