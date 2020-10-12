@@ -4937,3 +4937,9 @@ pwdlen
 passwdlen
 rekeying
 subfile
+xisdigit
+xdirname
+whcar
+waitedit
+tmpfpath
+timeorder
