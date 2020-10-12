@@ -4880,3 +4880,9 @@ nostreams
 mistagged
 lanczossharp
 fourcc
+embeddedfonts
+desaturating
+desaturate
+colorimetrically
+autodetect
+antiring
