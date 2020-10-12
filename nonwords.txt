@@ -4839,3 +4839,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+downmix
+colorspaces
+panscan
+muxed
+debanding
+backstep
