@@ -2701,6 +2701,7 @@ pointerup
 pointsize
 polyfilling
 polyfills
+polyphase
 polyvec
 pondelok
 ponedjeljak
@@ -2744,6 +2745,7 @@ ppoll
 ppvalue
 pquentin
 preaction
+preallocate
 preallocated
 preassign
 prebaked
@@ -2795,6 +2797,7 @@ prepromorphism
 prereleases
 prerendered
 prerendering
+prescaled
 preselect
 presentational
 preuzeti
@@ -3371,6 +3374,7 @@ sizset
 skewness
 skhaz
 skinnable
+skippable
 skiptags
 skipunless
 skool
@@ -3778,6 +3782,7 @@ tdragon
 teardown
 tection
 teesites
+telecine
 telefone
 teleported
 temparea
@@ -4401,6 +4406,7 @@ variadargs
 varius
 varnames
 vastatrices
+vavpp
 vbscript
 vchar
 vclick
@@ -4868,9 +4874,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-vavpp
-telecine
-skippable
-prescaled
-preallocate
-polyphase
