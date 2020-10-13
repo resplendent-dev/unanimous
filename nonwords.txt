@@ -398,6 +398,7 @@ catenate
 catenated
 catenation
 cbartlett
+cbfun
 ccrs
 cdaa
 cdba
@@ -830,6 +831,7 @@ dnldr
 dnsname
 dockerssh
 doclet
+doclists
 docplaster
 docregion
 docsify
@@ -1871,6 +1873,7 @@ longpress
 longtext
 lons
 looby
+lookaside
 lookbehind
 loopbody
 loopfunc
@@ -3056,6 +3059,7 @@ regexes
 regexpp
 regexpu
 regexs
+regext
 regis
 regrtest
 reguexec
@@ -3297,6 +3301,7 @@ seealso
 seekable
 seeked
 sefakilic
+segdir
 segunda
 segundos
 sekitar
@@ -3376,6 +3381,7 @@ shortopts
 shouldn
 showbrowser
 showdownjs
+showhidden
 showinfo
 shrc
 shrd
@@ -3413,6 +3419,7 @@ sitten
 situ
 sizeclass
 sizedimage
+sizeorder
 sizset
 skewness
 skhaz
@@ -3505,6 +3512,7 @@ spillpg
 spinkit
 spinlock
 spion
+splitjoin
 splitlines
 splitted
 spookylukey
@@ -4944,9 +4952,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-splitjoin
-sizeorder
-showhidden
-regext
-segdir
-doclists
