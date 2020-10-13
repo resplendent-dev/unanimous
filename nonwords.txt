@@ -12,6 +12,7 @@ abookapart
 acceptor
 accesskey
 accesssecret
+accum
 accusamus
 acked
 aclauthorizationpolicy
@@ -288,6 +289,7 @@ bindable
 bindify
 binn
 biste
+bitdepth
 bitinn
 bitmasks
 bitreversed
@@ -430,6 +432,7 @@ checkconfig
 checklines
 checkmark
 checkmarks
+checkpointed
 checksums
 chere
 childarea
@@ -504,6 +507,7 @@ colorimetrically
 colorlevels
 colormapped
 colorspaces
+colortype
 colspans
 combinable
 combinator
@@ -1039,6 +1043,7 @@ expirations
 explist
 explorable
 expressinstall
+exprlist
 extarea
 extendibility
 extensibility
@@ -1429,6 +1434,7 @@ huskyrc
 hustcc
 hwdecs
 hwnd
+hwtime
 hybi
 hyperparameters
 hyperrect
@@ -1443,11 +1449,13 @@ ibywgc
 ichord
 icio
 iconbar
+iconified
 icontains
 idempotence
 idents
 ideographic
 idevice
+idxlist
 iendswith
 iffeature
 iframes
@@ -2240,6 +2248,7 @@ multiwidgets
 munud
 musl
 mutators
+mutexing
 mutexname
 muxed
 mxml
@@ -2910,6 +2919,7 @@ pukul
 punctuations
 punycode
 purescript
+purgeable
 purus
 pushd
 pushstate
@@ -4952,9 +4962,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-accum
-purgeable
-colortype
-mutexing
-exprlist
-checkpointed
