@@ -4944,3 +4944,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+splitjoin
+sizeorder
+showhidden
+regext
+segdir
+doclists
