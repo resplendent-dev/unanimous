@@ -4952,3 +4952,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+accum
+purgeable
+colortype
+mutexing
+exprlist
+checkpointed
