@@ -12,6 +12,7 @@ abookapart
 acceptor
 accesskey
 accesssecret
+accum
 accusamus
 acked
 aclauthorizationpolicy
@@ -288,6 +289,7 @@ bindable
 bindify
 binn
 biste
+bitdepth
 bitinn
 bitmasks
 bitreversed
@@ -398,6 +400,7 @@ catenate
 catenated
 catenation
 cbartlett
+cbfun
 ccrs
 cdaa
 cdba
@@ -429,6 +432,7 @@ checkconfig
 checklines
 checkmark
 checkmarks
+checkpointed
 checksums
 chere
 childarea
@@ -503,6 +507,7 @@ colorimetrically
 colorlevels
 colormapped
 colorspaces
+colortype
 colspans
 combinable
 combinator
@@ -830,6 +835,7 @@ dnldr
 dnsname
 dockerssh
 doclet
+doclists
 docplaster
 docregion
 docsify
@@ -1037,6 +1043,7 @@ expirations
 explist
 explorable
 expressinstall
+exprlist
 extarea
 extendibility
 extensibility
@@ -1427,6 +1434,7 @@ huskyrc
 hustcc
 hwdecs
 hwnd
+hwtime
 hybi
 hyperparameters
 hyperrect
@@ -1441,11 +1449,13 @@ ibywgc
 ichord
 icio
 iconbar
+iconified
 icontains
 idempotence
 idents
 ideographic
 idevice
+idxlist
 iendswith
 iffeature
 iframes
@@ -1871,6 +1881,7 @@ longpress
 longtext
 lons
 looby
+lookaside
 lookbehind
 loopbody
 loopfunc
@@ -2237,6 +2248,7 @@ multiwidgets
 munud
 musl
 mutators
+mutexing
 mutexname
 muxed
 mxml
@@ -2907,6 +2919,7 @@ pukul
 punctuations
 punycode
 purescript
+purgeable
 purus
 pushd
 pushstate
@@ -3056,6 +3069,7 @@ regexes
 regexpp
 regexpu
 regexs
+regext
 regis
 regrtest
 reguexec
@@ -3297,6 +3311,7 @@ seealso
 seekable
 seeked
 sefakilic
+segdir
 segunda
 segundos
 sekitar
@@ -3376,6 +3391,7 @@ shortopts
 shouldn
 showbrowser
 showdownjs
+showhidden
 showinfo
 shrc
 shrd
@@ -3413,6 +3429,7 @@ sitten
 situ
 sizeclass
 sizedimage
+sizeorder
 sizset
 skewness
 skhaz
@@ -3505,6 +3522,7 @@ spillpg
 spinkit
 spinlock
 spion
+splitjoin
 splitlines
 splitted
 spookylukey
