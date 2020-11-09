@@ -1153,3 +1153,9 @@ zscores
 zstar
 ztol
 zyxwvu
+unaccent
+plainto
+tosquery
+misconfigured
+upstreamed
+svorobev
