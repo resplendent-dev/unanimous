@@ -373,6 +373,7 @@ deviceid
 deviceobj
 deviceobject
 deviceready
+devtool
 dfae
 didn
 directionality
@@ -1283,6 +1284,7 @@ qtime
 quantiles
 quantizing
 quartile
+quats
 queueservice
 quis
 quotmark
@@ -1384,6 +1386,7 @@ ribeye
 rickygu
 rico
 ripplejs
+rkey
 rmse
 roff
 rollbacked
@@ -1453,6 +1456,7 @@ setext
 sethmlarson
 setitem
 setrelheap
+setted
 setuid
 setupmobans
 sexualized
@@ -1471,6 +1475,7 @@ siefkenj
 sigmavirus
 sigmoid
 signedness
+signum
 signups
 simplemocha
 sinebow
@@ -1534,6 +1539,7 @@ squoosh
 srcuri
 ssize
 stackability
+stackblitz
 starrhorne
 startswith
 stderr
@@ -2013,6 +2019,7 @@ versionadded
 versionchanged
 versioners
 versionwarning
+versor
 vetoable
 vhcurveto
 videoblog
@@ -2272,9 +2279,3 @@ zstar
 zsyscall
 ztol
 zyxwvu
-quats
-versor
-signum
-stackblitz
-devtool
-setted
