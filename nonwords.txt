@@ -2272,3 +2272,9 @@ zstar
 zsyscall
 ztol
 zyxwvu
+quats
+versor
+signum
+stackblitz
+devtool
+setted
