@@ -376,6 +376,7 @@ cakeipsum
 callability
 callables
 callees
+callframes
 callself
 callsites
 calmerthanyouare
@@ -1338,6 +1339,7 @@ googltest
 gosquared
 gothic
 gotoh
+gotos
 gotpointercapture
 gplv
 gpzy
@@ -2825,6 +2827,7 @@ posterchange
 postfixed
 postfixes
 postgresserver
+postop
 postorder
 postprocessed
 postprocessors
@@ -3463,6 +3466,7 @@ sigmoid
 sigmoidal
 signedness
 significand
+signifier
 signups
 sike
 silesia
@@ -4262,6 +4266,7 @@ uncurrying
 uncustomized
 undaemonize
 unde
+undeclare
 undef
 undefine
 undefines
@@ -4491,6 +4496,7 @@ upsize
 upstreamed
 upstreams
 upto
+upvalue
 upvote
 upvoted
 upvoting
@@ -5051,9 +5057,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-upvalue
-signifier
-gotos
-callframes
-undeclare
-postop
