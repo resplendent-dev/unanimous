@@ -344,6 +344,7 @@ bselector
 bskinsm
 bsonmez
 bstock
+btnmatrix
 buddyjs
 buffersize
 buffiter
@@ -1864,6 +1865,7 @@ linearray
 linebreaks
 linefeeds
 linehash
+linemeter
 linenos
 lineto
 linewidth
@@ -2517,6 +2519,7 @@ okey
 olarak
 olddisplay
 oldlace
+oldname
 olivedrab
 olleke
 omdict
@@ -2839,6 +2842,7 @@ preallocated
 preassign
 prebaked
 preboard
+prec
 precached
 precaching
 precalculating
@@ -3033,6 +3037,7 @@ razum
 rcoles
 rconradharris
 rdar
+rddir
 reactbone
 reactdown
 reactfire
@@ -3182,6 +3187,7 @@ rescuable
 reselect
 resending
 resends
+reseted
 resetted
 resguar
 resharding
@@ -5045,9 +5051,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-btnmatrix
-rddir
-reseted
-linemeter
-prec
-oldname
+upvalue
+signifier
+gotos
+callframes
+undeclare
+postop
