@@ -5048,3 +5048,9 @@ vfprintf
 unstash
 testmain
 stringize
+minix
+alloced
+ddlist
+imgbtn
+montserrat
+defocus
