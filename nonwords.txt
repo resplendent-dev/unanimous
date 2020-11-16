@@ -24,7 +24,6 @@ aclosing
 actionably
 actionlist
 actiontyper
-activations
 aculo
 adactio
 addcll
@@ -926,6 +925,7 @@ easting
 easytmdb
 ebertti
 ecmascript
+ecmult
 ecstask
 ecstaskdefinition
 ectoplasm
@@ -1661,6 +1661,7 @@ jeremydmiller
 jezik
 jferard
 jfkirk
+jfoug
 jisfreq
 jisfreqprober
 jkat
@@ -3027,6 +3028,7 @@ randocall
 randr
 rangez
 raphaelcruzeiro
+rarvm
 raspo
 ratechange
 ratiofieldname
@@ -3040,6 +3042,7 @@ razum
 rcoles
 rconradharris
 rdar
+rdclass
 rddir
 reactbone
 reactdown
@@ -3584,6 +3587,7 @@ spillpg
 spinkit
 spinlock
 spion
+spiview
 splitjoin
 splitlines
 splitted
@@ -4562,6 +4566,8 @@ valueint
 valuelink
 valuename
 valuestring
+vand
+vandn
 vanillajni
 vanno
 varargs
