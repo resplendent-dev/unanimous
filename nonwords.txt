@@ -5080,3 +5080,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+benchfn
+zstdmt
+vmulq
+ircode
+semacheck
+callframe
