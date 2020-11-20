@@ -274,6 +274,7 @@ beforepluginsetup
 beforeremove
 behaverc
 benaadams
+benchfn
 benchmarked
 benjaminbrandt
 benpickles
@@ -376,6 +377,7 @@ cakeipsum
 callability
 callables
 callees
+callframe
 callframes
 callself
 callsites
@@ -1603,6 +1605,7 @@ iovec
 ipaddrs
 iphoneoscodecs
 ipod
+ircode
 iress
 irreplacable
 irure
@@ -2192,6 +2195,7 @@ modularize
 modularized
 modularizing
 moduleauthor
+moduleinit
 modulepar
 mofile
 moins
@@ -2482,6 +2486,7 @@ nres
 nrful
 nrofcomponents
 nsec
+nseek
 ntilde
 ntlmpool
 ntoa
@@ -3399,6 +3404,7 @@ selfconnection
 selfhosted
 sellable
 seltests
+semacheck
 semana
 semarie
 semimajor
@@ -4673,6 +4679,7 @@ vizxv
 vkcube
 vkpt
 vmovn
+vmulq
 vname
 vnode
 vogdb
@@ -5074,15 +5081,10 @@ zright
 zscored
 zscores
 zstar
+zstdmt
 zsyscall
 ztol
 zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-benchfn
-zstdmt
-vmulq
-ircode
-semacheck
-callframe
