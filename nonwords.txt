@@ -5088,3 +5088,9 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
+loadat
+runclosure
+vmmacros
+sscores
+nlive
+ncontinuum
