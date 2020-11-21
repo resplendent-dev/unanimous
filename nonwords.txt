@@ -1898,6 +1898,7 @@ ller
 llint
 lluchs
 lnotab
+loadat
 loadedmetadata
 loadmarshal
 loadtrigger
@@ -2346,6 +2347,7 @@ nbest
 nbits
 nbsp
 nbuf
+ncontinuum
 nconvert
 ncurses
 nczeczulin
@@ -2401,6 +2403,7 @@ nisl
 niubsta
 nivo
 njcqy
+nlive
 nmatpt
 nmec
 nname
@@ -3294,6 +3297,7 @@ rrcurveto
 rrggbb
 rset
 rspfile
+rspmgr
 rsquo
 rstrip
 rsts
@@ -3305,6 +3309,7 @@ rubico
 rubymotion
 rubyracer
 ruid
+runclosure
 rundelay
 runshell
 runtimes
@@ -3625,6 +3630,7 @@ srcstr
 srcuri
 srgb
 srufaculty
+sscores
 ssfi
 ssize
 sssssss
@@ -4678,6 +4684,7 @@ vivalid
 vizxv
 vkcube
 vkpt
+vmmacros
 vmovn
 vmulq
 vname
@@ -5088,9 +5095,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-loadat
-runclosure
-vmmacros
-sscores
-nlive
-ncontinuum
