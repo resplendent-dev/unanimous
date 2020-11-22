@@ -5112,3 +5112,9 @@ unod
 strokelinecap
 sein
 preservealpha
+lightingcolor
+feck
+arabicform
+cttp
+urbit
+vere
