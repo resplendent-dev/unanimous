@@ -233,6 +233,7 @@ backburner
 backchain
 backcompat
 backface
+backpointer
 backprop
 backref
 backreference
@@ -301,6 +302,7 @@ bitinn
 bitmasks
 bitreversed
 bitshifts
+bitwidth
 bjoerns
 blandit
 blcodes
@@ -2323,6 +2325,7 @@ multiwidgets
 munud
 musl
 mutators
+mutexes
 mutexing
 mutexname
 mutexref
@@ -3059,6 +3062,7 @@ questionname
 queueservice
 queuetime
 quicly
+quil
 quis
 quod
 quotmark
@@ -3165,6 +3169,7 @@ reducefunc
 reenable
 reentrant
 refactorable
+refcounted
 referentially
 refetch
 refilter
@@ -4770,6 +4775,7 @@ waivable
 wakeup
 wakeups
 walkthrough
+walloc
 walsh
 warninggp
 warnoptions
@@ -4816,6 +4822,7 @@ whitelisted
 whitelisting
 whitelists
 whitesmoke
+wicdev
 wigtobigwig
 wildcarded
 wilto
@@ -4892,6 +4899,7 @@ xcorr
 xcorrs
 xcos
 xcreator
+xcursor
 xdagger
 xdate
 xdeadbeef
@@ -5135,13 +5143,8 @@ zstdmt
 zsyscall
 ztol
 zudochkin
+zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-wicdev
-refcounted
-mutexes
-backpointer
-bitwidth
-zuse
-xcursor
+metapage
