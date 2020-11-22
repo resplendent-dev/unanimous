@@ -5130,3 +5130,9 @@ mcut
 heds
 terminfo
 libuv
+libaes
+reck
+pgno
+octs
+freelist
+eyre
