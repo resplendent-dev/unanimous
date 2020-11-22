@@ -5173,3 +5173,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+eventnum
+rbwalk
+rbopenlist
+niceassert
+mynstring
+rblookup
