@@ -1069,6 +1069,7 @@ euri
 evaled
 eventjs
 eventname
+eventnum
 evolutive
 exampleurls
 excpn
@@ -2353,6 +2354,7 @@ mydir
 myint
 mymodel
 mymodelname
+mynstring
 myprop
 myscript
 mysecret
@@ -2435,6 +2437,7 @@ nfunction
 ngdoc
 ngettext
 nicchia
+niceassert
 nicht
 nicjansma
 nickstenning
@@ -3110,6 +3113,9 @@ rawfile
 rawvideo
 raydeo
 razum
+rblookup
+rbopenlist
+rbwalk
 rcoles
 rconradharris
 rdar
@@ -5173,9 +5179,4 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-eventnum
-rbwalk
-rbopenlist
-niceassert
-mynstring
-rblookup
+linotifytools
