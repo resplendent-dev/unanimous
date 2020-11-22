@@ -452,6 +452,7 @@ checklines
 checkmark
 checkmarks
 checkpointed
+checkpointing
 checksums
 chere
 childarea
@@ -1086,6 +1087,7 @@ externs
 extest
 extptr
 extradef
+eyre
 faebd
 fafafa
 failback
@@ -1235,6 +1237,7 @@ frappacchio
 frebsite
 fredag
 freefn
+freelist
 freenode
 freqdec
 freqprober
@@ -1415,6 +1418,7 @@ headful
 heapsort
 heapu
 hedley
+heds
 hedythedev
 hellip
 helloend
@@ -1853,6 +1857,7 @@ lexicographically
 lexing
 lgwin
 liabru
+libaes
 libavcodec
 libconfini
 libere
@@ -1870,6 +1875,7 @@ libsqlite
 libu
 libucl
 libui
+libuv
 libvldmail
 libxslt
 licensors
@@ -2046,6 +2052,7 @@ mcflask
 mcflyin
 mclark
 mclasen
+mcut
 mdash
 mdcss
 mdemello
@@ -2544,6 +2551,7 @@ obter
 occaecat
 octdigit
 octdigits
+octs
 octubre
 odff
 oembetter
@@ -2767,6 +2775,7 @@ petrbela
 petter
 pghead
 pgid
+pgno
 pgoffset
 pgproto
 pgroto
@@ -3036,6 +3045,7 @@ qsize
 qsort
 qsval
 qtime
+qual
 quam
 quantiles
 quantizing
@@ -3118,6 +3128,7 @@ reblink
 rebranded
 rebranding
 rechen
+reck
 recmask
 recompaction
 recompiles
@@ -3989,6 +4000,7 @@ tenje
 tenjem
 tensorflows
 teppokoivula
+terminfo
 testability
 testee
 testem
@@ -4169,6 +4181,7 @@ traversable
 treebin
 treemode
 treeshaking
+trel
 trenda
 treturn
 trevorscheitrum
@@ -4821,6 +4834,7 @@ winnstr
 winsock
 winvk
 wiretype
+wisryt
 wkjagt
 wlen
 wlev
@@ -5124,15 +5138,4 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-qual
-trel
-mcut
-heds
-terminfo
-libuv
-libaes
-reck
-pgno
-octs
-freelist
-eyre
+wicdev
