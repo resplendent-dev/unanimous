@@ -908,6 +908,7 @@ dragup
 dragupload
 drash
 drboolean
+dropdata
 dropdowns
 dropmenu
 dropmove
@@ -1015,6 +1016,7 @@ enqueues
 enqueuing
 enskild
 enterable
+enteritem
 enterpictureinpicture
 entityref
 entre
@@ -1658,6 +1660,10 @@ iterkeys
 itervalues
 itext
 itleref
+iupglcanvas
+iupim
+iupolecontrol
+iuptuio
 ivar
 iwmmxt
 ixrsmb
@@ -4184,6 +4190,7 @@ transpiles
 transpiling
 transposeletters
 traversable
+trayclick
 treebin
 treemode
 treeshaking
@@ -4749,6 +4756,7 @@ voluptate
 voluptatum
 vorbisinfo
 voterid
+vozlt
 vprintf
 vres
 vrier
@@ -5148,9 +5156,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-vozlt
-iupim
-iupolecontrol
-trayclick
-iupglcanvas
-iuptuio
