@@ -273,6 +273,7 @@ beeing
 beforepluginsetup
 beforeremove
 behaverc
+behn
 belisarius
 benaadams
 benchfn
@@ -310,6 +311,8 @@ bloburl
 blockblobservice
 blocksize
 blogpost
+bloq
+bloqs
 blowsie
 bluelaguna
 blueviolet
@@ -580,6 +583,7 @@ creatable
 createjs
 creational
 creativecommons
+creq
 cript
 crosshairs
 cryptographically
@@ -2417,6 +2421,7 @@ nisi
 nisl
 niubsta
 nivo
+nixcrpkgs
 njcqy
 nlive
 nmatpt
@@ -4215,6 +4220,7 @@ twoway
 txkey
 txnid
 txninfo
+txns
 txt
 tydel
 tyle
@@ -5118,4 +5124,3 @@ zudochkin
 zygohistomorphic
 zyxwvu
 zzarcon
-bloq
