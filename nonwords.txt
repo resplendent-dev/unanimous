@@ -253,6 +253,7 @@ baddata
 badinc
 bairro
 baldurk
+bangladesh
 barackobama
 barangay
 barangays
@@ -340,6 +341,7 @@ booyah
 boudin
 bouncejs
 bowser
+brainfu
 brickwall
 brigen
 broj
@@ -1198,6 +1200,7 @@ flto
 flvjs
 flyc
 flyout
+flythrough
 fmod
 fname
 fncall
@@ -1689,6 +1692,7 @@ jael
 jamesiry
 jansson
 january
+japh
 jaring
 jaroj
 jasminewd
@@ -2577,6 +2581,7 @@ obsv
 obtener
 obter
 occaecat
+octaglot
 octdigit
 octdigits
 octs
@@ -3054,6 +3059,7 @@ pushstate
 putbody
 putc
 putchar
+puting
 pwdlen
 pweight
 pyassem
@@ -3070,6 +3076,7 @@ pywkm
 qbot
 qcluster
 qinfo
+qlobe
 qmarlats
 qmember
 qsize
@@ -3404,6 +3411,7 @@ sandybrown
 sangelone
 sanitization
 sapiente
+sapin
 sarebbe
 sarl
 sarwasunda
@@ -5187,9 +5195,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-octaglot
-puting
-sapin
-japh
-flythrough
-bangladesh
