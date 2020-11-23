@@ -5195,3 +5195,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+astk
+submsg
+svarint
+syshdr
+defaultp
+logand
