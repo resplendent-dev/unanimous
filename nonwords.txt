@@ -600,6 +600,7 @@ crosshairs
 cryptographically
 cryptosign
 cscale
+cshadow
 cshei
 csjs
 cssanimation
@@ -685,6 +686,7 @@ dbport
 dbssl
 dbusername
 dcodes
+dcompmgr
 dcramer
 ddcb
 ddfb
@@ -948,6 +950,7 @@ dynamicsjs
 dynamiczone
 dyndep
 eacute
+ealloc
 eaparango
 easein
 easings
@@ -4530,6 +4533,8 @@ unqueued
 unrecommended
 unredir
 unredirected
+unredirecting
+unredirects
 unref
 unrefed
 unrefered
@@ -4717,6 +4722,7 @@ vbscript
 vchar
 vclick
 vcpkg
+vdbeblob
 vdecls
 vderyagin
 vdeturckheim
@@ -4924,6 +4930,7 @@ workarea
 workernode
 workshopper
 wouldn
+wqlist
 wrappable
 wraptypes
 wreaddir
@@ -5210,9 +5217,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-dcompmgr
-cshadow
-unredirects
-unredirecting
-ealloc
-wqlist
