@@ -5210,3 +5210,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+dcompmgr
+cshadow
+unredirects
+unredirecting
+ealloc
+wqlist
