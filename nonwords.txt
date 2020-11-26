@@ -5217,3 +5217,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+sampleno
+fromlen
+descs
+confdecl
+rendcache
+yplusx
