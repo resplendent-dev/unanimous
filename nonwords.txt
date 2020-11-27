@@ -5254,3 +5254,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+endfunction
+cmatcher
+clearline
+pkwrite
+getfilecon
+statfvs
