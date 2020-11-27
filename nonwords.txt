@@ -500,6 +500,7 @@ classpartial
 clazz
 clckru
 cleansweep
+clearline
 clen
 clenemt
 clength
@@ -510,6 +511,7 @@ clonado
 clonando
 clong
 cloudstorageaccount
+cmatcher
 cmdclass
 cmetrohash
 cmov
@@ -1021,6 +1023,7 @@ endcomment
 endcompress
 enddocregion
 endfor
+endfunction
 endianness
 endif
 endiffeature
@@ -1339,6 +1342,7 @@ geraldoramos
 getaddrinfo
 getattr
 getcwd
+getfilecon
 getfirebug
 gethostbyname
 gethrtime
@@ -2118,7 +2122,6 @@ mediumpurple
 mediumslateblue
 mediumspringgreen
 mediumturquoise
-meer
 megastring
 meisthai
 melakarta
@@ -2872,6 +2875,7 @@ pixelsin
 pixmap
 pixz
 pkgsrc
+pkwrite
 pkzip
 placeful
 placeless
@@ -3455,7 +3459,6 @@ saquit
 sarebbe
 sarl
 sarwasunda
-sati
 saturday
 sayfas
 sbrk
@@ -3716,6 +3719,7 @@ sourcecode
 sourcelink
 spaceless
 spacerun
+sparclite
 sparkline
 sparsification
 sparsify
@@ -3769,6 +3773,7 @@ startposition
 startswith
 startupreadings
 statcache
+statfvs
 staticsitegenerators
 statty
 stayinghomeclub
@@ -5254,9 +5259,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-endfunction
-cmatcher
-clearline
-pkwrite
-getfilecon
-statfvs
