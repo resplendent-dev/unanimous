@@ -442,6 +442,7 @@ cens
 cexception
 cflags
 cfree
+chantypes
 chaplin
 chardata
 chardetect
@@ -837,6 +838,7 @@ devicemotion
 deviceobj
 deviceobject
 deviceready
+devoice
 devuelve
 dfae
 dharmeshkakadia
@@ -1552,6 +1554,7 @@ imitatio
 immed
 immer
 immstruct
+imnpstaqr
 impactful
 imparsible
 implementers
@@ -1639,6 +1642,7 @@ inuit
 invadido
 invalidations
 invertible
+invitemask
 invocant
 invoiceitems
 iobind
@@ -2449,6 +2453,7 @@ newforms
 newlang
 newmexico
 newname
+newnick
 newpgno
 newphdr
 newplaceid
@@ -3214,6 +3219,7 @@ redeclared
 redeclares
 redecls
 rediff
+redir
 redispapa
 redisplay
 rediss
@@ -3428,6 +3434,7 @@ sangelone
 sanitization
 sapiente
 sapin
+saquit
 sarebbe
 sarl
 sarwasunda
@@ -4856,6 +4863,7 @@ warry
 wasn
 watcha
 watsons
+wattr
 wavded
 wayland
 waylandvk
@@ -5221,9 +5229,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-chantypes
-redir
-newnick
-imnpstaqr
-wattr
-saquit
