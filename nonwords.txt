@@ -5221,3 +5221,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+chantypes
+redir
+newnick
+imnpstaqr
+wattr
+saquit
