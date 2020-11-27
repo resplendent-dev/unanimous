@@ -1391,6 +1391,7 @@ grabaperch
 gragland
 graticule
 gravida
+graygilmore
 greenlets
 greenthreads
 greymap
@@ -1468,6 +1469,7 @@ hideinitializer
 hidesets
 hienvd
 hightables
+hiroshima
 historymanagement
 hitcounts
 hl
@@ -1983,6 +1985,8 @@ logicalparadox
 logloads
 longdouble
 longind
+longjmping
+longjmps
 longopts
 longpress
 longtext
@@ -2605,6 +2609,7 @@ octdigit
 octdigits
 octs
 octubre
+odels
 odff
 oembetter
 offdnd
@@ -2693,6 +2698,7 @@ ornare
 osdlevel
 osnovnih
 osodog
+osts
 otaviosoares
 otherhost
 ourself
@@ -2856,6 +2862,7 @@ pinst
 pixelsin
 pixmap
 pixz
+pkgsrc
 pkzip
 placeful
 placeless
@@ -3043,6 +3050,7 @@ promisifies
 promisifying
 promjena
 propertychange
+propfun
 proration
 prostomarkeloff
 protips
@@ -3870,6 +3878,7 @@ subexpressions
 subfields
 subfile
 subfolder
+subfunction
 subheader
 subhtml
 subitem
@@ -4288,6 +4297,7 @@ tsadi
 tsparticles
 tsquery
 tty
+ttyout
 ttype
 tulevaisuudessa
 tunnin
@@ -5229,9 +5239,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-ttyout
-propfun
-odels
-longjmps
-longjmping
-subfunction
