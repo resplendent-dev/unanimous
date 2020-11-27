@@ -5229,3 +5229,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+ttyout
+propfun
+odels
+longjmps
+longjmping
+subfunction
