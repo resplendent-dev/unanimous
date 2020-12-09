@@ -1,6 +1,3 @@
-<<<<<<< head
-=======
->>>>>>> 0dab8f8d1039ece46e3d5118309c20b5c73391ac
 aabb
 aabbbccccddddd
 aaronjensen
