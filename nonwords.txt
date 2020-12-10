@@ -5261,3 +5261,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+dirtyc
+dirtycow
+sdcard
+readproc
+madvise
+dcow
