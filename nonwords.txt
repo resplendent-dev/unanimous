@@ -693,6 +693,7 @@ dbssl
 dbusername
 dcodes
 dcompmgr
+dcow
 dcramer
 ddcb
 ddfb
@@ -861,6 +862,8 @@ dinoenv
 directionality
 dirname
 dirruns
+dirtyc
+dirtycow
 disableddisabled
 disambiguator
 disambiguators
@@ -2042,6 +2045,7 @@ macr
 macrolang
 macroman
 macromedia
+madvise
 magnam
 magnific
 magnifyby
@@ -3191,6 +3195,7 @@ readahead
 readd
 readdir
 readeral
+readproc
 reakit
 realityking
 realloc
@@ -3493,6 +3498,7 @@ scrollreveal
 scrollspy
 scrollstart
 scrollstop
+sdcard
 sdispater
 sdkddkver
 sdsalloc
@@ -5261,9 +5267,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-dirtyc
-dirtycow
-sdcard
-readproc
-madvise
-dcow
