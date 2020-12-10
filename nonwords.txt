@@ -5259,3 +5259,9 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
+ffree
+chmodable
+finsh
+ubstitute
+metatable
+unixlike
