@@ -277,7 +277,6 @@ bbjay
 bcde
 bchanx
 bdate
-bday
 beeing
 beforepluginsetup
 beforeremove
@@ -375,7 +374,6 @@ builtinclass
 bulan
 burgerservicenummer
 burlywood
-busybox
 buuuunch
 bwith
 bxslider
@@ -474,6 +472,7 @@ chilpit
 ching
 chjj
 chmap
+chmodable
 choroplet
 chrishumboldt
 chrissrogers
@@ -1156,8 +1155,8 @@ fesnt
 fevereiro
 ffdab
 fffaraz
-ffff
 ffitest
+ffree
 fftpack
 fget
 fgnass
@@ -1188,6 +1187,7 @@ findall
 findone
 fini
 finibus
+finsh
 firedux
 firma
 firstparty
@@ -2162,6 +2162,7 @@ metanav
 metapage
 metaprogramming
 metasearch
+metatable
 metavideogame
 metroui
 metus
@@ -4095,7 +4096,6 @@ templatefiles
 templateset
 templatized
 tempograms
-tempor
 tenje
 tenjem
 tensorflows
@@ -4352,6 +4352,7 @@ typings
 typoes
 tzcnt
 uage
+ubstitute
 uchardet
 uclibc
 ucyk
@@ -4512,6 +4513,7 @@ uniquifies
 unistd
 unitless
 univocal
+unixlike
 unkeyed
 unlimit
 unlink
@@ -5259,9 +5261,3 @@ zuse
 zygohistomorphic
 zyxwvu
 zzarcon
-ffree
-chmodable
-finsh
-ubstitute
-metatable
-unixlike
