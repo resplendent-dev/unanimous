@@ -1,18 +1,13 @@
-<<<<<<< head
-=======
->>>>>>> 0dab8f8d1039ece46e3d5118309c20b5c73391ac
 aabb
 aabbbccccddddd
 aaronjensen
 abamp
 abarnert
-abbrs
 abby
 abc
 abcbotoresource
 abcdef
 abookapart
-acceptor
 accesskey
 accesssecret
 accum
@@ -98,7 +93,6 @@ andlabs
 andouille
 andreyvps
 anentropic
-anim
 animatable
 anims
 annyang
@@ -277,7 +271,6 @@ bbjay
 bcde
 bchanx
 bdate
-bday
 beeing
 beforepluginsetup
 beforeremove
@@ -289,7 +282,6 @@ benchfn
 benchmarked
 benjaminbrandt
 benpickles
-bergen
 bevacqua
 bfnrt
 bfrange
@@ -375,7 +367,6 @@ builtinclass
 bulan
 burgerservicenummer
 burlywood
-busybox
 buuuunch
 bwith
 bxslider
@@ -457,6 +448,7 @@ chartapp
 chartbeat
 chartist
 charwidth
+checkable
 checkboxes
 checkboxselectmultiple
 checkconfig
@@ -684,6 +676,7 @@ dbef
 dbforce
 dbgprintf
 dbhost
+dblclick
 dbmail
 dbmetadata
 dbname
@@ -721,7 +714,6 @@ deburred
 decapitalize
 decapitalized
 decapsulate
-december
 decibans
 decisional
 decl
@@ -860,9 +852,12 @@ dimensionally
 dinatra
 dinoenv
 directionality
+dirhtml
 dirname
 dirruns
+dirxml
 disableddisabled
+disabledness
 disambiguator
 disambiguators
 disassembler
@@ -966,6 +961,7 @@ easings
 easting
 easytmdb
 ebertti
+ecma
 ecmascript
 ecmult
 ecstask
@@ -1156,7 +1152,6 @@ fesnt
 fevereiro
 ffdab
 fffaraz
-ffff
 ffitest
 fftpack
 fget
@@ -1485,6 +1480,7 @@ hitcounts
 hl
 hljs
 hljslicense
+hlwords
 hodina
 hogger
 hoje
@@ -1511,7 +1507,6 @@ htmlfile
 htmlregion
 htole
 htree
-httperf
 httpexceptions
 httprettized
 huffandpuff
@@ -1649,7 +1644,6 @@ interupts
 introjs
 introspectables
 intrus
-ints
 inuit
 invadido
 invalidations
@@ -1799,12 +1793,12 @@ kennethreitz
 kent
 kentaromiura
 kerned
-kerning
 keskiviikkona
 kevgathuku
 keycodes
 keydown
 keyevent
+keyevents
 keyframes
 keyid
 keylen
@@ -1823,6 +1817,7 @@ klamalar
 klayarak
 klmn
 kloniranjem
+kludgy
 klukkustund
 kobzol
 kolekciju
@@ -1869,6 +1864,7 @@ langthaimodel
 lant
 largelist
 lasterror
+lastresults
 latedef
 latencies
 latinise
@@ -2093,6 +2089,7 @@ maur
 mauris
 maxcomplexity
 maxdepth
+maxerr
 maxfps
 maxlen
 maxmemory
@@ -2176,7 +2173,6 @@ microbenchmarks
 microbundle
 microcontroller
 microframeworks
-microlib
 microlibraries
 microtask
 microtasks
@@ -2542,6 +2538,7 @@ nonintegral
 noninteractive
 nonlinearity
 nonlocal
+nonnegative
 nonpositive
 nonprefixed
 nonprintable
@@ -3072,7 +3069,6 @@ protodevel
 prototypal
 prototyped
 prototypically
-proxied
 proxying
 prtgadmin
 prtgapi
@@ -3114,7 +3110,6 @@ pythonhosted
 pythonidae
 pywkm
 qbot
-qcluster
 qinfo
 qlobe
 qmarlats
@@ -3274,8 +3269,10 @@ reimplementation
 reindexed
 reinitializing
 reinject
+reinvoked
 rekeying
 relayout
+relayouts
 relctx
 relicensing
 relocs
@@ -3335,7 +3332,6 @@ resguar
 resharding
 resizable
 resnode
-resolvers
 resourceattributenotfounderror
 respace
 responders
@@ -3431,7 +3427,6 @@ runclosure
 rundelay
 runshell
 runtimes
-russia
 rvagg
 rwaldron
 rwev
@@ -3442,7 +3437,6 @@ ryoryomaru
 saddlebrown
 sadielbartholomew
 safestring
-sagitta
 sagittis
 salla
 saltlen
@@ -3501,6 +3495,8 @@ seagreen
 searchability
 searchableselect
 searchbox
+searchterms
+searchtools
 seconden
 secondes
 sectionauthor
@@ -3592,6 +3588,7 @@ shived
 shiving
 shortcutted
 shorthands
+shortkey
 shortopts
 shouldn
 showbrowser
@@ -3658,7 +3655,6 @@ slategray
 slategrey
 slebedev
 slenska
-sliceable
 slidechanged
 slidee
 slideractive
@@ -4095,7 +4091,6 @@ templatefiles
 templateset
 templatized
 tempograms
-tempor
 tenje
 tenjem
 tensorflows
@@ -4134,7 +4129,6 @@ thaat
 thatguy
 thats
 theacodes
-thead
 thebennybox
 theghostbel
 themeable
@@ -4312,7 +4306,6 @@ tryexcept
 tryinclude
 tsadi
 tsparticles
-tsquery
 tty
 ttyout
 ttype
@@ -4622,6 +4615,7 @@ unstaged
 unstandardized
 unstar
 unstash
+unstemmed
 unstick
 unstyle
 unstyled
