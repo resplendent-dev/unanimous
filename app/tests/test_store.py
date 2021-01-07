@@ -295,3 +295,17 @@ def test_get_config_dir_no_home(mockhome):
     result = get_config_dir()
     # Verify
     assert result is not None  # noqa # nosec
+
+
+@mock.patch("unanimous.store.get_cached_sha")
+def test_not_cached(mockget):
+    """
+    GIVEN an uncached sha WHEN calling `check_upstream_zip_hash` THEN the result
+    should be False indicating not cached.
+    """
+    # Setup
+    mockget.return_value = None
+    # Exercise
+    result = check_upstream_zip_hash()
+    # Verify
+    assert result is False  # noqa # nosec
