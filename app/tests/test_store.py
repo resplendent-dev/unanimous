@@ -300,7 +300,7 @@ def test_get_config_dir_no_home(mockhome):
 @mock.patch("unanimous.store.get_cached_sha")
 def test_not_cached(mockget):
     """
-    GIVEN an uncached sha WHEN calling `check_upstream_zip_hash` THEN the result
+    GIVEN an empty cache WHEN calling `check_upstream_zip_hash` THEN the result
     should be False indicating not cached.
     """
     # Setup
@@ -309,3 +309,18 @@ def test_not_cached(mockget):
     result = check_upstream_zip_hash()
     # Verify
     assert result is False  # noqa # nosec
+
+
+@mock.patch("unanimous.store.get_cached_words")
+@mock.patch("unanimous.store.update_cached_nonwords")
+def test_get_current_updates(mockup, mockget):
+    """
+    GIVEN an empty cache WHEN calling `get_cached_words` THEN the
+    `update_cached_nonwords` is called.
+    """
+    # Setup
+    mockget.return_value = False
+    # Exercise
+    get_current_non_words()
+    # Verify
+    assert mockup.called_once()  # noqa # nosec
