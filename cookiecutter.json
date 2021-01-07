@@ -47,5 +47,7 @@
     "package_data": "",
     "test_requires": "spellingtest\nrequests-mock",
     "extra_manifest": "",
-    "latest_python": "3.8"
+    "latest_python": "3.9",
+    "supported_python": "\"3.9\" \"3.8\" \"3.7\" \"3.6\"",
+    "extra_installs": ""
 }
