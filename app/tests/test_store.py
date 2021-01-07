@@ -281,3 +281,17 @@ def test_force_get_cached_words(requests_mock):
     assert isinstance(result, dict)  # nosec # noqa=S101
     # Tear down
     setup_cache(requests_mock)
+
+
+@mock.patch("pathlib.Path.home")
+def test_get_config_dir_no_home(mockhome):
+    """
+    GIVEN an older python without home method WHEN calling `get_config_dir` THEN
+    the result should be provided.
+    """
+    # Setup
+    mockhome.side_effect = AttributeError("no home")
+    # Exercise
+    result = get_config_dir()
+    # Verify
+    assert result is not None  # noqa # nosec
