@@ -13,7 +13,17 @@ apk add --no-cache \
     git \
     libxslt-dev \
     libffi-dev \
+    curl \
     openssl-dev 
+
+RUSTUP_HOME=/rust
+export RUSTUP_HOME
+CARGO_HOME=/cargo 
+export CARGO_HOME
+PATH=/cargo/bin:/rust/bin:$PATH
+export PATH
+curl https://sh.rustup.rs -sSf | sh -s -- -y --default-toolchain nightly --no-modify-path
+rustup default nightly
 
 cd "${BASEDIR}/pip/${PYVER}"
 for reqfile in */requirements.txt ; do
