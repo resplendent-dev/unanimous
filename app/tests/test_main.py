@@ -46,6 +46,7 @@ def test_main(args, expected):
         result = runner.invoke(main, args)
         # Verify
         new_words = load_master_zip()
+    assert not result.exception  # nosec # noqa=S101
     assert result.exit_code == expected  # nosec # noqa=S101
     assert len(original_words - new_words) == 0  # nosec # noqa=S101
     # Allow for up to 5 new packages to appear
