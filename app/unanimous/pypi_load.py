@@ -2,9 +2,11 @@
 Load the list of packages from `PyPi`.
 """
 
+import backoff
 from defusedxml.xmlrpc import monkey_patch, unmonkey_patch, xmlrpc_client
 
 
+@backoff.on_exception(backoff.expo, xmlrpc_client.Fault)
 def get_package_list():
     """
     Load the list of packages from `PyPi`.

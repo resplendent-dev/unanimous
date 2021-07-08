@@ -3,8 +3,11 @@ version: '3.7'
 services:
   # Service image
   app:
-    image: unanimous:latest
-    build: app
+    image: unanimous:${PYVER}
+    build:
+      context: ./app
+      args:
+        - PYVER=${PYVER}
     environment:
       - HAS_JOSH_K_SEAL_OF_APPROVAL
       - CI

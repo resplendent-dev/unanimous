@@ -43,9 +43,10 @@ def test_main(args, expected):
         print("unanimous", file=fobj)
     with mock.patch("unanimous.__main__.get_project_path", return_value=tmppath):
         # Exercise
-        result = runner.invoke(main, args)
+        result = runner.invoke(main, args, catch_exceptions=False)
         # Verify
         new_words = load_master_zip()
+    assert not result.exception  # nosec # noqa=S101
     assert result.exit_code == expected  # nosec # noqa=S101
     assert len(original_words - new_words) == 0  # nosec # noqa=S101
     # Allow for up to 5 new packages to appear
