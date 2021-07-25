@@ -58,11 +58,9 @@ aleskarovadi
 alexanderdickson
 alexblackie
 algorithmically
-aliceblue
 aliqua
 aliquam
 aliquip
-alist
 ality
 allas
 allauthdemo
@@ -104,7 +102,6 @@ antimeridian
 antiquewhite
 antiring
 antiword
-anys
 apeitems
 apierrors
 apimanager
@@ -287,6 +284,7 @@ bijective
 binarized
 bindable
 bindify
+bindless
 binn
 biste
 bitdepth
@@ -453,6 +451,7 @@ chilpit
 ching
 chjj
 chmap
+chmodable
 choroplet
 chrishumboldt
 chrissrogers
@@ -577,7 +576,6 @@ createjs
 creational
 creativecommons
 creq
-cript
 crosshairs
 cryptographically
 cryptosign
@@ -670,6 +668,7 @@ dbssl
 dbusername
 dcodes
 dcompmgr
+dcow
 dcramer
 ddcb
 ddfb
@@ -838,6 +837,8 @@ directionality
 dirhtml
 dirname
 dirruns
+dirtyc
+dirtycow
 dirxml
 disableddisabled
 disabledness
@@ -1135,6 +1136,7 @@ fevereiro
 ffdab
 fffaraz
 ffitest
+ffree
 fftpack
 fget
 fgnass
@@ -1156,6 +1158,7 @@ filesave
 fileservice
 filetuple
 filevars
+fillable
 filteredimage
 filterings
 finalizer
@@ -1164,6 +1167,7 @@ findall
 findone
 fini
 finibus
+finsh
 firedux
 firma
 firstparty
@@ -1841,6 +1845,7 @@ latinized
 latt
 laxbreak
 layerremove
+layouting
 layzr
 lazybird
 lazyweb
@@ -1992,6 +1997,7 @@ lundo
 lunes
 lvdalens
 lwan
+lwebview
 lxxxvi
 lynis
 maanantaina
@@ -2002,6 +2008,7 @@ macr
 macrolang
 macroman
 macromedia
+madvise
 magnam
 magnific
 magnifyby
@@ -2013,7 +2020,6 @@ mainpage
 maint
 maintainership
 maio
-mais
 makemigrations
 makoemail
 maksugr
@@ -2121,7 +2127,6 @@ metafield
 metanav
 metapage
 metaprogramming
-metasearch
 metavideogame
 metroui
 metus
@@ -2347,6 +2352,7 @@ mutexname
 mutexref
 muxed
 mwidth
+mwindows
 mxml
 myaction
 myblogsite
@@ -2413,7 +2419,6 @@ neighbo
 neke
 neque
 ness
-nessie
 netbsd
 netrefs
 neuroscience
@@ -2425,7 +2430,6 @@ newfd
 newforms
 newlang
 newmexico
-newname
 newnick
 newpgno
 newphdr
@@ -3022,6 +3026,7 @@ promisifying
 promjena
 propertychange
 propfun
+propget
 proration
 prostomarkeloff
 protips
@@ -3144,6 +3149,7 @@ readahead
 readd
 readdir
 readeral
+readproc
 reakit
 realityking
 realloc
@@ -3438,6 +3444,7 @@ scrollreveal
 scrollspy
 scrollstart
 scrollstop
+sdcard
 sdispater
 sdkddkver
 sdsalloc
@@ -3579,7 +3586,6 @@ sistemine
 sitekey
 sitewide
 sitten
-situ
 sizeclass
 sizedimage
 sizeorder
@@ -4277,6 +4283,7 @@ typings
 typoes
 tzcnt
 uage
+ubstitute
 uchardet
 uclibc
 ucyk
@@ -4434,6 +4441,7 @@ uniquifies
 unistd
 unitless
 univocal
+unixlike
 unkeyed
 unlimit
 unlinked
@@ -4674,7 +4682,6 @@ varargs
 varargslist
 vared
 variadargs
-varius
 varnames
 vastatrices
 vavpp
@@ -4729,7 +4736,6 @@ videoblog
 videogame
 videogames
 videoid
-videostream
 viernes
 viewcode
 viewitems
@@ -4858,6 +4864,7 @@ wilto
 winamp
 windir
 windowsconsoleio
+windowsgui
 windowsize
 windoze
 winget
