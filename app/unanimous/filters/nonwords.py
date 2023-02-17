@@ -24,8 +24,7 @@ class NonWordFilter(filters.Filter):
             ):
                 self.non_words.update(get_custom_wordlist(match))
 
-    @staticmethod
-    def get_default_config():
+    def get_default_config(self):
         """Get default configuration."""
         return {
             "too_short": 3,
