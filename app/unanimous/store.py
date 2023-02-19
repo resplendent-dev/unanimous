@@ -103,9 +103,8 @@ def check_upstream_zip_hash(basepath=None):
         logging.exception("Unable to check non-word cache at this time.")
         # Can not be reached - assume not updated
         return False
-    else:
-        current_sha = response.text.strip().split(" ", 1)[0]
-        return cache_sha == current_sha
+    current_sha = response.text.strip().split(" ", 1)[0]
+    return cache_sha == current_sha
 
 
 def get_current_non_words(basepath=None):
@@ -132,9 +131,8 @@ def update_cached_nonwords(basepath=None):
     except OSError:
         logging.exception("Unable to update non-word cache at this time.")
         return force_get_cached_words(basepath=basepath, deflt=set())
-    else:
-        content = response.content
-        return update_cache_with_data(content, basepath=basepath)
+    content = response.content
+    return update_cache_with_data(content, basepath=basepath)
 
 
 def update_cache_with_data(bytedata, basepath=None):
