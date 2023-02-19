@@ -12,5 +12,4 @@ cd "${BASEDIR}/app"
 rm -rf dist build
 "python${PYVER}" setup.py sdist bdist_wheel
 "python${PYVER}" -m twine check dist/*
-"python${PYVER}" -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 "python${PYVER}" -m twine upload dist/*
