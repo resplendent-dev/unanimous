@@ -4,4 +4,3 @@ requests
 click
 defusedxml
 backoff
-sqlalchemy>=2.0.4
