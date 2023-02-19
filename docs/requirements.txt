@@ -1,5 +1,5 @@
 pyspelling
-dataset<1.2.0
+dataset
 requests
 click
 defusedxml
