@@ -33,4 +33,4 @@ fi
 done
 # Display installation
 "python${PYVER}" -m pip freeze
-"python${PYVER}" -m safety check
+"python${PYVER}" -m safety check -i 51668
