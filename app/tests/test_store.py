@@ -323,4 +323,4 @@ def test_get_current_updates(mockup, mockget):
     # Exercise
     get_current_non_words()
     # Verify
-    assert mockup.called_once()  # noqa # nosec
+    mockup.assert_called_once()
