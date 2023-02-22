@@ -43,7 +43,7 @@ def get_storage_table(basepath=None):
     Connect to cache db
     """
     path = get_config_dir(basepath=basepath)
-    con = dataset.connect(f"sqlite:///{path}/cache.db"))
+    con = dataset.connect(f"sqlite:///{path}/cache.db")
     table = con["storage"]
     if not MemoryCache.prepared:
         prepare_table(con, table)
@@ -161,6 +161,14 @@ def get_cached_words(basepath=None):
     timestamp = load_key("timestamp", basepath=basepath)
     if not timestamp:
         return None
+    return cache_check_get_words(basepath, timestamp)
+
+
+def cache_check_get_words(basepath, timestamp):
+    """
+    Given the provided last cache time check if the cache needs a refresh and
+    return the list of words.
+    """
     cache_time = datetime.datetime.strptime(timestamp, "%Y%m%d%H%M%S")
     if cache_time + datetime.timedelta(days=1) < datetime.datetime.now():
         # Is cache hash still okay anyway?
