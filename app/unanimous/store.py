@@ -43,7 +43,7 @@ def get_storage_table(basepath=None):
     Connect to cache db
     """
     path = get_config_dir(basepath=basepath)
-    con = dataset.connect("sqlite:///%s" % (path / "cache.db"))
+    con = dataset.connect(f"sqlite:///{path}/cache.db"))
     table = con["storage"]
     if not MemoryCache.prepared:
         prepare_table(con, table)
