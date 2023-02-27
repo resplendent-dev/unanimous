@@ -43,7 +43,7 @@ def get_storage_table(basepath=None):
     Connect to cache db
     """
     path = get_config_dir(basepath=basepath)
-    con = dataset.connect("sqlite:///%s" % (path / "cache.db"))
+    con = dataset.connect(f"sqlite:///{path}/cache.db")
     table = con["storage"]
     if not MemoryCache.prepared:
         prepare_table(con, table)
@@ -103,9 +103,8 @@ def check_upstream_zip_hash(basepath=None):
         logging.exception("Unable to check non-word cache at this time.")
         # Can not be reached - assume not updated
         return False
-    else:
-        current_sha = response.text.strip().split(" ", 1)[0]
-        return cache_sha == current_sha
+    current_sha = response.text.strip().split(" ", 1)[0]
+    return cache_sha == current_sha
 
 
 def get_current_non_words(basepath=None):
@@ -132,9 +131,8 @@ def update_cached_nonwords(basepath=None):
     except OSError:
         logging.exception("Unable to update non-word cache at this time.")
         return force_get_cached_words(basepath=basepath, deflt=set())
-    else:
-        content = response.content
-        return update_cache_with_data(content, basepath=basepath)
+    content = response.content
+    return update_cache_with_data(content, basepath=basepath)
 
 
 def update_cache_with_data(bytedata, basepath=None):
@@ -163,6 +161,14 @@ def get_cached_words(basepath=None):
     timestamp = load_key("timestamp", basepath=basepath)
     if not timestamp:
         return None
+    return cache_check_get_words(basepath, timestamp)
+
+
+def cache_check_get_words(basepath, timestamp):
+    """
+    Given the provided last cache time check if the cache needs a refresh and
+    return the list of words.
+    """
     cache_time = datetime.datetime.strptime(timestamp, "%Y%m%d%H%M%S")
     if cache_time + datetime.timedelta(days=1) < datetime.datetime.now():
         # Is cache hash still okay anyway?
