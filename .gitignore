@@ -116,3 +116,4 @@ cov.xml
 # Vim
 *.swp
 *.swo
+.unanimous
