@@ -13,3 +13,4 @@ twine
 wheel
 spellingtest
 requests-mock
+setuptools>65.5.1
