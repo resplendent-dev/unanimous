@@ -1,6 +1,7 @@
 pyspelling
-dataset<1.2.0
+dataset
 requests
 click
 defusedxml
 backoff
+setuptools>65.5.1

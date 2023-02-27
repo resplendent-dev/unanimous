@@ -116,4 +116,6 @@ cov.xml
 # Vim
 *.swp
 *.swo
+
+# storage
 .unanimous
