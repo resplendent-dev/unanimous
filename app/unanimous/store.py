@@ -10,7 +10,6 @@ import os
 import pathlib
 import zipfile
 
-import dataset
 import requests
 
 
@@ -42,6 +41,9 @@ def get_storage_table(basepath=None):
     """
     Connect to cache db
     """
+    # pylint: disable=import-outside-toplevel
+    import dataset
+
     path = get_config_dir(basepath=basepath)
     con = dataset.connect(f"sqlite:///{path}/cache.db")
     table = con["storage"]
