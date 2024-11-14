@@ -19,6 +19,7 @@ def is_nonword(
     too_short_check=3,
     exclude_apostrophe=True,
     extra_non_words=None,
+    use_store=True,
 ):
     """
     Utility call to check a word is a non-word
@@ -31,7 +32,7 @@ def is_nonword(
     if too_short_result:
         return True
     lword = word.lower()
-    if not NonWords.non_words:
+    if not NonWords.non_words and use_store:
         NonWords.non_words = set(get_current_non_words())
     non_word_check = lword in NonWords.non_words
     if non_word_check:
