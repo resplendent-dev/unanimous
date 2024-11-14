@@ -31,6 +31,7 @@ class NonWordFilter(filters.Filter):
             "wordlists": [],
             "lowercase_only": True,
             "exclude_apostrophe": True,
+            "use_store": True,
         }
 
     def filter(self, source_file, encoding):  # noqa A001
@@ -51,6 +52,7 @@ class NonWordFilter(filters.Filter):
             too_short_check=self.config["too_short"],
             exclude_apostrophe=self.config["exclude_apostrophe"],
             extra_non_words=self.non_words,
+            use_store=self.config["use_store"],
         )
 
     def _filter(self, text):
